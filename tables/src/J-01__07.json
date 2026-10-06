@@ -1,0 +1,684 @@
+{
+ "tables": [
+  {
+   "units": "yen",
+   "period": "October 1945",
+   "source_note": "Metropolitan Police Board, October 1945.",
+   "footnotes": [],
+   "unreadable": [],
+   "warnings": [
+    "Overcoat for winter percentage printed as 88.9 although 160.00 vs 18.00 implies about 788.9; transcribed as printed.",
+    "Some other printed percentages do not recompute exactly from the prices (e.g. sugar, cut tobacco); transcribed as printed."
+   ],
+   "totals_check": "No total printed; the final row is a printed median. Median of the 45 listed percentages is 2,285.7, printed 2,285.7, agrees.",
+   "page": 117,
+   "pages": [
+    117,
+    118
+   ],
+   "title": "Highest black market prices of selected commodities compared with official prices",
+   "header": [
+    [
+     "Commodity",
+     "Unit",
+     "Highest Black Market Price (Yen)",
+     "Official Price (Yen)",
+     "Percentage of Increase"
+    ]
+   ],
+   "rows": [
+    [
+     "Sugar",
+     "1 kan",
+     "1,000.00",
+     "3.75",
+     "26,666.7"
+    ],
+    [
+     "Toilet soap",
+     "1 piece",
+     "20.00",
+     ".10",
+     "20,000.0"
+    ],
+    [
+     "Refined rice",
+     "1 sho",
+     "70.00",
+     ".53",
+     "13,207.5"
+    ],
+    [
+     "Boiled sweet potatoes",
+     "100 momme",
+     "10.00",
+     ".08",
+     "12,500.0"
+    ],
+    [
+     "Millet-jelly",
+     "1 kan",
+     "400.00",
+     "3.40",
+     "11,764.7"
+    ],
+    [
+     "Kneaded rice-ball",
+     "1 ball",
+     "8.00",
+     ".10",
+     "8,000.0"
+    ],
+    [
+     "Cotton socks",
+     "1 pair",
+     "40.00",
+     ".50",
+     "8,000.0"
+    ],
+    [
+     "Rear car tire",
+     "1",
+     "150.00",
+     "20.00",
+     "7,500.0"
+    ],
+    [
+     "Rape seed oil",
+     "1 to",
+     "2,000.00",
+     "26.80",
+     "7,462.7"
+    ],
+    [
+     "Cotton yarn",
+     "1 bundle",
+     "22.00",
+     ".30",
+     "7,333.3"
+    ],
+    [
+     "Raw mackerel",
+     "100 momme",
+     "20.00",
+     ".34",
+     "5,882.4"
+    ],
+    [
+     "Ration bread to RR passengers",
+     "1 loaf",
+     "10.00",
+     ".20",
+     "5,000.0"
+    ],
+    [
+     "Soy",
+     "2 liters",
+     "60.00",
+     "1.32",
+     "4,545.5"
+    ],
+    [
+     "Second grade sake",
+     "shot",
+     "350.00",
+     "8.00",
+     "4,375.0"
+    ],
+    [
+     "Sweet potatoes",
+     "kan",
+     "50.00",
+     "1.20",
+     "4,166.7"
+    ],
+    [
+     "Japanese pipe tobacco",
+     "1 piece",
+     "18.00",
+     ".45",
+     "4,000.0"
+    ],
+    [
+     "Cigarette (Kinshi brand)",
+     "10 pieces",
+     "13.00",
+     ".35",
+     "3,714.3"
+    ],
+    [
+     "Drawers for winter",
+     "suit",
+     "80.00",
+     "2.20",
+     "3,636.4"
+    ],
+    [
+     "Apples",
+     "100 momme",
+     "13.00",
+     ".36",
+     "3,611.1"
+    ],
+    [
+     "Umbrella",
+     "1",
+     "50.00",
+     "1.50",
+     "3,333.3"
+    ],
+    [
+     "Cut Tobacco (Minori brand)",
+     "30 grams",
+     "19.00",
+     ".60",
+     "3,166.9"
+    ],
+    [
+     "Writing pad",
+     "1 pad",
+     "4.00",
+     ".17",
+     "2,352.9"
+    ],
+    [
+     "Charges for shoe repair",
+     "1 pair",
+     "80.00",
+     "3.50",
+     "2,285.7"
+    ],
+    [
+     "Small dried fish",
+     "100 momme",
+     "23.00",
+     "1.13",
+     "2,035.4"
+    ],
+    [
+     "Miso (bean paste)",
+     "kan",
+     "40.00",
+     "2.00",
+     "2,000.0"
+    ],
+    [
+     "Salt",
+     "kan",
+     "40.00",
+     "2.00",
+     "2,000.0"
+    ],
+    [
+     "Electric bulb",
+     "1 (100 watt)",
+     "20.00",
+     "1.18",
+     "1,694.9"
+    ],
+    [
+     "Scrubbing brush",
+     "1",
+     "2.40",
+     ".15",
+     "1,600.0"
+    ],
+    [
+     "Shoe polish",
+     "1",
+     "7.00",
+     ".50",
+     "1,400.0"
+    ],
+    [
+     "Shoes",
+     "pair",
+     "530.00",
+     "42.00",
+     "1,261.9"
+    ],
+    [
+     "Tooth brush",
+     "1",
+     "2.00",
+     ".17",
+     "1,176.5"
+    ],
+    [
+     "Egg",
+     "100 momme",
+     "21.00",
+     "1.82",
+     "1,153.8"
+    ],
+    [
+     "Curry powder",
+     "1 package",
+     "2.00",
+     ".21",
+     "952.4"
+    ],
+    [
+     "Overcoat for winter",
+     "1 suit",
+     "160.00",
+     "18.00",
+     "88.9"
+    ],
+    [
+     "Notebook",
+     "1 copy",
+     "3.00",
+     ".35",
+     "857.1"
+    ],
+    [
+     "Paper for sliding paper door (about 12 feet)",
+     "roll",
+     "16.00",
+     "2.00",
+     "800.0"
+    ],
+    [
+     "Beef",
+     "100 momme",
+     "22.00",
+     "3.00",
+     "733.3"
+    ],
+    [
+     "Beer (bigger bottle)",
+     "1 bottle",
+     "20.00",
+     "2.85",
+     "701.8"
+    ],
+    [
+     "Painted clogs for women",
+     "1 pair",
+     "20.00",
+     "3.00",
+     "666.7"
+    ],
+    [
+     "Tea",
+     "100 momme",
+     "20.00",
+     "3.30",
+     "606.1"
+    ],
+    [
+     "Safety razor",
+     "1",
+     "1.25",
+     ".25",
+     "600.0"
+    ],
+    [
+     "Burdock",
+     "1 kan",
+     "10.00",
+     "1.70",
+     "588.2"
+    ],
+    [
+     "Radish",
+     "1 kan",
+     "3.00",
+     ".60",
+     "500.0"
+    ],
+    [
+     "Glass for watch and clock",
+     "1",
+     "1.50",
+     ".40",
+     "375.0"
+    ],
+    [
+     "Pickled radish",
+     "1 kan",
+     "5.00",
+     "2.00",
+     "250.0"
+    ],
+    [
+     "Average (Median)",
+     "",
+     "",
+     "",
+     "2,285.7"
+    ]
+   ],
+   "ocr_check": "OCR matched the image on every cell.",
+   "notes": "Table runs from p.117 onto p.118; headers repeated on p.118. Final row has blank cells in original."
+  },
+  {
+   "units": "millions of yen",
+   "period": "20 October 1945",
+   "source_note": "",
+   "footnotes": [],
+   "unreadable": [],
+   "warnings": [],
+   "totals_check": "Assets 24,690+540+11,980+14,860+5,840 = 57,910, printed 57,910, agree. Liabilities 42,040+11,260+3,450+950+210 = 57,910, printed 57,910, agree.",
+   "page": 122,
+   "pages": [
+    122
+   ],
+   "title": "Condensed statement of the Bank of Japan as of 20 October 1945",
+   "header": [
+    [
+     "Assets",
+     "Amount",
+     "Liabilities",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Loans",
+     "24,690",
+     "Notes issued",
+     "42,040"
+    ],
+    [
+     "Cash and bullion",
+     "540",
+     "Gov't deposits",
+     "11,260"
+    ],
+    [
+     "Gov't bonds and other securities",
+     "11,980",
+     "Other deposits",
+     "3,450"
+    ],
+    [
+     "Agency accounts",
+     "14,860",
+     "Miscellaneous assets",
+     "950"
+    ],
+    [
+     "Miscellaneous accounts",
+     "5,840",
+     "Capital and reserves",
+     "210"
+    ],
+    [
+     "Total",
+     "57,910",
+     "",
+     "57,910"
+    ]
+   ],
+   "ocr_check": "OCR matched.",
+   "notes": "Blank cell in Total row is blank in original."
+  },
+  {
+   "units": "millions of yen",
+   "period": "31 May 1945",
+   "source_note": "",
+   "footnotes": [],
+   "unreadable": [],
+   "warnings": [],
+   "totals_check": "Row sums of the three bank columns vs printed Total: deposits 94,415 = 94,415; loans 66,299 = 66,299; bonds 38,800 = 38,800; other securities 9,281 = 9,281; cash 6,160 = 6,160. All agree.",
+   "page": 122,
+   "pages": [
+    122
+   ],
+   "title": "Private banking institutions: deposits and assets, 31 May 1945",
+   "header": [
+    [
+     "",
+     "Special Banks",
+     "Ordinary Banks",
+     "Savings Banks",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Total deposits",
+     "8,679",
+     "76,534",
+     "9,202",
+     "94,415"
+    ],
+    [
+     "Loans and discounts",
+     "19,820",
+     "45,785",
+     "694",
+     "66,299"
+    ],
+    [
+     "Government bonds",
+     "3,524",
+     "28,514",
+     "6,762",
+     "38,800"
+    ],
+    [
+     "Other securities",
+     "698",
+     "7,475",
+     "1,108",
+     "9,281"
+    ],
+    [
+     "Cash",
+     "580",
+     "5,076",
+     "504",
+     "6,160"
+    ]
+   ],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "units": "yen",
+   "period": "31 May 1945",
+   "source_note": "",
+   "footnotes": [
+    "a/ As of 31 December 1944."
+   ],
+   "unreadable": [],
+   "warnings": [],
+   "totals_check": "No total printed.",
+   "page": 123,
+   "pages": [
+    123
+   ],
+   "title": "[Savings type deposits by institution, 31 May 1945]",
+   "header": [
+    [
+     "Institution",
+     "Deposits"
+    ]
+   ],
+   "rows": [
+    [
+     "Deposit Funds Management Bureau",
+     "¥ 33,895,000,000"
+    ],
+    [
+     "Ordinary banks",
+     "32,627,000,000"
+    ],
+    [
+     "Credit cooperatives",
+     "12,908,000,000"
+    ],
+    [
+     "Savings banks",
+     "9,202,000,000 a/"
+    ]
+   ],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "units": "thousands of yen",
+   "period": "1 April 1945 to 31 March 1946",
+   "source_note": "",
+   "footnotes": [
+    "a/ Actual total is ¥ 11,670,211,000 but ¥ 10,113,583,000 represents transfers from General and Special Accounts."
+   ],
+   "unreadable": [],
+   "warnings": [],
+   "totals_check": "General Account items sum to 28,951,027, printed 28,951,027, agree. Special War items sum to 74,886,415, printed 74,886,415, agree. 28,951,027+74,886,415 = 103,837,442, printed total revenues, agree.",
+   "page": 127,
+   "pages": [
+    127
+   ],
+   "title": "Japanese budget, 1 April 1945 to 31 March 1946: revenue",
+   "header": [
+    [
+     "Item",
+     "Revenue"
+    ]
+   ],
+   "rows": [
+    [
+     "General Account",
+     ""
+    ],
+    [
+     "Tax",
+     "13,661,443"
+    ],
+    [
+     "Stamp duties",
+     "279,889"
+    ],
+    [
+     "Profit of monopoly",
+     "2,118,021"
+    ],
+    [
+     "Miscellaneous",
+     "1,569,892"
+    ],
+    [
+     "Receipts from loans",
+     "11,321,782"
+    ],
+    [
+     "  Total General Account",
+     "28,951,027"
+    ],
+    [
+     "Special War Expenditure Account",
+     ""
+    ],
+    [
+     "Receipts from public loans",
+     "35,298,577"
+    ],
+    [
+     "Receipts from special accounts (net) a/",
+     "1,556,628"
+    ],
+    [
+     "Other ordinary receipts",
+     "7,894,747"
+    ],
+    [
+     "Advances by banks",
+     "30,136,463"
+    ],
+    [
+     "  Total War Expenditure Account",
+     "74,886,415"
+    ],
+    [
+     "  Total revenues",
+     "103,837,442"
+    ]
+   ],
+   "ocr_check": "OCR matched.",
+   "notes": "Blank cells in section-heading rows are blank in original."
+  },
+  {
+   "units": "thousands of yen",
+   "period": "1 April 1945 to 31 March 1946",
+   "source_note": "",
+   "footnotes": [
+    "a/ Detailed figures for this account are being secured. Actual total for this account is ¥ 85,000,000,000 but ¥ 10,113,583,000 represents transfers from General and Special Accounts."
+   ],
+   "unreadable": [],
+   "warnings": [],
+   "totals_check": "The twelve General Account items sum to 28,951,027; plus 74,886,415 = 103,837,442, printed total expenditures, agree.",
+   "page": 127,
+   "pages": [
+    127
+   ],
+   "title": "Japanese budget, 1 April 1945 to 31 March 1946: expenditure",
+   "header": [
+    [
+     "General Account",
+     "Expenditure"
+    ]
+   ],
+   "rows": [
+    [
+     "Imperial Household",
+     "4,500"
+    ],
+    [
+     "Foreign Affairs (including Greater East Asia)",
+     "653,594"
+    ],
+    [
+     "Home Affairs",
+     "1,950,123"
+    ],
+    [
+     "Finance (including Communication)",
+     "19,765,066"
+    ],
+    [
+     "Justice",
+     "108,619"
+    ],
+    [
+     "Education",
+     "647,558"
+    ],
+    [
+     "Welfare",
+     "638,708"
+    ],
+    [
+     "Agriculture and Forestry",
+     "1,672,817"
+    ],
+    [
+     "Commerce and Industry",
+     "3,264,674"
+    ],
+    [
+     "Transportation",
+     "243,530"
+    ],
+    [
+     "Army",
+     "678"
+    ],
+    [
+     "Navy",
+     "1,160"
+    ],
+    [
+     "Special War Expenditure Account (net) a/",
+     "74,886,415"
+    ],
+    [
+     "  Total expenditures",
+     "103,837,442"
+    ]
+   ],
+   "ocr_check": "OCR matched."
+  }
+ ]
+}

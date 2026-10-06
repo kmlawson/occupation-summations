@@ -1,0 +1,8 @@
+{"tables": [
+  {"page": 58, "pages": [58], "title": "[Approximate coal production, home islands of Japan, monthly averages by fiscal year]",
+   "units": "metric tons per month", "period": "fiscal years 1935-1941", "source_note": "",
+   "header": [["Fiscal Year", "Metric Tons per Month"]],
+   "rows": [["1935", "3,150,000"], ["1936", "3,600,000"], ["1937", "3,750,000"], ["1938", "4,000,000"], ["1939", "4,300,000"], ["1940", "4,750,000"], ["1941", "4,600,000"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image exactly."}
+]}

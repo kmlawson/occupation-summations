@@ -1,0 +1,26 @@
+{"tables": [
+  {"page": 15, "pages": [15], "title": "Legislation enacted by the Diet, 25 August to 23 September 1946",
+   "units": "", "period": "25 August to 23 September 1946", "source_note": "",
+   "header": [["Law", "Date enacted"]],
+   "rows": [
+     ["Income Tax Law", "27 August"],
+     ["Amendments to Temporary Taxation Measure", "27 August"],
+     ["Local Tax Law", "27 August"],
+     ["Daily Life Security Law", "5 September"],
+     ["Chamber of Commercial and Industrial Economy Law", "5 September"],
+     ["Industrial Property Law", "5 September"],
+     ["Law for Allowances to Speakers, Assistant Speakers and Members of the Imperial Diet", "10 September"],
+     ["Law for Amendment of the Pension Law", "10 September"],
+     ["General Budget", "12 September"],
+     ["Revised Budget", "12 September"],
+     ["Imperial Ordinance on Emergency Food Measures", "17 September"],
+     ["Law for Restriction of Governmental Assistance to Companies and other Juridical Persons", "17 September"],
+     ["Law for Amendment of Law for Organization of Tokyo Metropolis and four other laws", "20 September"],
+     ["Labor Relations Adjustment Law", "20 September"],
+     ["Horse Race Law", "23 September"]
+   ],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed.", "warnings": [],
+   "notes": "The table has no printed column headings; the header row is supplied. Printed page 19 (PDF page 15, right-hand page). Multi-line law names in the original are joined into one cell.",
+   "ocr_check": "OCR matched the image on all 15 rows and dates."}
+]}

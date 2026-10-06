@@ -1,0 +1,29 @@
+{"tables": [
+  {"page": 93, "pages": [93], "title": "School textbooks", "units": "copies", "period": "since February 1946", "source_note": "Bureau of Textbooks, Department of Education (printed page 79)",
+   "header": [["Title", "Printed", "Sold"]],
+   "rows": [
+     ["Korean Language-First Step", "1,024,526", "852,252"],
+     ["Korean Language Reader", "", ""],
+     ["  Vol I", "700,000", "537,783"],
+     ["  Vol II", "571,800", "368,912"],
+     ["  Vol III", "268,000", "144,539"],
+     ["Primary School Civics", "", ""],
+     ["  Vol I", "415,000", "287,312"],
+     ["  Vol II", "382,000", "202,048"],
+     ["  Vol III", "464,000", "153,865"],
+     ["Music", "", ""],
+     ["  Vol I", "1,000", "941"],
+     ["  Vol II", "71,500", "9,558"],
+     ["  Vol III", "297,000", "20,772"],
+     ["Teachers' Manual for Korean Readers", "50,000", "44,849"],
+     ["Middle School Civics", "", ""],
+     ["  Vol I", "75,000", "73,903"],
+     ["  Vol II", "50,000", "36,841"],
+     ["Korean History", "57,143", "42,900"],
+     ["Manual Art a/", "455,128 b/", "455,128"]
+   ],
+   "footnotes": ["a/ Printed by the Japanese prior to 15 August 1945.", "b/ Number in stock February 1946."],
+   "unreadable": [],
+   "totals_check": "No total printed.", "warnings": [],
+   "ocr_check": "OCR matched the image in every cell; blank cells in group-heading rows are blank in the original."}
+]}

@@ -1,0 +1,1197 @@
+{
+ "tables": [
+  {
+   "page": 55,
+   "pages": [
+    55
+   ],
+   "title": "Crude oil production",
+   "units": "kiloliters",
+   "period": "10 February - 9 March 1946 (weekly)",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "Oil Field",
+     "Feb 10-16",
+     "Feb 17-23",
+     "Feb 24-Mar 2",
+     "Mar 3-9",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Group",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Akita a/",
+     "26.2",
+     "21.7",
+     "24.8",
+     "17.1",
+     "89.8"
+    ],
+    [
+     "  Niigata",
+     "22.5",
+     "21.9",
+     "21.9",
+     "22.0",
+     "88.3"
+    ],
+    [
+     "  Hachimori",
+     "19.5",
+     "27.4",
+     "18.4",
+     "22.6",
+     "87.9"
+    ],
+    [
+     "  Niitsu",
+     "60.4",
+     "55.2",
+     "55.9",
+     "60.7",
+     "232.2"
+    ],
+    [
+     "  Akita b/",
+     "2,074.2",
+     "1,955.2",
+     "2,077.7",
+     "2,068.9",
+     "8,176.0"
+    ],
+    [
+     "  Hokkaido",
+     "65.0",
+     "62.4",
+     "63.0",
+     "61.2",
+     "251.6"
+    ],
+    [
+     "  Kashiwazaki",
+     "950.2",
+     "961.4",
+     "1,017.5",
+     "1,024.0",
+     "3,953.1"
+    ],
+    [
+     "  Yamagata",
+     "916.5",
+     "927.2",
+     "897.0",
+     "888.4",
+     "3,629.0"
+    ],
+    [
+     "Total",
+     "4,134.4",
+     "4,032.4",
+     "4,176.2",
+     "4,164.9",
+     "16,507.9"
+    ],
+    [
+     "Previous",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Total c/",
+     "4,126.6",
+     "4,040.0",
+     "4,130.9",
+     "4,082.0",
+     "16,379.5"
+    ]
+   ],
+   "footnotes": [
+    "a/ Daido Co.",
+    "b/ Teikoku Co",
+    "c/ 13 Jan - 9 Feb."
+   ],
+   "unreadable": [],
+   "totals_check": "Row totals: all agree except Yamagata (916.5+927.2+897.0+888.4 = 3,629.1; printed 3,629.0). Column totals (sum of the eight fields): Feb 10-16 = 4,134.5 vs printed 4,134.4 (differs by 0.1); Feb 17-23 4,032.4 agrees; Feb 24-Mar 2 4,176.2 agrees; Mar 3-9 4,164.9 agrees; Total column 16,507.9 agrees; Total row 4,134.4+4,032.4+4,176.2+4,164.9 = 16,507.9 agrees. Previous total row 16,379.5 agrees.",
+   "warnings": [
+    "Yamagata row: parts sum to 3,629.1, printed 3,629.0.",
+    "Feb 10-16 column: fields sum to 4,134.5, printed total 4,134.4."
+   ],
+   "ocr_check": "OCR garbled several column totals, headers and place names (e.g. 69.6 for 89.8, Kashinori, Kokkudo); image read independently."
+  },
+  {
+   "page": 55,
+   "pages": [
+    55
+   ],
+   "title": "Refined petroleum production",
+   "units": "kiloliters",
+   "period": "10 February - 9 March 1946",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "Company",
+     "Gasoline",
+     "Kerosene",
+     "Gas Oil",
+     "Diesel Oil",
+     "Fuel Oil",
+     "Lub. Oil",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Nippon Oil Co.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Akita",
+     "257",
+     "180",
+     "-",
+     "959",
+     "-",
+     "-",
+     "1,396"
+    ],
+    [
+     "  Kashiwazaki",
+     "1,006",
+     "256",
+     "390",
+     "77",
+     "331",
+     "443",
+     "2,503"
+    ],
+    [
+     "  Niigata",
+     "-",
+     "-",
+     "36",
+     "1,177",
+     "550",
+     "1,031",
+     "2,794"
+    ],
+    [
+     "  Yokohama",
+     "-",
+     "-",
+     "-",
+     "-",
+     "450",
+     "157",
+     "607"
+    ],
+    [
+     "Nippon Kogyo",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Funakawa",
+     "1,071",
+     "1,380",
+     "-",
+     "2,579",
+     "-",
+     "-",
+     "5,030"
+    ],
+    [
+     "Showa Oil Co.",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Hirasawa",
+     "-",
+     "267",
+     "-",
+     "75",
+     "-",
+     "547",
+     "889"
+    ],
+    [
+     "  Niigata",
+     "472",
+     "243",
+     "-",
+     "1,477",
+     "529",
+     "841",
+     "3,562"
+    ],
+    [
+     "Total",
+     "2,806",
+     "2,326",
+     "426",
+     "6,344",
+     "1,860",
+     "3,019",
+     "16,781"
+    ],
+    [
+     "Previous",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Total a/",
+     "2,530",
+     "1,633",
+     "535",
+     "4,507",
+     "1,389",
+     "3,081",
+     "13,675"
+    ]
+   ],
+   "footnotes": [
+    "a/ 13 January - 9 February 1946."
+   ],
+   "unreadable": [],
+   "totals_check": "All row totals and all column totals (including Total row 16,781 and Previous row 13,675) summed and agree with printed figures.",
+   "warnings": [],
+   "ocr_check": "OCR had many errors (e.g. 287 for 257, 35 for 36, 242 for 243, 13,761 for 16,781, Shizen for Showa); image read independently."
+  },
+  {
+   "page": 55,
+   "pages": [
+    55
+   ],
+   "title": "Building construction, February 1946",
+   "units": "number of buildings; floor area in tsubo",
+   "period": "February 1946",
+   "source_note": "Ministry of Home Affairs, Bureau of Reconstruction.",
+   "header": [
+    [
+     "Type of Building",
+     "Number of Buildings",
+     "Floor Area (Tsubo) a/"
+    ]
+   ],
+   "rows": [
+    [
+     "New homes",
+     "13,223",
+     "124,657"
+    ],
+    [
+     "New homes and shops",
+     "4,477",
+     "67,141"
+    ],
+    [
+     "Others",
+     "2,367",
+     "97,329"
+    ],
+    [
+     "Total",
+     "20,067",
+     "289,127"
+    ]
+   ],
+   "footnotes": [
+    "a/ One tsubo is approximately 36 square feet."
+   ],
+   "unreadable": [],
+   "totals_check": "Buildings 13,223+4,477+2,367 = 20,067, agrees. Floor area 124,657+67,141+97,329 = 289,127, agrees.",
+   "warnings": [],
+   "ocr_check": "OCR misread several digits (13,203; 124,627; 27,323; 259,127); image read independently."
+  },
+  {
+   "page": 55,
+   "pages": [
+    55,
+    56
+   ],
+   "title": "Data on construction materials, April - July 1946",
+   "units": "thousands of metric tons (upper block); thousands of kiloliters (lower block, as printed on page 56); other units per footnotes",
+   "period": "April - July 1946",
+   "source_note": "Ministry of Home Affairs, Reconstruction Bureau.",
+   "header": [
+    [
+     "Material",
+     "Demand: Domestic",
+     "Demand: Bureau of Reconstruction",
+     "Demand: US Army",
+     "Demand: Total",
+     "Anticipated Production Apr - Jul"
+    ]
+   ],
+   "rows": [
+    [
+     "(thousands of metric tons)",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Iron bars",
+     "70.0",
+     "4.4",
+     "1.8",
+     "76.2",
+     "9.0"
+    ],
+    [
+     "Wire nails",
+     "12.0",
+     "3.6",
+     "4.2",
+     "19.8",
+     "4.7"
+    ],
+    [
+     "Galv. sheets",
+     "10.0",
+     "4.6",
+     "1.8",
+     "16.4",
+     "2.0"
+    ],
+    [
+     "Bolts",
+     "3.0",
+     "-",
+     "3.9",
+     "6.9",
+     "1.5"
+    ],
+    [
+     "Lath",
+     "1.5",
+     "-",
+     "0.8",
+     "2.3",
+     "0.7"
+    ],
+    [
+     "Angle iron",
+     "5.7",
+     "-",
+     "0.1",
+     "5.8",
+     "0.2"
+    ],
+    [
+     "Conduit (iron)",
+     "-",
+     "-",
+     "0.2",
+     "0.2",
+     "-"
+    ],
+    [
+     "Galv. iron pipe",
+     "35.9",
+     "0.8",
+     "2.7",
+     "39.4",
+     "1.7"
+    ],
+    [
+     "Gas pipe",
+     "-",
+     "-",
+     "0.1",
+     "0.1",
+     "-"
+    ],
+    [
+     "Cast iron pipe",
+     "5.0",
+     "0.8",
+     "29.2",
+     "35.0",
+     "3.3"
+    ],
+    [
+     "Cast iron",
+     "75.0",
+     "1.3",
+     "3.3",
+     "79.6",
+     "32.0"
+    ],
+    [
+     "Wire (binding)",
+     "2.0",
+     "0.5",
+     "0.1",
+     "2.6",
+     "1.4"
+    ],
+    [
+     "Copper",
+     "17.5",
+     "0.1",
+     "5.6",
+     "23.2",
+     "4.0"
+    ],
+    [
+     "Lead",
+     "6.4",
+     "0.1",
+     "3.5",
+     "10.0",
+     "0.6"
+    ],
+    [
+     "Cement",
+     "350.0",
+     "140.0",
+     "86.0",
+     "576.0",
+     "224.0"
+    ],
+    [
+     "Gravel and Ballast a/",
+     "720.0",
+     "560.0",
+     "1,465.0",
+     "2,765.0",
+     "1,450.0"
+    ],
+    [
+     "Plate glass b/",
+     "190.0",
+     "98.0",
+     "12.0",
+     "300.0",
+     "200.0"
+    ],
+    [
+     "Asphalt c/",
+     "3,306.9",
+     "454.0",
+     "1,800.0",
+     "5,560.9",
+     "227.7"
+    ],
+    [
+     "(thousands of kiloliters)",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Gasoline",
+     "28.8",
+     "5.8",
+     "0.5",
+     "34.1",
+     "13.8"
+    ],
+    [
+     "Machine oil",
+     "19.9",
+     "1.3",
+     "0.0",
+     "21.2",
+     "19.8"
+    ],
+    [
+     "Kerosene",
+     "20.9",
+     "-",
+     "0.0",
+     "20.9",
+     "8.8"
+    ],
+    [
+     "Wax",
+     "495.8",
+     "-",
+     "10.0",
+     "505.8",
+     "115.6"
+    ]
+   ],
+   "footnotes": [
+    "a/ Thousands of cubic meters.",
+    "b/ Thousands of cases of 100 square feet each.",
+    "c/ Thousands of gallons."
+   ],
+   "unreadable": [],
+   "totals_check": "Row sums of Domestic + Bureau of Reconstruction + US Army agree with printed Total for every row except Gasoline: 28.8+5.8+0.5 = 35.1, printed 34.1. (Blank '-' counted as zero.) Table continues on page 56 under a repeated column header, with a '(thousands of kiloliters)' unit line, merged here.",
+   "warnings": [
+    "Gasoline row: parts sum to 35.1, printed total 34.1."
+   ],
+   "ocr_check": "OCR had many digit errors (e.g. 2.0 for 3.0, Leak for Lath, 850.0 for 350.0, 578.0 for 576.0, 12.6 for 13.8); image read independently. Several scan digits are faint but the row sums support the readings."
+  },
+  {
+   "page": 56,
+   "pages": [
+    56
+   ],
+   "title": "Highway repair",
+   "units": "yen",
+   "period": "1945 and 1946 (1946 proposed)",
+   "source_note": "Ministry of Home Affairs, Highway Section.",
+   "header": [
+    [
+     "Item",
+     "1945",
+     "1946"
+    ]
+   ],
+   "rows": [
+    [
+     "Improvement of national roads (Home Ministry)",
+     "21,215,000",
+     "32,000,000 a/"
+    ],
+    [
+     "Improvement of national roads (prefectural governments)",
+     "900,000",
+     "1,600,000"
+    ],
+    [
+     "Improvement of prefectural roads (prefectural governments)",
+     "40,543,380",
+     "14,260,000"
+    ],
+    [
+     "Surfacing roads (prefectural governments)",
+     "31,995,000",
+     "20,000,000"
+    ],
+    [
+     "Total expenditure",
+     "94,653,380",
+     "67,860,000"
+    ]
+   ],
+   "footnotes": [
+    "a/ Estimate"
+   ],
+   "unreadable": [],
+   "totals_check": "1945: 21,215,000+900,000+40,543,380+31,995,000 = 94,653,380, agrees. 1946: 32,000,000+1,600,000+14,260,000+20,000,000 = 67,860,000, agrees.",
+   "warnings": [],
+   "ocr_check": "OCR misread 31,395,000 for 31,995,000, 14,280,000 for 14,260,000 and 67,880,000 for 67,860,000; image read independently."
+  },
+  {
+   "page": 56,
+   "pages": [
+    56
+   ],
+   "title": "Status of merchant ships",
+   "units": "number of ships; gross tons",
+   "period": "1, 11 and 20 March 1946",
+   "source_note": "Shipping Control Authority, Japanese Merchant Marine (SCAJAP).",
+   "header": [
+    [
+     "Operating",
+     "Operating",
+     "Operating",
+     "Under Repair: In Service Since Occupation",
+     "Under Repair: In Service Since Occupation",
+     "Under Repair: Not in Service Since Occupation",
+     "Under Repair: Not in Service Since Occupation"
+    ],
+    [
+     "Date",
+     "No.",
+     "Gross Tons",
+     "No.",
+     "Gross Tons",
+     "No.",
+     "Gross Tons"
+    ]
+   ],
+   "rows": [
+    [
+     "1 Mar",
+     "519",
+     "651,188",
+     "124",
+     "273,530",
+     "110",
+     "254,984"
+    ],
+    [
+     "11 Mar",
+     "525",
+     "667,264",
+     "118",
+     "257,454",
+     "112",
+     "256,753"
+    ],
+    [
+     "20 Mar",
+     "524",
+     "654,386",
+     "119",
+     "270,332",
+     "112",
+     "256,753"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed. Cross-check with page 57: 20 Mar under repair 119+112 = 231 ships and 270,332+256,753 = 527,085 gross tons, matching the Japanese Merchant Fleet table.",
+   "warnings": [],
+   "ocr_check": "OCR misread 257,484 for 257,454 and 256,783 for 256,753 (twice); image read independently."
+  },
+  {
+   "page": 56,
+   "pages": [
+    56
+   ],
+   "title": "Demilitarized Japanese Navy ships",
+   "units": "number of ships",
+   "period": "1, 11 and 20 March 1946",
+   "source_note": "Shipping Control Authority, Japanese Merchant Marine (SCAJAP).",
+   "header": [
+    [
+     "Date",
+     "Repatriation",
+     "Repatriation",
+     "Repatriation",
+     "Mine Sweeping",
+     "Mine Sweeping",
+     "Mine Sweeping"
+    ],
+    [
+     "Date",
+     "In Service",
+     "Under Repair",
+     "Total",
+     "In Service",
+     "Under Repair",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "1 Mar",
+     "93",
+     "61",
+     "154",
+     "24",
+     "2",
+     "26"
+    ],
+    [
+     "11 Mar",
+     "98",
+     "56",
+     "154",
+     "23",
+     "3",
+     "26"
+    ],
+    [
+     "20 Mar",
+     "98",
+     "57",
+     "155",
+     "22",
+     "4",
+     "26"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "In Service + Under Repair = Total for every row and both groups (93+61=154; 98+56=154; 98+57=155; 24+2=26; 23+3=26; 22+4=26), all agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched except Mine Reapping for Mine Sweeping in the header."
+  },
+  {
+   "page": 57,
+   "pages": [
+    57
+   ],
+   "title": "Japanese merchant fleet, 20 March 1946",
+   "units": "gross tons",
+   "period": "20 March 1946",
+   "source_note": "Japanese Ministry of Transportation.",
+   "header": [
+    [
+     "",
+     "No. of Ships",
+     "Tonnage",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "In operation",
+     "524",
+     "654,386",
+     ""
+    ],
+    [
+     "Under repair",
+     "231",
+     "527,085",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "1,181,471"
+    ],
+    [
+     "Salvage operations a/",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Present",
+     "-",
+     "102,879",
+     ""
+    ],
+    [
+     "  Scheduled",
+     "-",
+     "73,387",
+     ""
+    ],
+    [
+     "  Planned",
+     "-",
+     "158,884",
+     ""
+    ],
+    [
+     "",
+     "",
+     "",
+     "335,150"
+    ],
+    [
+     "New construction",
+     "123",
+     "366,950",
+     "366,950"
+    ],
+    [
+     "Total active and potential",
+     "",
+     "",
+     "1,883,571"
+    ]
+   ],
+   "footnotes": [
+    "a/ Vessels to be salvaged and returned to service."
+   ],
+   "unreadable": [],
+   "totals_check": "654,386+527,085 = 1,181,471, agrees. 102,879+73,387+158,884 = 335,150, agrees. 1,181,471+335,150+366,950 = 1,883,571, agrees. Blank cells are blank in the original.",
+   "warnings": [],
+   "ocr_check": "OCR misread 654,555, 102,679, 78,387, 158,894, 235,150, 125 ships and 1,885,571; image read independently."
+  },
+  {
+   "page": 57,
+   "pages": [
+    57,
+    58
+   ],
+   "title": "Production rates of important chemicals",
+   "units": "metric tons (Ethyl alcohol in kiloliters)",
+   "period": "February and March 1946",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "Product",
+     "February",
+     "March a/",
+     "Percent of Minimum Monthly Requirements b/"
+    ]
+   ],
+   "rows": [
+    [
+     "Sulfuric acid",
+     "44,030",
+     "59,000",
+     "19"
+    ],
+    [
+     "Ammonium sulfate c/",
+     "21,909",
+     "25,000",
+     "18"
+    ],
+    [
+     "Salt",
+     "12,457",
+     "20,000",
+     "14"
+    ],
+    [
+     "Calcium cyanamide d/",
+     "9,772",
+     "15,000",
+     "25"
+    ],
+    [
+     "Ammonia",
+     "7,023",
+     "12,000",
+     "20"
+    ],
+    [
+     "Calcium carbide",
+     "7,405",
+     "10,000",
+     "22"
+    ],
+    [
+     "Calcium superphosphate",
+     "2,199",
+     "8,000",
+     "17"
+    ],
+    [
+     "Soda ash",
+     "1,248",
+     "3,700",
+     "24"
+    ],
+    [
+     "Caustic soda",
+     "1,727",
+     "3,300",
+     "16"
+    ],
+    [
+     "Hydrochloric acid",
+     "540",
+     "1,200",
+     "9"
+    ],
+    [
+     "Benzene",
+     "198",
+     "460",
+     "19"
+    ],
+    [
+     "Sodium bicarbonate",
+     "160",
+     "370",
+     "24"
+    ],
+    [
+     "Methyl alcohol",
+     "250",
+     "320",
+     "12"
+    ],
+    [
+     "Dyestuffs",
+     "51",
+     "225",
+     "13"
+    ],
+    [
+     "Ethyl alcohol (kiloliters)",
+     "1,708",
+     "2,000",
+     "34"
+    ]
+   ],
+   "footnotes": [
+    "a/ Estimate.",
+    "b/ February 1946.",
+    "c/ Correct figure for December was approximately 17,000 metric tons.",
+    "d/ Correct figure for December was approximately 9,000 metric tons."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed. Footnote letters on the product names appear in the scan as 'g/' and 'd/' (read as c/ and d/ to match the footnotes). Footnotes are printed at the top of page 58 (PDF page 58 image, printed page 103 as numbered in the scan).",
+   "warnings": [],
+   "ocr_check": "OCR misread many figures (e.g. 5,000 for 8,000, 2,700 for 3,700, 195 for 198, 1,702 for 1,708, 24 for 34); image read independently, some digits faint."
+  },
+  {
+   "page": 58,
+   "pages": [
+    58
+   ],
+   "title": "[Results of machinery maintenance inspection]",
+   "units": "number",
+   "period": "",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Number"
+    ]
+   ],
+   "rows": [
+    [
+     "Number of factories inspected",
+     "209"
+    ],
+    [
+     "Number of machine tools",
+     "61,563"
+    ],
+    [
+     "Number of machine tools working",
+     "29,469"
+    ],
+    [
+     "Number of machine tools down",
+     "27,477"
+    ],
+    [
+     "Poor maintenance noted",
+     "10,174"
+    ],
+    [
+     "Other types machinery",
+     "30,218"
+    ],
+    [
+     "Other types machinery working",
+     "20,918"
+    ],
+    [
+     "Other types machinery down",
+     "8,186"
+    ],
+    [
+     "Poor maintenance noted",
+     "745"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Working + down does not equal the stated count: machine tools 29,469+27,477 = 56,946 vs 61,563; other machinery 20,918+8,186 = 29,104 vs 30,218. Printed text does not say these should sum; reported only.",
+   "warnings": [
+    "Working plus down does not equal total for either group (see totals_check)."
+   ],
+   "ocr_check": "OCR read 6,186 for 8,186 and 27,477 correctly; otherwise matched."
+  },
+  {
+   "page": 59,
+   "pages": [
+    59
+   ],
+   "title": "Bearing production, February 1946",
+   "units": "thousands of yen (Value and Orders Received)",
+   "period": "February 1946",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "Company",
+     "Value",
+     "Orders Received",
+     "Number of Employees",
+     "Percent of Operation"
+    ]
+   ],
+   "rows": [
+    [
+     "Nihon Seiko",
+     "406",
+     "42,000",
+     "1,433",
+     "68"
+    ],
+    [
+     "Toyo Bearing",
+     "800",
+     "26,000",
+     "800",
+     "50"
+    ],
+    [
+     "Koyo Keiko",
+     "1,157",
+     "6,500",
+     "930",
+     "46"
+    ],
+    [
+     "Fujikoshi Kozai",
+     "478",
+     "30,960",
+     "981",
+     "39"
+    ],
+    [
+     "Asahi Seiko",
+     "136",
+     "310",
+     "",
+     "30"
+    ],
+    [
+     "Total",
+     "2,977",
+     "105,770",
+     "4,294",
+     ""
+    ]
+   ],
+   "footnotes": [
+    "a/ The companies listed comprise almost 100 percent of Japan's capacity."
+   ],
+   "unreadable": [
+    "row 'Asahi Seiko', column 'Number of Employees': underlined digit ambiguous (150 or 160); left blank. The printed total 4,294 implies 150."
+   ],
+   "totals_check": "Value 406+800+1,157+478+136 = 2,977, agrees. Orders 42,000+26,000+6,500+30,960+310 = 105,770, agrees. Employees 1,433+800+930+981 = 4,144 plus the Asahi cell; printed total 4,294 (would agree if Asahi were 150). Percent column has no total (blank in the original).",
+   "warnings": [],
+   "ocr_check": "OCR misread 1,187, 6,800, 30,980, 126, 210 and 180; image read independently."
+  },
+  {
+   "page": 59,
+   "pages": [
+    59
+   ],
+   "title": "Status of railway rolling stock, 28 February 1946",
+   "units": "number of units",
+   "period": "28 February 1946 (in operation also 31 January)",
+   "source_note": "Ministry of Transportation, Railway Bureau.",
+   "header": [
+    [
+     "Type",
+     "Built in February",
+     "Awaiting Repairs",
+     "In Operation 28 February",
+     "In Operation 31 January"
+    ]
+   ],
+   "rows": [
+    [
+     "Government owned",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Steam locomotive",
+     "11",
+     "1,285",
+     "4,487",
+     "4,429"
+    ],
+    [
+     "  Electric locomotive",
+     "3",
+     "76",
+     "219",
+     "233"
+    ],
+    [
+     "  Electric cars",
+     "0",
+     "413",
+     "1,379",
+     "1,405"
+    ],
+    [
+     "  Passenger cars",
+     "13",
+     "642",
+     "10,134",
+     "10,111"
+    ],
+    [
+     "  Freight cars",
+     "50",
+     "3,557",
+     "114,724",
+     "114,570"
+    ],
+    [
+     "Privately owned",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Steam locomotive",
+     "0",
+     "98",
+     "392",
+     "384"
+    ],
+    [
+     "  Electric locomotive",
+     "0",
+     "57",
+     "128",
+     "130"
+    ],
+    [
+     "  Electric cars",
+     "2",
+     "3,339",
+     "5,431",
+     "5,378"
+    ],
+    [
+     "  Passenger cars",
+     "0",
+     "179",
+     "792",
+     "787"
+    ],
+    [
+     "  Freight cars",
+     "69",
+     "1,108",
+     "7,854",
+     "7,817"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No totals printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Deposits for Repairs, 203 for 233, 87 for 57, 10,124 for 10,134, 120 for 130 and 7,834 for 7,854; image read independently, a few digits slightly faint."
+  }
+ ]
+}

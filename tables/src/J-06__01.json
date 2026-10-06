@@ -1,0 +1,13 @@
+{"tables": [
+  {"page": 19, "pages": [19], "title": "[Pre-campaign receipts and disbursements of the major parties, 1 January to 10 March 1946]",
+   "units": "yen (¥)", "period": "1 January to 10 March (1946)", "source_note": "Reported under Home Ministry Ordinance No. 11 (paragraph 16, printed page 31)",
+   "header": [["Party", "Receipts", "Disbursements"]],
+   "rows": [["Progressives", "¥ 839,322", "¥ 190,029"],
+            ["Liberals", "821,646", "472,729"],
+            ["Communists", "597,543", "281,519"],
+            ["Cooperatives", "215,800", "115,855"],
+            ["Socialists", "60,508", "41,265"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed.", "warnings": [],
+   "ocr_check": "OCR misread most figures (e.g. Progressives receipts 859,328 for 839,322, Liberals 621,846 for 821,646, Communists 297,343 for 597,543) and read the yen sign as $; the image reading was used. Notes: the yen sign appears only on the first row in the original."}
+]}

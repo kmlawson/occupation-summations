@@ -1,0 +1,12 @@
+{"tables": [
+{"page": 42, "pages": [42], "title": "Coast Guard pay and allowances", "units": "yen/month", "period": "31 August 1946", "source_note": "USAMGIK (printed as 'USANGIK')",
+ "header": [["Grade", "Base Pay", "Allowance", "Allowance"], ["Grade", "Base Pay", "Subsistence", "Quarters"]],
+ "rows": [["Apprentice Seaman","125","120","-"],["Seaman 2nd Class","150","120","-"],["Seaman 1st Class","200","120","-"],["Petty Officer 3rd Class","250","120","-"],["Petty Officer 2nd Class","300","120","-"],["Petty Officer 1st Class","300","120 a/","-"],["Chief Petty Officer","400","120 a/","-"],["Midshipman","200","120","-"],["Ensign","500","120 a/","45"],["Lieutenant (jg)","550","120 a/","60"],["Lieutenant","600","120 a/","90"],["Lieutenant Commander","675","120 a/","120"],["Commander","775","120 a/","150"],["Captain","900","120 a/","180"]],
+ "footnotes": ["a/ Plus provincial monthly cost of living differential."], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image on all cells."},
+{"page": 46, "pages": [46], "title": "Rice straw production, 1936-1944", "units": "pounds", "period": "1936-1944", "source_note": "",
+ "header": [["Year", "Rice straw (pounds)"]],
+ "rows": [["1936","9,726,560,780"],["1937","11,253,796,744"],["1938","10,049,582,906"],["1939","6,858,783,722"],["1940","9,793,402,856"],["1941","10,111,509,169"],["1942","6,975,211,833"],["1943","8,837,040,489"],["1944","7,536,095,390"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image on all cells."}
+]}

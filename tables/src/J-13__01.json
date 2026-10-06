@@ -1,0 +1,36 @@
+{"tables": [
+  {"page": 30, "pages": [30], "title": "Atrocity investigations, Japan",
+   "units": "cases", "period": "25 September - 24 October 1946", "source_note": "",
+   "header": [["", "Cases on Hand 25 Sep", "Cases Received 25 Sep-24 Oct", "Cases Completed 25 Sep-24 Oct", "Cases on Hand 24 Oct"]],
+   "rows": [
+     ["POW camp conditions", "2", "5", "-", "7"],
+     ["POW camp atrocities", "78", "9", "1", "86"],
+     ["B-29 flyers", "175", "84", "1", "258"],
+     ["POW ship", "47", "3", "-", "50"],
+     ["Kempei-tai (Military Police)", "21", "-", "-", "21"],
+     ["Miscellaneous", "227", "50", "15", "262"],
+     ["Total", "550", "151", "17", "684"]
+   ],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "Column sums of the six rows: on hand 25 Sep 2+78+175+47+21+227=550 (printed 550, agrees); received 5+9+84+3+50=151 (printed 151, agrees); completed 1+1+15=17 (printed 17, agrees); on hand 24 Oct 7+86+258+50+21+262=684 (printed 684, agrees). Row check on hand + received - completed = on hand 24 Oct also holds for every row.",
+   "warnings": [], "ocr_check": "OCR matched all figures; it misread the third column header as '20 Sep-24 Oct' where the image shows '25 Sep-24 Oct'."},
+  {"page": 31, "pages": [31], "title": "Trial of war atrocity cases, the Philippines",
+   "units": "", "period": "16 September - 16 October 1946", "source_note": "",
+   "header": [["Name", "Official Capacity", "Rank", "Date", "Results of Trials"]],
+   "rows": [
+     ["YAMAMOTO, Takeki", "Member of Oie Bn.", "Lt", "16 Sep-28 Sep", "Death by hanging"],
+     ["MORI, Hitoshi", "Member of Oie Bn.", "Lt", "", "Death by hanging"],
+     ["TOKUNAGA, Masatomo", "Member of Oie Bn.", "Lt", "", "Death by hanging"],
+     ["YAMADA, Choji", "Member of Oie Bn.", "Lt", "", "Death by hanging"],
+     ["MATSUMOTO, Hidenari", "Member of Oie Bn.", "Lt", "", "Death by hanging"],
+     ["YAMASHITA, Shinpei", "Member of Oie Bn.", "Sgt Maj", "", "Death by musketry"],
+     ["NISHIKAWA, Kiyoshi", "Member of 172nd Inf Bn.", "Lt", "16 Sep-28 Sep", "Death by hanging"],
+     ["TAKAHASHI, Tansaku", "Unknown", "Capt", "19 Sep-5 Oct", "Death by musketry"],
+     ["NAKAJIMA, Yuzuru", "Member of 172nd Inf Bn.", "Lt", "2 Oct-9 Oct", "5 years imprisonment"],
+     ["TAKESHITA, Akira", "Member of 172nd Inf Bn.", "Sgt", "4 Oct-16 Oct", "25 years imprisonment"]
+   ],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR differed on names (Takaki for Takeki, Tokumaga/Masatono for Tokunaga/Masatomo, Chaji for Choji, Takamashi for Takahashi, Turoru for Yuzuru) and on Takahashi's end date (read 3 Oct; image shows 5 Oct). Blank Date cells for Mori to Yamashita are blank in the original, the 16 Sep-28 Sep date being printed once beside Yamamoto; the Oie Bn. rows are separated from the others by dashed rules. Names are typewritten and slightly blurred, so a few letters are best readings."}
+]}

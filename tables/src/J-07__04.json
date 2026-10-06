@@ -1,0 +1,22 @@
+{"tables": [
+{"page": 40, "pages": [40], "title": "[Trial results, continued from previous page: Uyeki and Kou]", "units": "", "period": "1946", "source_note": "",
+ "header": [["Name", "Official Capacity", "Rank", "Date", "Results of Trials"]],
+ "rows": [["UYEKI, Mariano", "Kempei-tai member", "Ldg Pvt", "15 Apr-17 Apr", "Death by hanging."], ["KOU, Shiyoku", "CG POW & civ internment camps in Philippine Islands", "Lt Gen", "15 Mar-22 Mar & 15 Apr-18 Apr", "Death by hanging."]],
+ "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR garbled names, ranks and dates (e.g. UTSKI, 1st Gen, 10 Apr); image reading used. Only two rows on this page; the table begins on an earlier page not transcribed here."},
+{"page": 40, "pages": [40], "title": "Notifications of executions of war criminals", "units": "", "period": "23 February to 11 April 1946", "source_note": "",
+ "header": [["Name", "Date of Execution", "Number and Date of Commission Order"]],
+ "rows": [["YAMASHITA, Tomoyuki", "23 Feb 46", "2 GHQ, USAFPAC 11 Feb 46"], ["HIGASHIJI, Takuma", "23 Feb 46", "3 GHQ, USAFPAC 12 Feb 46"], ["OHTA, Seiichi", "23 Feb 46", "4 GHQ, USAFPAC 14 Feb 46"], ["KOBAYASHI, Shoichi", "22 Mar 46", "5 GHQ, USAFPAC 6 Mar 46"], ["HOMMA, Masaharu a/", "3 Apr 46", "6 GHQ, USAFPAC 21 Mar 46"], ["TAJIMA, Hikotaro", "3 Apr 46", "7 GHQ, USAFPAC 21 Mar 46"], ["KAWAI, Takeo", "9 Apr 46", "8 GHQ, USAFPAC 27 Mar 46"], ["SUMITANI, Yoshiaki", "11 Apr 46", "9 GHQ, USAFPAC 28 Mar 46"], ["NAMIKI, Asao", "11 Apr 46", "10 GHQ, USAFPAC 30 Mar 46"], ["TACHIBANA, Masao", "11 Apr 46", "10 GHQ, USAFPAC 30 Mar 46"]],
+ "footnotes": ["a/ Executed by musketry."], "unreadable": [], "totals_check": "No total printed (text says ten notifications; ten rows counted, agree).", "warnings": ["Name spellings read from a low-resolution typescript; some letters may be uncertain."], "ocr_check": "OCR misread several names and read 'SSU' for 'GHQ'; numbers and dates matched."},
+{"page": 49, "pages": [49], "title": "Whale catch, Bonin Islands, March - April", "units": "number of whales", "period": "March - April 1946", "source_note": "",
+ "header": [["Type", "March", "April"]],
+ "rows": [["Sperm", "45", "27"], ["Sei", "10", "19"], ["Humpback", "10", "2"], ["Total", "65", "48"]],
+ "footnotes": [], "unreadable": [], "totals_check": "March 45+10+10=65, printed 65, agree. April 27+19+2=48, printed 48, agree. Grand total 113 matches text.", "warnings": [], "ocr_check": "OCR read Sperm March as 48 and Total as 68; image reading 45 and 65 (sums confirm)."},
+{"page": 49, "pages": [49], "title": "Components of whale catch", "units": "metric tons", "period": "March - April 1946", "source_note": "Ministry of Agriculture and Forestry, Bureau of Fisheries.",
+ "header": [["Component", "Metric tons"]],
+ "rows": [["Meat", "408"], ["Blubber, hide", "385"], ["Edible entrails", "171"], ["Oil", "18"], ["", "982"], ["Lost when boat was sunk", "47"], ["", "1,029"]],
+ "footnotes": [], "unreadable": [], "totals_check": "408+385+171+18=982, printed 982, agree. 982+47=1,029, printed 1,029, agree.", "warnings": [], "ocr_check": "OCR read Blubber as 282; image 385 (sum confirms). Unlabelled subtotal and total rows have blank labels in the original."},
+{"page": 53, "pages": [53], "title": "Crude ore production of important lead-zinc mines in Japan", "units": "metric tons/day; grade in percent of metal", "period": "April 1946", "source_note": "Mines listed.",
+ "header": [["Mine", "Prefecture", "Present Production (metric tons/day)", "Full Capacity (metric tons/day)", "Grade of Ore (percent of metal): Lead", "Grade of Ore (percent of metal): Zinc"]],
+ "rows": [["Kamioka", "Gifu", "700", "3,000", "0.7", "5.5"], ["Hosokura", "Miyagi", "100 to 150", "1,000", "1.7", "5.9"], ["Nakatatsu", "Fukui", "200", "450", "0.5", "3.8"], ["Budo", "Niigata", "60 to 80", "200", "2.0", "6.0"], ["Chichibu", "Saitama", "preparing to open at about 50", "150", "0.3", "8.0"], ["Funauchi", "Aomori", "100", "150", "1.8", "5.2"], ["Odomori", "Miyagi", "40", "65", "0.8", "5.0"], ["Daira", "Akita", "-", "-", "3.5", "4.4"], ["Minamizawa", "Yamagata", "preparing to open", "15", "5.5", "11.6"]],
+ "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": ["Mine names read from low-resolution typescript; spellings may be uncertain."], "ocr_check": "OCR misread mine names and some digits (Funauchi zinc 5.3, Daira lead 2.5); image reading 5.2 and 3.5."}
+]}

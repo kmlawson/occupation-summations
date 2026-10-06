@@ -1,0 +1,12 @@
+{"tables": [
+  {"page": 102, "pages": [102], "title": "Daily summer schedule hours of broadcast", "units": "clock times (24-hour)", "period": "daily summer schedule", "source_note": "",
+   "header": [["From", "To"]],
+   "rows": [["0630", "0745"], ["1100", "1500"], ["1700", "2200"]],
+   "footnotes": ["Printed beneath: Total broadcast time is 10 hours and 15 minutes."], "unreadable": [],
+   "totals_check": "Summed the three periods: 1h15m (0630-0745) + 4h00m (1100-1500) + 5h00m (1700-2200) = 10h15m; printed total 10 hours and 15 minutes; agree.", "warnings": [], "ocr_check": "OCR matched the table."},
+  {"page": 102, "pages": [102], "title": "[Percentage of weekly broadcast time devoted to specified types of programs, Korea Broadcasting Corporation (figures printed on pie chart)]", "units": "percent of weekly broadcast time", "period": "June 1946 (chart dated June 46, No. 17)", "source_note": "Source: USAMGIK; GHQ-AFPAC, Number 17",
+   "header": [["Type of program", "Percent"]],
+   "rows": [["News", "39.6"], ["Music", "25.0"], ["Variety", "10.3"], ["Local announcements", "4.8"], ["Language", "4.4"], ["Children's", "3.7"], ["Education", "3.0"], ["Domestic", "2.8"], ["Weather", "2.5"], ["Religion", "2.1"], ["Political", "1.8"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed. Sum of the 11 percentages = 100.0.", "warnings": [], "ocr_check": "OCR did not capture the pie chart figures; read from the image. The accompanying bar chart (hours per week) and the daily broadcast schedule pie have no printed figures and were not transcribed."}
+]}

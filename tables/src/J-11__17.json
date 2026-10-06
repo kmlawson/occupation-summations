@@ -1,0 +1,19 @@
+{"tables": [
+  {"page": 141, "pages": [141], "title": "Members of the International Military Tribunal for the Far East appointed by General Orders No. 7, 15 February 1946",
+   "units": "", "period": "15 February 1946", "source_note": "",
+   "header": [["Country", "Member"]],
+   "rows": [
+     ["Commonwealth of Australia", "Sir William Flood Webb"],
+     ["Dominion of Canada", "Mr. Justice F. Stuart McDougall"],
+     ["Republic of China", "Mr. Ju-Ao Mei"],
+     ["Republic of France", "Mr. Justice Henri Reimburger"],
+     ["United Kingdom of Great Britain and Northern Ireland", "Lord Patrick"],
+     ["Kingdom of Netherlands", "Mr. Justice Bernard Victor A. Roling"],
+     ["Dominion of New Zealand", "Mr. Justice Erima Harvey Northcroft"],
+     ["Union of Soviet Socialist Republics", "Mr. Justice I. M. Zaryanov"],
+     ["United States of America", "Mr. Justice John P. Higgins"]
+   ],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed.", "warnings": [],
+   "ocr_check": "OCR matched; the printed table has no column headers, so the header row is supplied descriptively. Page 132 holds only a table of contents, which is skipped."}
+]}

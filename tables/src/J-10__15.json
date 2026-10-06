@@ -1,0 +1,9 @@
+{"tables": [
+  {"page": 133, "pages": [133], "title": "Distribution of theaters showing American films, by locality",
+   "units": "number of theaters", "period": "since 28 February 1946", "source_note": "",
+   "header": [["Locality", "Showing American Films", "Showing American Films Exclusively"]],
+   "rows": [["Kanto", "137", "35"], ["Kansai", "86", "25"], ["Nagoya", "29", "9"], ["Kyushu", "21", "6"], ["Hokkaido", "18", "7"], ["Total", "291", "82"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "Column 'Showing American Films': 137+86+29+21+18 = 291, printed 291, agree. Column 'Showing American Films Exclusively': 35+25+9+6+7 = 82, printed 82, agree.",
+   "warnings": [], "ocr_check": "OCR matched the image on all cells."}
+]}

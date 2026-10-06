@@ -1,0 +1,22 @@
+{"tables": [
+{"page": 53, "pages": [53], "title": "[Production, average unit cost and value of lumber by province (printed page 39)]", "units": "production in suk; unit cost in yen; value in yen", "period": "", "source_note": "SOURCE: USAMGIK.",
+ "header": [["Plate", "Production (suk) a/", "Average Unit Cost (yen)", "Value (yen)"]],
+ "rows": [["Kyonggi-do", "1,004", "600", "602,400"], ["Kangwon-do", "347", "383", "132,901"], ["Chungchong-pukto", "-", "-", "-"], ["Chungchong-namdo", "511", "295", "150,745"], ["Cholla-pukto", "-", "-", "-"], ["Cholla-namdo", "-", "-", "-"], ["Kyongsang-pukto", "54", "250", "13,500"], ["Kyongsang-namdo", "90", "420", "37,800"], ["Total", "2,006", "", "937,346"]],
+ "footnotes": ["a/ One suk equals 120 board feet."], "unreadable": [],
+ "totals_check": "Production: 1,004+347+511+54+90 = 2,006, printed 2,006, agrees. Value: 602,400+132,901+150,745+13,500+37,800 = 937,346, printed 937,346, agrees. No total printed for unit cost (blank in original).", "warnings": [], "ocr_check": "OCR matched the image; first column heading printed as 'Plate' (as in original). Table title is not on this page (begins on the preceding page)."},
+{"page": 64, "pages": [64], "title": "Current postal rates", "units": "cheun and weun per weight stated", "period": "effective 12 August 1946", "source_note": "SOURCE: USAMGIK.",
+ "header": [["Classification", "Item", "Rates a/"]],
+ "rows": [["1st Class", "Letters", "50 cheun per 20 grams"], ["", "Ordinary post cards", "25 cheun"], ["", "Printed letters, circulars", "50 cheun per 100 grams"], ["2nd Class", "Return post cards", "50 cheun"], ["", "Letter style cards", "50 cheun"], ["3rd Class", "Periodicals", "25 cheun per 100 grams"], ["", "Daily newspapers", "15 cheun per 100 grams"], ["4th Class", "Booklets, commercial papers, samples of merchandise", "50 cheun per 100 grams"], ["", "Printed matter for blind", "15 cheun per 100 grams"], ["", "Parcel post", "5 weun per 2,000 grams"], ["5th Class", "Parcel post", "7.50 weun per 4,000 grams"], ["", "Agricultural seeds", "15 cheun per 100 grams"]],
+ "footnotes": ["a/ Rate specifying weight limitation for maximum indicated or fraction thereof."], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image (it read 'USANGIK' in the source line; the page prints USAMGIK). Blank first-column cells are blank in the original (class label printed once per group)."},
+{"page": 69, "pages": [69], "title": "Imports (metric tons), May, June and July 1946", "units": "metric tons", "period": "May, June, July 1946", "source_note": "",
+ "header": [["Month", "Emergency Civilian Supply Program", "All Other", "Total"]],
+ "rows": [["May", "18,555", "847", "19,402"], ["June", "37,794", "613", "38,407"], ["July", "37,814", "6,675", "44,489"], ["Total", "94,163", "8,135", "102,298"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "ECSP: 18,555+37,794+37,814 = 94,163, printed 94,163, agrees. All Other: 847+613+6,675 = 8,135, printed 8,135, agrees. Total column: 19,402+38,407+44,489 = 102,298, printed 102,298, agrees. Row sums (ECSP + All Other) also agree for each month.", "warnings": [], "ocr_check": "OCR matched the image."},
+{"page": 69, "pages": [69], "title": "Exports (metric tons), May, June and July 1946", "units": "metric tons", "period": "May, June, July 1946", "source_note": "",
+ "header": [["Month", "Exports"]],
+ "rows": [["May", "142"], ["June", "547"], ["July", "2,855"], ["Total", "3,544"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "142+547+2,855 = 3,544, printed 3,544, agrees.", "warnings": [], "ocr_check": "OCR matched the image; the exports table has no column heading in the original, so 'Exports' is supplied from the table title."}
+]}

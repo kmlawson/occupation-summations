@@ -1,0 +1,17 @@
+{"tables": [
+{"page": 128, "pages": [128], "title": "Libraries in Japan", "units": "", "period": "1 April 1945 - 31 March 1946", "source_note": "Ministry of Education.",
+ "header": [["Type", "Libraries a/", "Librarians", "Books", "Readers"]],
+ "rows": [["Prefecture", "70", "556", "3,175,617", "2,144,934"], ["City", "188", "836", "2,114,874", "2,932,099"], ["Town", "519", "951", "925,662", "1,580,085"], ["Village", "1,495", "2,570", "636,265", "1,249,305"], ["Union", "37", "67", "75,220", "38,729"], ["Private", "498", "329", "2,149,708", "855,313"], ["Total", "2,807", "5,309", "9,077,346", "8,800,465"]],
+ "footnotes": ["a/ Number reported 1 May 1946"], "unreadable": [],
+ "totals_check": "Summed each column over the six types: Libraries 2,807 (printed 2,807, agree); Librarians 5,309 (printed 5,309, agree); Books 9,077,346 (printed 9,077,346, agree); Readers 8,800,465 (printed 8,800,465, agree).", "warnings": [], "ocr_check": "OCR matched all figures."},
+{"page": 128, "pages": [128], "title": "Traveling libraries a/", "units": "", "period": "1 April 1945 - 31 March 1946", "source_note": "Ministry of Education.",
+ "header": [["", "Books", "Book Cases", "Addressees", "Readers", "Expenditure"]],
+ "rows": [["Prefecture", "280,557", "3,771", "2,362", "869,973", "¥ 117,563"], ["City", "62,965", "1,185", "129", "97,104", "17,015"], ["Town", "9,260", "472", "111", "14,646", "1,050"], ["Village", "24,859", "638", "193", "23,194", "1,159"], ["Union", "465", "26", "24", "758", "130"], ["Private", "102,009", "287", "185", "18,654", "916"], ["Total", "480,115", "6,379", "3,004", "1,024,329", "¥ 137,833"]],
+ "footnotes": ["a/ Report of Nagano Prefecture not received."], "unreadable": [],
+ "totals_check": "Summed each column over the six types: Books 480,115 (printed 480,115, agree); Book Cases 6,379 (agree); Addressees 3,004 (agree); Readers 1,024,329 (agree); Expenditure 137,833 (agree).", "warnings": [], "ocr_check": "OCR matched; it read the yen sign as $ in the Expenditure column, and the printed column heading is Addressees."},
+{"page": 128, "pages": [128], "title": "Library budgets", "units": "yen", "period": "1 April 1945 - 31 March 1946", "source_note": "Ministry of Education.",
+ "header": [["", "Books", "Personnel", "Miscellaneous", "Total"]],
+ "rows": [["Prefecture", "473,299", "992,140", "324,295", "1,789,734"], ["City", "422,861", "628,489", "253,219", "1,304,569"], ["Town", "139,107", "166,526", "85,680", "391,313"], ["Village", "126,685", "29,886", "16,620", "173,191"], ["Union", "9,594", "20,590", "2,647", "32,831"], ["Private", "284,878", "422,838", "232,664", "940,380"], ["Total", "1,456,424", "2,260,469", "915,125", "4,632,018"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Summed each column over the six types: Books 1,456,424 (printed 1,456,424, agree); Personnel 2,260,469 (printed 2,260,469, agree); Miscellaneous 915,125 (agree); Total 4,632,018 (agree). Row sums of the three parts also equal the printed row totals checked for Prefecture, City, Town, Village, Union and Private.", "warnings": [], "ocr_check": "OCR misread Town Personnel (166,826 for 166,526), Union Personnel (20,890 for 20,590), Private Personnel (422,828 for 422,838) and Total Personnel (2,360,469 for 2,260,469); corrected from the image and confirmed by the sums."}
+]}

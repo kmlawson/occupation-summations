@@ -1,0 +1,8 @@
+{"tables": [
+  {"page": 92, "pages": [92], "title": "[New middle schools established in South Korea since the beginning of Military Government, by province]",
+   "units": "number of new middle schools", "period": "since the beginning of Military Government (report of October 1946)", "source_note": "",
+   "header": [["Province", "New middle schools"]],
+   "rows": [["Kyonggi-do", "20"], ["Chungchong-pukto", "13"], ["Chungchong-namdo", "8"], ["Cholla-pukto", "4"], ["Cholla-namdo", "7"], ["Cheju-do", "1"], ["Kyongsang-pukto", "17"], ["Kyongsang-namdo", "6"], ["Kwangwon-do", "6"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed in the table; running text says 82 new middle schools. Sum of the nine provinces = 20+13+8+4+7+1+17+6+6 = 82, which agrees with the text. The table has no column headings in the original (headings supplied); gaps between groups of rows are blank lines only.", "warnings": [], "ocr_check": "OCR matched all rows and figures."}
+]}

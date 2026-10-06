@@ -1,0 +1,1312 @@
+{
+ "tables": [
+  {
+   "page": 114,
+   "pages": [
+    114
+   ],
+   "title": "Meat inspection report, March",
+   "units": "animals",
+   "period": "March (1946)",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Cattle",
+     "Calves",
+     "Sheep, Goats",
+     "Swine",
+     "Horses"
+    ]
+   ],
+   "rows": [
+    [
+     "Slaughtered",
+     "14,398",
+     "1,070",
+     "46",
+     "3,472",
+     "3,330"
+    ],
+    [
+     "Condemned",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Ante-mortem",
+     "1",
+     "1",
+     "0",
+     "1",
+     "2"
+    ],
+    [
+     "  Post-mortem",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "    Total",
+     "15",
+     "1",
+     "0",
+     "1",
+     "1"
+    ],
+    [
+     "    Partial",
+     "152",
+     "28",
+     "0",
+     "25",
+     "246"
+    ],
+    [
+     "    Viscera",
+     "2,208",
+     "94",
+     "0",
+     "1,057",
+     "401"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR misread swine slaughtered (2,472 for 3,472), horses partial (245 for 246) and swine viscera (1,087 for 1,057); otherwise matched. Blank cells on the Condemned and Post-mortem label rows are blank in the original."
+  },
+  {
+   "page": 114,
+   "pages": [
+    114
+   ],
+   "title": "Milk inspection report, March: special milk",
+   "units": "number",
+   "period": "March (1946)",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Number"
+    ]
+   ],
+   "rows": [
+    [
+     "Farm inspections",
+     "30"
+    ],
+    [
+     "  Milk samples examined",
+     "26"
+    ],
+    [
+     "  Over bacterial standards (50,000 per cc)",
+     "0"
+    ],
+    [
+     "  Under butterfat standards (3.3 percent)",
+     "0"
+    ],
+    [
+     "Plant inspections",
+     "49"
+    ],
+    [
+     "  Over bacterial standards (50,000 per cc)",
+     "0"
+    ],
+    [
+     "  Under butterfat standards (3.3 percent)",
+     "0"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR misread samples examined (35 for 26), the bacterial standard (20,000 for 50,000) and the butterfat standard (2.2 for 3.3)."
+  },
+  {
+   "page": 114,
+   "pages": [
+    114
+   ],
+   "title": "Milk inspection report, March: ordinary milk",
+   "units": "number",
+   "period": "March (1946)",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Number"
+    ]
+   ],
+   "rows": [
+    [
+     "Farm inspections",
+     "8,476"
+    ],
+    [
+     "  Milk samples examined",
+     "9,799"
+    ],
+    [
+     "  Over bacterial standards (2,000,000 per cc)",
+     "502"
+    ],
+    [
+     "  Under butterfat standards (3 percent)",
+     "2,344"
+    ],
+    [
+     "Plant inspections",
+     "3,536"
+    ],
+    [
+     "  Over bacterial standards (2,000,000 per cc)",
+     "355"
+    ],
+    [
+     "  Under butterfat standards (3 percent)",
+     "705"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR misread farm inspections (5,475 for 8,476) and the butterfat standard (2 percent for 3 percent); other figures matched."
+  },
+  {
+   "page": 114,
+   "pages": [
+    114
+   ],
+   "title": "Milk inspection report, March: goat milk",
+   "units": "number",
+   "period": "March (1946)",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Number"
+    ]
+   ],
+   "rows": [
+    [
+     "Farm inspections",
+     "41"
+    ],
+    [
+     "  Milk samples examined",
+     "44"
+    ],
+    [
+     "  Over bacterial standards (2,000,000 per cc)",
+     "3"
+    ],
+    [
+     "  Under butterfat standards (3 percent)",
+     "1"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read over-bacterial as 2 (image reads 3) and butterfat standard as 2 percent (image 3 percent)."
+  },
+  {
+   "page": 114,
+   "pages": [
+    114
+   ],
+   "title": "Animal disease report, April",
+   "units": "number of cases",
+   "period": "April (1946)",
+   "source_note": "Ministry of Agriculture and Forestry, Animal Disease Section",
+   "header": [
+    [
+     "Disease",
+     "Number of Cases"
+    ]
+   ],
+   "rows": [
+    [
+     "Anthrax",
+     "2"
+    ],
+    [
+     "Abortion, infectious (bovine)",
+     "35"
+    ],
+    [
+     "Abortion, infectious (equine)",
+     "21"
+    ],
+    [
+     "Scabies",
+     "2"
+    ],
+    [
+     "Erysipelas (swine)",
+     "2"
+    ],
+    [
+     "Anemia, infectious (equine)",
+     "6"
+    ],
+    [
+     "Pullorum (chick)",
+     "1,858"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR misread bovine abortion (25 for 35), anemia (5 for 6) and pullorum (1,828 for 1,858)."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Population in present area of Japan Proper",
+   "units": "millions",
+   "period": "1 Oct 1940 to 26 Apr 1946",
+   "source_note": "",
+   "header": [
+    [
+     "Date",
+     "Census",
+     "Adjusted",
+     "Adjustments"
+    ]
+   ],
+   "rows": [
+    [
+     "1 Oct 40",
+     "72.4",
+     "70.6 a/",
+     ""
+    ],
+    [
+     "22 Feb 44",
+     "72.3 a/",
+     "72.5 a/",
+     "Assuming 200,000 not enumerated."
+    ],
+    [
+     "1 Nov 45",
+     "72.0",
+     "72.9",
+     "Assuming 500,000 Koreans and 400,000 others not enumerated."
+    ],
+    [
+     "26 Apr 46",
+     "73.1",
+     "74.0",
+     "Adding 600,000 Koreans, Chinese, Ryukyuans awaiting repatriation; assuming 300,000 others not enumerated."
+    ]
+   ],
+   "footnotes": [
+    "a/ Not including military personnel."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR misread 22 Feb 44 adjusted (72.8 for 72.5), and the adjustments text (Hyunsung for Ryukyuans, 200,000 for 300,000). The Adjustments cell for 1 Oct 40 is blank in the original."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Distribution of population by sex (paragraph 62)",
+   "units": "persons",
+   "period": "1 Oct 1940; 1 Nov 1945; 26 Apr 1946",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "1 Oct 1940",
+     "1 Nov 45",
+     "26 Apr 46"
+    ]
+   ],
+   "rows": [
+    [
+     "Male",
+     "36,210,096",
+     "33,894,643",
+     "34,903,265"
+    ],
+    [
+     "Female",
+     "36,144,574",
+     "38,101,834",
+     "38,207,730"
+    ],
+    [
+     "Total",
+     "72,354,670",
+     "71,996,477",
+     "73,110,995"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Male + female per column: 36,210,096+36,144,574=72,354,670 (agrees); 33,894,643+38,101,834=71,996,477 (agrees); 34,903,265+38,207,730=73,110,995 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR misread many digits in this table (e.g. 26,210,096 for 36,210,096, 22,207,720 for 38,207,730); the image figures add up."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Urban and rural population, Japan",
+   "units": "millions",
+   "period": "1 Oct 1940 to 26 Apr 1946",
+   "source_note": "",
+   "header": [
+    [
+     "Date",
+     "Urban",
+     "Rural",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "1 Oct 40",
+     "30.1",
+     "42.3",
+     "72.4"
+    ],
+    [
+     "22 Feb 44",
+     "30.3",
+     "42.0",
+     "72.3"
+    ],
+    [
+     "1 Nov 45",
+     "19.5",
+     "52.5",
+     "72.0"
+    ],
+    [
+     "26 Apr 46",
+     "22.2",
+     "50.9",
+     "73.1"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Urban + rural per row: 72.4, 72.3, 72.0, 73.1; all agree with printed totals.",
+   "warnings": [],
+   "ocr_check": "OCR misread 26 Apr 46 row (32.3/72.1 for 22.2/73.1); rest matched. Subtitle printed: Urban for 1940, 1944, 1945 adjusted for boundary changes."
+  },
+  {
+   "page": 120,
+   "pages": [
+    120
+   ],
+   "title": "Population of Japan by prefectures, unadjusted census returns",
+   "units": "persons",
+   "period": "1 Oct 1940; 1 Nov 1945; 26 Apr 1946",
+   "source_note": "",
+   "header": [
+    [
+     "District / Prefecture",
+     "1 Oct 1940",
+     "1 Nov 1945",
+     "26 Apr 1946"
+    ]
+   ],
+   "rows": [
+    [
+     "HOKKAI DISTRICT",
+     "3,272,718",
+     "3,518,389",
+     "3,488,013"
+    ],
+    [
+     "  HOKKAIDO",
+     "3,272,718",
+     "3,518,389",
+     "3,488,013"
+    ],
+    [
+     "TOHOKU DISTRICT",
+     "7,164,674",
+     "8,268,023",
+     "8,177,895"
+    ],
+    [
+     "  AKITA",
+     "1,052,275",
+     "1,211,962",
+     "1,195,813"
+    ],
+    [
+     "  AOMORI",
+     "1,000,509",
+     "1,083,250",
+     "1,089,232"
+    ],
+    [
+     "  FUKUSHIMA",
+     "1,625,521",
+     "1,957,356",
+     "1,918,746"
+    ],
+    [
+     "  IWATE",
+     "1,095,793",
+     "1,227,789",
+     "1,217,070"
+    ],
+    [
+     "  MIYAGI",
+     "1,271,238",
+     "1,461,316",
+     "1,462,100"
+    ],
+    [
+     "  YAMAGATA",
+     "1,119,338",
+     "1,326,350",
+     "1,294,934"
+    ],
+    [
+     "KANTO-SHINETSU DISTRICT",
+     "21,304,250",
+     "19,754,583",
+     "20,360,788"
+    ],
+    [
+     "  CHIBA",
+     "1,588,425",
+     "1,966,873",
+     "2,008,114"
+    ],
+    [
+     "  GUMMA",
+     "1,299,027",
+     "1,546,081",
+     "1,524,635"
+    ],
+    [
+     "  IBARAKI",
+     "1,620,000",
+     "1,944,573",
+     "1,940,833"
+    ],
+    [
+     "  KANAGAWA",
+     "2,188,974",
+     "1,865,667",
+     "2,019,943"
+    ],
+    [
+     "  NAGANO",
+     "1,710,729",
+     "2,120,950",
+     "2,028,235"
+    ],
+    [
+     "  NIIGATA",
+     "2,064,402",
+     "",
+     "2,326,811"
+    ],
+    [
+     "  SAITAMA",
+     "1,608,039",
+     "2,047,090",
+     "2,028,553"
+    ],
+    [
+     "  TOCHIGI",
+     "1,206,657",
+     "1,546,355",
+     "1,503,619"
+    ],
+    [
+     "  TOKYO",
+     "7,354,971",
+     "3,488,284",
+     "4,183,072"
+    ],
+    [
+     "  YAMANASHI",
+     "663,026",
+     "839,057",
+     "796,973"
+    ],
+    [
+     "TOKAI-HOKURIKU DISTRICT",
+     "9,228,504",
+     "9,831,975",
+     "9,804,868"
+    ],
+    [
+     "  AICHI",
+     "3,166,592",
+     "2,857,338",
+     "2,919,085"
+    ],
+    [
+     "  GIFU",
+     "1,265,024",
+     "1,518,649",
+     "1,444,000"
+    ],
+    [
+     "  ISHIKAWA",
+     "757,676",
+     "887,510",
+     "877,197"
+    ],
+    [
+     "  MIE",
+     "1,198,783",
+     "1,394,286",
+     "1,371,858"
+    ],
+    [
+     "  SHIZUOKA",
+     "2,017,860",
+     "2,220,358",
+     "2,260,059"
+    ],
+    [
+     "  TOYAMA",
+     "822,569",
+     "953,834",
+     "932,669"
+    ],
+    [
+     "KINKI DISTRICT",
+     "12,577,357",
+     "10,528,105",
+     "10,628,951"
+    ],
+    [
+     "  FUKUI",
+     "643,904",
+     "724,856",
+     "695,703"
+    ],
+    [
+     "  HYOGO",
+     "3,221,232",
+     "2,821,892",
+     "2,826,192"
+    ],
+    [
+     "  KYOTO",
+     "1,729,993",
+     "1,603,797",
+     "1,621,998"
+    ],
+    [
+     "  NARA",
+     "620,509",
+     "779,685",
+     "744,381"
+    ],
+    [
+     "  OSAKA",
+     "4,792,966",
+     "2,800,958",
+     "2,976,140"
+    ],
+    [
+     "  SHIGA",
+     "703,679",
+     "860,911",
+     "831,306"
+    ],
+    [
+     "  WAKAYAMA",
+     "865,074",
+     "936,006",
+     "933,231"
+    ],
+    [
+     "CHUGOKU DISTRICT",
+     "5,718,434",
+     "6,230,132",
+     "6,221,947"
+    ],
+    [
+     "  HIROSHIMA",
+     "1,869,504",
+     "1,885,471",
+     "1,901,430"
+    ],
+    [
+     "  OKAYAMA",
+     "1,329,358",
+     "1,564,626",
+     "1,538,621"
+    ],
+    [
+     "  SHIMANE",
+     "740,940",
+     "860,275",
+     "848,995"
+    ],
+    [
+     "  TOTTORI",
+     "484,390",
+     "563,220",
+     "557,429"
+    ],
+    [
+     "  YAMAGUCHI",
+     "1,294,242",
+     "1,356,540",
+     "1,375,472"
+    ],
+    [
+     "SHIKOKU DISTRICT",
+     "3,337,102",
+     "3,836,378",
+     "3,879,672"
+    ],
+    [
+     "  EHIME",
+     "1,178,705",
+     "1,361,484",
+     "1,380,700"
+    ],
+    [
+     "  KAGAWA",
+     "730,394",
+     "863,553",
+     "872,312"
+    ],
+    [
+     "  KOCHI",
+     "709,286",
+     "775,578",
+     "797,876"
+    ],
+    [
+     "  TOKUSHIMA",
+     "718,717",
+     "835,763",
+     "828,784"
+    ],
+    [
+     "KYUSHU DISTRICT",
+     "9,751,631",
+     "10,028,892",
+     "10,548,861"
+    ],
+    [
+     "  FUKUOKA",
+     "3,094,132",
+     "2,746,855",
+     "2,906,644"
+    ],
+    [
+     "  KAGOSHIMA",
+     "1,404,408",
+     "1,538,466",
+     "1,629,760"
+    ],
+    [
+     "  KUMAMOTO",
+     "1,368,179",
+     "1,556,351",
+     "1,631,976"
+    ],
+    [
+     "  MIYAZAKI",
+     "840,357",
+     "913,687",
+     "957,856"
+    ],
+    [
+     "  NAGASAKI",
+     "1,370,063",
+     "1,318,589",
+     "1,417,924"
+    ],
+    [
+     "  OITA",
+     "972,975",
+     "1,124,513",
+     "1,148,009"
+    ],
+    [
+     "  SAGA",
+     "701,517",
+     "830,431",
+     "856,692"
+    ],
+    [
+     "JAPAN PROPER - TOTAL",
+     "72,354,670",
+     "71,996,477",
+     "73,110,995"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [
+    "row 'NIIGATA', column '1 Nov 1945': last two digits unclear (653 or 663); left blank. The printed Kanto-Shinetsu district total reconciles only if the figure is 2,389,653."
+   ],
+   "totals_check": "Prefectures summed within each district and districts summed to Japan Proper total. All agree for 1940, 1945 and 1946 (district sums and grand totals), except Kanto-Shinetsu 1 Nov 1945: the nine readable prefectures plus Niigata read as 2,389,663 give 19,754,593 against printed 19,754,583 (off by 10, probably my reading of Niigata). Grand totals: 72,354,670, 71,996,477 and 73,110,995 all agree with the sum of the district totals.",
+   "warnings": [
+    "Kanto-Shinetsu 1 Nov 1945: sum of prefectures does not clearly agree with printed district total; Niigata cell left blank because the digits are ambiguous."
+   ],
+   "ocr_check": "OCR garbled prefecture names and misread numerous digits (e.g. 8,177,898, 6,968,023, 9,351,975); transcription is from the image, and OCR also gave 9,351,975 for Tokai-Hokuriku 1945 where the image reads 9,831,975 and the parts sum to it. Printed page 228 (title printed as 'Prefectures'; OCR read 'Percentages')."
+  },
+  {
+   "page": 120,
+   "pages": [
+    120
+   ],
+   "title": "Population of Japan by sex, 26 April",
+   "units": "persons",
+   "period": "26 April 1946",
+   "source_note": "",
+   "header": [
+    [
+     "District / Prefecture",
+     "Male",
+     "Female",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "HOKKAI DISTRICT",
+     "1,712,973",
+     "1,775,040",
+     "3,488,013"
+    ],
+    [
+     "  HOKKAIDO",
+     "1,712,973",
+     "1,775,040",
+     "3,488,013"
+    ],
+    [
+     "TOHOKU DISTRICT",
+     "3,879,157",
+     "4,298,738",
+     "8,177,895"
+    ],
+    [
+     "  AKITA",
+     "574,937",
+     "620,876",
+     "1,195,813"
+    ],
+    [
+     "  AOMORI",
+     "521,133",
+     "568,099",
+     "1,089,232"
+    ],
+    [
+     "  FUKUSHIMA",
+     "900,709",
+     "1,018,037",
+     "1,918,746"
+    ],
+    [
+     "  IWATE",
+     "581,141",
+     "635,929",
+     "1,217,070"
+    ],
+    [
+     "  MIYAGI",
+     "694,016",
+     "768,084",
+     "1,462,100"
+    ],
+    [
+     "  YAMAGATA",
+     "607,221",
+     "687,713",
+     "1,294,934"
+    ],
+    [
+     "KANTO-SHINETSU DISTRICT",
+     "9,795,413",
+     "10,565,375",
+     "20,360,788"
+    ],
+    [
+     "  CHIBA",
+     "945,405",
+     "1,062,709",
+     "2,008,114"
+    ],
+    [
+     "  GUMMA",
+     "722,343",
+     "802,292",
+     "1,524,635"
+    ],
+    [
+     "  IBARAKI",
+     "921,385",
+     "1,019,448",
+     "1,940,833"
+    ],
+    [
+     "  KANAGAWA",
+     "1,004,572",
+     "1,015,371",
+     "2,019,943"
+    ],
+    [
+     "  NAGANO",
+     "949,588",
+     "1,078,647",
+     "2,028,235"
+    ],
+    [
+     "  NIIGATA",
+     "1,084,630",
+     "1,242,181",
+     "2,326,811"
+    ],
+    [
+     "  SAITAMA",
+     "965,357",
+     "1,063,196",
+     "2,028,553"
+    ],
+    [
+     "  TOCHIGI",
+     "709,874",
+     "793,745",
+     "1,503,619"
+    ],
+    [
+     "  TOKYO",
+     "2,118,479",
+     "2,064,593",
+     "4,183,072"
+    ],
+    [
+     "  YAMANASHI",
+     "373,780",
+     "423,193",
+     "796,973"
+    ],
+    [
+     "TOKAI-HOKURIKU DISTRICT",
+     "4,659,042",
+     "5,145,826",
+     "9,804,868"
+    ],
+    [
+     "  AICHI",
+     "1,398,244",
+     "1,520,841",
+     "2,919,085"
+    ],
+    [
+     "  GIFU",
+     "693,099",
+     "750,901",
+     "1,444,000"
+    ],
+    [
+     "  ISHIKAWA",
+     "407,430",
+     "469,767",
+     "877,197"
+    ],
+    [
+     "  MIE",
+     "642,340",
+     "729,518",
+     "1,371,858"
+    ],
+    [
+     "  SHIZUOKA",
+     "1,077,329",
+     "1,182,730",
+     "2,260,059"
+    ],
+    [
+     "  TOYAMA",
+     "440,600",
+     "492,069",
+     "932,669"
+    ],
+    [
+     "KINKI DISTRICT",
+     "5,064,743",
+     "5,564,208",
+     "10,628,951"
+    ],
+    [
+     "  FUKUI",
+     "323,675",
+     "372,028",
+     "695,703"
+    ],
+    [
+     "  HYOGO",
+     "1,362,854",
+     "1,463,338",
+     "2,826,192"
+    ],
+    [
+     "  KYOTO",
+     "766,078",
+     "855,920",
+     "1,621,998"
+    ],
+    [
+     "  NARA",
+     "345,341",
+     "399,040",
+     "744,381"
+    ],
+    [
+     "  OSAKA",
+     "1,443,286",
+     "1,532,854",
+     "2,976,140"
+    ],
+    [
+     "  SHIGA",
+     "385,848",
+     "445,458",
+     "831,306"
+    ],
+    [
+     "  WAKAYAMA",
+     "437,661",
+     "495,570",
+     "933,231"
+    ],
+    [
+     "CHUGOKU DISTRICT",
+     "2,951,300",
+     "3,270,647",
+     "6,221,947"
+    ],
+    [
+     "  HIROSHIMA",
+     "907,215",
+     "994,215",
+     "1,901,430"
+    ],
+    [
+     "  OKAYAMA",
+     "726,814",
+     "811,807",
+     "1,538,621"
+    ],
+    [
+     "  SHIMANE",
+     "398,615",
+     "450,380",
+     "848,995"
+    ],
+    [
+     "  TOTTORI",
+     "258,458",
+     "298,971",
+     "557,429"
+    ],
+    [
+     "  YAMAGUCHI",
+     "660,198",
+     "715,274",
+     "1,375,472"
+    ],
+    [
+     "SHIKOKU DISTRICT",
+     "1,828,540",
+     "2,051,132",
+     "3,879,672"
+    ],
+    [
+     "  EHIME",
+     "654,681",
+     "726,019",
+     "1,380,700"
+    ],
+    [
+     "  KAGAWA",
+     "408,427",
+     "463,885",
+     "872,312"
+    ],
+    [
+     "  KOCHI",
+     "376,063",
+     "421,813",
+     "797,876"
+    ],
+    [
+     "  TOKUSHIMA",
+     "389,369",
+     "439,415",
+     "828,784"
+    ],
+    [
+     "KYUSHU DISTRICT",
+     "5,012,097",
+     "5,536,764",
+     "10,548,861"
+    ],
+    [
+     "  FUKUOKA",
+     "1,409,865",
+     "1,496,779",
+     "2,906,644"
+    ],
+    [
+     "  KAGOSHIMA",
+     "759,468",
+     "870,292",
+     "1,629,760"
+    ],
+    [
+     "  KUMAMOTO",
+     "765,658",
+     "866,318",
+     "1,631,976"
+    ],
+    [
+     "  MIYAZAKI",
+     "455,537",
+     "502,319",
+     "957,856"
+    ],
+    [
+     "  NAGASAKI",
+     "682,544",
+     "735,380",
+     "1,417,924"
+    ],
+    [
+     "  OITA",
+     "538,426",
+     "609,583",
+     "1,148,009"
+    ],
+    [
+     "  SAGA",
+     "440,599",
+     "456,093",
+     "856,692"
+    ],
+    [
+     "JAPAN PROPER - TOTAL",
+     "34,903,265",
+     "38,207,730",
+     "73,110,995"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Male + female = total checked per row: all agree except Saga (440,599 + 456,093 = 896,692 vs printed 856,692; 416,093 would agree). Prefecture sums within districts agree for all districts except Kyushu (prefecture male sums 5,052,097 vs printed 5,012,097; prefecture female as read sums to 5,536,764 with Saga 456,093 vs printed 5,536,764 agrees... see warnings). District totals sum to printed Japan Proper totals: male 34,903,265 and female 38,207,730 agree.",
+   "warnings": [
+    "Kyushu District: prefecture male figures as read sum to 5,052,097 against printed district total 5,012,097; the Kyushu district male+female total (10,548,861) and the Japan Proper totals agree with the printed district figures.",
+    "Saga: female 456,093 as read does not add with male 440,599 to printed total 856,692 (difference 40,000); possible misreading of the male or female digit, not corrected."
+   ],
+   "ocr_check": "OCR garbled prefecture names and misread many digits (e.g. 1,772,040, 4,259,738); transcription is from the image. Printed page 229."
+  },
+  {
+   "page": 121,
+   "pages": [
+    121
+   ],
+   "title": "Population shift - six largest cities",
+   "units": "number in thousands; change in percent",
+   "period": "Censuses of 1940, 1945 and 1946",
+   "source_note": "",
+   "header": [
+    [
+     "City and Prefecture",
+     "Census",
+     "City Only: Number (thousands)",
+     "City Only: Change from Preceding Census (percent)",
+     "Prefecture Less City: Number (thousands)",
+     "Prefecture Less City: Change from Preceding Census (percent)"
+    ]
+   ],
+   "rows": [
+    [
+     "Tokyo,",
+     "1940",
+     "6,779",
+     "",
+     "576",
+     ""
+    ],
+    [
+     "  Tokyo",
+     "1945",
+     "2,777",
+     "- 59.0",
+     "711",
+     "+ 23.4"
+    ],
+    [
+     "",
+     "1946",
+     "3,442",
+     "+ 23.9",
+     "741",
+     "+ 4.2"
+    ],
+    [
+     "Osaka,",
+     "1940",
+     "3,252",
+     "",
+     "1,541",
+     ""
+    ],
+    [
+     "  Osaka",
+     "1945",
+     "1,103",
+     "- 66.1",
+     "1,698",
+     "+ 10.2"
+    ],
+    [
+     "",
+     "1946",
+     "1,294",
+     "+ 17.3",
+     "1,682",
+     "- .9"
+    ],
+    [
+     "Kyoto,",
+     "1940",
+     "1,090",
+     "",
+     "640",
+     ""
+    ],
+    [
+     "  Kyoto",
+     "1945",
+     "866",
+     "- 20.6",
+     "728",
+     "+ 15.3"
+    ],
+    [
+     "",
+     "1946",
+     "915",
+     "+ 5.7",
+     "707",
+     "- 4.2"
+    ],
+    [
+     "Nagoya,",
+     "1940",
+     "1,328",
+     "",
+     "1,839",
+     ""
+    ],
+    [
+     "  Aichi",
+     "1945",
+     "598",
+     "- 55.0",
+     "2,259",
+     "+ 22.8"
+    ],
+    [
+     "",
+     "1946",
+     "719",
+     "+ 20.2",
+     "2,200",
+     "- 2.6"
+    ],
+    [
+     "Yokohama,",
+     "1940",
+     "968",
+     "",
+     "1,221",
+     ""
+    ],
+    [
+     "  Kanagawa",
+     "1945",
+     "625",
+     "- 35.4",
+     "1,241",
+     "+ 1.6"
+    ],
+    [
+     "",
+     "1946",
+     "707",
+     "+ 13.1",
+     "1,313",
+     "+ 5.8"
+    ],
+    [
+     "Kobe,",
+     "1940",
+     "967",
+     "",
+     "2,254",
+     ""
+    ],
+    [
+     "  Hyogo",
+     "1945",
+     "379",
+     "- 60.8",
+     "2,443",
+     "+ 8.4"
+    ],
+    [
+     "",
+     "1946",
+     "443",
+     "+ 16.9",
+     "2,383",
+     "- 2.5"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No totals printed. Percent changes recomputed from the numbers: all agree to the decimal except Kyoto prefecture 1945 (728 vs 640 gives +13.8, printed +15.3; 738 would agree) and the following 1946 change (707 vs 728 gives -2.9, printed -4.2; 707 vs 738 gives -4.2).",
+   "warnings": [
+    "Kyoto prefecture-less-city 1945: figure read as 728 but printed percentages imply 738; transcribed as read, not corrected."
+   ],
+   "ocr_check": "OCR misread several figures (Omaha for Osaka, 2,252 for 3,252, 987 for 967, Tokyo 1945 -55.0 for -59.0, 2,442 for 3,442, Kawaii for Kanagawa, 9.8 for 5.8) and the city labels; blank cells for 1940 change are blank in the original. Table is on printed page 231."
+  }
+ ]
+}

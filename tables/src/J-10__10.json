@@ -1,0 +1,1358 @@
+{
+ "tables": [
+  {
+   "page": 90,
+   "pages": [
+    90
+   ],
+   "title": "Component parts: production",
+   "units": "Other radio parts in thousands of yen (footnote a); units for other products not printed",
+   "period": "May and June [1946]",
+   "source_note": "Reports of manufacturing companies.",
+   "header": [
+    [
+     "Product",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "Condensers",
+     "1,110,000",
+     "1,290,000"
+    ],
+    [
+     "Resistors",
+     "955,000",
+     "1,520,000"
+    ],
+    [
+     "Transformers",
+     "22,000",
+     "37,000"
+    ],
+    [
+     "Speakers",
+     "41,000",
+     "29,000"
+    ],
+    [
+     "Other radio parts a/",
+     "6,540",
+     "6,680"
+    ]
+   ],
+   "footnotes": [
+    "a/ Production figures in thousands of yen."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 90,
+   "pages": [
+    90
+   ],
+   "title": "Wire communications equipment: production",
+   "units": "Telephone cable in kilometers (a); wire communications parts in thousands of yen (b); others not stated",
+   "period": "May and June [1946]",
+   "source_note": "Reports of manufacturing companies.",
+   "header": [
+    [
+     "Product",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "Telephone sets",
+     "10,830",
+     "16,250"
+    ],
+    [
+     "Manual switchboards",
+     "323",
+     "725"
+    ],
+    [
+     "Automatic switchboards",
+     "3,830",
+     "3,770"
+    ],
+    [
+     "Carrier equipment",
+     "92",
+     "132"
+    ],
+    [
+     "Repeater equipment",
+     "577",
+     "450"
+    ],
+    [
+     "Telephone cable a/",
+     "494",
+     "402"
+    ],
+    [
+     "Wire communications parts b/",
+     "6,410",
+     "9,740"
+    ]
+   ],
+   "footnotes": [
+    "a/ Production figures in kilometers.",
+    "b/ Production figures in thousands of yen."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 90,
+   "pages": [
+    90
+   ],
+   "title": "Ministry of Communications personnel",
+   "units": "persons",
+   "period": "30 June [1946]",
+   "source_note": "Ministry of Communications.",
+   "header": [
+    [
+     "Category",
+     "Subitem",
+     "Group total"
+    ]
+   ],
+   "rows": [
+    [
+     "Administrative",
+     "",
+     "60,502"
+    ],
+    [
+     "Operating",
+     "",
+     ""
+    ],
+    [
+     "  Telephone",
+     "74,742",
+     ""
+    ],
+    [
+     "  Telegraph",
+     "41,856",
+     ""
+    ],
+    [
+     "  Postal",
+     "90,603",
+     ""
+    ],
+    [
+     "  Money orders and savings",
+     "69,583",
+     ""
+    ],
+    [
+     "  Postal life insurance and annuities",
+     "51,859",
+     "328,643"
+    ],
+    [
+     "Construction",
+     "",
+     "11,128"
+    ],
+    [
+     "Total",
+     "",
+     "400,273"
+    ]
+   ],
+   "footnotes": [
+    "a/ Only permanently employed personnel included."
+   ],
+   "unreadable": [],
+   "totals_check": "Operating items 74,742+41,856+90,603+69,583+51,859 = 328,643, printed 328,643, agrees. Total 60,502+328,643+11,128 = 400,273, printed 400,273, agrees.",
+   "warnings": [],
+   "ocr_check": "OCR read 69,563 for 69,583 and 11,125 for 11,128; image values used. Table title carries footnote marker a/."
+  },
+  {
+   "page": 96,
+   "pages": [
+    96,
+    97
+   ],
+   "title": "Exports",
+   "units": "as given in Unit column",
+   "period": "Shipments 1946: June; July 1-15; January to July 15",
+   "source_note": "",
+   "header": [
+    [
+     "Country and Commodity",
+     "Unit",
+     "SCAP Authorization a/",
+     "Shipments 1946",
+     "Shipments 1946",
+     "Shipments 1946"
+    ],
+    [
+     "Country and Commodity",
+     "Unit",
+     "SCAP Authorization a/",
+     "June",
+     "July 1-15",
+     "Jan-July 15"
+    ]
+   ],
+   "rows": [
+    [
+     "China",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Detonators, electric",
+     "pc",
+     "726,000",
+     "180,000",
+     "",
+     "546,000"
+    ],
+    [
+     "  Dynamite",
+     "cs",
+     "5,600",
+     "1,500",
+     "",
+     "4,100"
+    ],
+    [
+     "  Eggs, silkworm",
+     "sheet",
+     "300,000",
+     "",
+     "",
+     "300,000"
+    ],
+    [
+     "  Locomotives, mining",
+     "ea",
+     "22",
+     "15",
+     "",
+     "15"
+    ],
+    [
+     "  Motor, electric (mining locomotive)",
+     "ea",
+     "22",
+     "10",
+     "",
+     "10"
+    ],
+    [
+     "  Seedlings, mulberry",
+     "pc",
+     "2,000,000",
+     "",
+     "",
+     "2,000,000"
+    ],
+    [
+     "  Sleepers, railway",
+     "pc",
+     "140,000",
+     "",
+     "",
+     "144,650"
+    ],
+    [
+     "  Timber, mining",
+     "pc",
+     "297,000 (monthly)",
+     "351,412",
+     "182,800",
+     "1,490,944"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Coal",
+     "MT",
+     "18,000 (per mo)",
+     "18,888",
+     "9,648",
+     "106,789"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Seeds, larch",
+     "lb",
+     "100",
+     "",
+     "",
+     "100"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Agar-agar",
+     "lb",
+     "1,076,000",
+     "47,610",
+     "",
+     "47,610"
+    ],
+    [
+     "  Antimony, slab",
+     "lb",
+     "3,306,900",
+     "535,930",
+     "614,068",
+     "1,149,998"
+    ],
+    [
+     "  Heaters, electric b/",
+     "set",
+     "2,000",
+     "",
+     "",
+     "2,000"
+    ],
+    [
+     "  Silk",
+     "bl/cs",
+     "83,900",
+     "12,455",
+     "5,936",
+     "49,851"
+    ],
+    [
+     "  Tin",
+     "lb",
+     "22,046,000",
+     "4,409,664",
+     "4,145,400",
+     "8,555,064"
+    ],
+    [
+     "  Lead",
+     "MT",
+     "15,000",
+     "5,000",
+     "",
+     "5,000"
+    ],
+    [
+     "  Rabbit hair, angora",
+     "lb",
+     "10,300",
+     "5,600",
+     "",
+     "5,600"
+    ],
+    [
+     "  Handicraft samples",
+     "cs",
+     "44",
+     "",
+     "44",
+     "44"
+    ],
+    [
+     "  Rubber",
+     "MT",
+     "10,000",
+     "1,192",
+     "713",
+     "1,905"
+    ],
+    [
+     "U.S.S.R.",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Eggs, silkworm",
+     "sheet",
+     "50,400",
+     "",
+     "",
+     "50,400"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Alcohol, industrial",
+     "drum",
+     "10",
+     "10",
+     "",
+     "10"
+    ],
+    [
+     "  Aluminum sulfate",
+     "MT",
+     "1,260",
+     "634",
+     "126",
+     "1,269"
+    ],
+    [
+     "  Apparatus, electrical",
+     "MT",
+     "c/",
+     "",
+     "10",
+     "10"
+    ],
+    [
+     "  Bamboo",
+     "bdl",
+     "84,333",
+     "42,846",
+     "",
+     "63,634"
+    ],
+    [
+     "  Bicycle parts",
+     "cs",
+     "4,740,000 (pcs)",
+     "",
+     "937",
+     "937"
+    ],
+    [
+     "  Calcium carbonate",
+     "Meas T",
+     "500",
+     "130",
+     "",
+     "130"
+    ],
+    [
+     "  Cars, motor",
+     "ea",
+     "2",
+     "2",
+     "",
+     "2"
+    ],
+    [
+     "  Chlorine, liquid",
+     "MT",
+     "12",
+     "",
+     "",
+     "12"
+    ],
+    [
+     "  Cloth",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "    Cotton",
+     "sq yd )",
+     "Total",
+     "",
+     "981,795",
+     "981,795"
+    ],
+    [
+     "    Silk",
+     "sq yd )",
+     "2,636,178",
+     "",
+     "148,715",
+     "148,715"
+    ],
+    [
+     "    Wool",
+     "Lin yd )",
+     "sq yds",
+     "",
+     "26,000",
+     "26 000"
+    ],
+    [
+     "  Coal",
+     "MT",
+     "d/",
+     "70,000",
+     "17,500",
+     "408,869"
+    ],
+    [
+     "  Cutouts, outdoor",
+     "ea",
+     "50",
+     "50",
+     "",
+     "50"
+    ],
+    [
+     "  Cutters, cloth",
+     "set",
+     "3",
+     "3",
+     "",
+     "3"
+    ],
+    [
+     "  Film, X-ray",
+     "sheet",
+     "8,000",
+     "8,016",
+     "",
+     "8,016"
+    ],
+    [
+     "  Headlights",
+     "cs",
+     "",
+     "",
+     "16",
+     "16"
+    ],
+    [
+     "  Ink, printing",
+     "lb",
+     "800",
+     "800",
+     "",
+     "800"
+    ],
+    [
+     "  Lamp, electric",
+     "cs",
+     "",
+     "",
+     "37",
+     "37"
+    ],
+    [
+     "  Magnesium carbonate",
+     "MT",
+     "100",
+     "",
+     "",
+     "30"
+    ],
+    [
+     "  Needles, cutting",
+     "pc",
+     "500",
+     "",
+     "",
+     "500"
+    ],
+    [
+     "  Paper, cigarette",
+     "lb",
+     "395,818",
+     "130,134",
+     "",
+     "395,818"
+    ],
+    [
+     "  Pitch",
+     "MT",
+     "6,214",
+     "",
+     "",
+     "8,426"
+    ],
+    [
+     "  Poles, telephone",
+     "pc",
+     "3,000",
+     "",
+     "3,000",
+     "3,000"
+    ],
+    [
+     "  Pyrethrum flowers",
+     "MT",
+     "85",
+     "",
+     "",
+     "85"
+    ],
+    [
+     "  Salt",
+     "MT",
+     "4,000",
+     "",
+     "",
+     "4,000"
+    ],
+    [
+     "  Seeds, vegetable",
+     "kg",
+     "54,368",
+     "32,750",
+     "",
+     "32,750"
+    ],
+    [
+     "  Seeds, mulberry",
+     "lb",
+     "3,000",
+     "",
+     "",
+     "3,000"
+    ],
+    [
+     "  Seedlings, mulberry",
+     "pc",
+     "910,000",
+     "",
+     "",
+     "910,000"
+    ],
+    [
+     "  Soda ash (sodium carbonate)",
+     "MT",
+     "75",
+     "",
+     "",
+     "60"
+    ],
+    [
+     "  Soda sulfate (Glauber salt)",
+     "Meas T",
+     "3",
+     "5.6",
+     "",
+     "5.6"
+    ],
+    [
+     "  Sodium amide",
+     "kg",
+     "100",
+     "",
+     "",
+     "100"
+    ],
+    [
+     "  Sodium bicarbonate",
+     "MT",
+     "5",
+     "",
+     "",
+     "5"
+    ],
+    [
+     "  Sulfur",
+     "MT",
+     "500",
+     "510",
+     "",
+     "510"
+    ],
+    [
+     "  Transportation Equipment",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "    Locomotives,",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "      Electric",
+     "ea",
+     "4",
+     "",
+     "",
+     "1"
+    ],
+    [
+     "      Gasoline",
+     "ea",
+     "5",
+     "",
+     "",
+     "5"
+    ],
+    [
+     "      Steam",
+     "ea",
+     "3",
+     "",
+     "2",
+     "3"
+    ],
+    [
+     "    Locomotive and tender",
+     "ea",
+     "7",
+     "",
+     "",
+     "2"
+    ],
+    [
+     "    Locomotive parts",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "      Frame main",
+     "set",
+     "1",
+     "",
+     "",
+     ""
+    ],
+    [
+     "      Motor, elec",
+     "ea",
+     "c/",
+     "6",
+     "",
+     "6"
+    ],
+    [
+     "      Motor acces",
+     "ea",
+     "c/",
+     "1",
+     "",
+     "1"
+    ],
+    [
+     "    Tender",
+     "ea",
+     "4",
+     "2",
+     "",
+     "2"
+    ],
+    [
+     "    Tender frame",
+     "ea",
+     "2",
+     "2",
+     "",
+     "2"
+    ],
+    [
+     "    Tender truck",
+     "ea",
+     "3",
+     "1",
+     "",
+     "1"
+    ],
+    [
+     "    Tires, locomotive",
+     "pr",
+     "292",
+     "292",
+     "",
+     "292"
+    ],
+    [
+     "    Truck, leading",
+     "ea",
+     "1",
+     "1",
+     "",
+     "1"
+    ],
+    [
+     "    Tubes, boiler",
+     "lb",
+     "17,800",
+     "",
+     "",
+     "10,897"
+    ],
+    [
+     "    Wheel and axle",
+     "pr",
+     "80",
+     "80",
+     "",
+     "80"
+    ],
+    [
+     "    Switch system parts",
+     "box",
+     "c/",
+     "",
+     "",
+     "28"
+    ]
+   ],
+   "footnotes": [
+    "a/ Total quantity authorized by SCAP to date for shipment in 1946.",
+    "b/ For United States Armed Forces in China.",
+    "c/ SCAP authorization in terms of detailed list not separately identifiable.",
+    "d/ Authorization of 70,000 to 75,000 per month, January through June; 50,000 for July."
+   ],
+   "unreadable": [],
+   "totals_check": "No totals printed; the Jan-July 15 column is cumulative and not necessarily June + July 1-15, so no sums were checked. Several rows (e.g. Korea Frame main set, Jan-July 15) are blank in the original.",
+   "warnings": [],
+   "ocr_check": "OCR matched in figures; it misplaced the Cloth rows' bracket/Total entries and read 'Slauber' for 'Glauber'. Table runs over printed pp. 177-179 (PDF pages 96-97). Blank cells are blank in the original; '26 000' (no comma) is as printed."
+  },
+  {
+   "page": 98,
+   "pages": [
+    98
+   ],
+   "title": "Imports",
+   "units": "as given in Unit column",
+   "period": "Quantity received 1946: June; July 1-15; January to July 15",
+   "source_note": "",
+   "header": [
+    [
+     "Country and Commodity",
+     "Unit",
+     "Quantity Received 1946",
+     "Quantity Received 1946",
+     "Quantity Received 1946"
+    ],
+    [
+     "Country and Commodity",
+     "Unit",
+     "June",
+     "July 1-15",
+     "Jan-July 15"
+    ]
+   ],
+   "rows": [
+    [
+     "China",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Bran, wheat",
+     "MT",
+     "5,284",
+     "",
+     "5,284"
+    ],
+    [
+     "  Iron, pig",
+     "MT",
+     "2,000",
+     "",
+     "2,000"
+    ],
+    [
+     "  Phosphate rock",
+     "MT",
+     "2,051",
+     "3,600",
+     "8,899"
+    ],
+    [
+     "  Salt",
+     "MT",
+     "4,122",
+     "8,100",
+     "125,787"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Biscuit",
+     "LT",
+     "",
+     "20",
+     "20"
+    ],
+    [
+     "  Vegetables",
+     "LT",
+     "",
+     "500",
+     "500"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fish, fresh",
+     "MT",
+     "",
+     "",
+     "20"
+    ],
+    [
+     "United States a/",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Cotton, raw",
+     "lb",
+     "21,827,277",
+     "38,395,158",
+     "71,154,483"
+    ],
+    [
+     "  Dynamite",
+     "sticks",
+     "",
+     "",
+     "27"
+    ],
+    [
+     "  Medical supplies and supplies for rodent control b/",
+     "MT",
+     "48.5",
+     "2.5",
+     "862.5"
+    ],
+    [
+     "  Petroleum products",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "    Oil, fuel",
+     "bbl",
+     "269,176",
+     "147,726",
+     "930,474"
+    ],
+    [
+     "    Oil, lubricant",
+     "gal",
+     "",
+     "",
+     "133,700"
+    ],
+    [
+     "  Phosphate rock",
+     "MT",
+     "832",
+     "",
+     "13,274"
+    ],
+    [
+     "  Seed, vegetable",
+     "lb",
+     "57,825",
+     "",
+     "58,353"
+    ],
+    [
+     "  Tentage and canvas, scrap",
+     "lb",
+     "422,306",
+     "",
+     "422,306"
+    ],
+    [
+     "  Food",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "    Army supplies misc",
+     "LT",
+     "",
+     "16,560",
+     "16,560"
+    ],
+    [
+     "    Beans",
+     "lb",
+     "",
+     "",
+     "284,325"
+    ],
+    [
+     "    Canned goods misc",
+     "LT",
+     "6,846",
+     "22,476",
+     "33,822"
+    ],
+    [
+     "    Cereal",
+     "lb",
+     "",
+     "",
+     "334,457"
+    ],
+    [
+     "    Corn",
+     "lb",
+     "",
+     "18,536,000",
+     "18,757,982"
+    ],
+    [
+     "    Crackers, soda",
+     "lb",
+     "",
+     "",
+     "570"
+    ],
+    [
+     "    Eggs",
+     "doz",
+     "",
+     "",
+     "1,610"
+    ],
+    [
+     "    Feed, misc",
+     "lb",
+     "82,047",
+     "",
+     "82,047"
+    ],
+    [
+     "    Fish, canned",
+     "lb",
+     "9,860,605",
+     "",
+     "11,519,724"
+    ],
+    [
+     "    Flour",
+     "lb",
+     "18,194,855",
+     "36,962,240",
+     "68,121,330"
+    ],
+    [
+     "    Foodstuffs, misc",
+     "LT",
+     "8,630",
+     "3,524",
+     "12,154"
+    ],
+    [
+     "    Juice, apple",
+     "lb",
+     "3,912",
+     "",
+     "3,912"
+    ],
+    [
+     "    Fruit, canned and dried",
+     "lb",
+     "368,651",
+     "",
+     "426,981"
+    ],
+    [
+     "    Meal, corn",
+     "lb",
+     "",
+     "",
+     "95"
+    ],
+    [
+     "    Milk, canned",
+     "lb",
+     "",
+     "",
+     "328"
+    ],
+    [
+     "    Onions",
+     "lb",
+     "",
+     "",
+     "350,000"
+    ],
+    [
+     "    Potatoes",
+     "lb",
+     "",
+     "",
+     "426,900"
+    ],
+    [
+     "    Meat, canned, dried, frozen",
+     "lb",
+     "2,715,605",
+     "",
+     "24,123,709"
+    ],
+    [
+     "    Rations",
+     "lb",
+     "",
+     "",
+     "16,297,504"
+    ],
+    [
+     "    Rice",
+     "lb",
+     "",
+     "",
+     "35,772,230"
+    ],
+    [
+     "    Salt",
+     "lb",
+     "",
+     "",
+     "16,040"
+    ],
+    [
+     "    Shortening (and butter)",
+     "lb",
+     "",
+     "",
+     "9,030"
+    ],
+    [
+     "    Squid, canned",
+     "lb",
+     "",
+     "",
+     "2,588,760"
+    ],
+    [
+     "    Subsistence supplies misc",
+     "LT",
+     "",
+     "3,739",
+     "3,739"
+    ],
+    [
+     "    Sugar",
+     "lb",
+     "2,312,320",
+     "",
+     "3,058,055"
+    ],
+    [
+     "    Wheat",
+     "lb",
+     "93,403,520",
+     "183,630,720",
+     "370,883,707"
+    ],
+    [
+     "    Yeast",
+     "lb",
+     "15,000",
+     "",
+     "15,000"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes goods supplied from local U.S. Army and Navy stocks and goods obtained by U.S. Government agencies from areas outside the United States, in addition to goods shipped from the United States proper.",
+    "b/ Includes vaccines, insect powder, ointments, soap and other supplies. Quantity is a rough estimate since receipts are in terms of vials, boxes and other containers."
+   ],
+   "unreadable": [],
+   "totals_check": "No totals printed; cumulative column not summed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except 'Teintags' for 'Tentage'. Table continues within PDF page 98 (printed pp. 180-181). Blank cells are blank in the original."
+  },
+  {
+   "page": 100,
+   "pages": [
+    100
+   ],
+   "title": "Releases of imported food through 31 July",
+   "units": "long tons",
+   "period": "Through 31 July [1946]",
+   "source_note": "",
+   "header": [
+    [
+     "Date of Authorization",
+     "Description",
+     "Quantity",
+     "Area"
+    ]
+   ],
+   "rows": [
+    [
+     "25 April",
+     "Rice",
+     "7,768",
+     "Hokkaido"
+    ],
+    [
+     "19 May",
+     "Wheat flour",
+     "8,705",
+     "Tokyo-Yokohama"
+    ],
+    [
+     "9 June",
+     "Wheat flour",
+     "10,000",
+     "Tokyo-Yokohama"
+    ],
+    [
+     "9 June",
+     "Wheat flour",
+     "8,147",
+     "Hokkaido"
+    ],
+    [
+     "22 June",
+     "Rice, wheat flour",
+     "22,250",
+     "Tokyo-Yokohama"
+    ],
+    [
+     "27 June",
+     "Wheat flour, canned goods",
+     "7,106",
+     "Aomori and Yamanashi"
+    ],
+    [
+     "1 July",
+     "Wheat, wheat flour, rice",
+     "46,698",
+     "18 prefectures"
+    ],
+    [
+     "12 July",
+     "Wheat flour, canned goods",
+     "66,478",
+     "19 prefectures"
+    ],
+    [
+     "22 July",
+     "Wheat, wheat flour, corn",
+     "58,754",
+     "20 prefectures"
+    ],
+    [
+     "Total",
+     "",
+     "235,906",
+     ""
+    ]
+   ],
+   "footnotes": [
+    "a/ Excluding U. S. Army spoiling foodstuffs."
+   ],
+   "unreadable": [],
+   "totals_check": "7,768+8,705+10,000+8,147+22,250+7,106+46,698+66,478+58,754 = 235,906, printed 235,906, agrees.",
+   "warnings": [],
+   "ocr_check": "OCR read 46,686 for 46,698 and 58,794 for 58,754; image values used (sums confirm)."
+  },
+  {
+   "page": 100,
+   "pages": [
+    100
+   ],
+   "title": "Staple food substitutes",
+   "units": "yen per pound; percent",
+   "period": "",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Price per Pound (yen)",
+     "Rate of Substitution for Rice (percent)"
+    ]
+   ],
+   "rows": [
+    [
+     "Fats and their equivalents",
+     "5.00",
+     "150.0"
+    ],
+    [
+     "Cereals and their equivalents",
+     "a/",
+     "100.0"
+    ],
+    [
+     "Canned meats and their equivalents",
+     "2.00",
+     "66.7"
+    ],
+    [
+     "Dried fruit and vegetables and their equivalents",
+     "1.50",
+     "33.3"
+    ]
+   ],
+   "footnotes": [
+    "a/ Current official price for corresponding Japanese foods."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  }
+ ]
+}

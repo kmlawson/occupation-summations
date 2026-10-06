@@ -1,0 +1,22 @@
+{"tables": [
+ {"page": 40, "pages": [40, 41], "title": "Plan for improvement of fire fighting facilities and personnel",
+  "units": "", "period": "", "source_note": "Japanese Government plan received by this Headquarters (para. 25)",
+  "header": [["Equipment and personnel", "Present set-up", "Proposed future set-up"]],
+  "rows": [
+   ["Heavy automatic pumps", "4 major urban districts: (Tokyo-Yokohama; Central Honshu; Osaka-Kobe; Northern Kyushu) 1.8 pumps per 10,000 inhabitants. Rural districts: no standard pumps - equipment very poor.", "All urban districts: 5 pumps per 10,000 inhabitants. All rural districts: 2 pumps per 10,000 inhabitants."],
+   ["Small gasoline", "4 major urban districts: 4 pumps per 10,000 inhabitants. Other urban districts: poor equipment.", "All urban districts: 5 pumps per 10,000 inhabitants. Rural districts: 10 pumps per 10,000 inhabitants."],
+   ["Chemical trucks", "Very few.", "Essential for all manufacturing districts."],
+   ["Ladder trucks", "Tokyo-to: 3 trucks Nagoya: 1 truck.", "Urban districts: 1 per each district of 10,000 inhabitants."],
+   ["Wrecking trucks; Hauling trucks; Repair trucks; Hose trucks; Searchlight trucks; Ambulances; Trucks with extending turrets", "Very few. Tanks are now being converted into wrecking and searchlight trucks for all large cities.", "Some additional equipment of this type should be provided all cities according to size."],
+   ["Fuel", "Because of very low fuel supply all inspections and training programs are extremely limited. (The fuel supply for the entire nation is 50,000 liters per month).", "Supply should be ample enough to permit necessary inspections and training programs. (A minimum of at least 300,000 liters per month)."],
+   ["Motor Oil", "Supply extremely low.", "Supply should be sufficient to meet operating needs."],
+   ["Water and water installations", "Though the supply is low drinking water must be used for fire fighting. The diameter of present pipes is only 3.5 inches.", "Separate pipes should be provided for fire fighting. Pipes for drinking water should have a minimum diameter of 6 inches."],
+   ["Water storing facilities", "In large cities there are two types: large scale; 100 cubic meter base; small scale; 40 cubic meter base. These are located within each 1?0 meter radius area.", "Storage of 300 cubic meters is required."],
+   ["Personnel", "Per large automatic pump: fire sergeant, squad leader and 12 firemen who work on alternate days (this figure does not include volunteer firemen).", "Personnel should be increased in like proportion for all additional pumps added to equipment."]
+  ],
+  "footnotes": [],
+  "unreadable": ["row 'Water storing facilities', column 'Present set-up': middle digit of '1?0 meter radius' damaged in the scan (OCR read 130); left as '?'"],
+  "totals_check": "No totals printed.",
+  "warnings": [],
+  "ocr_check": "OCR matched the text except that it read 130 for the damaged '1?0 meter radius' figure; it also merged the equipment list in the wrecking trucks row. Table runs from page 40 to page 41 with the header repeated; other pages in the task (4, 7, 28) contain only tables of contents, so no tables were transcribed from them."}
+]}

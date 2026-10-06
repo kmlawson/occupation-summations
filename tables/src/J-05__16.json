@@ -1,0 +1,14 @@
+{"tables": [
+  {"page": 156, "pages": [156], "title": "[Basic wages and differentials, civilians employed by the Occupation Forces: (1) Provinces of Cholla Pukto, Kangwan Do, Chung Chong Pukto, Kyong Sang Pukto]",
+   "units": "yen per day", "period": "differentials established 1 February 1946", "source_note": "",
+   "header": [["Type", "Basic Daily Wage (yen)", "Differential (yen)", "Total Daily Wage (yen)"]],
+   "rows": [["Apprentice", "1-2", "4-8", "5-10"], ["Unskilled", "3-5", "14-25", "17-30"], ["Semi-skilled", "6-8", "18-27", "24-35"], ["Skilled", "9 and over", "18-27", "27 and over"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "Basic + differential vs printed total, by range endpoints: 1-2 + 4-8 = 5-10 (agree); 3-5 + 14-25 = 17-30 (agree); 6-8 + 18-27 = 24-35 (agree); 9 + 18 = 27 (agree).", "warnings": [], "ocr_check": "OCR misread Apprentice total (8-10 for 5-10), Unskilled differential (14-26 for 14-25), Semi-skilled total (24-28 for 24-35) and the province names."},
+  {"page": 156, "pages": [156], "title": "[Basic wages and differentials, civilians employed by the Occupation Forces: (2) Provinces of Kyunggi Do, Cholla Namdo, Kyong Sang Namdo, Chung Chong Namdo]",
+   "units": "yen per day", "period": "differentials established 1 February 1946", "source_note": "",
+   "header": [["Type", "Basic Daily Wage (yen)", "Differential (yen)", "Total Daily Wage (yen)"]],
+   "rows": [["Apprentice", "1-2", "6-12", "7-14"], ["Unskilled", "3-5", "21-35", "24-40"], ["Semi-skilled", "6-8", "28-40", "34-48"], ["Skilled", "9 and over", "28-40", "37 and over"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "Basic + differential vs printed total, by range endpoints: 1-2 + 6-12 = 7-14 (agree); 3-5 + 21-35 = 24-40 (agree); 6-8 + 28-40 = 34-48 (agree); 9 + 28 = 37 (agree).", "warnings": [], "ocr_check": "OCR matched except Unskilled differential (read 21-32 for 21-35); it also missed the header row and misread province names."}
+]}
