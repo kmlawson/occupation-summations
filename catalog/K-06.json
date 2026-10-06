@@ -1,0 +1,75 @@
+{
+ "highlights": [
+  "The US-Soviet Joint Commission convened on 20 March at Duk Soo Palace to discuss establishing a unified provisional Korean democratic government.",
+  "Ordinance No. 60 dissolved all Japanese-era provincial and local government councils and impounded their official records and funds.",
+  "The New Korea Company Limited was established under Ordinance No. 52, taking over the former Japanese Oriental Development Company's extensive assets.",
+  "Military Government announced plans to sell formerly Japanese-owned agricultural lands to landless Korean tenant farmers on long-term credit.",
+  "USAMGIK enforced a strict rice collection program and prepared urban rationing in Seoul amidst severe food shortages and public criticism.",
+  "Korean civil police were granted authority to arrest US military personnel caught committing serious felonies, while third-degree interrogation methods were prohibited.",
+  "Repatriation of Koreans from Japan reached 831,387 cumulative returnees, while Japanese nationals remaining in South Korea dropped below 1,200."
+ ],
+ "keywords": [
+  "USAMGIK",
+  "US-Soviet Joint Commission",
+  "New Korea Company",
+  "Oriental Development Company",
+  "Repatriation",
+  "Rice rationing",
+  "Land reform",
+  "Ordinance No. 60",
+  "Representative Democratic Council",
+  "Syngman Rhee",
+  "Kim Kyuh Sik",
+  "38th parallel"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 6,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Title page, publication details, and printed table of contents with chart listing.",
+   "title": "Front Matter"
+  },
+  {
+   "end_page": 10,
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 7,
+   "summary": "Summarizes monthly developments in administration, political parties, repatriation, rice collection, industry, transportation, public health, and educational programs across South Korea.",
+   "title": "Section 1: General"
+  },
+  {
+   "end_page": 16,
+   "level": 1,
+   "printed_page": "5",
+   "start_page": 11,
+   "summary": "Covers the dissolution of local councils, creation of the New Korea Company, political party registrations, the convening of the US-Soviet Joint Commission, and ongoing repatriation.",
+   "title": "Section 2: Political Activities"
+  },
+  {
+   "end_page": 24,
+   "level": 1,
+   "printed_page": "11",
+   "start_page": 17,
+   "summary": "Details critical food and rice rationing measures, timber shortages, chemical imports from Japan, currency controls, reopening of textile mills, and railway and shipping operations.",
+   "title": "Section 3: Economic Activities"
+  },
+  {
+   "end_page": 28,
+   "level": 1,
+   "printed_page": "19",
+   "start_page": 25,
+   "summary": "Reports on educational reforms and bans on school politicking, smallpox and typhus inoculation campaigns, distribution of US medical and food relief supplies, and public information.",
+   "title": "Section 4: Social Activities"
+  }
+ ],
+ "summary": "Covering March 1946, this monthly summation documents the administration of the United States Army Military Government in Korea (USAMGIK) during a crucial phase of post-liberation occupation. Major political developments include the opening of the first formal sessions of the United States–Soviet Joint Commission at Duk Soo Palace on 20 March to discuss Korean independence, the dissolution of Japanese-era local councils under Ordinance No. 60, the reorganization of the Oriental Development Company into the New Korea Company Limited (Ordinance No. 52), and massive, orderly rightist celebrations on Korean Independence Day (Sam Il Day). Economically, the occupation government struggled with critical shortages of food, fertilizer, and timber. It enforced a controversial rice seizure and urban rationing program in Seoul, banned opium poppy cultivation, received emergency shipments of industrial chemicals and coal from Japan, and restarted damaged textile and industrial mills. In social affairs, extensive smallpox and typhus vaccination programs were executed, educational planning was instituted alongside bans on student political activism, and relief supplies were distributed. For historians, this report offers vital empirical data on repatriation flows, vested Japanese property management, interzone relations, and the administrative mechanics of early American military rule in South Korea.",
+ "toolAction": "Completing task",
+ "toolSummary": "Finish report analysis",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 28,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

@@ -1,0 +1,75 @@
+{
+ "highlights": [
+  "Ordinance No. 64 redesignated all government bureaus as departments and sections as offices to streamline administration and expand responsibilities for Korean personnel.",
+  "All remaining Japanese personnel, who numbered 70,000 in September 1945, were completely removed from the South Korean civil service.",
+  "The U.S.-Soviet Joint Commission issued Communiqués 5 and 6, agreeing to consult democratic parties that sign declarations upholding the Moscow Decision.",
+  "A plot to assassinate right-wing leader Dr. Syngman Rhee was foiled when Korean police arrested seven armed members of a rival political party.",
+  "Open-market rice purchasing was legalized in Seoul, causing market prices to drop from 450 yen to between 200 and 225 yen per small marl.",
+  "The first espionage case against Military Government resulted in Kim Kei Cho's conviction, a 3,100,000 yen fine, and five years at hard labor.",
+  "Educational authorities scheduled compulsory schooling for September 1946 and initiated the adoption of the horizontal Korean alphabet for newly printed textbooks."
+ ],
+ "keywords": [
+  "USAMGIK",
+  "U.S.-Soviet Joint Commission",
+  "Ordinance No. 64",
+  "Korean Civil Service",
+  "Rice rationing",
+  "Repatriation",
+  "Korean Constabulary",
+  "Korean Coast Guard",
+  "Syngman Rhee",
+  "Kim Koo",
+  "New Korea Company",
+  "Typhus control"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 12,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Covers the title pages, publication details, table of contents, and list of charts for Summation No. 7.",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 18,
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 13,
+   "summary": "Summarizes political, economic, and social developments in South Korea for April 1946, highlighting military government reorganization, open-market rice purchasing in Seoul, coal receipts from Japan, and disease control efforts.",
+   "title": "Section 1. General"
+  },
+  {
+   "end_page": 30,
+   "level": 1,
+   "printed_page": "7",
+   "start_page": 19,
+   "summary": "Details national administration reorganization under Ordinance No. 64, civil service localization, the 1946-47 budget, an espionage trial, police work, right-hand traffic rules, U.S.-Soviet Joint Commission communiqués, and Korean and Japanese repatriation.",
+   "title": "Section 2. Political Activities"
+  },
+  {
+   "end_page": 42,
+   "level": 1,
+   "printed_page": "19",
+   "start_page": 31,
+   "summary": "Reports rice distribution adjustments, land reclamation contracts, critical fertilizer shortages, commodity shipments from Japan, appointment of a National Food Administrator, and improvements in rail and coastal shipping operations.",
+   "title": "Section 3. Economic Activities"
+  },
+  {
+   "end_page": 54,
+   "level": 1,
+   "printed_page": "29",
+   "start_page": 43,
+   "summary": "Covers record school attendance, planned educational reforms and Korean alphabet adoption, adult leadership courses, typhus vaccination and DDT dusting, public health clinics, and refugee and orphanage welfare programs.",
+   "title": "Section 4. Social Activities"
+  }
+ ],
+ "summary": "Number 7 of the Summation of United States Army Military Government Activities in Korea covers non-military operations during April 1946. Significant administrative reorganizations took place under Ordinance No. 64, renaming bureaus into departments, establishing the Police Department as an independent agency, devolving fire protection to municipalities, and completing the removal of Japanese personnel from civil service. Politically, the report details fifth and sixth communiqués of the U.S.-Soviet Joint Commission regarding Korean party consultations under the Moscow Agreement, right-wing party unification under Kim Koo, and an assassination plot against Syngman Rhee. Economically, military authorities addressed severe food distress by legalizing open-market rice purchases in Seoul, appointing a National Food Administrator, and importing vital bituminous coal and raw materials from Japan, while grappling with critical fertilizer shortages. Social developments included record school enrollments, planned transitions to compulsory schooling and horizontal Korean script, and extensive DDT dusting and vaccination campaigns that curbed typhus and smallpox. For historians, this issue offers invaluable documentation on early American state-building, bureaucratic decolonization, interzone logistical frictions, food policy interventions, and the emerging Cold War diplomacy of the joint commission.",
+ "toolAction": "Submitting report research guide extraction",
+ "toolSummary": "Report extraction completed",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 54,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

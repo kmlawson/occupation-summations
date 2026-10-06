@@ -1,0 +1,243 @@
+{
+ "highlights": [
+  "SCAP barred Liberal Party leader Ichiro Hatoyama from public office on 4 May, opening the way for Shigeru Yoshida to form a coalition cabinet.",
+  "Arraignment proceedings opened on 3 May before the International Military Tribunal for the Far East against 28 major Japanese war criminals, including Hideki Tojo.",
+  "Approximately 1,000,000 citizens participated in nationwide May Day rallies, followed by the massive 'Food May Day' demonstration outside Tokyo's Imperial Palace on 19 May.",
+  "General MacArthur issued a stern warning on 20 May against undisciplined physical violence and mass intimidation by disorderly minority groups.",
+  "Severe urban food shortages caused an 11-day delay in Tokyo rice rationing, prompting emergency SCAP releases of 8,705 tons of imported wheat flour.",
+  "Imperial Ordinance 262 established screening committees to eliminate militarists and ultranationalists from teaching posts and education administration.",
+  "The 26 April national population census recorded 73,110,995 persons in Japan Proper, adjusted to 74,000,000 when accounting for uncounted foreign nationals and transients."
+ ],
+ "keywords": [
+  "Yoshida Cabinet",
+  "Ichiro Hatoyama",
+  "Purge Directive",
+  "Food May Day",
+  "International Military Tribunal for the Far East",
+  "food shortage",
+  "repatriation",
+  "rice rationing",
+  "labor unions",
+  "population census",
+  "textile inventory",
+  "educational reform"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 4,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Contains the report title pages, general table of contents across four parts, and list of 68 charts, graphs, and maps.",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 12,
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 5,
+   "summary": "Monthly overview of non-military activities in Japan, summarizing SCAP administrative changes, political developments, economic trends, and social affairs.",
+   "title": "Part I: General"
+  },
+  {
+   "end_page": 5,
+   "level": 2,
+   "printed_page": "2",
+   "start_page": 5,
+   "summary": "Reports General Orders No. 20 of 3 May discontinuing the Civil Intelligence Section as a Special Staff Section and transferring its duties to G-2.",
+   "title": "Organization Under SCAP"
+  },
+  {
+   "end_page": 7,
+   "level": 2,
+   "printed_page": "3",
+   "start_page": 5,
+   "summary": "Summarizes the month's political affairs, including the purge of Ichiro Hatoyama, installation of the Yoshida Cabinet, May Day rallies, and war crimes trials.",
+   "title": "Political Activities"
+  },
+  {
+   "end_page": 10,
+   "level": 2,
+   "printed_page": "9",
+   "start_page": 8,
+   "summary": "Summarizes natural resources, industrial production, labor union registrations, critical food shortages, note circulation of ¥29.5 billion, and restricted concerns additions.",
+   "title": "Economic Activities"
+  },
+  {
+   "end_page": 12,
+   "level": 2,
+   "printed_page": "15",
+   "start_page": 11,
+   "summary": "Summarizes the decline in typhus and smallpox, progress in repatriation, 26 April census results showing an adjusted population of 74,000,000, and educational screening.",
+   "title": "Social Activities"
+  },
+  {
+   "end_page": 32,
+   "level": 1,
+   "printed_page": "19",
+   "start_page": 13,
+   "summary": "Covers Japanese government and civil administration, public safety and intelligence, and legal affairs and war crimes prosecutions.",
+   "title": "Part II: Political"
+  },
+  {
+   "end_page": 21,
+   "level": 2,
+   "printed_page": "21",
+   "start_page": 14,
+   "summary": "Details the cabinet crisis resulting in Shigeru Yoshida's coalition cabinet, SCAP's directive purging Ichiro Hatoyama, May Day mass rallies, and Diet convocation.",
+   "title": "Government and Civil Administration"
+  },
+  {
+   "end_page": 24,
+   "level": 2,
+   "printed_page": "27",
+   "start_page": 22,
+   "summary": "Reports on mass food demonstrations, crimes against occupation forces, warnings against methyl alcohol in liquor, metropolitan police reorganization surveys, and media censorship.",
+   "title": "Public Safety and Intelligence"
+  },
+  {
+   "end_page": 32,
+   "level": 2,
+   "printed_page": "42",
+   "start_page": 25,
+   "summary": "Covers SCAP legal opinions, district court convictions, orders apprehending 96 war crime suspects, trials in Japan and the Philippines, and IMTFE arraignments.",
+   "title": "Legal and War Crimes"
+  },
+  {
+   "end_page": 110,
+   "level": 1,
+   "printed_page": "57",
+   "start_page": 33,
+   "summary": "Details economic developments across resource extraction, heavy and light manufacturing, textiles, transportation, communications, labor relations, foreign trade, rationing, finance, and reparations.",
+   "title": "Part III: Economic"
+  },
+  {
+   "end_page": 37,
+   "level": 2,
+   "printed_page": "59",
+   "start_page": 33,
+   "summary": "Reports declining rice collections at 83.4 percent of quota, emergency food and fertilizer measures, experimental aerial DDT spraying, and authorization of 416 steel fishing vessels.",
+   "title": "Agriculture and Fisheries"
+  },
+  {
+   "end_page": 42,
+   "level": 2,
+   "printed_page": "69",
+   "start_page": 38,
+   "summary": "Covers timber and pulp production, coal mining difficulties and accidents under 'production control', coal stockpiles falling to a five-day supply, and petroleum output.",
+   "title": "Forestry and Mining"
+  },
+  {
+   "end_page": 52,
+   "level": 2,
+   "printed_page": "79",
+   "start_page": 43,
+   "summary": "Reports pig iron furnaces operating at only 3.5 percent capacity, nonferrous metal refining limited by coal shortages, cement and petroleum production, and shipyard repairs.",
+   "title": "Heavy Industries"
+  },
+  {
+   "end_page": 64,
+   "level": 2,
+   "printed_page": "90",
+   "start_page": 53,
+   "summary": "Details food processing trends and the cabinet order halting beer and sake brewing for two months to conserve grain, alongside production statistics for diverse consumer goods.",
+   "title": "Manufacturing"
+  },
+  {
+   "end_page": 76,
+   "level": 2,
+   "printed_page": "123",
+   "start_page": 65,
+   "summary": "Covers the completion of a nationwide textile inventory revealing 258,000,000 square yards of fabric, cotton yarn price revisions, preparations for incoming American cotton, and silk reeling.",
+   "title": "Textile Industries"
+  },
+  {
+   "end_page": 82,
+   "level": 2,
+   "printed_page": "147",
+   "start_page": 77,
+   "summary": "Reviews registered motor vehicles, railroad traffic increases, coastal shipping, adequate hydroelectric power generation, and gas distribution system repairs reducing leakage from 80 to 40 percent.",
+   "title": "Transportation and Public Utilities"
+  },
+  {
+   "end_page": 88,
+   "level": 2,
+   "printed_page": "155",
+   "start_page": 83,
+   "summary": "Covers increases in domestic postal and telephone rates, expansion of overseas radiotelegraph links to Hawaii and France, telecommunications equipment manufacturing, and overseas assets.",
+   "title": "Communications"
+  },
+  {
+   "end_page": 93,
+   "level": 2,
+   "printed_page": "167",
+   "start_page": 89,
+   "summary": "Reports registration of 3,789 unions with 1,690,985 members, May Day demonstrations involving 1,000,000 workers, draft Labor Relations Adjustment legislation, and wage adjustments.",
+   "title": "Labor"
+  },
+  {
+   "end_page": 95,
+   "level": 2,
+   "printed_page": "177",
+   "start_page": 94,
+   "summary": "Details export shipments including 10,986 bales of raw silk to the United States and coal to Korea, imports of wheat and salt, and Hoover's relief mission.",
+   "title": "Imports and Exports"
+  },
+  {
+   "end_page": 103,
+   "level": 2,
+   "printed_page": "181",
+   "start_page": 96,
+   "summary": "Reports critical urban food shortages with Tokyo-Yokohama ration delays of 10 to 11 days, emergency release of 8,705 tons of imported flour, and price control enforcement.",
+   "title": "Rationing and Price Control"
+  },
+  {
+   "end_page": 106,
+   "level": 2,
+   "printed_page": "197",
+   "start_page": 104,
+   "summary": "Details Bank of Japan note circulation rising to ¥33.4 billion, deposit and loan trends under the currency conversion and deposit freeze program, and termination of war damage claims interest.",
+   "title": "Finance"
+  },
+  {
+   "end_page": 110,
+   "level": 2,
+   "printed_page": "203",
+   "start_page": 107,
+   "summary": "Reports on the administration of 1,057 seized United Nations properties, custody of $255 million in precious metals, additions to restricted concerns, and reparations inventory plans.",
+   "title": "Property Control and Reparations"
+  },
+  {
+   "end_page": 128,
+   "level": 1,
+   "printed_page": "211",
+   "start_page": 111,
+   "summary": "Covers public health, welfare relief, repatriation, census tabulations, educational purging and textbook screening, religious directives, and media of expression.",
+   "title": "Part IV: Social"
+  },
+  {
+   "end_page": 121,
+   "level": 2,
+   "printed_page": "213",
+   "start_page": 112,
+   "summary": "Details public assistance expenditures, repatriation reaching over 3,000,000 Japanese, control of cholera at Uraga, DDT dusting and vaccine production, and the 26 April census.",
+   "title": "Public Health and Welfare"
+  },
+  {
+   "end_page": 128,
+   "level": 2,
+   "printed_page": "223",
+   "start_page": 122,
+   "summary": "Reports Imperial Ordinance 262 establishing teacher screening committees, approval of revised school textbooks, directives prohibiting Shinto symbols on stamps and currency, and new radio programming.",
+   "title": "Education, Religion and Media of Expression"
+  }
+ ],
+ "summary": "Summation No. 8 covers non-military activities across occupied Japan during May 1946, documenting a pivotal month dominated by political transition and an acute food crisis. Following the resignation of the Shidehara Cabinet and SCAP's dramatic 4 May directive barring Liberal Party leader Ichiro Hatoyama from public office, protracted inter-party negotiations culminated in the installation of Shigeru Yoshida's coalition cabinet on 22 May. Widespread popular restlessness culminated in historic May Day demonstrations drawing 1,000,000 participants and the massive 'Food May Day' rally in Tokyo, prompting a stern warning from General MacArthur against political violence and an unprecedented radio appeal by the Emperor. Critical staple food shortages in metropolitan centers caused ration delivery delays of up to 11 days, requiring emergency releases of imported American flour. Meanwhile, the International Military Tribunal for the Far East commenced proceedings with the formal arraignment of 28 major war criminals. Other notable developments include the registration of 1.7 million trade unionists, the 26 April census adjusting Japan's population to 74 million, and comprehensive screening regulations to purge militarists from the educational system.",
+ "toolAction": "Finishing report extraction",
+ "toolSummary": "Complete analysis of Summation No. 8",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 128,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

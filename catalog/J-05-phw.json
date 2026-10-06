@@ -1,0 +1,107 @@
+{
+ "highlights": [
+  "SCAP directive overhauled public assistance, establishing a centralized relief system based strictly on need and abolishing preferential pensions and aid for military ex-servicemen.",
+  "Mass DDT dusting campaign in Osaka reached over 90 percent of the population to suppress a serious typhus outbreak exceeding 400 cases.",
+  "Distribution of relief reserves from returned military stocks began, releasing 430,000 blankets, 150,000 overcoats, 200,000 uniforms, and 111,457 metric tons of cereals.",
+  "Smallpox vaccine production accelerated sharply, surpassing the February monthly goal of 10,250,000 doses to combat widespread smallpox outbreaks across Japan.",
+  "Repatriation totals through 24 February 1946 reached 768,209 Koreans, 30,695 Chinese, 18,532 Formosans, 12,187 Ryukyuans, and 1,465,980 returning Japanese.",
+  "Japanese authorities ordered the nationwide confiscation of heroin and set deadlines to prosecute unauthorized possession of the narcotic drug.",
+  "Of 5,932 dentists displaced by wartime bombing, 2,579 were rehabilitated and re-established in practice despite lingering equipment shortages."
+ ],
+ "keywords": [
+  "public assistance",
+  "typhus control",
+  "DDT dusting",
+  "smallpox vaccine",
+  "repatriation",
+  "social insurance",
+  "military pensions",
+  "narcotics control",
+  "public health nursing",
+  "veterinary inspection",
+  "medical supplies",
+  "displaced dentists"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 1,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Contains the cover title and printed table of contents for Section I (Public Health and Welfare) of Monthly Summary No. 5.",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 2,
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 1,
+   "summary": "Reports a Japanese plan to restrict rural-to-urban migration, veterinary inspections in southern Japan, smallpox vaccine production increases, and an emergency mass DDT dusting campaign in Osaka that reached over 90 percent of residents to suppress typhus.",
+   "title": "General"
+  },
+  {
+   "end_page": 5,
+   "level": 1,
+   "printed_page": "3",
+   "start_page": 3,
+   "summary": "Issues a directive establishing unified, non-discriminatory public assistance that eliminates veteran preferences, releases military blankets and clothing reserves, reviews social insurance fund balances, organizes relief for foreign nationals, and oversees mass repatriation movements.",
+   "title": "Public Welfare"
+  },
+  {
+   "end_page": 6,
+   "level": 1,
+   "printed_page": "6",
+   "start_page": 6,
+   "summary": "Reports inspections of medical supply storage and narcotic safeguarding at Tachikawa National Hospital and references civilian hospital bed capacity and patient statistics across prefectures.",
+   "title": "Administration of Hospitals"
+  },
+  {
+   "end_page": 7,
+   "level": 1,
+   "printed_page": "6",
+   "start_page": 6,
+   "summary": "Surveys former Japanese army veterinary institutions and Tokyo Veterinary College, reviews November-December 1945 meat and milk inspections, and compiles animal disease incidence tables including a report on the 1945 equine encephalitis outbreak.",
+   "title": "Veterinary Affairs"
+  },
+  {
+   "end_page": 8,
+   "level": 1,
+   "printed_page": "8",
+   "start_page": 8,
+   "summary": "Reports increased sales of controlled dental items in January 1946 and tracks the rehabilitation and re-establishment of practice of 2,579 bombing-displaced dentists amid equipment shortages.",
+   "title": "Dental Affairs"
+  },
+  {
+   "end_page": 9,
+   "level": 1,
+   "printed_page": "9",
+   "start_page": 9,
+   "summary": "Transmits the Ministry of Health's new public health nursing curriculum effective April 1946, assists plans for a Kyushu training institute, and prepares articles on Japanese nursing for publication.",
+   "title": "Nursing Affairs"
+  },
+  {
+   "end_page": 12,
+   "level": 1,
+   "printed_page": "9",
+   "start_page": 9,
+   "summary": "Details distribution of new pharmaceuticals and returned military supplies, mandates heroin confiscation, accelerates smallpox vaccine manufacturing past 10 million monthly doses, and explores Korean pyrophyllite rock for regional DDT powder production.",
+   "title": "Supply"
+  },
+  {
+   "end_page": 19,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 13,
+   "summary": "Presents statistical tables and charts on Japanese school expenditures, communicable disease incidence, medical supply production values, public health nurse training curricula, civilian hospital capacities, and repatriation flows through late February 1946.",
+   "title": "Charts"
+  }
+ ],
+ "summary": "This February 1946 monthly report details public health, welfare administration, and disease control across occupied Japan during early post-surrender reconstruction. Key developments center on SCAP directives reforming Japanese relief administration into a centralized, non-discriminatory public assistance program that explicitly abolished military pensions and preferential treatment for ex-servicemen. To avert humanitarian crisis, Occupation authorities released former military stocks—including over 111,000 metric tons of cereals and 430,000 blankets—and supervised relief for foreign nationals. In public health, the report highlights an aggressive response to an escalating Osaka typhus outbreak through a mass DDT dusting campaign reaching over 90 percent of the city's populace, alongside rapid expansion of smallpox vaccine production exceeding 10 million doses monthly. The report also documents the rehabilitation of 2,579 bombing-displaced dentists, a new national public health nursing curriculum, and strict narcotics controls including nationwide heroin confiscation. Historians will find valuable quantitative baselines on social insurance funds, civilian hospital capacity, communicable disease curves, and repatriation flows tracking 829,000 repatriated foreign nationals and 1.46 million returning Japanese, illustrating the institutional transition from Imperial wartime systems to demilitarized civilian governance.",
+ "toolAction": "Finishing task",
+ "toolSummary": "Submit report research guide",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 19,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

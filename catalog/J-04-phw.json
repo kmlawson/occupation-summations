@@ -1,0 +1,107 @@
+{
+ "highlights": [
+  "On 21 January, SCAP directed the Japanese Government to abolish licensed prostitution and nullify all contracts binding women to the practice.",
+  "The Ministry of Health and Welfare estimated 8,000,000 persons in Japan were in need of relief as of 1 January 1946.",
+  "By 27 January 1946, 730,458 foreign nationals had been repatriated from Japan, while 1,245,930 Japanese ex-servicemen and civilians had returned.",
+  "Since October 1945, civilian hospital capacity expanded by 413 facilities and 73,502 beds, largely through transfers of former military hospitals.",
+  "On 27 January, SCAP ordered comprehensive legislation establishing strict annual registration, licensing, and transaction accounting for all narcotic dealers.",
+  "Smallpox spread widely across Japan in January, with major epidemic foci in Hyogo, Aichi, Nagasaki, and Hokkaido prompting nationwide vaccination planning.",
+  "A December nutrition survey of 30,000 Tokyo residents showed an average intake of 1,970 calories, with nearly half obtained from black-market sources."
+ ],
+ "keywords": [
+  "Public Health and Welfare",
+  "repatriation",
+  "licensed prostitution",
+  "relief",
+  "communicable diseases",
+  "smallpox",
+  "typhus",
+  "narcotic control",
+  "nutrition survey",
+  "medical supplies",
+  "social insurance",
+  "hospital administration"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 1,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Report header and printed table of contents for Section 1, Public Health and Welfare.",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 3,
+   "level": 1,
+   "printed_page": "235",
+   "start_page": 1,
+   "summary": "SCAP directed restrictions on migration to large cities, while Japan estimated 8,000,000 persons needing relief. Repatriation operations continued with 730,458 foreign nationals departing Japan and 1,245,930 Japanese returning.",
+   "title": "Public Welfare"
+  },
+  {
+   "end_page": 4,
+   "level": 1,
+   "printed_page": "238",
+   "start_page": 4,
+   "summary": "Reconstruction and military hospital transfers added 73,502 civilian beds since October 1945, reducing bed occupancy below 40 percent despite stable patient totals.",
+   "title": "Hospital Administration"
+  },
+  {
+   "end_page": 6,
+   "level": 1,
+   "printed_page": "238",
+   "start_page": 4,
+   "summary": "The section reviews dairy and animal disease legislation, summarizes December 1945 animal disease outbreaks, and catalogs veterinary biological production and estimates for 1944 to 1946.",
+   "title": "Veterinary Affairs"
+  },
+  {
+   "end_page": 7,
+   "level": 1,
+   "printed_page": "241",
+   "start_page": 7,
+   "summary": "Precious metals were released for dental use and dental goods received transport priority, while a warehouse fire destroyed a three-month supply of one-third of essential dental materials.",
+   "title": "Dental Affairs"
+  },
+  {
+   "end_page": 7,
+   "level": 1,
+   "printed_page": "241",
+   "start_page": 7,
+   "summary": "Japanese public health nursing regulations were evaluated, Red Cross first-aid manuals were approved for reprinting, and the Ministry of Health and Welfare organized three new graded public health nursing courses.",
+   "title": "Nursing Affairs"
+  },
+  {
+   "end_page": 13,
+   "level": 1,
+   "printed_page": "242",
+   "start_page": 8,
+   "summary": "Production and distribution of medicines were stimulated through priority allocations and price increases, while returned military medical stocks and narcotics were concentrated, inventoried, and placed under strict controls.",
+   "title": "Medical Supply"
+  },
+  {
+   "end_page": 14,
+   "level": 1,
+   "printed_page": "248",
+   "start_page": 14,
+   "summary": "SCAP directed the abolition of licensed prostitution and nullification of binding contracts, while the Ministry of Health and Welfare submitted a ministry-wide reorganization and personnel reduction plan.",
+   "title": "Legal Affairs"
+  },
+  {
+   "end_page": 26,
+   "level": 1,
+   "printed_page": "249",
+   "start_page": 15,
+   "summary": "The report surveys 1945 communicable disease incidence, responds to smallpox and typhus outbreaks, and details public water rehabilitation, biological assay requirements, Tokyo dietary nutrition surveys, and venereal disease control.",
+   "title": "Preventive Medicine"
+  }
+ ],
+ "summary": "This monthly report covers public health and welfare activities in Japan for January 1946 under the early Allied Occupation. Major developments include SCAP directives restricting civilian migration into devastated major cities, the Japanese Ministry of Health and Welfare’s estimate of 8,000,000 persons requiring relief, and the logistics of massive bilateral repatriation movements. The report documents major public health initiatives: addressing widespread smallpox outbreaks and regional typhus cases, expanding civilian hospital capacity by 73,502 beds through military facility transfers, standardizing biological products like penicillin and vaccines, and establishing rigorous controls over narcotics and returned Japanese military medical stocks. Notably, on 21 January SCAP issued a landmark directive abolishing licensed prostitution and voiding all contracts binding women to the sex trade. For historians, this summation provides critical statistical benchmarks, including nationwide 1945 communicable disease rates across 46 prefectures, comprehensive veterinary and social insurance figures, and detailed dietary data from a survey of 30,000 Tokyo residents revealing an average daily intake of 1,970 calories and extensive reliance on the black market.",
+ "toolAction": "Finalizing report analysis",
+ "toolSummary": "Report guide generation",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 26,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}
