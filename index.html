@@ -139,7 +139,7 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
 <main class="wrap" id="main"></main>
 <footer class="wrap">Page images: <a href="https://archive.org/search?query=subject%3A%22non-military-summation%22+OR+subject%3A%22usamgik-monthly%22">Internet Archive</a>. Summaries and section lists are written by language models from OCR text and marked <span class="llm">by LLM</span>; check them against the page images.</footer>
 <script src="data.js"></script>
-<script src="tables.js"></script>
+<script src="tables-index.js"></script>
 <script>
 const D = window.CATALOG || [], BY = Object.fromEntries(D.map(x => [x.id, x]));
 const $ = s => document.querySelector(s), main = $('#main');
@@ -303,9 +303,12 @@ async function search(raw) {
 
 
 // ---------- tables ----------
-const T = window.TABLES || [], TBY = Object.fromEntries(T.map(t => [t.id, t]));
+// the index has id, report, page, flag and title; full tables come from tables/r/<report>.json when a section page needs them
+const T = (window.TINDEX || []).map(([id, r, p, f, t]) => ({id, r, p, f, t})), TBY = Object.fromEntries(T.map(t => [t.id, t]));
+const TFULL = {};
+async function loadTables(r) { if (!TFULL[r]) TFULL[r] = fetch('tables/r/' + encodeURIComponent(r) + '.json').then(x => x.json()).then(a => Object.fromEntries(a.map(t => [t.id, t]))); return TFULL[r]; }
 const isNum = v => /^[\s$¥₩(]*[-+−]?[\d,]*\.?\d+[%)]*\s*$/.test(v) || /^[-—–]+$/.test(v.trim());
-const flagged = t => t.w.length || t.unr.length;
+const flagged = t => t.f !== undefined ? t.f : (t.w.length || t.unr.length);
 function csv(t) {
   const q = v => /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
   return [...t.h, ...t.rows].map(r => r.map(c => q(String(c ?? ''))).join(',')).join('\n');
@@ -342,22 +345,27 @@ function sectionView(id, n) {
    <div class="meta">${ser(x.s)} ${esc(short(x))}, ${when(x)} · section ${n} · ${ppLink(x, s.p)}</div>
    ${s.s ? `<p style="margin:10px 0 0">${esc(s.s)} ${LLM(x.by)}</p>` : ''}
    <div class="warnbox">${ts.length} table${ts.length === 1 ? '' : 's'} transcribed by a language model (Claude Sonnet) from the page images and checked against the OCR ${LLM('Claude Sonnet')}. Printed totals were re-added; disagreements and unreadable cells are noted under each table and never corrected. Check figures against the original page before relying on them.</div>
-   ${ts.map(t => tableHTML(x, t)).join('')}
+   <div id="tblocks"><p class="meta">Loading tables…</p></div>
    <div class="pn"><span>${prev !== undefined ? `← <a href="#d/${x.id}/sec/${prev + 1}">${esc(x.toc[prev].t)}</a>` : ''}</span><span></span><span>${next !== undefined ? `<a href="#d/${x.id}/sec/${next + 1}">${esc(x.toc[next].t)}</a> →` : ''}</span></div></div>`;
-  main.querySelectorAll('[data-csv]').forEach(a => a.onclick = e => { e.preventDefault(); const t = TBY[a.dataset.csv]; dl(t.id + '.csv', csv(t), 'text/csv'); });
+  Promise.all([...new Set(ts.map(t => t.r))].map(loadTables)).then(maps => {
+    const full = Object.assign({}, ...maps), box = document.getElementById('tblocks'); if (!box) return;
+    box.innerHTML = ts.map(t => full[t.id] ? tableHTML(x, full[t.id]) : '').join('');
+    box.querySelectorAll('[data-csv]').forEach(a => a.onclick = e => { e.preventDefault(); const t = full[a.dataset.csv]; dl(t.id + '.csv', csv(t), 'text/csv'); });
+    const want = sessionStorage.getItem('tjump'); if (want) { sessionStorage.removeItem('tjump'); const el = document.getElementById('t-' + want); if (el) el.scrollIntoView(); }
+  }).catch(() => { const box = document.getElementById('tblocks'); if (box) box.innerHTML = '<p class="note">The tables could not be loaded.</p>'; });
   const target = decodeURIComponent(location.hash).match(/#t-(.+)$/);
   scrollTo(0, 0);
 }
 function tableRedirect(id) {   // old #tb/<id> links
   const t = TBY[id]; if (!t || t.sec < 0) { location.hash = '#'; return; }
+  try { sessionStorage.setItem('tjump', id); } catch (e) {}
   location.replace('#d/' + t.x + '/sec/' + (t.sec + 1));
-  setTimeout(() => { const el = document.getElementById('t-' + id); if (el) el.scrollIntoView(); }, 50);
 }
 function tablesList(q) {   // index of every table (not in the menu; linked from About)
   nav('about'); document.title = 'All tables · Occupation Summations';
   main.innerHTML = `<a class="meta" href="#about">← About</a><div class="searchbar" style="margin-top:10px"><input type="search" id="tq" placeholder="Filter tables by title" value="${esc(q)}"><label class="meta" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="tw" style="min-height:0"> only tables marked “check”</label></div><div id="tl"></div>`;
   const run = () => { const v = $('#tq').value.trim().toLowerCase(), w = $('#tw').checked;
-    const hits = T.filter(t => t.x && (!w || flagged(t)) && (!v || (t.t + ' ' + t.u + ' ' + t.pe).toLowerCase().includes(v)));
+    const hits = T.filter(t => t.x && (!w || flagged(t)) && (!v || t.t.toLowerCase().includes(v)));
     $('#tl').innerHTML = `<p class="meta">${hits.length} of ${T.length} tables · <a href="tables.json" download>tables.json</a></p>` + hits.map(t => { const x = BY[t.x];
       return `<div class="tbrow"><a href="#tb/${t.id}">${esc(t.t)}</a>${flagged(t) ? '<span class="flag">check</span>' : ''}<span class="meta">${esc(short(x))}, ${when(x)}</span></div>`; }).join(''); };
   $('#tq').oninput = run; $('#tw').onchange = run; run();

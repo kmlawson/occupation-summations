@@ -1,4 +1,4 @@
-"""Build tables.js (window.TABLES) and tables.json from the transcribed tables in tables/src/*.json.
+"""Build tables-index.js (window.TINDEX), tables/r/<report>.json and tables.json from the transcribed tables in tables/src/*.json.
 
 Each source file is one transcription job's output: {"tables": [...]} for a few pages of one report,
 named <report id>__NN.json. Tables are ordered by report (as in data.js) and page.
@@ -31,10 +31,18 @@ def main():
     for t in out:
         if seen.get(f"{t['r']}-p{t['p']}", 0) > 1 and t["id"] == f"{t['r']}-p{t['p']}": t["id"] += "-1"
     cells = sum(len(r) for t in out for r in t["rows"])
-    with open(os.path.join(HERE, "tables.js"), "w", encoding="utf-8") as fh:
-        fh.write("window.TABLES=" + json.dumps(out, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    # small index loaded on every page (pills, list of tables); full tables per report, fetched on demand
+    with open(os.path.join(HERE, "tables-index.js"), "w", encoding="utf-8") as fh:
+        idx = [[t["id"], t["r"], t["p"], 1 if (t["w"] or t["unr"]) else 0, t["t"]] for t in out]
+        fh.write("window.TINDEX=" + json.dumps(idx, ensure_ascii=False, separators=(",", ":")) + ";\n")
+    rdir = os.path.join(HERE, "tables", "r"); os.makedirs(rdir, exist_ok=True)
+    for f in os.listdir(rdir): os.remove(os.path.join(rdir, f))
+    for r in sorted({t["r"] for t in out}):
+        json.dump([t for t in out if t["r"] == r], open(os.path.join(rdir, r + ".json"), "w", encoding="utf-8"), ensure_ascii=False, separators=(",", ":"))
+    old = os.path.join(HERE, "tables.js")
+    if os.path.exists(old): os.remove(old)
     json.dump(out, open(os.path.join(HERE, "tables.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=0)
-    print(f"{len(out)} tables, {cells} cells, from {len({t['r'] for t in out})} reports -> tables.js, tables.json")
+    print(f"{len(out)} tables, {cells} cells, from {len({t['r'] for t in out})} reports -> tables-index.js, tables/r/*.json, tables.json")
 
 
 if __name__ == "__main__":
