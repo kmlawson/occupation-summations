@@ -203,10 +203,10 @@ function report(id, mode, arg) {
    ${page ? `<div class="note" style="margin-top:10px">Page ${page}${on >= 0 ? ' is in <b>' + esc(x.toc[on].t) + '</b>' : ''} · <a href="${IAP(x, page)}" target="_blank" rel="noopener">open page ${page} on archive.org</a></div>` : ''}
    ${x.sk ? `<p class="note" style="margin-top:12px">This report has not been catalogued yet. Its full text is searchable: <a href="#fulltext/in:${x.id}%20">search inside it</a>.</p>` : `
    <div class="label">Summary</div><p style="margin:0">${hl(x.o, ts)} ${LLM(x.by)}</p>
-   ${x.h.length ? `<div class="label">Highlights</div><ul class="hl">${x.h.map(h => `<li>${hl(h, ts)}</li>`).join('')}</ul>` : ''}
+   ${x.h.length ? `<div class="label">Highlights</div><ul class="hl">${x.h.map((h, i) => `<li>${hl(h, ts)}${i === x.h.length - 1 ? ' ' + LLM(x.by) : ''}</li>`).join('')}</ul>` : ''}
    ${x.k.length ? `<div class="chips" style="margin-top:12px">${x.k.map(k => `<a class="chip" href="#reports/${encodeURIComponent('"' + k + '"')}">${esc(k)}</a>`).join('')}</div>` : ''}
    <div class="label">Table of contents <span class="llm">page numbers are PDF pages</span></div>
-   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div><a class="sec-t" href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${hl(s.t, ts)}</a>${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)}</p>` : ''}</div>
+   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div><a class="sec-t" href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${hl(s.t, ts)}</a>${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)} ${LLM(x.by)}</p>` : ''}</div>
      <div class="side">${ppLink(x, s.p)}<a class="meta" href="#fulltext/in:${x.id}%23${j + 1}%20" title="Search the text of this section">search</a></div></div>`).join('')}</div>`}
    <div class="pn"><span>${i > 0 ? `← <a href="#d/${same[i - 1].id}">${esc(short(same[i - 1]))}, ${when(same[i - 1])}</a>` : ''}</span>
     <span>${alts.map(y => `Also: <a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ')}${other.length ? (alts.length ? ' · ' : '') + 'Same month: ' + other.map(y => `<a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ') : ''}</span>
@@ -229,7 +229,7 @@ function reports(q) {
       return `<div class="card"><h2><a href="#d/${x.id}${ts.length ? '/q/' + encodeURIComponent(v) : ''}">${hl(x.t, ts)}</a></h2>
        <div class="meta">${ser(x.s)} ${when(x)} · ${pgPill(x.pg)}${x.v ? ' · ' + esc(x.v) : ''}${x.sk ? ' · not yet catalogued' : ''}</div>
        ${x.o ? `<p style="margin:6px 0 0;font-size:14px">${hl(x.o, ts)} ${LLM(x.by)}</p>` : ''}
-       ${secs.map(([sec, j]) => `<div class="list-r"><a href="#d/${x.id}/s/${j + 1}">${hl(sec.t, ts)}</a> ${ppLink(x, sec.p)}<div class="meta">${hl(sec.s, ts)}</div></div>`).join('')}</div>`; }).join('');
+       ${secs.map(([sec, j]) => `<div class="list-r"><a href="#d/${x.id}/s/${j + 1}">${hl(sec.t, ts)}</a> ${ppLink(x, sec.p)}<div class="meta">${hl(sec.s, ts)} ${LLM(x.by)}</div></div>`).join('')}</div>`; }).join('');
   };
   $('#rq').oninput = run; $('#rs').onchange = run; run(); $('#rq').focus();
 }
