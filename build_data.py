@@ -55,6 +55,30 @@ def files():
     return out
 
 
+def embedded():
+    """Issues bound inside another PDF: catalog/embedded.json, plus any an agent reported in catalog/<id>.json
+    (embedded_issues). One dict per buried issue: host, no, d, d2, t, ranges [[a, b], ...], kind."""
+    out = json.load(open(os.path.join(HERE, "catalog", "embedded.json"), encoding="utf-8"))
+    for f in files():
+        cat = os.path.join(HERE, "catalog", f["id"] + ".json")
+        if not os.path.exists(cat): continue
+        for e in json.load(open(cat, encoding="utf-8")).get("embedded_issues", []):
+            a = e.get("start_page", 0)
+            if any(x["host"] == f["id"] and abs(x["ranges"][0][0] - a) <= 3 for x in out): continue
+            m = re.match(r"(\d{4}-\d{2})(?:/(\d{4}-\d{2}))?", e.get("month", ""))
+            if not (m and e.get("number")): continue
+            out.append({"host": f["id"], "no": int(e["number"]), "d": m[1], "d2": m[2] or "", "t": e.get("title", ""),
+                        "ranges": [[a, e["end_page"]]], "kind": e.get("kind", "bound"), "found": "reported by the cataloguing model"})
+    for e in out:
+        e["s"] = e["host"][0]
+        e["id"] = f"{e['s']}-{e['no']:02d}-in-{e['host']}"
+    return out
+
+
+def inside(sec, ranges):
+    return any(a <= sec["p"][0] and sec["p"][1] <= b for a, b in ranges)
+
+
 def main():
     recs = []
     for f in files():
@@ -71,6 +95,35 @@ def main():
         else:
             rec.update({"o": "", "h": [], "k": [], "toc": [], "sk": 1})
         recs.append(rec)
+    # buried issues: their own records; the host keeps only its own sections
+    by = {r["id"]: r for r in recs}
+    for e in embedded():
+        host = by[e["host"]]
+        rec = {"id": e["id"], "ia": host["ia"], "s": e["s"], "no": e["no"], "d": e["d"], "d2": e["d2"], "t": e["t"],
+               "v": ("Misbound pages in " if e["kind"] == "misbound" else "Bound in ") + e["host"],
+               "host": e["host"], "rg": e["ranges"], "kind": e["kind"], "found": e["found"],
+               "pg": sum(b - a + 1 for a, b in e["ranges"])}
+        own = os.path.join(HERE, "catalog", e["id"] + ".json")
+        if os.path.exists(own):
+            c = json.load(open(own, encoding="utf-8"))
+            rec.update({"o": c.get("summary", ""), "h": c.get("highlights", []), "k": c.get("keywords", []),
+                        "toc": [{"t": x["title"], "lv": x.get("level", 1), "p": [x["start_page"], x["end_page"]],
+                                 "pp": x.get("printed_page", ""), "s": x.get("summary", "")} for x in c.get("sections", [])],
+                        "by": c.get("_model", "")})
+        elif not host.get("sk"):
+            toc = [dict(x) for x in host["toc"] if inside(x, e["ranges"])]
+            # drop a wrapper entry that spans the whole buried issue, and start levels at 1
+            wrap = [x for x in toc if [x["p"]] == e["ranges"] or (x["p"][0] <= e["ranges"][0][0] and x["p"][1] >= e["ranges"][-1][1])]
+            toc = [x for x in toc if x not in wrap[:1]]
+            low = min([x["lv"] for x in toc] or [1])
+            for x in toc: x["lv"] = x["lv"] - low + 1
+            rec.update({"o": wrap[0]["s"] if wrap else "", "h": [], "k": [], "toc": toc, "by": host.get("by", "")})
+        else:
+            rec.update({"o": "", "h": [], "k": [], "toc": [], "sk": 1})
+        host.setdefault("emb", []).append(e["id"])
+        host["toc"] = [x for x in host["toc"] if not inside(x, e["ranges"])]
+        recs.append(rec)
+    recs.sort(key=lambda x: (x["d"], x["s"], x["no"], "host" in x, x.get("v", "") != "", x["id"]))
     json.dump([{**{k: f[k] for k in ("id", "ia", "s", "t", "pdf", "ocr")}} for f in files()],
               open(os.path.join(HERE, "files.json"), "w"), indent=1, ensure_ascii=False)
     tmp = os.path.join(HERE, "data.js.tmp")
@@ -78,7 +131,7 @@ def main():
         fh.write("window.CATALOG=" + json.dumps(recs, ensure_ascii=False, separators=(",", ":")) + ";\n")
     os.replace(tmp, os.path.join(HERE, "data.js"))
     done = sum(1 for r in recs if not r.get("sk"))
-    print(f"{len(recs)} reports ({done} catalogued), {sum(r['pg'] for r in recs)} pages -> data.js")
+    print(f"{len(recs)} records incl. {sum('host' in r for r in recs)} buried issues ({done} catalogued), {sum(r['pg'] for r in recs)} pages -> data.js")
 
 
 if __name__ == "__main__":

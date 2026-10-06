@@ -4,3 +4,5 @@ fulltext-build/node_modules/
 fulltext-build/records.jsonl
 data.js.tmp
 logs/
+pagefind.new/
+pagefind.old/

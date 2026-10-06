@@ -18,6 +18,8 @@ Read the whole file, in parts if it is long, and produce:
 3. highlights: 4-8 notable events, decisions or figures.
 4. keywords: 8-15.
 
+BURIED ISSUES: some PDFs are bound volumes that hold more than one issue (look for a second title page, a library call number such as 'M 105.13:31', a new 'Number NN' cover, or a change of declassification stamp), or contain stray pages misbound from another issue. Catalogue ALL pages in `sections` as usual, and also list each such issue in `embedded_issues` with its title, number, month (YYYY-MM, or YYYY-MM/YYYY-MM), start_page (its title page), end_page and kind ('bound' or 'misbound'). The report named above is the host and is NOT listed there. If there are none, give an empty list.
+
 Correct obvious OCR misreadings in headings. Never invent a page number: if you cannot find a heading in the text, use the nearest page where its content begins and keep going.
 
 Do NOT run any shell commands. Do not create, edit or delete any files. Only read the file named above, then reply with the JSON object and nothing else.

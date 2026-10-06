@@ -32,15 +32,18 @@ def clean(md):
 n = 0
 with open(os.path.join(HERE, "records.jsonl"), "w", encoding="utf-8") as out:
     for f in json.load(open(os.path.join(WEB, "files.json"), encoding="utf-8")):
-        rec = CAT[f["id"]]
+        host = CAT[f["id"]]
+        buried = [r for r in CAT.values() if r.get("host") == f["id"]]
         for p, md in sorted(ocr_pages(f["ocr"]).items()):
             body = clean(md)
             if not body: continue
+            # a page inside a buried issue belongs to that issue (and still to its host volume, for in:<host>)
+            rec = next((r for r in buried if any(a <= p <= b for a, b in r["rg"])), host)
             seq, stitle = section(rec, p)
             out.write(json.dumps({
-                "url": f"#d/{f['id']}/pg/{p}", "content": body,
-                "meta": {"title": rec["t"], "page": str(p), "id": f["id"], "ia": f["ia"], "sec": stitle, "seq": str(seq)},
-                "filters": {"series": [SERIES[rec["s"]]], "year": [rec["d"][:4]], "doc": [f["id"]], "sec": [f"{f['id']}#{seq}"]},
-                "sort": {"date": f"{rec['d']}|{f['id']}|{p:05d}"}}, ensure_ascii=False) + "\n")
+                "url": f"#d/{rec['id']}/pg/{p}", "content": body,
+                "meta": {"title": rec["t"], "page": str(p), "id": rec["id"], "ia": f["ia"], "sec": stitle, "seq": str(seq)},
+                "filters": {"series": [SERIES[rec["s"]]], "year": [rec["d"][:4]], "doc": sorted({f["id"], rec["id"]}), "sec": [f"{rec['id']}#{seq}"]},
+                "sort": {"date": f"{rec['d']}|{rec['id']}|{p:05d}"}}, ensure_ascii=False) + "\n")
             n += 1
 print(n, "pages written to records.jsonl")

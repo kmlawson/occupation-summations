@@ -19,8 +19,14 @@ for await (const line of rl) {
   if (res.errors.length) { console.error(res.errors); process.exit(1); }
   if (++n % 5000 === 0) console.log(n, "pages indexed");
 }
-fs.rmSync(out, { recursive: true, force: true });
-const w = await index.writeFiles({ outputPath: out });
+// write beside the live index and swap it in, so a page loaded mid-build never sees half an index
+const fresh = out + ".new", old = out + ".old";
+fs.rmSync(fresh, { recursive: true, force: true, maxRetries: 5 });
+const w = await index.writeFiles({ outputPath: fresh });
 if (w.errors.length) { console.error(w.errors); process.exit(1); }
+if (fs.existsSync(old)) fs.rmSync(old, { recursive: true, force: true, maxRetries: 5 });
+if (fs.existsSync(out)) fs.renameSync(out, old);
+fs.renameSync(fresh, out);
+try { fs.rmSync(old, { recursive: true, force: true, maxRetries: 5 }); } catch (e) { console.warn("left", old, e.code); }
 console.log(`${n} pages -> ${out}`);
 await pagefind.close();

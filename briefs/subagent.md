@@ -20,6 +20,8 @@ The file is long. Read it with the Read tool in consecutive chunks (for example 
 4. **keywords**: 8-15.
 5. **printed_toc_found**: true if the report has its own printed table of contents.
 
+BURIED ISSUES: some PDFs are bound volumes that hold more than one issue (look for a second title page, a library call number such as 'M 105.13:31', a new 'Number NN' cover, or a change of declassification stamp), or contain stray pages misbound from another issue. Catalogue ALL pages in `sections` as usual, and also list each such issue in `embedded_issues` with its title, number, month (YYYY-MM, or YYYY-MM/YYYY-MM), start_page (its title page), end_page and kind ('bound' or 'misbound'). The report named above is the host and is NOT listed there. If there are none, give an empty list.
+
 Correct obvious OCR misreadings in headings. Never invent a page number: if you cannot find a heading in the text, use the nearest page where its content begins.
 
 ## Output
@@ -31,6 +33,7 @@ Write ONE file, a single JSON object, with the Write tool, to the output path gi
  "highlights": ["...", "..."],
  "keywords": ["...", "..."],
  "printed_toc_found": true,
+ "embedded_issues": [],
  "sections": [
   {"title": "Front matter", "level": 1, "printed_page": "", "start_page": 1, "end_page": 3, "summary": "Cover, table of contents and list of charts."},
   {"title": "Part I: General", "level": 1, "printed_page": "1", "start_page": 4, "end_page": 12, "summary": "..."},

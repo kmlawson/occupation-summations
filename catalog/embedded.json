@@ -1,0 +1,18 @@
+[
+ {"host": "K-24", "no": 25, "d": "1947-10", "d2": "", "t": "South Korean Interim Government Activities, No. 25 (October 1947)", "ranges": [[152, 333]], "kind": "bound",
+  "found": "Library call-number title page 'M 105.13:25' on PDF p. 152"},
+ {"host": "K-26", "no": 27, "d": "1947-12", "d2": "", "t": "South Korean Interim Government Activities, No. 27 (December 1947)", "ranges": [[268, 495]], "kind": "bound",
+  "found": "Title page 'M 105.13:27' (OCR: 108/13:27) on PDF p. 268"},
+ {"host": "K-28", "no": 29, "d": "1948-02", "d2": "", "t": "South Korean Interim Government Activities, No. 29 (February 1948)", "ranges": [[256, 499]], "kind": "bound",
+  "found": "Title page 'M 105.13:29' on PDF p. 256"},
+ {"host": "K-30", "no": 31, "d": "1948-04", "d2": "", "t": "South Korean Interim Government Activities, No. 31 (April 1948)", "ranges": [[222, 449]], "kind": "bound",
+  "found": "Title page '105.13:31' on PDF p. 222"},
+ {"host": "K-30", "no": 32, "d": "1948-05", "d2": "", "t": "South Korean Interim Government Activities, No. 32 (May 1948)", "ranges": [[450, 655]], "kind": "bound",
+  "found": "Title page '105.13:32' on PDF p. 450"},
+ {"host": "K-33", "no": 34, "d": "1948-07", "d2": "1948-08", "t": "South Korean Interim Government Activities, No. 34 (July-August 1948)", "ranges": [[210, 485]], "kind": "bound",
+  "found": "Title page 'M105.13:34' on PDF p. 210"},
+ {"host": "K-33", "no": 35, "d": "1948-09", "d2": "1948-10", "t": "Republic of Korea Economic Summation, No. 35 (September-October 1948)", "ranges": [[486, 591]], "kind": "bound",
+  "found": "Title page '105.13:35' on PDF p. 486; economic sections only"},
+ {"host": "K-32", "no": 22, "d": "1947-07", "d2": "", "t": "South Korean Interim Government Activities, No. 22 (July 1947): misbound pages", "ranges": [[47, 113], [134, 137]], "kind": "misbound",
+  "found": "Pages stamped 'NND 785084' (the rest of the volume is 'NND 785083'); content dated to June-July 1947"}
+]

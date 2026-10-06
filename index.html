@@ -47,6 +47,7 @@ a.chip:hover{outline:1px solid var(--accent)}
 .ser.J{background:var(--jp)}.ser.K{background:var(--kr)}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .ser{color:#0f1719}}
 :root[data-theme=dark] .ser{color:#0f1719}
+.var.bur{border-color:var(--kr);color:var(--ink)}.var.bur a{color:inherit}
 .var{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:0 7px;font:12px/1.6 system-ui,sans-serif;color:var(--muted);white-space:nowrap}
 .pgpill{display:inline-block;border-radius:999px;padding:0 8px;font:600 12px/1.65 system-ui,sans-serif;white-space:nowrap;background:var(--chip);color:var(--accent2);text-decoration:none}
 a.pgpill:hover{background:var(--accent);color:var(--bandink)}
@@ -158,21 +159,24 @@ function miniToc(x) {
     `<li class="l${s.lv}"><a href="#d/${x.id}/s/${x.toc.indexOf(s) + 1}">${esc(s.t)}</a><span class="pp">p. ${s.p[0]}</span></li>`).join('')}</ul></details>`;
 }
 function issue(x) {
-  return `<div class="iss"><a href="#d/${x.id}">No. ${x.no}</a> ${x.v ? `<span class="var">${esc(x.v)}</span> ` : ''}<span class="meta">${x.pg} pp.${x.sk ? ' · not yet catalogued' : ''}</span>${miniToc(x)}</div>`;
+  const v = x.host ? `<span class="var bur">${x.kind === 'misbound' ? 'misbound pages in' : 'bound in'} <a href="#d/${x.host}">${esc(x.host)}</a>, pp. ${x.rg.map(r => r.join('–')).join(', ')}</span> `
+    : x.v ? `<span class="var">${esc(x.v)}</span> ` : '';
+  return `<div class="iss"><a href="#d/${x.id}">No. ${x.no}</a> ${v}<span class="meta">${x.pg} pp.${x.sk ? ' · not yet catalogued' : ''}</span>${miniToc(x)}</div>`;
 }
 function cover() {
   nav('cover'); document.title = 'Occupation Summations 1945–1948';
   const months = [...new Set(D.map(x => x.d))].sort();
-  const all = []; for (let y = 1945, m = 9; y < 1948 || (y === 1948 && m <= 8); m === 12 ? (y++, m = 1) : m++) all.push(`${y}-${String(m).padStart(2, '0')}`);
+  const last = D.reduce((a, x) => (x.d2 || x.d) > a ? (x.d2 || x.d) : a, '');
+  const all = []; for (let y = 1945, m = 9; `${y}-${String(m).padStart(2, '0')}` <= last; m === 12 ? (y++, m = 1) : m++) all.push(`${y}-${String(m).padStart(2, '0')}`);
   const cov = d => D.filter(x => x.d === d || (x.d2 && x.d < d && d <= x.d2));
   const cell = (d, s) => { const xs = cov(d).filter(x => x.s === s);
     if (xs.length) return xs.every(x => x.d !== d) ? `<div class="toc-c empty" data-s="${SER[s]}">see ${mon(xs[0].d)}</div>` : `<div class="toc-c" data-s="${SER[s]}">${xs.map(issue).join('')}</div>`;
     const gap = s === 'K' && d < '1946-03' ? 'reported in the Japan Summation' : 'not in this collection';
     return `<div class="toc-c empty" data-s="${SER[s]}">${gap}</div>`; };
   const years = [...new Set(all.map(d => d.slice(0, 4)))];
-  const pages = D.reduce((a, x) => a + x.pg, 0), done = D.filter(x => !x.sk).length;
+  const pages = D.filter(x => !x.host).reduce((a, x) => a + x.pg, 0), done = D.filter(x => !x.sk).length;
   main.innerHTML = `<p class="intro">Every month from September 1945, General Headquarters of the Supreme Commander for the Allied Powers (SCAP) issued a <i>Summation of Non-Military Activities</i> on the Occupation of Japan: government, the economy, labour, health, education, religion and the press. Southern Korea was covered in the same report until February 1946, and from March 1946 in a separate monthly summation of U.S. Army Military Government activities, renamed <i>South Korean Interim Government Activities</i> in July 1947. This guide sets the two series side by side, with each report's table of contents linked to its page images on the Internet Archive and full-text search of the OCR text.</p>
-  <div class="stats"><div class="stat"><b>${D.length}</b>PDFs</div><div class="stat"><b>${pages.toLocaleString()}</b>pages</div><div class="stat"><b>${D.filter(x => x.s === 'J').length} · ${D.filter(x => x.s === 'K').length}</b>Japan · Korea</div><div class="stat"><b>${done}/${D.length}</b>catalogued</div></div>
+  <div class="stats"><div class="stat"><b>${D.filter(x => !x.host).length}</b>PDFs</div><div class="stat"><b>${D.filter(x => x.host).length}</b>buried issues</div><div class="stat"><b>${pages.toLocaleString()}</b>pages</div><div class="stat"><b>${D.filter(x => x.s === 'J').length} · ${D.filter(x => x.s === 'K').length}</b>Japan · Korea issues</div><div class="stat"><b>${done}/${D.length}</b>catalogued</div></div>
   <div class="searchbar" style="margin-top:14px"><input type="search" id="cq" placeholder="Search the full text of all ${pages.toLocaleString()} pages…"><button id="cgo">Search</button></div>
   ${years.map(y => `<div class="toc-year">${y}<span>${D.filter(x => x.d.startsWith(y)).length} PDFs</span></div>
    <div class="toc"><div class="toc-h"><div>Month</div><div>${ser('J')} SCAP</div><div>${ser('K')} USAMGIK</div></div>
@@ -194,7 +198,9 @@ function report(id, mode, arg) {
   if (page) x.toc.forEach((s, j) => { if (s.p[0] <= page && page <= s.p[1] && (on < 0 || s.lv >= x.toc[on].lv)) on = j; });
   main.innerHTML = `<a class="meta" href="#">← Contents</a>
   <div class="card rep ${x.s}" style="margin-top:10px"><h2>${esc(x.t)}</h2>
-   <div class="meta">${ser(x.s)} ${esc(SERLONG[x.s])} · ${when(x)} · ${pgPill(x.pg)}${x.v ? ' · <span class="var">' + esc(x.v) + '</span>' : ''} · <a href="${IA(x.ia)}" target="_blank" rel="noopener">archive.org</a> · <a href="https://archive.org/download/${x.ia}" target="_blank" rel="noopener">download</a> · <a href="#fulltext/in:${x.id}%20">search this report's text</a></div>
+   <div class="meta">${ser(x.s)} ${esc(SERLONG[x.s])} · ${when(x)} · ${pgPill(x.pg)}${x.v ? ' · <span class="var">' + esc(x.v) + '</span>' : ''} · <a href="${x.host ? IAP(x, x.rg[0][0]) : IA(x.ia)}" target="_blank" rel="noopener">${x.host ? 'archive.org (opens at p. ' + x.rg[0][0] + ')' : 'archive.org'}</a> · <a href="https://archive.org/download/${x.ia}" target="_blank" rel="noopener">download${x.host ? ' the whole volume' : ''}</a> · <a href="#fulltext/in:${x.id}%20">search this report's text</a></div>
+   ${x.host ? `<div class="note" style="margin-top:10px">${x.kind === 'misbound' ? 'These pages were misbound into' : 'This issue is bound inside'} <a href="#d/${x.host}"><b>${esc(short(BY[x.host]))}</b></a>, PDF pages ${x.rg.map(r => `<a href="${IAP(x, r[0])}" target="_blank" rel="noopener">${r.join('–')}</a>`).join(', ')}. <span class="meta">How it was found: ${esc(x.found)}.</span></div>` : ''}
+   ${x.emb ? `<div class="note" style="margin-top:10px">This volume also contains: ${x.emb.map(e => BY[e]).map(e => `<a href="#d/${e.id}"><b>${esc(e.t)}</b></a> (${e.kind === 'misbound' ? 'misbound pages, ' : ''}pp. ${e.rg.map(r => `<a href="${IAP(e, r[0])}" target="_blank" rel="noopener">${r.join('–')}</a>`).join(', ')})`).join('; ')}. Their sections are listed on their own pages.</div>` : ''}
    ${page ? `<div class="note" style="margin-top:10px">Page ${page}${on >= 0 ? ' is in <b>' + esc(x.toc[on].t) + '</b>' : ''} · <a href="${IAP(x, page)}" target="_blank" rel="noopener">open page ${page} on archive.org</a></div>` : ''}
    ${x.sk ? `<p class="note" style="margin-top:12px">This report has not been catalogued yet. Its full text is searchable: <a href="#fulltext/in:${x.id}%20">search inside it</a>.</p>` : `
    <div class="label">Summary</div><p style="margin:0">${hl(x.o, ts)} ${LLM(x.by)}</p>
@@ -265,10 +271,10 @@ async function search(raw) {
   const groups = []; const gi = {};
   data.forEach(d => { const id = d.meta.id; if (!(id in gi)) { gi[id] = groups.length; groups.push({id, pages: []}); } groups[gi[id]].pages.push(d); });
   const cnt = r.filters && r.filters.doc || {}, yrs = r.filters && r.filters.year || {};
-  const reps = Object.keys(cnt).filter(k => cnt[k]).length || groups.length;
+  const reps = Object.keys(cnt).filter(k => cnt[k] && !(BY[k] && BY[k].emb && BY[k].emb.reduce((a, e) => a + (cnt[e] || 0), 0) >= cnt[k])).length || groups.length;
   out.innerHTML = `<p class="meta">${n.toLocaleString()} page${n === 1 ? '' : 's'} in ${reps} report${reps === 1 ? '' : 's'}${scope ? ' · within ' + esc(scope) : ''}${n > LIMIT ? ` · showing the first ${LIMIT} pages by date` : ''}</p>
    ${!f.year ? `<div class="hist">${Object.entries(yrs).filter(([, c]) => c).map(([y, c]) => `<a class="chip" href="#fulltext/${encodeURIComponent(raw + ' year:' + y)}">${y} <b>${c}</b></a>`).join('')}</div>` : ''}
-   ${groups.map(g => { const x = BY[g.id], tot = cnt[g.id] || g.pages.length;
+   ${groups.map(g => { const x = BY[g.id], tot = ((cnt[g.id] || 0) - (x.emb || []).reduce((a, e) => a + (cnt[e] || 0), 0)) || g.pages.length;  // a host's doc count includes its buried issues
      return `<div class="card ftrep"><h2><a href="#d/${x.id}">${esc(short(x))}, ${when(x)}</a></h2>
       <div class="meta">${ser(x.s)} ${tot} matching page${tot === 1 ? '' : 's'} · ID <code>${x.id}</code>${!scope ? ` · <a href="#fulltext/${encodeURIComponent(q + ' in:' + x.id)}">only this report</a>` : ''}</div>
       ${g.pages.map(d => `<div class="fthit"><span class="meta"><a href="${IAP(x, +d.meta.page)}" target="_blank" rel="noopener" title="Page image on archive.org">p. ${esc(d.meta.page)}</a>${d.meta.sec ? ` · <a href="#d/${x.id}/pg/${esc(d.meta.page)}">${esc(d.meta.sec)}</a>` : ` · <a href="#d/${x.id}/pg/${esc(d.meta.page)}">in report</a>`}</span> <span class="ftx">…${d.excerpt}…</span></div>`).join('')}</div>`; }).join('')}`;
