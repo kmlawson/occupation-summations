@@ -82,14 +82,14 @@ mark{background:var(--hlb);color:inherit;border-radius:2px}h2 mark,h3 mark,.sec-
 .minitoc li{display:flex;gap:6px;align-items:baseline;padding:1px 0}
 .minitoc li.l2{padding-left:14px}.minitoc li.l3{padding-left:28px;font-size:12.5px}
 .minitoc a{color:var(--ink);text-decoration:none;flex:1;min-width:0}.minitoc a:hover{color:var(--accent)}
-.minitoc .pp{color:var(--muted);font-size:12px;white-space:nowrap}
+.minitoc .pp{color:var(--muted);font-size:12px;white-space:nowrap;flex:none}
 @media (max-width:700px){.toc-h{display:none}.toc-r{grid-template-columns:1fr}.toc-m{padding:10px 12px 0}.toc-c{border-left:0}
  .toc-c::before{content:attr(data-s);display:block;font:600 11px system-ui,sans-serif;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:2px}}
 /* report page */
 .sec{display:flex;gap:10px;align-items:flex-start;border-top:1px solid var(--line);padding:9px 0;scroll-margin-top:150px}
 .sec.l2{padding-left:18px}.sec.l3{padding-left:36px}
 .sec>div{flex:1;min-width:0}
-.sec-t{font-weight:600;color:var(--accent2)}
+.sec-t{font-weight:600;color:var(--accent2);text-decoration:none}a.sec-t:hover{text-decoration:underline}
 .sec.l1 .sec-t{font-size:16px}
 .sec .s{margin:2px 0 0;font-size:14px}
 .sec.on{background:color-mix(in srgb,var(--accent) 10%,transparent);margin:0 -16px;padding-left:16px;padding-right:16px}
@@ -156,7 +156,7 @@ function miniToc(x) {
   if (x.sk) return '';
   const rows = x.toc.filter(s => s.lv <= 2);
   return `<details><summary>Contents (${rows.length})</summary><ul class="minitoc">${rows.map((s, i) =>
-    `<li class="l${s.lv}"><a href="#d/${x.id}/s/${x.toc.indexOf(s) + 1}">${esc(s.t)}</a><span class="pp">p. ${s.p[0]}</span></li>`).join('')}</ul></details>`;
+    `<li class="l${s.lv}"><a href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${esc(s.t)}</a><a class="pp" href="#d/${x.id}/s/${x.toc.indexOf(s) + 1}" title="Section in this guide">p. ${s.p[0]}</a></li>`).join('')}</ul></details>`;
 }
 function issue(x) {
   const v = x.host ? `<span class="var bur">${x.kind === 'misbound' ? 'misbound pages in' : 'bound in'} <a href="#d/${x.host}">${esc(x.host)}</a>, pp. ${x.rg.map(r => r.join('–')).join(', ')}</span> `
@@ -206,7 +206,7 @@ function report(id, mode, arg) {
    ${x.h.length ? `<div class="label">Highlights</div><ul class="hl">${x.h.map(h => `<li>${hl(h, ts)}</li>`).join('')}</ul>` : ''}
    ${x.k.length ? `<div class="chips" style="margin-top:12px">${x.k.map(k => `<a class="chip" href="#reports/${encodeURIComponent('"' + k + '"')}">${esc(k)}</a>`).join('')}</div>` : ''}
    <div class="label">Table of contents <span class="llm">page numbers are PDF pages</span></div>
-   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div><span class="sec-t">${hl(s.t, ts)}</span>${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)}</p>` : ''}</div>
+   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div><a class="sec-t" href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${hl(s.t, ts)}</a>${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)}</p>` : ''}</div>
      <div class="side">${ppLink(x, s.p)}<a class="meta" href="#fulltext/in:${x.id}%23${j + 1}%20" title="Search the text of this section">search</a></div></div>`).join('')}</div>`}
    <div class="pn"><span>${i > 0 ? `← <a href="#d/${same[i - 1].id}">${esc(short(same[i - 1]))}, ${when(same[i - 1])}</a>` : ''}</span>
     <span>${alts.map(y => `Also: <a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ')}${other.length ? (alts.length ? ' · ' : '') + 'Same month: ' + other.map(y => `<a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ') : ''}</span>

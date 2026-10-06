@@ -14,9 +14,9 @@ The file is long. Read it with the Read tool in consecutive chunks (for example 
    - If there is no printed table of contents, build the structure from the headings in the text.
    - Put the cover, table of contents and lists of charts together as a first entry titled "Front matter". Include appendices, annexes, chart sections and maps as entries if present.
    - Every page from 1 to the last page must fall inside some level-1 or level-2 entry. end_page of an entry is the page before the next entry at the same or higher level starts; the last entry ends at the last page.
-   - Give each section a 1-2 sentence summary (at most 45 words) of what it reports THIS month: specific facts, not generic descriptions. For a level-1 part that only contains sections, a few words suffice.
+   - Give EVERY section, parts included, a short summary: one or two concise sentences (at most 35 words) of what it reports THIS month, with something concrete in it: a name, figure, decision, place or date. Never a generic description ("This section covers labor matters") and never a restatement of the heading. A part's summary can name the main points of its sections.
 2. **summary**: 120-200 words on the report as a whole: the period, the main developments reported, and what a historian would find useful.
-3. **highlights**: 4-8 notable events, decisions or figures, each at most 25 words.
+3. **highlights**: 4-8 bullet points on the month's most notable events, decisions and figures. These may be longer than section summaries (one full sentence each, up to about 40 words) and should be concrete and detailed: who, what, how many, where.
 4. **keywords**: 8-15.
 5. **printed_toc_found**: true if the report has its own printed table of contents.
 
