@@ -108,6 +108,13 @@ ul.hl{margin:4px 0 0;padding-left:20px}ul.hl li{margin:2px 0}
 .list-r{border-top:1px solid var(--line);padding:6px 0;font-size:14px}
 .theme{flex:none;min-height:34px;padding:4px 10px}
 /* tables */
+.tpill{display:inline-block;margin-left:4px;padding:0 7px;border-radius:999px;font:700 10.5px/1.75 system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;white-space:nowrap;vertical-align:2px;background:#fbe7c0;color:#7a4a00;border:1px solid #e9c77d}
+a.tpill:hover{background:#7a4a00;color:#fff}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .tpill{background:#4a3410;color:#ffd98a;border-color:#7a5a20}}
+:root[data-theme=dark] .tpill{background:#4a3410;color:#ffd98a;border-color:#7a5a20}
+.tblock{border-top:2px solid var(--line);margin-top:18px;padding-top:12px;scroll-margin-top:150px}.tblock h3{font-size:16px;margin:0 0 3px;color:var(--accent2)}
+.tnotes{margin-top:6px}
+
 .tbwrap{overflow-x:auto;margin:10px 0 6px;border:1px solid var(--line);border-radius:8px;background:var(--panel)}
 table.data{border-collapse:collapse;font:13.5px/1.4 system-ui,sans-serif;min-width:100%}
 table.data th,table.data td{border:1px solid var(--line);padding:4px 8px;vertical-align:top;text-align:left}
@@ -127,7 +134,7 @@ footer{border-top:1px solid var(--line);padding:18px 0 40px;color:var(--muted);f
 <header><div class="band"></div><div class="wrap">
  <div class="top"><h1><a href="#">Occupation Summations, Japan &amp; Korea 1945–1948</a></h1>
   <button class="theme" id="theme" title="Switch light/dark">◐</button></div>
- <nav id="nav"><a href="#" data-v="cover">Contents</a><a href="#reports" data-v="reports">Search reports</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#tables" data-v="tables">Tables</a><a href="#about" data-v="about">About</a></nav>
+ <nav id="nav"><a href="#" data-v="cover">Contents</a><a href="#reports" data-v="reports">Search reports</a><a href="#fulltext" data-v="fulltext">Full text</a><a href="#about" data-v="about">About</a></nav>
 </div></header>
 <main class="wrap" id="main"></main>
 <footer class="wrap">Page images: <a href="https://archive.org/search?query=subject%3A%22non-military-summation%22+OR+subject%3A%22usamgik-monthly%22">Internet Archive</a>. Summaries and section lists are written by language models from OCR text and marked <span class="llm">by LLM</span>; check them against the page images.</footer>
@@ -170,7 +177,7 @@ function miniToc(x) {
   if (x.sk) return '';
   const rows = x.toc.filter(s => s.lv <= 2);
   return `<details><summary>Contents (${rows.length})</summary><ul class="minitoc">${rows.map((s, i) =>
-    `<li class="l${s.lv}"><a href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${esc(s.t)}</a><a class="pp" href="#d/${x.id}/s/${x.toc.indexOf(s) + 1}" title="Section in this guide">p. ${s.p[0]}</a></li>`).join('')}</ul></details>`;
+    `<li class="l${s.lv}"><a href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${esc(s.t)}</a>${tpill(x, x.toc.indexOf(s), allT(x, x.toc.indexOf(s)).length)}<a class="pp" href="#d/${x.id}/s/${x.toc.indexOf(s) + 1}" title="Section in this guide">p. ${s.p[0]}</a></li>`).join('')}</ul></details>`;
 }
 function issue(x) {
   const v = x.host ? `<span class="var bur">${x.kind === 'misbound' ? 'misbound pages in' : 'bound in'} <a href="#d/${x.host}">${esc(x.host)}</a>, pp. ${x.rg.map(r => r.join('–')).join(', ')}</span> `
@@ -220,9 +227,8 @@ function report(id, mode, arg) {
    <div class="label">Summary</div><p style="margin:0">${hl(x.o, ts)} ${LLM(x.by)}</p>
    ${x.h.length ? `<div class="label">Highlights</div><ul class="hl">${x.h.map((h, i) => `<li>${hl(h, ts)}${i === x.h.length - 1 ? ' ' + LLM(x.by) : ''}</li>`).join('')}</ul>` : ''}
    ${x.k.length ? `<div class="chips" style="margin-top:12px">${x.k.map(k => `<a class="chip" href="#reports/${encodeURIComponent('"' + k + '"')}">${esc(k)}</a>`).join('')}</div>` : ''}
-   ${(window.TABLES || []).some(t => t.r === x.id) ? `<div class="label">Statistical tables</div>${T.filter(t => t.r === x.id).map(t => `<div class="tbrow"><a href="#tb/${t.id}">${esc(t.t)}</a>${flagged(t) ? '<span class="flag">check</span>' : ''}<a class="pgpill" href="${IAP(x, t.p)}" target="_blank" rel="noopener" style="flex:none">p. ${t.p}</a></div>`).join('')}` : ''}
    <div class="label">Table of contents <span class="llm">page numbers are PDF pages</span></div>
-   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div><a class="sec-t" href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${hl(s.t, ts)}</a>${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)} ${LLM(x.by)}</p>` : ''}</div>
+   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div><a class="sec-t" href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${hl(s.t, ts)}</a> ${tpill(x, j, ownT(x, j).length)}${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)} ${LLM(x.by)}</p>` : ''}</div>
      <div class="side">${ppLink(x, s.p)}<a class="meta" href="#fulltext/in:${x.id}%23${j + 1}%20" title="Search the text of this section">search</a></div></div>`).join('')}</div>`}
    <div class="pn"><span>${i > 0 ? `← <a href="#d/${same[i - 1].id}">${esc(short(same[i - 1]))}, ${when(same[i - 1])}</a>` : ''}</span>
     <span>${alts.map(y => `Also: <a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ')}${other.length ? (alts.length ? ' · ' : '') + 'Same month: ' + other.map(y => `<a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ') : ''}</span>
@@ -305,43 +311,57 @@ function csv(t) {
   return [...t.h, ...t.rows].map(r => r.map(c => q(String(c ?? ''))).join(',')).join('\n');
 }
 function dl(name, text, type) { const a = document.createElement('a'); a.href = URL.createObjectURL(new Blob([text], {type})); a.download = name; a.click(); setTimeout(() => URL.revokeObjectURL(a.href), 1000); }
-function tablesList(q) {
-  nav('tables'); document.title = 'Tables · Occupation Summations';
-  const reps = [...new Set(T.map(t => t.r))];
-  main.innerHTML = `<p class="intro" style="font-size:15px">${T.length} statistical tables from ${reps.length} reports, transcribed from the page images. Each links to its page on archive.org and can be downloaded as CSV; all tables are also in <a href="tables.json" download>tables.json</a>.</p>
-  <div class="warnbox">These tables were transcribed by a language model (Claude Sonnet) reading the scans, and checked against the OCR. Before you rely on any figure, check it against the page image. Tables with unreadable cells or totals that do not add up are marked <span class="flag">check</span>.</div>
-  <div class="searchbar"><input type="search" id="tq" placeholder="Filter tables by title, e.g. rice, typhus, prices" value="${esc(q)}"><label class="meta" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="tw" style="min-height:0"> only tables marked “check”</label></div>
-  <div id="tl"></div>`;
-  const run = () => { const v = $('#tq').value.trim().toLowerCase(), w = $('#tw').checked;
-    set(v ? '#tables/' + encodeURIComponent(v) : '#tables');
-    const hits = T.filter(t => (!w || flagged(t)) && (!v || (t.t + ' ' + t.u + ' ' + t.pe).toLowerCase().includes(v)));
-    $('#tl').innerHTML = `<p class="meta">${hits.length} of ${T.length} tables</p>` + reps.filter(r => hits.some(t => t.r === r)).map(r => { const x = BY[r];
-      return `<div class="card"><h2><a href="#d/${x.id}">${esc(short(x))}, ${when(x)}</a></h2><div class="meta">${ser(x.s)} ${T.filter(t => t.r === r).length} tables</div>
-      ${hits.filter(t => t.r === r).map(t => `<div class="tbrow"><a href="#tb/${t.id}">${esc(t.t)}</a>${flagged(t) ? '<span class="flag">check</span>' : ''}<span class="meta">${t.rows.length} rows</span><a class="pgpill" href="${IAP(x, t.p)}" target="_blank" rel="noopener" style="flex:none">p. ${t.p}</a></div>`).join('')}</div>`; }).join('');
-  };
-  $('#tq').oninput = run; $('#tw').onchange = run; run();
+// each table belongs to a record (a buried issue if its page falls inside one) and to the deepest section covering its page
+function resolveT(t) { let x = BY[t.r]; if (x && x.emb) { const b = x.emb.map(e => BY[e]).find(e => e.rg.some(([a, z]) => a <= t.p && t.p <= z)); if (b) x = b; } return x; }
+T.forEach(t => { const x = resolveT(t); if (!x) return; t.x = x.id; let best = -1;
+  x.toc.forEach((s, j) => { if (s.p[0] <= t.p && t.p <= s.p[1] && (best < 0 || s.lv >= x.toc[best].lv)) best = j; });
+  t.sec = best; x.tsec = x.tsec || {}; (x.tsec[best] = x.tsec[best] || []).push(t); });
+const ownT = (x, j) => (x.tsec && x.tsec[j]) || [];
+function allT(x, j) {   // tables in section j and in the sections inside it
+  if (!x.tsec) return []; const s = x.toc[j];
+  return Object.keys(x.tsec).map(Number).filter(k => k === j || (k >= 0 && x.toc[k].lv > s.lv && s.p[0] <= x.toc[k].p[0] && x.toc[k].p[0] <= s.p[1])).flatMap(k => x.tsec[k]);
 }
-function tableView(id) {
-  const t = TBY[id]; if (!t) { main.innerHTML = '<p>Table not found. <a href="#tables">All tables</a></p>'; return; }
-  const x = BY[t.r], same = T.filter(u => u.r === t.r), i = T.indexOf(t);
-  nav('tables'); document.title = t.t + ' · Tables';
+const tpill = (x, j, n) => n ? `<a class="tpill" href="#d/${x.id}/sec/${j + 1}" title="${n} statistical table${n === 1 ? '' : 's'} transcribed from this section">Tables${n > 1 ? ' · ' + n : ''}</a>` : '';
+function tableHTML(x, t) {
   const cell = (c, tag) => { const v = String(c ?? ''); return `<${tag}${tag === 'td' ? ` class="${v === '' ? 'blank' : isNum(v) ? 'num' : ''}"` : ''}>${esc(v)}</${tag}>`; };
-  main.innerHTML = `<a class="meta" href="#tables">← All tables</a>
-  <div class="card rep ${x.s}" style="margin-top:10px"><h2>${esc(t.t)}</h2>
-   <div class="meta">${ser(x.s)} <a href="#d/${x.id}/pg/${t.p}">${esc(short(x))}, ${when(x)}</a> · PDF page${t.pp.length > 1 ? 's ' + t.pp.join(', ') : ' ' + t.p} · <a href="${IAP(x, t.p)}" target="_blank" rel="noopener">page image on archive.org</a> · ID <code>${t.id}</code></div>
-   ${t.u || t.pe ? `<p class="meta" style="margin:8px 0 0">${[t.u && 'Units: ' + esc(t.u), t.pe && 'Period: ' + esc(t.pe)].filter(Boolean).join(' · ')}</p>` : ''}
+  return `<div class="tblock" id="t-${t.id}"><h3>${esc(t.t)} ${flagged(t) ? '<span class="flag">check</span>' : ''}</h3>
+   <div class="meta">PDF page${t.pp.length > 1 ? 's ' + t.pp.join(', ') : ' ' + t.p} · <a href="${IAP(x, t.p)}" target="_blank" rel="noopener">page image on archive.org</a>${t.u ? ' · Units: ' + esc(t.u) : ''}${t.pe ? ' · Period: ' + esc(t.pe) : ''} · <a href="#" data-csv="${t.id}">CSV</a></div>
    <div class="tbwrap"><table class="data"><thead>${t.h.map(r => `<tr>${r.map(c => cell(c, 'th')).join('')}</tr>`).join('')}</thead><tbody>${t.rows.map(r => `<tr>${r.map(c => cell(c, 'td')).join('')}</tr>`).join('')}</tbody></table></div>
    ${t.fn.length ? `<div class="meta">${t.fn.map(esc).join('<br>')}</div>` : ''}${t.src ? `<div class="meta">Source: ${esc(t.src)}</div>` : ''}
-   <div class="warnbox">Transcribed by a language model (Claude Sonnet) from the page image ${LLM('Claude Sonnet')}. Check figures against the <a href="${IAP(x, t.p)}" target="_blank" rel="noopener">original page</a>.
-    ${t.tot ? `<br><b>Totals:</b> ${esc(t.tot)}` : ''}${t.unr.length ? `<br><b>Unreadable cells</b> (left blank, shaded): ${t.unr.map(esc).join('; ')}` : ''}${t.w.length ? `<br><b>Warnings:</b> ${t.w.map(esc).join('; ')}` : ''}${t.oc ? `<br><b>OCR comparison:</b> ${esc(t.oc)}` : ''}</div>
-   <div class="pn"><span>${i > 0 ? `← <a href="#tb/${T[i - 1].id}">${esc(T[i - 1].t)}</a>` : ''}</span><span><button id="csv">Download CSV</button></span><span>${i < T.length - 1 ? `<a href="#tb/${T[i + 1].id}">${esc(T[i + 1].t)}</a> →` : ''}</span></div></div>`;
-  $('#csv').onclick = () => dl(t.id + '.csv', csv(t), 'text/csv');
+   <div class="meta tnotes">${[t.tot && '<b>Totals:</b> ' + esc(t.tot), t.unr.length && '<b>Unreadable cells</b> (left blank, shaded): ' + t.unr.map(esc).join('; '), t.w.length && '<b>Warnings:</b> ' + t.w.map(esc).join('; '), t.oc && '<b>OCR comparison:</b> ' + esc(t.oc)].filter(Boolean).join('<br>')}</div></div>`;
+}
+function sectionView(id, n) {
+  const x = BY[id], j = n - 1, s = x && x.toc[j];
+  if (!s) { main.innerHTML = '<p>Section not found. <a href="#">Back to contents</a></p>'; return; }
+  nav('detail'); document.title = s.t + ' · ' + short(x);
+  const ts = allT(x, j);
+  const withT = x.toc.map((u, k) => k).filter(k => ownT(x, k).length), w = withT.indexOf(j);
+  const prev = withT.filter(k => k < j).pop(), next = withT.find(k => k > j);
+  main.innerHTML = `<a class="meta" href="#d/${x.id}/s/${n}">← ${esc(short(x))}, ${when(x)}</a>
+  <div class="card rep ${x.s}" style="margin-top:10px"><h2>${esc(s.t)} <span class="tpill static">Tables</span></h2>
+   <div class="meta">${ser(x.s)} ${esc(short(x))}, ${when(x)} · section ${n} · ${ppLink(x, s.p)}</div>
+   ${s.s ? `<p style="margin:10px 0 0">${esc(s.s)} ${LLM(x.by)}</p>` : ''}
+   <div class="warnbox">${ts.length} table${ts.length === 1 ? '' : 's'} transcribed by a language model (Claude Sonnet) from the page images and checked against the OCR ${LLM('Claude Sonnet')}. Printed totals were re-added; disagreements and unreadable cells are noted under each table and never corrected. Check figures against the original page before relying on them.</div>
+   ${ts.map(t => tableHTML(x, t)).join('')}
+   <div class="pn"><span>${prev !== undefined ? `← <a href="#d/${x.id}/sec/${prev + 1}">${esc(x.toc[prev].t)}</a>` : ''}</span><span></span><span>${next !== undefined ? `<a href="#d/${x.id}/sec/${next + 1}">${esc(x.toc[next].t)}</a> →` : ''}</span></div></div>`;
+  main.querySelectorAll('[data-csv]').forEach(a => a.onclick = e => { e.preventDefault(); const t = TBY[a.dataset.csv]; dl(t.id + '.csv', csv(t), 'text/csv'); });
+  const target = decodeURIComponent(location.hash).match(/#t-(.+)$/);
   scrollTo(0, 0);
 }
-addEventListener('keydown', e => { if (!location.hash.startsWith('#tb/') || /input|textarea/i.test(e.target.tagName)) return;
-  const i = T.findIndex(t => '#tb/' + t.id === decodeURIComponent(location.hash)); if (i < 0) return;
-  if (e.key === 'ArrowRight' && i < T.length - 1) location.hash = '#tb/' + T[i + 1].id;
-  if (e.key === 'ArrowLeft' && i > 0) location.hash = '#tb/' + T[i - 1].id; });
+function tableRedirect(id) {   // old #tb/<id> links
+  const t = TBY[id]; if (!t || t.sec < 0) { location.hash = '#'; return; }
+  location.replace('#d/' + t.x + '/sec/' + (t.sec + 1));
+  setTimeout(() => { const el = document.getElementById('t-' + id); if (el) el.scrollIntoView(); }, 50);
+}
+function tablesList(q) {   // index of every table (not in the menu; linked from About)
+  nav('about'); document.title = 'All tables · Occupation Summations';
+  main.innerHTML = `<a class="meta" href="#about">← About</a><div class="searchbar" style="margin-top:10px"><input type="search" id="tq" placeholder="Filter tables by title" value="${esc(q)}"><label class="meta" style="display:flex;gap:6px;align-items:center"><input type="checkbox" id="tw" style="min-height:0"> only tables marked “check”</label></div><div id="tl"></div>`;
+  const run = () => { const v = $('#tq').value.trim().toLowerCase(), w = $('#tw').checked;
+    const hits = T.filter(t => t.x && (!w || flagged(t)) && (!v || (t.t + ' ' + t.u + ' ' + t.pe).toLowerCase().includes(v)));
+    $('#tl').innerHTML = `<p class="meta">${hits.length} of ${T.length} tables · <a href="tables.json" download>tables.json</a></p>` + hits.map(t => { const x = BY[t.x];
+      return `<div class="tbrow"><a href="#tb/${t.id}">${esc(t.t)}</a>${flagged(t) ? '<span class="flag">check</span>' : ''}<span class="meta">${esc(short(x))}, ${when(x)}</span></div>`; }).join(''); };
+  $('#tq').oninput = run; $('#tw').onchange = run; run();
+}
 
 // ---------- about ----------
 function about() {
@@ -354,7 +374,7 @@ function about() {
   <ul><li>Page images are on the <a href="https://archive.org/search?query=subject%3A%22non-military-summation%22+OR+subject%3A%22usamgik-monthly%22">Internet Archive</a>; every page reference here links there. Page numbers are PDF page numbers, not the reports' printed page numbers.</li>
   <li>Text: Mistral OCR (mistral-ocr-4-1) of every page. OCR has errors, especially in tables; check the page image.</li>
   <li>Summaries, highlights, keywords and tables of contents were written by language models (Gemini and Claude, via Antigravity) from the OCR text, and are marked <span class="llm">by LLM</span>.</li>
-  <li>Statistical tables: the tables in ten of the shorter reports were transcribed by Claude Sonnet reading the page images and checked against the OCR. Printed totals were re-added; disagreements and unreadable cells are flagged, never silently corrected. Browse them under <a href="#tables">Tables</a>, or download <a href="tables.json" download>tables.json</a>.</li>
+  <li>Statistical tables: the tables in ten of the shorter reports were transcribed by Claude Sonnet reading the page images and checked against the OCR. Printed totals were re-added; disagreements and unreadable cells are flagged, never silently corrected. They appear on section pages, marked with a <span class="tpill static">Tables</span> pill in each report's contents; there is also <a href="#tables">a list of all tables</a>, or download <a href="tables.json" download>tables.json</a>.</li>
   <li>Full-text search uses <a href="https://pagefind.app/">Pagefind</a>; it runs in your browser with no server.</li></ul>
   <div class="label">Search tips</div>
   <ul><li><b>Full text:</b> all words must be on the same page. Add <code>series:korea</code>, <code>year:1947</code> or <code>in:K-30</code> to narrow it.</li>
@@ -366,11 +386,12 @@ function about() {
 function route() {
   const h = decodeURIComponent(location.hash.slice(1));
   let m;
-  if ((m = h.match(/^d\/([^/]+)(?:\/(pg|s|q)\/(.+))?$/))) report(m[1], m[2], m[3]);
+  if ((m = h.match(/^d\/([^/]+)\/sec\/(\d+)$/))) sectionView(m[1], +m[2]);
+  else if ((m = h.match(/^d\/([^/]+)(?:\/(pg|s|q)\/(.+))?$/))) report(m[1], m[2], m[3]);
   else if ((m = h.match(/^reports(?:\/(.*))?$/))) reports(m[1] || '');
   else if ((m = h.match(/^fulltext(?:\/(.*))?$/))) fulltext(m[1] || '');
   else if ((m = h.match(/^tables(?:\/(.*))?$/))) tablesList(m[1] || '');
-  else if ((m = h.match(/^tb\/(.+)$/))) tableView(m[1]);
+  else if ((m = h.match(/^tb\/(.+)$/))) tableRedirect(m[1]);
   else if (h === 'about') about();
   else { cover(); scrollTo(0, 0); }
 }
