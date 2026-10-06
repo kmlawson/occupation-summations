@@ -177,7 +177,7 @@ function miniToc(x) {
   if (x.sk) return '';
   const rows = x.toc.filter(s => s.lv <= 2);
   return `<details><summary>Contents (${rows.length})</summary><ul class="minitoc">${rows.map((s, i) =>
-    `<li class="l${s.lv}"><a href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${esc(s.t)}</a>${tpill(x, x.toc.indexOf(s), allT(x, x.toc.indexOf(s)).length)}<a class="pp" href="#d/${x.id}/s/${x.toc.indexOf(s) + 1}" title="Section in this guide">p. ${s.p[0]}</a></li>`).join('')}</ul></details>`;
+    `<li class="l${s.lv}">${allT(x, x.toc.indexOf(s)).length ? `<a href="#d/${x.id}/sec/${x.toc.indexOf(s) + 1}" title="Section page with its tables">${esc(s.t)}</a>` : `<a href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${esc(s.t)}</a>`}${tpill(x, x.toc.indexOf(s), allT(x, x.toc.indexOf(s)).length)}<a class="pp" href="#d/${x.id}/s/${x.toc.indexOf(s) + 1}" title="Section in this guide">p. ${s.p[0]}</a></li>`).join('')}</ul></details>`;
 }
 function issue(x) {
   const v = x.host ? `<span class="var bur">${x.kind === 'misbound' ? 'misbound pages in' : 'bound in'} <a href="#d/${x.host}">${esc(x.host)}</a>, pp. ${x.rg.map(r => r.join('–')).join(', ')}</span> `
@@ -228,7 +228,7 @@ function report(id, mode, arg) {
    ${x.h.length ? `<div class="label">Highlights</div><ul class="hl">${x.h.map((h, i) => `<li>${hl(h, ts)}${i === x.h.length - 1 ? ' ' + LLM(x.by) : ''}</li>`).join('')}</ul>` : ''}
    ${x.k.length ? `<div class="chips" style="margin-top:12px">${x.k.map(k => `<a class="chip" href="#reports/${encodeURIComponent('"' + k + '"')}">${esc(k)}</a>`).join('')}</div>` : ''}
    <div class="label">Table of contents <span class="llm">page numbers are PDF pages</span></div>
-   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div><a class="sec-t" href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${hl(s.t, ts)}</a> ${tpill(x, j, ownT(x, j).length)}${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)} ${LLM(x.by)}</p>` : ''}</div>
+   <div id="toc">${x.toc.map((s, j) => `<div class="sec l${s.lv}${j === on ? ' on' : ''}" id="s${j + 1}"><div>${ownT(x, j).length ? `<a class="sec-t" href="#d/${x.id}/sec/${j + 1}" title="Section page with its tables">${hl(s.t, ts)}</a>` : `<a class="sec-t" href="${IAP(x, s.p[0])}" target="_blank" rel="noopener" title="Open p. ${s.p[0]} on archive.org">${hl(s.t, ts)}</a>`} ${tpill(x, j, ownT(x, j).length)}${s.pp ? ` <span class="meta">(printed p. ${esc(s.pp)})</span>` : ''}${s.s ? `<p class="s">${hl(s.s, ts)} ${LLM(x.by)}</p>` : ''}</div>
      <div class="side">${ppLink(x, s.p)}<a class="meta" href="#fulltext/in:${x.id}%23${j + 1}%20" title="Search the text of this section">search</a></div></div>`).join('')}</div>`}
    <div class="pn"><span>${i > 0 ? `← <a href="#d/${same[i - 1].id}">${esc(short(same[i - 1]))}, ${when(same[i - 1])}</a>` : ''}</span>
     <span>${alts.map(y => `Also: <a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ')}${other.length ? (alts.length ? ' · ' : '') + 'Same month: ' + other.map(y => `<a href="#d/${y.id}">${esc(short(y))}</a>`).join(' · ') : ''}</span>
@@ -342,7 +342,7 @@ function sectionView(id, n) {
   const prev = withT.filter(k => k < j).pop(), next = withT.find(k => k > j);
   main.innerHTML = `<a class="meta" href="#d/${x.id}/s/${n}">← ${esc(short(x))}, ${when(x)}</a>
   <div class="card rep ${x.s}" style="margin-top:10px"><h2>${esc(s.t)} <span class="tpill static">Tables</span></h2>
-   <div class="meta">${ser(x.s)} ${esc(short(x))}, ${when(x)} · section ${n} · ${ppLink(x, s.p)}</div>
+   <div class="meta">${ser(x.s)} ${esc(short(x))}, ${when(x)} · section ${n} · PDF pp. ${s.p[0]}–${s.p[1]} · <a href="${IAP(x, s.p[0])}" target="_blank" rel="noopener"><b>Open this section on archive.org →</b></a></div>
    ${s.s ? `<p style="margin:10px 0 0">${esc(s.s)} ${LLM(x.by)}</p>` : ''}
    <div class="warnbox">${ts.length} table${ts.length === 1 ? '' : 's'} transcribed by a language model (Claude Sonnet) from the page images and checked against the OCR ${LLM('Claude Sonnet')}. Printed totals were re-added; disagreements and unreadable cells are noted under each table and never corrected. Check figures against the original page before relying on them.</div>
    <div id="tblocks"><p class="meta">Loading tables…</p></div>
