@@ -1,0 +1,423 @@
+{
+ "summary": "Summation No. 2 covers November 1945, the third month of the Occupation, for Japan and for the American zone of Korea. It reports SCAP directives dissolving the four big Zaibatsu holding companies (6 Nov), freezing war-claim payments and ending military pensions (24 Nov), and ordering arrests of war crime suspects. Political sections cover the abolition of the Privy Seal office, the 89th Diet, new parties and the end of the War and Navy Ministries. Economic sections stress the collapse of coal output, food and fertilizer shortages, rationing, black market prices, banking statistics and detailed industrial inventories. Social sections cover repatriation, typhus, education purges, press, radio and film. Part V reports the USAMGIK ordinances, Korean parties, Kim Koo's return, police, industry and public health. The volume ends with 23 charts, maps and tables. Historians will find dense statistics and early policy statements.",
+ "highlights": [
+  "A SCAP directive of 6 November approved dissolution of the Mitsui, Mitsubishi, Sumitomo and Yasuda holding companies through a Holding Company Liquidation Commission, with family members barred from reacquiring holdings and bonds frozen for at least ten years.",
+  "The 24 November directive blocked an estimated 50 billion yen of war-risk and war-contract claims, barred new government credit, bonds and subsidies without SCAP approval, and ended military pensions by 1 February 1946.",
+  "Coal output fell from 3,400,000 metric tons in June to 545,000 in October and 519,800 in November, about half the allocation minimum; roughly 130,000 Korean and Chinese miners had left, and 130,000 recruits were sought.",
+  "Arrest orders were issued on 6 and 17 November for 300 alleged POW atrocity suspects and for Generals Araki, Honjo, Koiso, Matsui, Mazaki and Minami plus Matsuoka, Kuhara and Shiratori; Honjo committed suicide on 21 November.",
+  "By late November 405,602 Koreans and 11,399 Chinese had been repatriated from Japan, while 601,396 Japanese had returned; eleven ports could handle 45,500 returnees daily, and DDT delousing began against typhus.",
+  "The Japanese Government raised the rice price from 92.50 to 150 yen per koku and freed perishable food prices on 20 November; Tokyo black market prices fell from 16.7 times official to 9.5 times.",
+  "In Korea Ordinance No. 28 (13 November) created the Director of National Defense over police and armed forces and Ordinance No. 29 created the Korean Personnel Review Board; Kim Koo arrived from Chungking on 23 November.",
+  "The Yomiuri Hochi newspaper strike, begun 27 October by about 1,000 workers who took over production, became the leading test case of new labor freedom while a trade union bill went to the Diet."
+ ],
+ "keywords": [
+  "SCAP",
+  "Zaibatsu dissolution",
+  "coal shortage",
+  "war crimes arrests",
+  "repatriation",
+  "Diet election law",
+  "political parties",
+  "labor unions",
+  "rationing and black market",
+  "Bank of Japan note issue",
+  "Imperial Household finance",
+  "USAMGIK ordinances",
+  "Kim Koo and Syngman Rhee",
+  "typhus and DDT",
+  "censorship and media",
+  "military pensions"
+ ],
+ "printed_toc_found": true,
+ "embedded_issues": [],
+ "sections": [
+  {
+   "title": "Front matter",
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "end_page": 6,
+   "summary": "Covers, table of contents, errata correcting Charts 8 and 18, and the list of 23 charts, graphs, maps and tables for the November 1945 Summation No. 2."
+  },
+  {
+   "title": "Part I: General",
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 7,
+   "end_page": 27,
+   "summary": "Overview of SCAP organization, Japanese politics, economy and social conditions, and Korean civil administration for November 1945, including the Zaibatsu directive and repatriation figures."
+  },
+  {
+   "title": "Section 1. Organization under SCAP",
+   "level": 2,
+   "printed_page": "1",
+   "start_page": 8,
+   "end_page": 8,
+   "summary": "No change in GHQ organization; 10 November directive opened government records to SCAP; Korean Ordinances 25, 28 and 29 created health departments, a Director of National Defense and a Personnel Review Board."
+  },
+  {
+   "title": "Section 2. Political Activities in Japan",
+   "level": 2,
+   "printed_page": "1",
+   "start_page": 8,
+   "end_page": 13,
+   "summary": "Abolition of the Privy Seal office, the 89th Diet and election bill, 37 parties, repatriation counts, war crimes arrests, censorship policy, police reform and the 18 November amnesty."
+  },
+  {
+   "title": "Section 3. Economic Activities in Japan",
+   "level": 2,
+   "printed_page": "7",
+   "start_page": 14,
+   "end_page": 18,
+   "summary": "Zaibatsu dissolution plan, control association dissolutions, labor union bill, coal output at 445,000 tons, food and fertilizer outlook, rice price raised to 150 yen, and the 24 November financial directive."
+  },
+  {
+   "title": "Section 4. Social Activities in Japan",
+   "level": 2,
+   "printed_page": "13",
+   "start_page": 19,
+   "end_page": 21,
+   "summary": "Health findings (typhus in Hokkaido coal fields, 62 percent bed occupancy), purge of militarist teachers, 236 banned films, about 900 magazines and new radio programs."
+  },
+  {
+   "title": "Section 5. Civil Administration in Korea",
+   "level": 2,
+   "printed_page": "17",
+   "start_page": 22,
+   "end_page": 27,
+   "summary": "Military Government ordinances, Kim Koo's 23 November arrival, Rhee's coalition efforts, 15,000 police, riots on Cheju Island, coal and fuel shortage, Japanese removal from bureaus, schools and public health."
+  },
+  {
+   "title": "Part II: Political - Japan",
+   "level": 1,
+   "printed_page": "23",
+   "start_page": 28,
+   "end_page": 43,
+   "summary": "Detailed reports on Japanese government structure, the Diet, parties and foreign affairs, followed by legal matters, war crimes, police, fire services, prisons and censorship."
+  },
+  {
+   "title": "Section 1. Government and Civil Administration",
+   "level": 2,
+   "printed_page": "25",
+   "start_page": 29,
+   "end_page": 35,
+   "summary": "Diet seats (Progressive 277, Liberal 44, Social-Democratic 15), bills for enactment, Shidehara on the Constitution, Privy Seal abolition, demobilization ministries, party platforms and neutral diplomats."
+  },
+  {
+   "title": "Section 2. Legal, Public Safety and Intelligence",
+   "level": 2,
+   "printed_page": "33",
+   "start_page": 36,
+   "end_page": 43,
+   "summary": "War crimes suspect list of 6,500, arrests of Araki, Koiso and others, Sugamo detainees, police reform plan, fire service table, prison population of 43,568, and censorship rules."
+  },
+  {
+   "title": "Part III: Economic - Japan",
+   "level": 1,
+   "printed_page": "41",
+   "start_page": 44,
+   "end_page": 151,
+   "summary": "Ten sections on agriculture, forestry and mining, industry, transport, trade, labor, communications, rationing, banking and public finance, with extensive production and financial tables."
+  },
+  {
+   "title": "Section 1. Agriculture and Fisheries",
+   "level": 2,
+   "printed_page": "43",
+   "start_page": 45,
+   "end_page": 54,
+   "summary": "Third downward revision of the 1946 food estimate, fertilizer and silk surplus of 51,000 bales, 1,550,000 hectare reclamation plan, livestock, fishing revival and authorized whaling near the Bonin Islands."
+  },
+  {
+   "title": "Agriculture",
+   "level": 3,
+   "printed_page": "43",
+   "start_page": 45,
+   "end_page": 49,
+   "summary": "Rice production by year 1935-44, home manures replacing commercial fertilizer, silk and tea surpluses, Kanto soil survey and livestock decline since 1930-35."
+  },
+  {
+   "title": "Fisheries",
+   "level": 3,
+   "printed_page": "48",
+   "start_page": 50,
+   "end_page": 54,
+   "summary": "Trawlers under repair, fuel oil and salt needs, 217 trout hatcheries, weekly landings for six prefectures, whaling authorization for 6,000 tons and a new fishermen's union."
+  },
+  {
+   "title": "Section 2. Forestry and Mining",
+   "level": 2,
+   "printed_page": "53",
+   "start_page": 55,
+   "end_page": 72,
+   "summary": "1,220,953,000 board feet of logs stockpiled, 7,500 sawmills, Imperial forests of 3,374,000 acres, coal output collapse to 519,800 tons, gold and phosphate, and detailed oil field data."
+  },
+  {
+   "title": "Forestry",
+   "level": 3,
+   "printed_page": "53",
+   "start_page": 55,
+   "end_page": 60,
+   "summary": "Log stockpiles, sawmill survey, charcoal supply for Tokyo (one-third of need), Imperial forests, Hokkaido mills and plywood, and national timber valuation near $10 billion."
+  },
+  {
+   "title": "Mining and Geology",
+   "level": 3,
+   "printed_page": "59",
+   "start_page": 61,
+   "end_page": 72,
+   "summary": "Coal allocation and stockpile tables, cement at one percent of early 1930s output, gold and silver, phosphate rock, and crude oil production by district (269,159 kiloliters in 1944)."
+  },
+  {
+   "title": "Section 3. Industry",
+   "level": 2,
+   "printed_page": "69",
+   "start_page": 73,
+   "end_page": 95,
+   "summary": "Conversion rules under Directive No. 3, iron and steel output, aluminum capacity, machine inventories, food processing, 1,500 trucks per month authorized, shipbuilding, textiles, control associations, chemicals and rubber."
+  },
+  {
+   "title": "Mineral Industries",
+   "level": 3,
+   "printed_page": "70",
+   "start_page": 74,
+   "end_page": 75,
+   "summary": "Three blast furnaces made 9,568 tons of pig iron in October; steel stocks, aluminum capacity of 152,200 tons and magnesium capacity of 6,950 tons."
+  },
+  {
+   "title": "Machinery Industries",
+   "level": 3,
+   "printed_page": "71",
+   "start_page": 75,
+   "end_page": 80,
+   "summary": "Machinery inventory, reparations studies, Kobe Steel wire rope rods from 17 November, and over 800,000 operable machine tools."
+  },
+  {
+   "title": "Food Processing",
+   "level": 3,
+   "printed_page": "74",
+   "start_page": 80,
+   "end_page": 83,
+   "summary": "Canned foods forecast of 950,000 cases, flour milling, sugar, soy sauce, miso, beer, sake, confectionery and dairy product statistics."
+  },
+  {
+   "title": "Transportation Equipment",
+   "level": 3,
+   "printed_page": "77",
+   "start_page": 83,
+   "end_page": 87,
+   "summary": "Toyota, Nissan and Diesel truck plans, rolling stock construction plans, 122 ships under construction at war's end, repairs and 23 full-schedule shipyards."
+  },
+  {
+   "title": "Textiles",
+   "level": 3,
+   "printed_page": "80",
+   "start_page": 87,
+   "end_page": 91,
+   "summary": "Spinning and loom capacity, August-October output, raw silk testing of 46,000 bales, cotton at ten percent of capacity, rope needs and textile machinery plans."
+  },
+  {
+   "title": "Control Associations",
+   "level": 3,
+   "printed_page": "84",
+   "start_page": 91,
+   "end_page": 92,
+   "summary": "Dissolution plans for seven control associations; the raw silk, meat and National Financial control associations dissolved."
+  },
+  {
+   "title": "Other Manufacturing",
+   "level": 3,
+   "printed_page": "85",
+   "start_page": 92,
+   "end_page": 95,
+   "summary": "Light bulb output, chemical plant condition table, synthetic petroleum plants, rubber allotments of 6,000 and 1,590 tons, ceramics and 50 scientific research reports."
+  },
+  {
+   "title": "Section 4. Transportation and Public Utilities",
+   "level": 2,
+   "printed_page": "89",
+   "start_page": 96,
+   "end_page": 102,
+   "summary": "Railway mileage and war damage repair rates, government railway coal stocks falling to 176,400 tons, coastwise shipping tonnage, 3,000,000 KW winter hydro output, and Tokyo gas limited to three hours daily."
+  },
+  {
+   "title": "Section 5. Imports and Exports",
+   "level": 2,
+   "printed_page": "97",
+   "start_page": 103,
+   "end_page": 104,
+   "summary": "SCAP controls all foreign trade; memorandum shipments through 30 November included 52,273 tons of coal to Korea, 24,000 to Hongkong, and imports of salt, fog oil and kerosene."
+  },
+  {
+   "title": "Section 6. Labor",
+   "level": 2,
+   "printed_page": "99",
+   "start_page": 105,
+   "end_page": 110,
+   "summary": "Trade union bill and mediation committees, coal miner recruitment (7,661 in half of November), black market wage rates, Tokyo unemployment of 600,000, and the Yomiuri Hochi strike."
+  },
+  {
+   "title": "Section 7. Communications",
+   "level": 2,
+   "printed_page": "105",
+   "start_page": 111,
+   "end_page": 121,
+   "summary": "Hiroshima repeater rebuilt, Tokyo-Sendai cable, radiogram service to the US from 5 December, Broadcasting Corporation reorganization pressure, WVTR power raised to 50 KW, and communications manufacturing."
+  },
+  {
+   "title": "Section 8. Rationing and Price Control",
+   "level": 2,
+   "printed_page": "117",
+   "start_page": 122,
+   "end_page": 131,
+   "summary": "Staple ration held at 2.1 go, modified perishable food plan from 20 November, petroleum and coal allocations, newsprint committee, planned Price Board and a Tokyo black market price table."
+  },
+  {
+   "title": "Section 9. Money and Banking",
+   "level": 2,
+   "printed_page": "127",
+   "start_page": 132,
+   "end_page": 141,
+   "summary": "Bank of Japan note issue at record 45.62 billion yen on 20 November, Yokohama Specie Bank statements, Yasuda Bank study, closed banks, seized silver and precious metals, and relaxed asset controls."
+  },
+  {
+   "title": "Section 10. Public Finance",
+   "level": 2,
+   "printed_page": "137",
+   "start_page": 142,
+   "end_page": 151,
+   "summary": "War Account of 194,796 million yen, military pension abolition, Imperial Household holdings of 1.6 billion yen, blocked accounts, national debt of 171.6 billion yen, and Zaibatsu liquidation commission details."
+  },
+  {
+   "title": "Part IV: Social - Japan",
+   "level": 1,
+   "printed_page": "147",
+   "start_page": 152,
+   "end_page": 179,
+   "summary": "Public health, welfare, hospitals, medical supply and disease control, followed by education, religion and the information media."
+  },
+  {
+   "title": "Section 1. Public Health and Welfare",
+   "level": 2,
+   "printed_page": "149",
+   "start_page": 153,
+   "end_page": 164,
+   "summary": "No starvation evidence, typhus in Hokkaido, relief of 83,502 persons, repatriation of 405,602 Koreans, veterans' hospital transfers, nursing weaknesses, narcotics control, venereal disease program and DDT delousing."
+  },
+  {
+   "title": "Public Welfare",
+   "level": 3,
+   "printed_page": "150",
+   "start_page": 154,
+   "end_page": 156,
+   "summary": "Pension end by 1 February 1946, relief payment rates under four laws, Red Cross reorganization and repatriation arrangements for Koreans, Chinese and foreign nationals."
+  },
+  {
+   "title": "Administration of Hospitals, Veterinary, Dental and Nursing Affairs",
+   "level": 3,
+   "printed_page": "152",
+   "start_page": 156,
+   "end_page": 159,
+   "summary": "71,890 of 127,539 hospital beds occupied, veterans' hospitals moved to civilian control, animal disease outbreaks, dental gold rationing and weak nursing training."
+  },
+  {
+   "title": "Supply, Legal and Preventive Medicine",
+   "level": 3,
+   "printed_page": "154",
+   "start_page": 159,
+   "end_page": 164,
+   "summary": "Medical supply distribution plan with 30 percent reserve, narcotic regulations, venereal disease ordinance effective 1 December, disease reporting, sanitation and the typhus control program."
+  },
+  {
+   "title": "Section 2. Education, Religion and Media of Expression",
+   "level": 2,
+   "printed_page": "163",
+   "start_page": 165,
+   "end_page": 179,
+   "summary": "Textbook printing halted 10 November, over 50 educators resigned, American clergy visit, 599 cultural sites, democratization information campaigns, radio programs, 900 magazines, 236 banned films and theater."
+  },
+  {
+   "title": "Education",
+   "level": 3,
+   "printed_page": "163",
+   "start_page": 167,
+   "end_page": 169,
+   "summary": "School study begun, 39,000 schools estimated, textbook review, teacher screening, ending of discrimination for former military students and abolition of budo."
+  },
+  {
+   "title": "Religion and Arts and Monuments",
+   "level": 3,
+   "printed_page": "165",
+   "start_page": 169,
+   "end_page": 169,
+   "summary": "Visit of Horton, Baker, Shafer and Van Kirk, Christian morale, Emperor's audience, draft Religious Corporation Ordinance and 599 protected cultural sites."
+  },
+  {
+   "title": "Information Programs",
+   "level": 3,
+   "printed_page": "166",
+   "start_page": 170,
+   "end_page": 174,
+   "summary": "War guilt series, opinion survey on barring militarists, election broadcasting, coal miner recruitment campaign, women's and youth groups and the first Tokyo library opened 15 November."
+  },
+  {
+   "title": "Radio, Press and Publications",
+   "level": 3,
+   "printed_page": "170",
+   "start_page": 174,
+   "end_page": 176,
+   "summary": "New programs such as Now It Can Be Told and Round Table of the Air, audience mail, press analysis, paper rationing committee and magazines near 900 titles."
+  },
+  {
+   "title": "Motion Pictures and Theater",
+   "level": 3,
+   "printed_page": "173",
+   "start_page": 177,
+   "end_page": 179,
+   "summary": "236 propaganda films banned, producers association formed, Eiga Kosha to disband 1 December, 45 American features approved, a militaristic Kabuki play withdrawn and Toulon Harbor staged."
+  },
+  {
+   "title": "Part V: Korea",
+   "level": 1,
+   "printed_page": "177",
+   "start_page": 180,
+   "end_page": 201,
+   "summary": "Political, economic and social activities of the USAMGIK in southern Korea, covering ordinances, party politics, fuel crisis, communications and public health."
+  },
+  {
+   "title": "Section 1. Political Activities in Korea",
+   "level": 2,
+   "printed_page": "179",
+   "start_page": 181,
+   "end_page": 187,
+   "summary": "38th parallel barrier, Ordinances 21-29, Korean Personnel Review Board, Democratic Nationalists, People's Republic, Communists, Lyuh Woon Hyang's People's Party, Kim Koo, 14 private armed groups and the Cheju riot."
+  },
+  {
+   "title": "Section 2. Economic Activities in Korea",
+   "level": 2,
+   "printed_page": "187",
+   "start_page": 188,
+   "end_page": 193,
+   "summary": "Fishing rights revoked 9 November, Bureau of Mining and Industry running Mitsubishi interests, Materials Control Corporation, coal shortfall of 150,000 tons, Ulsan refinery, 300 Japanese left in communications, and postal savings run."
+  },
+  {
+   "title": "Section 3. Social Activities in Korea",
+   "level": 2,
+   "printed_page": "193",
+   "start_page": 194,
+   "end_page": 201,
+   "summary": "Schools reopening with two-thirds of textbooks rewritten, Chukan Digest to 800,000 copies, 221,802 Koreans repatriated, 20 drug plants running, smallpox and typhus, and a 1.42 billion yen health budget."
+  },
+  {
+   "title": "Charts, Graphs, Maps and Tables",
+   "level": 1,
+   "printed_page": "",
+   "start_page": 202,
+   "end_page": 216,
+   "summary": "Charts 1-3 and 5-23, including Japanese administrative channels, Tokyo police, prison population, fishing areas, coal, oil, aluminum, trucks, shipping, Bank of Japan, Zaibatsu assets, repatriation and disease charts."
+  }
+ ],
+ "_model": "claude-sonnet (Claude Code subagent)",
+ "_pages": 216,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

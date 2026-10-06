@@ -6,14 +6,14 @@ Recorded 6 October 2026 for later follow-up. Issue numbers and page numbers are 
 
 | Series | Issue | Month | Notes / where to look |
 |---|---|---|---|
-| Japan (SCAP) | **No. 2** | November 1945 | Neither the full report nor its Public Health and Welfare section is here. The NLM's Internet Archive set of Public Health and Welfare sections also skips No. 2 (it runs No. 1, then No. 3 onward). It also covered southern Korea, so Korea for November 1945 is missing too. |
-| Japan (SCAP) | **No. 21** | June 1947 | Full report missing. A partial substitute is on archive.org: the NLM's Public Health and Welfare section for No. 21 (`23460370RX16.nlm.nih.gov`). |
 | Korea (USAMGIK) | **No. 14** | November 1946 | The PDF filed as Korea No. 14 (`K-14`, archive.org item `summation-usamg-activities-korea-no-14-1946-11`) is in fact a second copy of the **Japan** Summation No. 14 (Google/University of Virginia scan). The IA item's title and metadata are wrong and should be corrected. Korea No. 14 itself is missing. |
 | Korea (USAMGIK) | **No. 23, part 2** | August 1947 | Only "No. 23 (1)" (`K-23-1`, 220 pp.) is here. Check whether a second part was issued and where it is held. |
 | Korea | after No. 35 | from November 1948 | No. 35 (September–October 1948, *Republic of Korea Economic Summation*, economic sections only) is the last issue here, and survives only as a copy bound into K-33. Check whether the economic summations continued after the transfer of authority. |
 | Japan | after No. 35 | from September 1948 | No. 35 (August 1948) is the last issue here. Confirm whether it was the last of the series. |
 
-Korea Nos. 1–5 are not separate reports. They are the Korea parts of the joint *Summation of Non-Military Activities in Japan and Korea*, held here as J-01, J-03, J-04 and J-05. So Korea's only gap among Nos. 1–5 is No. 2, the same as Japan's.
+**Filled 6 October 2026:** Japan No. 2 (November 1945, which also covers Korea) and No. 21 (June 1947) were found as National Diet Library scans (NDL 9884758 and 9884642) of the U.S. National Archives RG 331 microfilm. They are now in the collection, on the Internet Archive and on the site.
+
+Korea Nos. 1–5 are not separate reports. They are the Korea parts of the joint *Summation of Non-Military Activities in Japan and Korea*, held here as J-01, J-02, J-03, J-04 and J-05. With No. 2 now found, Korea Nos. 1–5 are complete.
 
 ## 2. Issues that survive only inside another PDF
 
