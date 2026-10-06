@@ -1,12 +1,13 @@
 {
  "highlights": [
-  "SCAP issued the 4 January purge directives removing militarists from public office and dissolving ultra-nationalistic societies, prompting a reorganization of the Shidehara Cabinet.",
-  "Emperor Hirohito promulgated the 1 January New Year Rescript reaffirming the Meiji Charter Oath and renouncing the doctrine of imperial divinity.",
-  "The Charter of the International Military Tribunal for the Far East was promulgated on 19 January to try major war criminals in Tokyo.",
-  "SCAP ordered the abolition of licensed prostitution on 21 January, nullifying all contracts binding women to involuntary servitude.",
-  "Allied authorities placed 394 Japanese aircraft factories, arsenals, and laboratories under custody as an initial step toward interim reparations.",
-  "General Orders No. 1 established the United States Army Military Government in Korea (USAMGIK), centralizing civil administration under non-tactical military government control.",
-  "Violent Korean demonstrations erupted across southern Korea opposing the Moscow Conference five-year trusteeship proposal, threatening general strikes until calmed by USAFIK leaders."
+  "SCAP's 4 January purge directives banned ultra-nationalistic societies and disqualified wartime leaders from public office, triggering a crisis and reorganization of the Shidehara Cabinet.",
+  "Emperor Hirohito's 1 January New Year Rescript reaffirmed the Meiji Charter Oath and renounced the doctrine of imperial divinity.",
+  "The Charter of the International Military Tribunal for the Far East was promulgated on 19 January, and 171 war crimes suspects, including Koki Hirota and Yosuke Matsuoka, were apprehended.",
+  "SCAP ordered the abolition of licensed prostitution on 21 January, nullifying all contracts that bound women to involuntary servitude.",
+  "Allied authorities took 394 Japanese aircraft factories, arsenals and laboratories into custody as an initial step toward interim reparations.",
+  "Bank of Japan note circulation reached ¥56 billion, SCAP limited monthly General Account expenditures to ¥2 billion, and coal output rose 41 percent to 1.18 million tons.",
+  "General Orders No. 1 established USAMGIK, and violent Korean demonstrations against the Moscow Conference trusteeship decision spread across southern Korea, prompting US-Soviet talks in Seoul.",
+  "Union formation in Japan expanded by two a day, with preparatory meetings for a National Federation of Labor, while rice hoarding in Japan and Korea forced emergency food controls."
  ],
  "keywords": [
   "SCAP purge directives",
@@ -29,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Contains the title pages, printed table of contents for the entire report, and list of charts, graphs, maps, and tables.",
+   "summary": "Title pages, printed table of contents for the whole report, and list of charts, graphs, maps and tables.",
    "title": "Front matter"
   },
   {
@@ -37,7 +38,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 11,
-   "summary": "Introductory summary of non-military activities in Japan and Korea during January 1946.",
+   "summary": "General summary of January 1946: the IMTFE and USAMGIK established, the 4 January purge directives, 394 plants taken into custody, currency at ¥56 billion, rapid unionization, and Korean protests over trusteeship.",
    "title": "Part I: General"
   },
   {
@@ -45,7 +46,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 13,
-   "summary": "Reports the establishment of the International Military Tribunal for the Far East, creation of the General Accounting Section, transfer of Sixth Army territory to Eighth Army, and establishment of USAMGIK in Korea.",
+   "summary": "Reports establishment of the International Military Tribunal for the Far East, creation of the General Accounting Section, transfer of Sixth Army territory to Eighth Army, and establishment of USAMGIK in Korea.",
    "title": "Section 1: Organization Under SCAP"
   },
   {
@@ -53,7 +54,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 13,
-   "summary": "Summarizes the 4 January purge directives, the Emperor's New Year Rescript denying divinity, reorganization of the Shidehara Cabinet, political party preparations for national elections, abolition of licensed prostitution, and war crimes apprehensions.",
+   "summary": "Covers the 4 January purge directives, the Emperor's New Year Rescript denying divinity, Shidehara Cabinet reorganization, party preparations for elections, abolition of licensed prostitution, and war crimes apprehensions.",
    "title": "Section 2: Political Activities in Japan"
   },
   {
@@ -61,7 +62,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 17,
-   "summary": "Summarizes coal production gains, Allied custody of 394 industrial plants for reparations, currency expansion to ¥56 billion, food collection lags, and rapid labor union formation.",
+   "summary": "Coal production gains, Allied custody of 394 industrial plants for reparations, currency expansion to ¥56 billion, lagging food collections, and rapid labor union formation.",
    "title": "Section 3: Economic Activities in Japan"
   },
   {
@@ -69,7 +70,7 @@
    "level": 2,
    "printed_page": "11",
    "start_page": 21,
-   "summary": "Summarizes communicable disease control, Tokyo nutrition surveys, the abolition of licensed prostitution, textbook screening, Shinto directive compliance, and the appointment of professional educators to the Ministry of Education.",
+   "summary": "Communicable disease control, Tokyo nutrition surveys, abolition of licensed prostitution, textbook screening, Shinto directive compliance, and appointment of professional educators to the Ministry of Education.",
    "title": "Section 4: Social Activities in Japan"
   },
   {
@@ -77,7 +78,7 @@
    "level": 2,
    "printed_page": "15",
    "start_page": 25,
-   "summary": "Summarizes the integration of USAMGIK, Korean demonstrations against the Moscow Conference trusteeship decision, judicial and constabulary reorganization, rice hoarding countermeasures, and educational planning.",
+   "summary": "Integration of USAMGIK, Korean demonstrations against the Moscow Conference trusteeship decision, judicial and constabulary reorganization, rice hoarding countermeasures, and educational planning.",
    "title": "Section 5: Civil Administration in Korea"
   },
   {
@@ -85,7 +86,7 @@
    "level": 1,
    "printed_page": "17",
    "start_page": 27,
-   "summary": "Division covering Japanese political developments, civil administration, public safety, legal opinions, and war crimes proceedings.",
+   "summary": "Japanese politics in January 1946: the 4 January purge and cabinet reorganization, public safety and censorship, 171 war crimes suspects apprehended, and promulgation of the IMTFE Charter.",
    "title": "Part II: Political - Japan"
   },
   {
@@ -93,7 +94,7 @@
    "level": 2,
    "printed_page": "19",
    "start_page": 29,
-   "summary": "Details the far-reaching impact of SCAP's 4 January purge directives, Shidehara Cabinet reorganization, the Emperor's renunciation of divinity, party maneuvers following Sanzo Nozaka's return, and the severance of Japanese administrative ties with overseas areas.",
+   "summary": "Impact of SCAP's 4 January purge directives, Shidehara Cabinet reorganization, the Emperor's renunciation of divinity, party maneuvers after Sanzo Nozaka's return, and severance of Japanese administrative ties with overseas areas.",
    "title": "Section 1: Government and Civil Administration"
   },
   {
@@ -101,7 +102,7 @@
    "level": 2,
    "printed_page": "33",
    "start_page": 43,
-   "summary": "Reports on public safety, black-market rings, crackdowns on poisonous bootleg liquor, disbanding of the auxiliary Keibei-tai, rearming civil police with revolvers, internment of former German Ambassador Stahmer, and media censorship.",
+   "summary": "Black-market rings, poisonous bootleg liquor, disbanding of the auxiliary Keibei-tai, rearming of civil police with revolvers, internment of former German Ambassador Stahmer, and media censorship.",
    "title": "Section 2: Public Safety and Intelligence"
   },
   {
@@ -109,7 +110,7 @@
    "level": 2,
    "printed_page": "41",
    "start_page": 51,
-   "summary": "Details legal opinions on occupation law, apprehension of 171 war crimes suspects including Koki Hirota and Yosuke Matsuoka, three Yokohama atrocity convictions, and the promulgation of the IMTFE Charter.",
+   "summary": "Legal opinions on occupation law, apprehension of 171 war crimes suspects including Koki Hirota and Yosuke Matsuoka, three Yokohama atrocity convictions, and promulgation of the IMTFE Charter.",
    "title": "Section 3: Legal and War Crimes"
   },
   {
@@ -117,7 +118,7 @@
    "level": 1,
    "printed_page": "53",
    "start_page": 63,
-   "summary": "Division reporting on natural resources, commerce, industry, public utilities, labor, communications, rationing, and finance in Japan.",
+   "summary": "Japan's economy: lagging rice collections, a 41 percent coal increase to 1.18 million tons, custody of 394 plants, labor union growth, ¥56 billion note circulation, and a ¥2 billion monthly spending limit.",
    "title": "Part III: Economic - Japan"
   },
   {
@@ -125,7 +126,7 @@
    "level": 2,
    "printed_page": "55",
    "start_page": 65,
-   "summary": "Analyzes historical food crop trends, lagging government rice collections caused by hoarding, Diet amendments democratizing the Agricultural Cooperative Association, critical vegetable seed shortages, and fishing fleet rehabilitation.",
+   "summary": "Lagging government rice collections caused by hoarding, Diet amendments democratizing the Agricultural Cooperative Association, critical vegetable seed shortages, and fishing fleet rehabilitation.",
    "title": "Section 1: Agriculture and Fisheries"
   },
   {
@@ -133,7 +134,7 @@
    "level": 2,
    "printed_page": "83",
    "start_page": 93,
-   "summary": "Reviews timber zones, severe urban charcoal shortages, a 41 percent increase in coal production to 1.18 million tons, mineral mining operations, and surveys of hydroelectric resources.",
+   "summary": "Severe urban charcoal shortages, a 41 percent increase in coal production to 1.18 million tons, mineral mining operations, timber zones, and surveys of hydroelectric resources.",
    "title": "Section 2: Forestry and Mining"
   },
   {
@@ -141,7 +142,7 @@
    "level": 2,
    "printed_page": "119",
    "start_page": 129,
-   "summary": "Reports taking custody of 394 plants for interim reparations, general production declines due to the New Year holiday and fuel shortages, rolling mill outputs, and national housing construction allotment plans.",
+   "summary": "Custody of 394 plants for interim reparations, production declines from the New Year holiday and fuel shortages, rolling mill outputs, and national housing construction allotment plans.",
    "title": "Section 3: Industry"
   },
   {
@@ -149,7 +150,7 @@
    "level": 2,
    "printed_page": "151",
    "start_page": 161,
-   "summary": "Covers railroad rehabilitation and increased coal allocations, acute coastal shipping shortages, electric power production and labor settlements, and strict daily gas ration limits.",
+   "summary": "Railroad rehabilitation with increased coal allocations, acute coastal shipping shortages, electric power production and labor settlements, and strict daily gas ration limits.",
    "title": "Section 4: Transportation and Public Utilities"
   },
   {
@@ -157,7 +158,7 @@
    "level": 2,
    "printed_page": "169",
    "start_page": 179,
-   "summary": "Reports the arrival of U.S. Army flour and fuel imports, the preparation of raw silk, silkworm eggs, and seedlings for export, coal exports to Hong Kong and Korea, and restrictions on pearl transactions.",
+   "summary": "Arrival of U.S. Army flour and fuel imports, raw silk, silkworm eggs and seedlings readied for export, coal exports to Hong Kong and Korea, and restrictions on pearl transactions.",
    "title": "Section 5: Imports and Exports"
   },
   {
@@ -165,7 +166,7 @@
    "level": 2,
    "printed_page": "173",
    "start_page": 183,
-   "summary": "Surveys union formation expanding by two a day, preparatory meetings for a National Federation of Labor, wage-price disparities, worker 'production control' disputes, and seamen recruitment for repatriation.",
+   "summary": "Union formation expanding by two a day, preparatory meetings for a National Federation of Labor, wage-price disparities, worker 'production control' disputes, and seamen recruitment for repatriation.",
    "title": "Section 6: Labor"
   },
   {
@@ -173,7 +174,7 @@
    "level": 2,
    "printed_page": "183",
    "start_page": 193,
-   "summary": "Details rehabilitation of war-damaged wire facilities, reopening of radiotelephone service to the U.S. and radiotelegraph to London, appointment of an Advisory Committee for Broadcasting, and postal service surveys.",
+   "summary": "Rehabilitation of war-damaged wire facilities, reopened radiotelephone service to the U.S. and radiotelegraph to London, an Advisory Committee for Broadcasting, and postal service surveys.",
    "title": "Section 7: Communications"
   },
   {
@@ -181,7 +182,7 @@
    "level": 2,
    "printed_page": "191",
    "start_page": 201,
-   "summary": "Reports widespread staple food withholding, critical food shortages in Hokkaido, the results of a 16,020-family Tokyo nutrition survey, the re-establishment of vegetable price ceilings, and rampant black-market activities.",
+   "summary": "Widespread staple food withholding, critical shortages in Hokkaido, a 16,020-family Tokyo nutrition survey, re-established vegetable price ceilings, and rampant black-market activity.",
    "title": "Section 8: Rationing and Price Control"
   },
   {
@@ -189,7 +190,7 @@
    "level": 2,
    "printed_page": "211",
    "start_page": 221,
-   "summary": "Reports Bank of Japan note circulation reaching ¥56 billion, commercial bank credit restrictions, prohibition of government overdrafts with the central bank, and the liquidation of colonial banks.",
+   "summary": "Bank of Japan note circulation reaching ¥56 billion, commercial bank credit restrictions, prohibition of government overdrafts with the central bank, and liquidation of colonial banks.",
    "title": "Section 9: Money and Banking"
   },
   {
@@ -197,7 +198,7 @@
    "level": 2,
    "printed_page": "221",
    "start_page": 231,
-   "summary": "Covers SCAP fiscal directives limiting monthly General Account expenditures to ¥2 billion, the submitted 1946-47 budget, draft capital levy and war profit tax laws, national debt figures, and Zaibatsu restriction lists.",
+   "summary": "SCAP fiscal directives limiting monthly General Account expenditures to ¥2 billion, the submitted 1946-47 budget, draft capital levy and war profit tax laws, national debt figures, and Zaibatsu restriction lists.",
    "title": "Section 10: Public Finance"
   },
   {
@@ -205,7 +206,7 @@
    "level": 1,
    "printed_page": "233",
    "start_page": 243,
-   "summary": "Division covering public health, welfare, relief, social insurance, education, religion, cultural monuments, and information media.",
+   "summary": "Social conditions in Japan: relief for eight million needy citizens, typhus and smallpox control, abolition of licensed prostitution, textbook screening, Shinto separation from the state, and censorship of militaristic films.",
    "title": "Part IV: Social - Japan"
   },
   {
@@ -213,7 +214,7 @@
    "level": 2,
    "printed_page": "235",
    "start_page": 245,
-   "summary": "Details directives restricting rural-to-urban migration, relief for eight million needy citizens, repatriation movements, control of typhus and smallpox outbreaks, Tokyo nutrition surveys, and the abolition of licensed prostitution.",
+   "summary": "Directives restricting rural-to-urban migration, relief for eight million needy citizens, repatriation movements, control of typhus and smallpox outbreaks, Tokyo nutrition surveys, and abolition of licensed prostitution.",
    "title": "Section 1: Public Health and Welfare"
   },
   {
@@ -221,7 +222,7 @@
    "level": 2,
    "printed_page": "261",
    "start_page": 271,
-   "summary": "Reports the appointment of professional educators to the Education Ministry, textbook screening and deletions, separation of Shinto from the state, broadcasting reorganization, and censorship of militaristic films.",
+   "summary": "Appointment of professional educators to the Education Ministry, textbook screening and deletions, separation of Shinto from the state, broadcasting reorganization, and censorship of militaristic films.",
    "title": "Section 2: Education, Religion and Media of Expression"
   },
   {
@@ -229,7 +230,7 @@
    "level": 1,
    "printed_page": "279",
    "start_page": 289,
-   "summary": "Division reporting on political, economic, and social developments in the U.S. Army Military Government zone in southern Korea.",
+   "summary": "Southern Korea under USAMGIK: General Orders No. 1, protests against the Moscow trusteeship decision, Korean Constabulary, rice hoarding controls, JODK radio expansion, and dissolution of the Chosen Stock Exchange.",
    "title": "Part V: Korea"
   },
   {
@@ -237,7 +238,7 @@
    "level": 2,
    "printed_page": "281",
    "start_page": 291,
-   "summary": "Covers the establishment of USAMGIK under General Orders No. 1, widespread Korean protests against the Moscow Agreement trusteeship decision, US-Soviet joint conferences, creation of the Korean Constabulary, and repatriation.",
+   "summary": "Establishment of USAMGIK under General Orders No. 1, Korean protests against the Moscow Agreement trusteeship, US-Soviet joint conferences, creation of the Korean Constabulary, and repatriation.",
    "title": "Section 1: Political Activities in Korea"
   },
   {
@@ -245,7 +246,7 @@
    "level": 2,
    "printed_page": "287",
    "start_page": 297,
-   "summary": "Reports severe rice hoarding and emergency distribution countermeasures, the formation of the Korean Agriculture Association, silk industry reorganization, mineral and electric power coordination, and dissolution of the Chosen Stock Exchange.",
+   "summary": "Severe rice hoarding and emergency distribution countermeasures, formation of the Korean Agriculture Association, silk industry reorganization, mineral and electric power coordination, and dissolution of the Chosen Stock Exchange.",
    "title": "Section 2: Economic Activities in Korea"
   },
   {
@@ -253,7 +254,7 @@
    "level": 2,
    "printed_page": "291",
    "start_page": 301,
-   "summary": "Details educational planning conferences, teacher institutes, expansion of radio broadcasting (JODK) and weekly news publications, restitution of looted cultural assets, refugee disease control, and dissolution of the Japanese medical monopoly.",
+   "summary": "Educational planning conferences, teacher institutes, expansion of JODK radio broadcasting and weekly news publications, restitution of looted cultural assets, refugee disease control, and dissolution of the Japanese medical monopoly.",
    "title": "Section 3: Social Activities in Korea"
   }
  ],
@@ -263,5 +264,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 306,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

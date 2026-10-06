@@ -1,12 +1,13 @@
 {
  "highlights": [
-  "SCAP directive overhauled public assistance, establishing a centralized relief system based strictly on need and abolishing preferential pensions and aid for military ex-servicemen.",
-  "Mass DDT dusting campaign in Osaka reached over 90 percent of the population to suppress a serious typhus outbreak exceeding 400 cases.",
-  "Distribution of relief reserves from returned military stocks began, releasing 430,000 blankets, 150,000 overcoats, 200,000 uniforms, and 111,457 metric tons of cereals.",
-  "Smallpox vaccine production accelerated sharply, surpassing the February monthly goal of 10,250,000 doses to combat widespread smallpox outbreaks across Japan.",
-  "Repatriation totals through 24 February 1946 reached 768,209 Koreans, 30,695 Chinese, 18,532 Formosans, 12,187 Ryukyuans, and 1,465,980 returning Japanese.",
-  "Japanese authorities ordered the nationwide confiscation of heroin and set deadlines to prosecute unauthorized possession of the narcotic drug.",
-  "Of 5,932 dentists displaced by wartime bombing, 2,579 were rehabilitated and re-established in practice despite lingering equipment shortages."
+  "A SCAP directive overhauled public assistance into a centralized relief system based strictly on need, abolishing preferential pensions and aid for military ex-servicemen.",
+  "An emergency mass DDT dusting campaign in Osaka reached over 90 percent of the population to suppress a typhus outbreak that exceeded 400 cases.",
+  "Relief reserves from returned military stocks began distribution, including 430,000 blankets, 150,000 overcoats, 200,000 uniforms and 111,457 metric tons of cereals.",
+  "Smallpox vaccine production rose sharply, surpassing the February goal of 10,250,000 doses, to combat smallpox outbreaks across Japan.",
+  "Repatriation through 24 February 1946 totaled 768,209 Koreans, 30,695 Chinese, 18,532 Formosans, 12,187 Ryukyuans and 1,465,980 returning Japanese.",
+  "Japanese authorities ordered nationwide confiscation of heroin and set deadlines for prosecuting unauthorized possession of the narcotic.",
+  "Of 5,932 dentists displaced by wartime bombing, 2,579 were rehabilitated and re-established in practice, though equipment shortages persisted.",
+  "A new Ministry of Health public health nursing curriculum takes effect in April 1946, with plans assisted for a Kyushu training institute."
  ],
  "keywords": [
   "public assistance",
@@ -29,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Contains the cover title and printed table of contents for Section I (Public Health and Welfare) of Monthly Summary No. 5.",
+   "summary": "Cover title and printed table of contents for Section I (Public Health and Welfare) of Monthly Summary No. 5.",
    "title": "Front matter"
   },
   {
@@ -37,7 +38,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 1,
-   "summary": "Reports a Japanese plan to restrict rural-to-urban migration, veterinary inspections in southern Japan, smallpox vaccine production increases, and an emergency mass DDT dusting campaign in Osaka that reached over 90 percent of residents to suppress typhus.",
+   "summary": "Japan plans to restrict rural-to-urban migration; veterinary inspections in southern Japan; smallpox vaccine output rises; an emergency mass DDT dusting in Osaka reached over 90 percent of residents to suppress typhus.",
    "title": "General"
   },
   {
@@ -45,7 +46,7 @@
    "level": 1,
    "printed_page": "3",
    "start_page": 3,
-   "summary": "Issues a directive establishing unified, non-discriminatory public assistance that eliminates veteran preferences, releases military blankets and clothing reserves, reviews social insurance fund balances, organizes relief for foreign nationals, and oversees mass repatriation movements.",
+   "summary": "A directive creates unified, non-discriminatory public assistance, ending veteran preferences. Military blanket and clothing reserves are released, social insurance fund balances reviewed, foreign-national relief organized, and repatriation movements overseen.",
    "title": "Public Welfare"
   },
   {
@@ -53,7 +54,7 @@
    "level": 1,
    "printed_page": "6",
    "start_page": 6,
-   "summary": "Reports inspections of medical supply storage and narcotic safeguarding at Tachikawa National Hospital and references civilian hospital bed capacity and patient statistics across prefectures.",
+   "summary": "Inspections of medical supply storage and narcotic safeguarding at Tachikawa National Hospital; civilian hospital bed capacity and patient statistics are referenced across prefectures.",
    "title": "Administration of Hospitals"
   },
   {
@@ -61,7 +62,7 @@
    "level": 1,
    "printed_page": "6",
    "start_page": 6,
-   "summary": "Surveys former Japanese army veterinary institutions and Tokyo Veterinary College, reviews November-December 1945 meat and milk inspections, and compiles animal disease incidence tables including a report on the 1945 equine encephalitis outbreak.",
+   "summary": "Surveys former Japanese army veterinary institutions and Tokyo Veterinary College, reviews November-December 1945 meat and milk inspections, and compiles animal disease tables including the 1945 equine encephalitis outbreak.",
    "title": "Veterinary Affairs"
   },
   {
@@ -69,7 +70,7 @@
    "level": 1,
    "printed_page": "8",
    "start_page": 8,
-   "summary": "Reports increased sales of controlled dental items in January 1946 and tracks the rehabilitation and re-establishment of practice of 2,579 bombing-displaced dentists amid equipment shortages.",
+   "summary": "Sales of controlled dental items rose in January 1946; 2,579 bombing-displaced dentists were rehabilitated and re-established in practice despite equipment shortages.",
    "title": "Dental Affairs"
   },
   {
@@ -77,7 +78,7 @@
    "level": 1,
    "printed_page": "9",
    "start_page": 9,
-   "summary": "Transmits the Ministry of Health's new public health nursing curriculum effective April 1946, assists plans for a Kyushu training institute, and prepares articles on Japanese nursing for publication.",
+   "summary": "The Ministry of Health's new public health nursing curriculum takes effect April 1946; plans for a Kyushu training institute are assisted, and articles on Japanese nursing are prepared for publication.",
    "title": "Nursing Affairs"
   },
   {
@@ -85,7 +86,7 @@
    "level": 1,
    "printed_page": "9",
    "start_page": 9,
-   "summary": "Details distribution of new pharmaceuticals and returned military supplies, mandates heroin confiscation, accelerates smallpox vaccine manufacturing past 10 million monthly doses, and explores Korean pyrophyllite rock for regional DDT powder production.",
+   "summary": "Covers distribution of new pharmaceuticals and returned military supplies, mandated heroin confiscation, smallpox vaccine output past 10 million monthly doses, and Korean pyrophyllite rock explored for regional DDT powder production.",
    "title": "Supply"
   },
   {
@@ -93,7 +94,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 13,
-   "summary": "Presents statistical tables and charts on Japanese school expenditures, communicable disease incidence, medical supply production values, public health nurse training curricula, civilian hospital capacities, and repatriation flows through late February 1946.",
+   "summary": "Statistical tables and charts on school expenditures, communicable disease incidence, medical supply production values, nurse training curricula, civilian hospital capacities, and repatriation flows through late February 1946.",
    "title": "Charts"
   }
  ],
@@ -103,5 +104,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 19,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

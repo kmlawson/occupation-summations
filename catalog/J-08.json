@@ -1,12 +1,13 @@
 {
  "highlights": [
-  "SCAP barred Liberal Party leader Ichiro Hatoyama from public office on 4 May, opening the way for Shigeru Yoshida to form a coalition cabinet.",
+  "SCAP barred Liberal Party leader Ichiro Hatoyama from public office on 4 May, and after the Shidehara Cabinet resigned and inter-party talks dragged on, Shigeru Yoshida's coalition cabinet was installed on 22 May.",
   "Arraignment proceedings opened on 3 May before the International Military Tribunal for the Far East against 28 major Japanese war criminals, including Hideki Tojo.",
-  "Approximately 1,000,000 citizens participated in nationwide May Day rallies, followed by the massive 'Food May Day' demonstration outside Tokyo's Imperial Palace on 19 May.",
-  "General MacArthur issued a stern warning on 20 May against undisciplined physical violence and mass intimidation by disorderly minority groups.",
-  "Severe urban food shortages caused an 11-day delay in Tokyo rice rationing, prompting emergency SCAP releases of 8,705 tons of imported wheat flour.",
-  "Imperial Ordinance 262 established screening committees to eliminate militarists and ultranationalists from teaching posts and education administration.",
-  "The 26 April national population census recorded 73,110,995 persons in Japan Proper, adjusted to 74,000,000 when accounting for uncounted foreign nationals and transients."
+  "About 1,000,000 citizens joined nationwide May Day rallies, followed by the massive 'Food May Day' demonstration outside Tokyo's Imperial Palace on 19 May.",
+  "General MacArthur warned on 20 May against undisciplined physical violence and mass intimidation by disorderly minority groups.",
+  "Severe urban food shortages delayed Tokyo-Yokohama rice rationing by 10 to 11 days, prompting SCAP to release 8,705 tons of imported wheat flour in an emergency.",
+  "General Orders No. 20 of 3 May discontinued the Civil Intelligence Section as a Special Staff Section and transferred its duties to G-2.",
+  "Imperial Ordinance 262 established screening committees to remove militarists and ultranationalists from teaching posts and education administration.",
+  "The 26 April census recorded 73,110,995 persons in Japan Proper, adjusted to 74,000,000 for uncounted foreign nationals and transients; 3,789 unions with 1,690,985 members registered."
  ],
  "keywords": [
   "Yoshida Cabinet",
@@ -29,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Contains the report title pages, general table of contents across four parts, and list of 68 charts, graphs, and maps.",
+   "summary": "Report title pages, general table of contents across four parts, and list of 68 charts, graphs and maps.",
    "title": "Front matter"
   },
   {
@@ -37,7 +38,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 5,
-   "summary": "Monthly overview of non-military activities in Japan, summarizing SCAP administrative changes, political developments, economic trends, and social affairs.",
+   "summary": "Overview of May 1946: General Orders No. 20 on the Civil Intelligence Section, Hatoyama's purge and the Yoshida Cabinet, labor registrations, food shortages, the 26 April census and educational screening.",
    "title": "Part I: General"
   },
   {
@@ -45,7 +46,7 @@
    "level": 2,
    "printed_page": "2",
    "start_page": 5,
-   "summary": "Reports General Orders No. 20 of 3 May discontinuing the Civil Intelligence Section as a Special Staff Section and transferring its duties to G-2.",
+   "summary": "General Orders No. 20 of 3 May discontinued the Civil Intelligence Section as a Special Staff Section and transferred its duties to G-2.",
    "title": "Organization Under SCAP"
   },
   {
@@ -53,7 +54,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 5,
-   "summary": "Summarizes the month's political affairs, including the purge of Ichiro Hatoyama, installation of the Yoshida Cabinet, May Day rallies, and war crimes trials.",
+   "summary": "Summarizes the purge of Ichiro Hatoyama, installation of the Yoshida Cabinet, May Day rallies, and the war crimes trials.",
    "title": "Political Activities"
   },
   {
@@ -61,7 +62,7 @@
    "level": 2,
    "printed_page": "9",
    "start_page": 8,
-   "summary": "Summarizes natural resources, industrial production, labor union registrations, critical food shortages, note circulation of ¥29.5 billion, and restricted concerns additions.",
+   "summary": "Covers natural resources, industrial production, labor union registrations, critical food shortages, note circulation of ¥29.5 billion, and additions to restricted concerns.",
    "title": "Economic Activities"
   },
   {
@@ -69,7 +70,7 @@
    "level": 2,
    "printed_page": "15",
    "start_page": 11,
-   "summary": "Summarizes the decline in typhus and smallpox, progress in repatriation, 26 April census results showing an adjusted population of 74,000,000, and educational screening.",
+   "summary": "Notes declines in typhus and smallpox, progress in repatriation, the 26 April census adjusted to 74,000,000 persons, and educational screening.",
    "title": "Social Activities"
   },
   {
@@ -77,7 +78,7 @@
    "level": 1,
    "printed_page": "19",
    "start_page": 13,
-   "summary": "Covers Japanese government and civil administration, public safety and intelligence, and legal affairs and war crimes prosecutions.",
+   "summary": "Covers the Yoshida coalition cabinet and Hatoyama purge, food demonstrations and police matters, and legal affairs including orders apprehending 96 war crime suspects and IMTFE arraignments.",
    "title": "Part II: Political"
   },
   {
@@ -85,7 +86,7 @@
    "level": 2,
    "printed_page": "21",
    "start_page": 14,
-   "summary": "Details the cabinet crisis resulting in Shigeru Yoshida's coalition cabinet, SCAP's directive purging Ichiro Hatoyama, May Day mass rallies, and Diet convocation.",
+   "summary": "Details the cabinet crisis leading to Shigeru Yoshida's coalition cabinet, SCAP's directive purging Ichiro Hatoyama, May Day mass rallies, and Diet convocation.",
    "title": "Government and Civil Administration"
   },
   {
@@ -93,7 +94,7 @@
    "level": 2,
    "printed_page": "27",
    "start_page": 22,
-   "summary": "Reports on mass food demonstrations, crimes against occupation forces, warnings against methyl alcohol in liquor, metropolitan police reorganization surveys, and media censorship.",
+   "summary": "Reports mass food demonstrations, crimes against occupation forces, warnings on methyl alcohol in liquor, metropolitan police reorganization surveys, and media censorship.",
    "title": "Public Safety and Intelligence"
   },
   {
@@ -109,7 +110,7 @@
    "level": 1,
    "printed_page": "57",
    "start_page": 33,
-   "summary": "Details economic developments across resource extraction, heavy and light manufacturing, textiles, transportation, communications, labor relations, foreign trade, rationing, finance, and reparations.",
+   "summary": "Economic review: rice collections at 83.4 percent of quota, coal stockpiles down to five days, 258,000,000 square yards of textiles inventoried, 3,789 registered unions, and note circulation of ¥33.4 billion.",
    "title": "Part III: Economic"
   },
   {
@@ -117,7 +118,7 @@
    "level": 2,
    "printed_page": "59",
    "start_page": 33,
-   "summary": "Reports declining rice collections at 83.4 percent of quota, emergency food and fertilizer measures, experimental aerial DDT spraying, and authorization of 416 steel fishing vessels.",
+   "summary": "Rice collections fell to 83.4 percent of quota; emergency food and fertilizer measures, experimental aerial DDT spraying, and 416 steel fishing vessels authorized.",
    "title": "Agriculture and Fisheries"
   },
   {
@@ -125,7 +126,7 @@
    "level": 2,
    "printed_page": "69",
    "start_page": 38,
-   "summary": "Covers timber and pulp production, coal mining difficulties and accidents under 'production control', coal stockpiles falling to a five-day supply, and petroleum output.",
+   "summary": "Covers timber and pulp output, coal mining accidents under 'production control', coal stockpiles falling to a five-day supply, and petroleum output.",
    "title": "Forestry and Mining"
   },
   {
@@ -133,7 +134,7 @@
    "level": 2,
    "printed_page": "79",
    "start_page": 43,
-   "summary": "Reports pig iron furnaces operating at only 3.5 percent capacity, nonferrous metal refining limited by coal shortages, cement and petroleum production, and shipyard repairs.",
+   "summary": "Pig iron furnaces ran at only 3.5 percent capacity; coal shortages limited nonferrous refining; also cement, petroleum production and shipyard repairs.",
    "title": "Heavy Industries"
   },
   {
@@ -141,7 +142,7 @@
    "level": 2,
    "printed_page": "90",
    "start_page": 53,
-   "summary": "Details food processing trends and the cabinet order halting beer and sake brewing for two months to conserve grain, alongside production statistics for diverse consumer goods.",
+   "summary": "Cabinet order halted beer and sake brewing for two months to conserve grain; also food processing trends and production statistics for consumer goods.",
    "title": "Manufacturing"
   },
   {
@@ -149,7 +150,7 @@
    "level": 2,
    "printed_page": "123",
    "start_page": 65,
-   "summary": "Covers the completion of a nationwide textile inventory revealing 258,000,000 square yards of fabric, cotton yarn price revisions, preparations for incoming American cotton, and silk reeling.",
+   "summary": "Nationwide textile inventory completed, showing 258,000,000 square yards of fabric; also cotton yarn price revisions, preparations for American cotton, and silk reeling.",
    "title": "Textile Industries"
   },
   {
@@ -157,7 +158,7 @@
    "level": 2,
    "printed_page": "147",
    "start_page": 77,
-   "summary": "Reviews registered motor vehicles, railroad traffic increases, coastal shipping, adequate hydroelectric power generation, and gas distribution system repairs reducing leakage from 80 to 40 percent.",
+   "summary": "Reviews registered motor vehicles, rising railroad traffic, coastal shipping, adequate hydroelectric power, and gas system repairs cutting leakage from 80 to 40 percent.",
    "title": "Transportation and Public Utilities"
   },
   {
@@ -165,7 +166,7 @@
    "level": 2,
    "printed_page": "155",
    "start_page": 83,
-   "summary": "Covers increases in domestic postal and telephone rates, expansion of overseas radiotelegraph links to Hawaii and France, telecommunications equipment manufacturing, and overseas assets.",
+   "summary": "Domestic postal and telephone rates rose; overseas radiotelegraph links expanded to Hawaii and France; also telecommunications equipment manufacturing and overseas assets.",
    "title": "Communications"
   },
   {
@@ -173,7 +174,7 @@
    "level": 2,
    "printed_page": "167",
    "start_page": 89,
-   "summary": "Reports registration of 3,789 unions with 1,690,985 members, May Day demonstrations involving 1,000,000 workers, draft Labor Relations Adjustment legislation, and wage adjustments.",
+   "summary": "3,789 unions registered with 1,690,985 members; May Day demonstrations involved 1,000,000 workers; draft Labor Relations Adjustment legislation and wage adjustments.",
    "title": "Labor"
   },
   {
@@ -181,7 +182,7 @@
    "level": 2,
    "printed_page": "177",
    "start_page": 94,
-   "summary": "Details export shipments including 10,986 bales of raw silk to the United States and coal to Korea, imports of wheat and salt, and Hoover's relief mission.",
+   "summary": "Exports included 10,986 bales of raw silk to the United States and coal to Korea; imports of wheat and salt; Hoover's relief mission.",
    "title": "Imports and Exports"
   },
   {
@@ -189,7 +190,7 @@
    "level": 2,
    "printed_page": "181",
    "start_page": 96,
-   "summary": "Reports critical urban food shortages with Tokyo-Yokohama ration delays of 10 to 11 days, emergency release of 8,705 tons of imported flour, and price control enforcement.",
+   "summary": "Critical urban food shortages delayed Tokyo-Yokohama rations by 10 to 11 days; 8,705 tons of imported flour released in emergency; price control enforcement.",
    "title": "Rationing and Price Control"
   },
   {
@@ -197,7 +198,7 @@
    "level": 2,
    "printed_page": "197",
    "start_page": 104,
-   "summary": "Details Bank of Japan note circulation rising to ¥33.4 billion, deposit and loan trends under the currency conversion and deposit freeze program, and termination of war damage claims interest.",
+   "summary": "Bank of Japan note circulation rose to ¥33.4 billion; deposit and loan trends under currency conversion and deposit freeze; war damage claims interest terminated.",
    "title": "Finance"
   },
   {
@@ -205,7 +206,7 @@
    "level": 2,
    "printed_page": "203",
    "start_page": 107,
-   "summary": "Reports on the administration of 1,057 seized United Nations properties, custody of $255 million in precious metals, additions to restricted concerns, and reparations inventory plans.",
+   "summary": "Administration of 1,057 seized United Nations properties, custody of $255 million in precious metals, additions to restricted concerns, and reparations inventory plans.",
    "title": "Property Control and Reparations"
   },
   {
@@ -213,7 +214,7 @@
    "level": 1,
    "printed_page": "211",
    "start_page": 111,
-   "summary": "Covers public health, welfare relief, repatriation, census tabulations, educational purging and textbook screening, religious directives, and media of expression.",
+   "summary": "Covers public assistance, repatriation of over 3,000,000 Japanese, cholera control at Uraga, the 26 April census, Imperial Ordinance 262 teacher screening, textbook review, and Shinto symbol directives.",
    "title": "Part IV: Social"
   },
   {
@@ -221,7 +222,7 @@
    "level": 2,
    "printed_page": "213",
    "start_page": 112,
-   "summary": "Details public assistance expenditures, repatriation reaching over 3,000,000 Japanese, control of cholera at Uraga, DDT dusting and vaccine production, and the 26 April census.",
+   "summary": "Covers public assistance expenditures, repatriation of over 3,000,000 Japanese, cholera control at Uraga, DDT dusting, vaccine production, and the 26 April census.",
    "title": "Public Health and Welfare"
   },
   {
@@ -229,7 +230,7 @@
    "level": 2,
    "printed_page": "223",
    "start_page": 122,
-   "summary": "Reports Imperial Ordinance 262 establishing teacher screening committees, approval of revised school textbooks, directives prohibiting Shinto symbols on stamps and currency, and new radio programming.",
+   "summary": "Imperial Ordinance 262 set up teacher screening committees; revised textbooks approved; Shinto symbols prohibited on stamps and currency; new radio programming.",
    "title": "Education, Religion and Media of Expression"
   }
  ],
@@ -239,5 +240,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 128,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

@@ -1,14 +1,14 @@
 {
  "summary": "Summation No. 34 covers July 1948 and the Ashida coalition's last weeks. The central political event is MacArthur's 22 July letter on National Public Service Law revision, followed by a 31 July cabinet order banning strikes and collective bargaining by government employees. The Diet's 209-day session ended 5 July after passing the budget and a wave of legal reforms: Habeas Corpus, criminal procedure, Reformatory and Juvenile laws, health and medical practice laws, boards of education, and new tax and local finance laws. Party politics show the Social Democratic split, the New Liberal Party, the Nishio indictment and graft inquiries. Economically the report tracks record coke output, the Fukui earthquake (28 June) damage to silk and rayon weaving, price stabilization, rate increases, financial liquidation, trade agreements, nutrition surveys and repatriation. Historians will find detailed statistical tables, legal chronology, labor and press reaction, and war crimes trial results.",
  "highlights": [
-  "MacArthur's 22 July letter to Ashida: government employees may not strike; cabinet order of 31 July bans strikes and bargaining.",
-  "Second Diet session closed 5 July after 209 days, enacting 230 of 273 bills.",
-  "Deputy Prime Minister Nishio resigned and was indicted for unreported political funds and perjury.",
-  "Supreme Court used constitutional review for the first time, excluding a coerced confession (Imai case).",
-  "Fukui earthquake of 28 June damaged 525 of 1,253 silk and rayon mills; export fabric output expected down by one third.",
-  "Eight war criminals sentenced to death in 10 trials, including the Bataan Death March case (Kawane, Hirano).",
-  "New Liberal Party formed 15 July; 16 Social Democrats left or were expelled over the budget.",
-  "Land sold to tenants jumped to 589,491 cho in June; coke output reached a postwar record 265,707 tons."
+  "MacArthur's 22 July letter to Prime Minister Ashida held that government employees may not strike; a cabinet order of 31 July banned public-employee strikes and collective bargaining, and wage mediation was suspended.",
+  "The second Diet session closed 5 July after 209 days, the longest in Japanese history, enacting 230 of 273 bills including the Habeas Corpus, Reformatory and Juvenile laws and the 1948-49 budget of 414.5 billion yen.",
+  "Deputy Prime Minister Nishio resigned 6 July and was tried from 16 July for perjury and failing to report a 500,000-yen contractor donation, while graft inquiries led to arrests of Diet members.",
+  "The coalition weakened: a New Liberal Party formed 15 July with 12 members, six Social Democrats were expelled and 10 seceded over the budget, cutting the government margin to nine seats.",
+  "On 19 July the Supreme Court, 13 to one, used constitutional review for the first time to exclude a confession obtained after prolonged detention (Imai case).",
+  "The 28 June Fukui earthquake damaged 525 of 1,253 silk and rayon mills, and export fabric output was expected to fall by one third; a party of 97 seismologists investigated.",
+  "Eight war criminals were sentenced to death in 10 trials, including the Bataan Death March case, while the IMTFE held no session in July.",
+  "Land sold to tenants rose to 589,491 cho in June, coke output reached a postwar record of 265,707 tons, and postal, telephone and telegraph rates rose roughly fourfold."
  ],
  "keywords": [
   "National Public Service Law",
@@ -35,7 +35,7 @@
    "printed_page": "",
    "start_page": 1,
    "end_page": 5,
-   "summary": "Cover and title pages for Summation No. 34 (July 1948), with a table of contents for all four parts (General, Political, Economic, Social; 13 economic sections and two social ones) and a numbered list of 108 charts, maps and graphs, from industrial production indexes to textbooks, motion pictures and SCAP information libraries."
+   "summary": "Cover, title pages, table of contents for four parts, and a list of 108 charts, maps and graphs, from industrial production indexes to textbooks, films and SCAP information libraries."
   },
   {
    "title": "Part I: General",
@@ -43,7 +43,7 @@
    "printed_page": "1",
    "start_page": 6,
    "end_page": 16,
-   "summary": "Condensed overview of the month's non-military activities, by topic and paragraph."
+   "summary": "Overview of July 1948: MacArthur's 22 July letter and the 31 July strike ban, the Diet's close with 230 laws, the Fukui earthquake, 1948-49 budget of 414.5 billion yen, CARE, and 45,333 repatriates."
   },
   {
    "title": "Section 1. Organization Under SCAP",
@@ -51,7 +51,7 @@
    "printed_page": "3",
    "start_page": 7,
    "end_page": 7,
-   "summary": "A single sentence reports that there was no change in the non-military organization of General Headquarters, SCAP, during July 1948. The page also opens Section 2, with its contents list for government and politics, public safety, and legal affairs and war crimes."
+   "summary": "No change occurred in the non-military organization of General Headquarters, SCAP, during July 1948. The page also opens Section 2 with its contents list."
   },
   {
    "title": "Section 2. Political Activities",
@@ -59,7 +59,7 @@
    "printed_page": "3",
    "start_page": 7,
    "end_page": 8,
-   "summary": "Summarizes July politics: MacArthur's 22 July letter on the National Public Service Law led to a 31 July cabinet order banning strikes and bargaining by public employees. The Diet closed 5 July, enacting 230 measures, and the Ministry of Construction was created. Nishio resigned and was indicted. A New Liberal Party formed 15 July, Social Democrats split, and floods, rail accidents, police, fire and prison laws, criminal procedure reforms, a Supreme Court ruling and war crimes trials are also covered."
+   "summary": "MacArthur's 22 July letter led to a 31 July cabinet order banning public-employee strikes. The Diet closed 5 July after enacting 230 measures; Nishio resigned and was indicted; a New Liberal Party formed 15 July."
   },
   {
    "title": "Section 3. Economic Activities",
@@ -67,7 +67,7 @@
    "printed_page": "7",
    "start_page": 9,
    "end_page": 14,
-   "summary": "Economic summary for July: land sales to tenants rose fivefold to 589,491 cho in June; coke output hit a postwar record of 265,707 tons; the 28 June Fukui earthquake damaged 525 of 1,253 silk and rayon mills. The Diet raised postal and telephone charges (nearly 300 percent for telephone and telegraph), passed the 1948-49 budget (General Account 414.5 billion yen) and a Transactions Tax. Other items: labor, trade, food, finance, reparations and the new Industrial Science and Technology Agency."
+   "summary": "Land sales to tenants rose to 589,491 cho in June; coke output hit a record 265,707 tons; the Fukui earthquake damaged 525 of 1,253 mills. Postal and telephone rates rose and the 414.5 billion yen budget passed."
   },
   {
    "title": "Section 4. Social Activities",
@@ -75,7 +75,7 @@
    "printed_page": "19",
    "start_page": 15,
    "end_page": 16,
-   "summary": "Social summary: the Diet passed a package of health laws (preventive vaccination, venereal disease control, medical practitioners, dentists, nurses, hot springs, eugenics protection). CARE began operating 19 July with 10-dollar food packages, and 1,841,429 people received welfare aid in June. Education items include boards of education in every locality, the end of the textbook monopoly, and a nine-day national holiday law. Postcensorship was completed 25 July, and 45,333 persons were repatriated."
+   "summary": "The Diet passed a package of health laws; CARE began 19 July with 10-dollar food packages; 1,841,429 people received welfare aid in June. Postcensorship was completed 25 July and 45,333 persons were repatriated."
   },
   {
    "title": "Part II: Political",
@@ -83,7 +83,7 @@
    "printed_page": "23",
    "start_page": 17,
    "end_page": 46,
-   "summary": "Government and politics, public safety, and legal affairs and war crimes. Page 17 also carries the end of Part I (media of expression, paragraphs 35-41)."
+   "summary": "Government and politics, public safety, and legal affairs. Covers MacArthur's letter, the 209-day Diet session, the Nishio case, 38 killed in Kagoshima landslides, and eight war crimes death sentences."
   },
   {
    "title": "Section 1. Government and Politics",
@@ -91,7 +91,7 @@
    "printed_page": "25",
    "start_page": 18,
    "end_page": 38,
-   "summary": "Political life dominated by the Supreme Commander's letter on public service labor, the end of the Diet session, the Nishio case, coalition strain, party realignments and graft investigations."
+   "summary": "Politics dominated by MacArthur's letter on public service labor, the Diet's close, the Nishio case, coalition strain, party realignments and graft investigations."
   },
   {
    "title": "Public Service Law Revision",
@@ -99,7 +99,7 @@
    "printed_page": "25",
    "start_page": 18,
    "end_page": 23,
-   "summary": "MacArthur's 22 July letter to Prime Minister Ashida argues that public employees owe allegiance to the sovereign state and may not strike, and calls for revising the National Public Service Law. Newspapers largely agreed; party leaders approved, while some unionists feared misuse. The cabinet suspended wage mediation, issued a 31 July order banning strikes and bargaining, and the party chiefs planned a mid-September special Diet session."
+   "summary": "MacArthur's 22 July letter to Ashida said public employees may not strike and called for revising the National Public Service Law. The cabinet issued a 31 July order banning strikes and bargaining; a special Diet session was planned for mid-September."
   },
   {
    "title": "Governmental Activities (Diet, Wage Disputes, Laws, Party Strength)",
@@ -107,7 +107,7 @@
    "printed_page": "",
    "start_page": 24,
    "end_page": 30,
-   "summary": "The 209-day Diet session closed 5 July, the longest in Japanese history; the 1948-49 budget passed after a compromise on railway fares. Of 273 bills introduced, 230 became law and 43 failed. The wage base of 3,790 yen was fought by unions demanding 5,200 yen, with CLRB mediation halted after the MacArthur letter. Tables list the laws by ministry and party strength in both houses; the Ministry of Construction began 10 July and the Imperial Household received 58,785,000 yen."
+   "summary": "The 209-day Diet session closed 5 July, enacting 230 of 273 bills. The wage base was 3,790 yen against union demands of 5,200 yen, and mediation halted after MacArthur's letter. The Ministry of Construction began 10 July."
   },
   {
    "title": "Political Developments (Nishio Case, Coalition Weakness)",
@@ -115,7 +115,7 @@
    "printed_page": "",
    "start_page": 30,
    "end_page": 32,
-   "summary": "Deputy Prime Minister Nishio resigned 6 July and was tried from 16 July for perjury and failing to report a 500,000-yen donation from building contractors; he pleaded not guilty, and his cabinet post was left vacant. Social Democrats, angered by the shelved war bond interest bill, threatened to leave the coalition. Katayama's 18 July call for dissolution, a poll showing Ashida's support at 16 percent, and Yoshida's demand that the cabinet resign are reported, with the New Liberal Party formed 15 July."
+   "summary": "Nishio resigned 6 July and was tried from 16 July for perjury and failing to report a 500,000-yen contractor donation. Social Democrats threatened to leave the coalition; a poll put Ashida's support at 16 percent."
   },
   {
    "title": "Political Parties",
@@ -123,7 +123,7 @@
    "printed_page": "",
    "start_page": 32,
    "end_page": 36,
-   "summary": "Katayama announced 18 July that the Social Democrats would demand Diet dissolution; Miki proposed a centrist federation, Ashida backed it and the Democratic Liberals and Social Democrats scorned it. The New Liberal Party formed 15 July with 12 members. Six left-wingers were expelled over the budget and 10 seceded, cutting the government margin to nine seats. A bomb injured Communist Tokuda 19 July."
+   "summary": "The New Liberal Party formed 15 July with 12 members. Six left-wing Social Democrats were expelled and 10 seceded, cutting the government margin to nine seats. Katayama sought dissolution 18 July; a bomb injured Tokuda 19 July."
   },
   {
    "title": "Illegal Transactions Investigation",
@@ -131,7 +131,7 @@
    "printed_page": "",
    "start_page": 36,
    "end_page": 38,
-   "summary": "The Illegal Transactions Investigation Committee and procurators pursued political graft in July. Diet members Iimura and Nishimura were arrested or indicted, and Kono, Isazaki and Miura went on trial for perjury. Former Vice-minister Ino and railway officials were tried. Hearings examined Ashida, Chizaki's Democratic Party donations and Finance Minister Kitamura's Sasebo ties, and a subcommittee began probing black-market incomes above 5,000,000 yen."
+   "summary": "The Illegal Transactions Investigation Committee pursued graft: Diet members Iimura and Nishimura were arrested or indicted, and Kono, Isazaki and Miura tried for perjury. A subcommittee probed black-market incomes above 5,000,000 yen."
   },
   {
    "title": "Revised Economic Policy",
@@ -139,7 +139,7 @@
    "printed_page": "",
    "start_page": 38,
    "end_page": 38,
-   "summary": "The Economic Rehabilitation Committee published a revised program 14 July, moving the five-year plan back a year to 1949-53 and aiming to restore 1930-34 per capita real income, with the first two years for checking inflation, power and transport. Director General Kurusu saw bright prospects. The Economic Stabilization Board's ten-point stabilization draft of 17 July drew press comment."
+   "summary": "The Economic Rehabilitation Committee's revised program of 14 July moved the five-year plan to 1949-53, aiming to restore 1930-34 per capita real income. The Economic Stabilization Board issued a ten-point draft 17 July."
   },
   {
    "title": "Section 2. Public Safety",
@@ -147,7 +147,7 @@
    "printed_page": "67",
    "start_page": 39,
    "end_page": 41,
-   "summary": "Floods from 25 July hit Fukui, Toyama, Ishikawa and Shiga, with 30 killed and 22 missing; Kagoshima landslides killed 38. June rail accidents numbered 622 with 206 killed. Procurators uncovered about 1,950,000,000 yen of hoarded goods, and 88,179,132 yen was recovered in June. Other items: Economic Investigation Board, police rules, prison population 94,700, Fire Service Law and May fire losses."
+   "summary": "Floods from 25 July in Fukui, Toyama, Ishikawa and Shiga killed 30 with 22 missing; Kagoshima landslides killed 38. June rail accidents numbered 622. Procurators uncovered about 1,950,000,000 yen of hoarded goods; prison population was 94,700."
   },
   {
    "title": "Section 3. Legal Affairs and War Crimes",
@@ -155,7 +155,7 @@
    "printed_page": "73",
    "start_page": 42,
    "end_page": 46,
-   "summary": "The Diet revised the Codes of Criminal and Civil Procedure and passed the Inquest of Prosecution, Habeas Corpus, Juvenile, Reformatory and Impeachment of Judges laws. On 19 July the Supreme Court, 13 to one, used constitutional review for the first time to bar a confession after prolonged detention. War crimes trials produced eight death sentences, including the Bataan Death March and Fukuoka prison cases; the IMTFE held no session."
+   "summary": "The Diet passed Habeas Corpus, Juvenile, Reformatory and Inquest of Prosecution laws. On 19 July the Supreme Court, 13 to one, first used constitutional review to bar a confession. War crimes trials produced eight death sentences."
   },
   {
    "title": "Part III: Economic",
@@ -163,7 +163,7 @@
    "printed_page": "83",
    "start_page": 47,
    "end_page": 154,
-   "summary": "Thirteen sections on production, transport, labor, trade, prices, finance, property and science."
+   "summary": "Thirteen sections on the economy: 589,491 cho of land sold to tenants, 2,711,000 tons of coal, record coke output, earthquake damage to textiles, rate increases, trade agreements, finance and science."
   },
   {
    "title": "Section 1. Agriculture and Fisheries",
@@ -171,7 +171,7 @@
    "printed_page": "85",
    "start_page": 48,
    "end_page": 51,
-   "summary": "The Government sold 589,491 cho to tenants in June, 1,222,323 cumulative, and bought 209,782 cho, with enforcement orders issued 19 July. Cooperative approvals, mutual relief insurance and an extension act advanced, while fertilizer allocations met 70, 59 and 1 percent of requirements. Marine production fell to 200,630 tons on gear shortages; whaling expeditions for 1948-49 were approved."
+   "summary": "The Government sold 589,491 cho to tenants in June (1,222,323 cumulative) and bought 209,782 cho. Fertilizer allocations met 70, 59 and 1 percent of requirements; marine production fell to 200,630 tons."
   },
   {
    "title": "Section 2. Forestry and Mining",
@@ -179,7 +179,7 @@
    "printed_page": "93",
    "start_page": 52,
    "end_page": 57,
-   "summary": "June log production was 53,364,500 cubic feet, a seasonal drop, and firewood, charcoal and gasumaki fell below May as farmers turned to crops. A five-year reforestation program began and the Diet raised the bond limit to 1,500,000,000 yen. July coal output was 2,711,000 tons against a 2,850,000 goal; stockpiles reached 680,600 tons. Crude oil was 16,632 kiloliters; 22 minerals rose."
+   "summary": "June log production was 53,364,500 cubic feet. A five-year reforestation program began. July coal output was 2,711,000 tons against a 2,850,000 goal; crude oil was 16,632 kiloliters."
   },
   {
    "title": "Section 3. Heavy Industries",
@@ -187,7 +187,7 @@
    "printed_page": "105",
    "start_page": 58,
    "end_page": 68,
-   "summary": "Coke output hit a postwar record 265,707 tons in June. Pig iron rose 2.4 percent while power shortages cut electric-furnace steel 30 percent; nonferrous metals, rubber, petroleum and cement were reported. Coal miners' housing and a new Ministry of Construction (10 July) were covered, along with shipbuilding, chemicals (dyes at a postwar peak), rolling stock, machine tools and textile machinery."
+   "summary": "Coke output hit a postwar record 265,707 tons in June. Pig iron rose 2.4 percent while power shortages cut electric-furnace steel 30 percent. Dyes reached a postwar peak; the Ministry of Construction began 10 July."
   },
   {
    "title": "Section 4. Manufacturing",
@@ -195,7 +195,7 @@
    "printed_page": "127",
    "start_page": 69,
    "end_page": 78,
-   "summary": "Reports May food and tobacco and June industrial output. Canned food rose to 1,924 tons on imported tin plate while wheat flour fell to 26,295 tons; cigarettes rose 11 percent with two new brands. Pulp reached 39,612 tons and paper 40,555 tons. Watches and clocks set a record 206,226 units; trucks, bicycles and typewriters rose; sewing machines gained on an Indian export order."
+   "summary": "Canned food rose to 1,924 tons; wheat flour fell to 26,295 tons; cigarettes rose 11 percent. Pulp reached 39,612 tons and paper 40,555 tons. Watches and clocks set a record 206,226 units."
   },
   {
    "title": "Section 5. Textile Industries",
@@ -203,7 +203,7 @@
    "printed_page": "147",
    "start_page": 79,
    "end_page": 93,
-   "summary": "Fukui-Ishikawa earthquake damaged 525 of 1,253 mills; cotton, silk, rayon, wool, bast fiber and knit goods output, stocks and machinery; raw cotton and wool imports."
+   "summary": "The Fukui-Ishikawa earthquake damaged 525 of 1,253 silk and rayon mills. The section also reports cotton, wool, bast fiber and knit goods output, stocks, machinery, and raw cotton and wool imports."
   },
   {
    "title": "Earthquake Damage",
@@ -211,7 +211,7 @@
    "printed_page": "",
    "start_page": 79,
    "end_page": 79,
-   "summary": "Describes damage from the 28 June earthquake in Fukui and Ishikawa Prefectures, the heart of silk and rayon weaving. A Textile Bureau survey found over a third of weaving capacity destroyed or damaged, including 547 Fukui mills with 12,904 looms. About 28 percent of bleaching and dyeing capacity is in the area; export fabric output is expected to fall by one third."
+   "summary": "The 28 June earthquake destroyed or damaged over a third of weaving capacity, including 547 Fukui mills with 12,904 looms. About 28 percent of bleaching and dyeing capacity lies there; export fabric output expected down one third."
   },
   {
    "title": "Section 6. Transportation and Public Utilities",
@@ -219,7 +219,7 @@
    "printed_page": "177",
    "start_page": 94,
    "end_page": 100,
-   "summary": "Covers June transport and utilities. The Diet passed the Port Regulations, Port Area (418 ports), Pilot and Mariners' Employment Security laws. Registered motor vehicles reached 211,092, 70.4 percent operable. Rail passengers fell after a 75-percent private fare rise and strikes. Electric generation dropped 11 percent to 2,642 million kWh amid drought; coal was cut 10 percent. Gas output was 63.7 million cubic meters."
+   "summary": "The Diet passed the Port Regulations, Port Area (418 ports) and Pilot laws. Motor vehicles reached 211,092. Electric generation fell 11 percent to 2,642 million kWh amid drought; gas output was 63.7 million cubic meters."
   },
   {
    "title": "Section 7. Communications",
@@ -227,7 +227,7 @@
    "printed_page": "191",
    "start_page": 101,
    "end_page": 110,
-   "summary": "Covers communications for June and July. The Diet approved a training law and roughly fourfold postal, telephone and telegraph rate increases. Telephones in service reached 1,230,872, hampered by earthquake damage. Radio authorizations, the Japan Broadcasting Corporation reorganization, doubled listening fee and 6,762,022 radio households are noted. Postal savings restrictions were lifted 20 July; equipment output, personnel (434,516) and research are reported."
+   "summary": "The Diet approved roughly fourfold postal, telephone and telegraph rate increases. Telephones in service reached 1,230,872; 6,762,022 radio households were counted. Postal savings restrictions were lifted 20 July; personnel numbered 434,516."
   },
   {
    "title": "Section 8. Labor",
@@ -235,7 +235,7 @@
    "printed_page": "211",
    "start_page": 111,
    "end_page": 120,
-   "summary": "The Diet passed the Mariners' Employment Security Law on 3 July. Unions protested price rises and the Communications Workers demanded a $5,200 wage against the Government's $3,791. Union membership reached 6,629,222 on 31 May, and the government workers' wage dispute went to mediation until the Supreme Commander's letter halted it. Also covered: labor standards inspections, workmen's compensation, employment security, unemployment insurance and a 1948-49 public works budget of $42.5 billion."
+   "summary": "The Mariners' Employment Security Law passed 3 July. Communications Workers demanded 5,200 yen against the Government's 3,791. Union membership reached 6,629,222 on 31 May; the Supreme Commander's letter halted wage mediation."
   },
   {
    "title": "Section 9. Imports and Exports",
@@ -243,7 +243,7 @@
    "printed_page": "231",
    "start_page": 121,
    "end_page": 127,
-   "summary": "Japan concluded a trade agreement with the French Union on 6 July, including 25,000 tons of Indo-Chinese anthracite, and contracted iron ore from Hongkong and Malaya. SCAP required licensing of all commercial cargo. May imports were $28.3 million, 76 percent from the United States, against exports of $17.8 million, half to Asia. The cumulative 1948 trade deficit was $219.7 million, with commodity breakdowns led by textiles, petroleum and foodstuffs."
+   "summary": "Japan signed a trade agreement with the French Union on 6 July, including 25,000 tons of Indo-Chinese anthracite. May imports were $28.3 million, exports $17.8 million; the cumulative 1948 deficit was $219.7 million."
   },
   {
    "title": "Section 10. Price and Distribution",
@@ -251,7 +251,7 @@
    "printed_page": "245",
    "start_page": 128,
    "end_page": 134,
-   "summary": "The July staple ration was met in full, with imported food at 28.6 percent of requirements. Collections of the 1947 crops exceeded quotas, and the Food Maintenance Temporary Measures Law set preplanting quotas. A new price stabilization program raised subsidized basic materials to 110 times 1934-36 levels, with four commodity groups repriced. Staple food producer and consumer prices were revised, and incentive goods, surplus Army clothing and railway food-loss enforcement figures are reported."
+   "summary": "The July staple ration was met in full, imported food being 28.6 percent of requirements. A new price stabilization program raised subsidized basic materials to 110 times 1934-36 levels and repriced four commodity groups."
   },
   {
    "title": "Section 11. Finance",
@@ -259,7 +259,7 @@
    "printed_page": "259",
    "start_page": 135,
    "end_page": 144,
-   "summary": "Bank of Japan notes outstanding reached 241.4 billion yen on 31 July. Reports cover financial institution reorganization losses, bank and Reconstruction Finance Bank figures, securities liquidation (20.3 million shares sold) and 47 control organizations closed in June. The Diet passed tax, insurance, Commercial Code and accountancy laws. The 1948-49 General Account budget was 414.5 billion yen, national debt 367 billion yen, and new local finance and local tax laws were passed."
+   "summary": "Bank of Japan notes outstanding reached 241.4 billion yen on 31 July. The 1948-49 General Account budget was 414.5 billion yen, national debt 367 billion; 20.3 million shares were sold and 47 control organizations closed."
   },
   {
    "title": "Section 12. Property Control and Reparations",
@@ -267,7 +267,7 @@
    "printed_page": "279",
    "start_page": 145,
    "end_page": 149,
-   "summary": "Looted property in custody stood at 65.9 million yen, with 95 looted ships reported, and the SCAP Custody Account reached $286.5 million. SCAP did not object to 766 transactions by restricted concerns, chiefly shipping, chemicals, mining, textiles and power; 78 firms left the restricted list. The Holding Company Liquidation Commission issued its first structural reorganization order, to Japan Soda, and the Diet passed the Trade Association, Horse Racing and Smaller Enterprise laws."
+   "summary": "Looted property in custody stood at 65.9 million yen; the SCAP Custody Account reached $286.5 million. SCAP did not object to 766 transactions, 78 firms left the restricted list, and Japan Soda received the first reorganization order."
   },
   {
    "title": "Section 13. Science and Technology",
@@ -275,7 +275,7 @@
    "printed_page": "289",
    "start_page": 150,
    "end_page": 154,
-   "summary": "A joint party of 97 Japanese seismologists and engineers investigated the 28 June Fukui earthquake, while the Diet raised earthquake research funds. The Science Council of Japan Law (210 members, about 90,000 electors) and new Industrial Science and Technology and Smaller Enterprises Agencies were created, with inspection and export-commodity laws. Also covered are new processes (amilan, fertilizer, rayon), research appropriations of 2,297,500,000 yen, standards, and patent registrations."
+   "summary": "A party of 97 seismologists and engineers investigated the Fukui earthquake. The Science Council of Japan Law (210 members) and new Industrial Science and Technology and Smaller Enterprises Agencies were created; research appropriations were 2,297,500,000 yen."
   },
   {
    "title": "Part IV: Social",
@@ -283,7 +283,7 @@
    "printed_page": "299",
    "start_page": 155,
    "end_page": 182,
-   "summary": "Public health and welfare, and education, religion, cultural resources and media of expression."
+   "summary": "Public health and welfare, and education, religion, culture and media: new health laws, CARE, nutrition surveys, boards of education, the textbook monopoly's end and postcensorship from 25 July."
   },
   {
    "title": "Section 1. Public Health and Welfare",
@@ -291,7 +291,7 @@
    "printed_page": "301",
    "start_page": 156,
    "end_page": 171,
-   "summary": "New health laws, model health centers, communicable disease tables, medical supplies, public assistance, CARE, social security mission report, nutrition surveys, vital statistics and repatriation."
+   "summary": "July 1948 laws: Preventive Vaccination, Venereal Disease Control, Medical Practitioner. June disease and drug output; CARE began 19 July; social security mission report; May nutrition survey (Tokyo 1,961 calories); 45,333 repatriated."
   },
   {
    "title": "Nutrition",
@@ -299,7 +299,7 @@
    "printed_page": "320",
    "start_page": 165,
    "end_page": 170,
-   "summary": "The May national nutrition survey, second under the revised plan, sampled 42,000 people in 11 large cities, 40 other cities and all prefectures. Per capita calories were 1,961 in Tokyo, 1,937 in the 11 cities and 2,001 in rural areas, the latter two still declining. Underweight fell (Tokyo 17.4 percent), but most deficiency symptoms rose and impaired lactation reached 27.8 percent. Tables give food consumption by group."
+   "summary": "The May nutrition survey sampled 42,000 people. Per capita calories were 1,961 in Tokyo, 1,937 in 11 large cities and 2,001 in rural areas. Underweight fell (Tokyo 17.4 percent) but impaired lactation reached 27.8 percent."
   },
   {
    "title": "Section 2. Education, Religion, Cultural Resources and Media of Expression",
@@ -307,7 +307,7 @@
    "printed_page": "333",
    "start_page": 172,
    "end_page": 182,
-   "summary": "Education budget, boards of education law, textbook monopoly abolished; religion and cultural resources; press moved to postcensorship; radio, film, theater, music, exhibits and SCAP information libraries."
+   "summary": "Covers the education budget, the boards of education law, the end of the textbook monopoly, religion, cultural resources, the move to postcensorship, and radio, film, theater and SCAP libraries."
   },
   {
    "title": "Education",
@@ -315,7 +315,7 @@
    "printed_page": "333",
    "start_page": 172,
    "end_page": 176,
-   "summary": "The 1948 budget gave the Ministry of Education 27,171,630,000 yen, and the Board of Education Law created elective boards, in prefectures and major cities by 1 November. Fukui earthquake damage to schools, curriculum revision, and strikes at 94 of 658 higher schools over tuition increases are reported. Other items: the Textbook Publication Act, playground needs, MacArthur Cup finals, UNESCO groups, and language reform survey results."
+   "summary": "The Ministry of Education received 27,171,630,000 yen; elective boards of education are due in prefectures and major cities by 1 November. Strikes hit 94 of 658 higher schools over tuition increases."
   },
   {
    "title": "Religion",
@@ -323,7 +323,7 @@
    "printed_page": "",
    "start_page": 176,
    "end_page": 176,
-   "summary": "The first postwar Japanese-language Year Book of Religion appeared 15 July. The National Holiday Law cut holidays from twelve to nine, dropping State Shinto-linked days. Items cover missionary travel, 1,297 foreign missionaries in Japan, and 946 shrines, temples and churches damaged by the Fukui earthquake. A Jiji survey of 4,600 adults found 60 percent professing a faith, 86 percent of them Buddhist."
+   "summary": "The first postwar Year Book of Religion appeared 15 July; the National Holiday Law cut holidays from twelve to nine. 1,297 foreign missionaries were in Japan; 946 shrines, temples and churches were damaged by the earthquake."
   },
   {
    "title": "Cultural Resources",
@@ -331,7 +331,7 @@
    "printed_page": "",
    "start_page": 177,
    "end_page": 177,
-   "summary": "The Ministry of Education asked prefectural governors to cooperate in preserving scenic and historic sites, citing sanitary facilities and refuse receptacles. To remove governmental control from the fine arts, the Fourth Annual Japanese Art Exhibition, set for October and November in Tokyo, passes to the sponsorship of the Japan Art Academy. July saw eleven painting exhibitions, three of applied arts and four miscellaneous ones."
+   "summary": "The Ministry of Education asked governors to help preserve scenic and historic sites. The Fourth Annual Japanese Art Exhibition, set for October and November in Tokyo, passes to the Japan Art Academy."
   },
   {
    "title": "Media of Expression",
@@ -339,7 +339,7 @@
    "printed_page": "",
    "start_page": 177,
    "end_page": 182,
-   "summary": "Postcensorship was extended to all Japanese newspapers and news services by 25 July, completing a staged relaxation begun in 1947. Sections cover public opinion, ministry information campaigns, civil liberties, rural and women's affairs, press comment on Diet politics, the budget, labor and language reform, and book output (844 new editions in June). Radio, films, theater, American music, exhibits and SCAP libraries at Shizuoka and Nagasaki are also reported."
+   "summary": "Postcensorship was extended to all Japanese newspapers and news services by 25 July. Book output was 844 new editions in June. Radio, films, theater, music and SCAP libraries at Shizuoka and Nagasaki are reported."
   },
   {
    "title": "Map of Japan - Topography",
@@ -347,12 +347,14 @@
    "printed_page": "354",
    "start_page": 183,
    "end_page": 183,
-   "summary": "A fold-out topographic map of Japan occupies the final pages of the volume, appearing only as two image pages with no printed text in the excerpt. It adds no reported developments for the month."
+   "summary": "Fold-out topographic map of Japan at the end of the volume, with no printed text."
   }
  ],
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 183,
  "_uncovered_pages": [],
  "_bad_ranges": [],
- "_refined": "32 leaf summaries rewritten from full section text"
+ "_refined": "32 leaf summaries rewritten from full section text",
+ "_needs_source": [],
+ "_polished": true
 }

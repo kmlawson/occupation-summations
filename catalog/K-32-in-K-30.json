@@ -1,14 +1,14 @@
 {
  "summary": "This issue of South Korean Interim Government Activities (No. 32, prepared by the National Economic Board) covers May 1948, a month dominated by the 10 May general election, the first in Korean history, with about 91 percent of registrants voting despite communist terror. Nearly half of the 198 elected Assemblymen were rightists, Rhee Syngman became Assembly chairman, and the Assembly convened on 31 May. North Korea's 14 May electricity cutoff discredited Kim Koo and Kimm Kiu-sic after the Pyongyang conference and cut industrial output about 75 percent, while drought threatened summer grain. The report also covers the Cheju rebellion, border incidents, sabotage, Mukden repatriates, vested property Koreanization, court reorganization, education ordinances and women's participation. Detailed tables on prices, coal, trade, petroleum, transport, power, finance and insurance give historians a month-by-month statistical baseline for the last weeks of the Interim Government.",
  "highlights": [
-  "10 May 1948: first free general election; more than 91 percent of registrants voted despite communist violence.",
-  "North Korea cut electricity to the South on 14 May, ending roughly 60 percent of supply.",
-  "Overall industrial production fell about 75 percent by end of May due to power shortage.",
-  "Elections in two of three Cheju districts were invalid; virtual civil war continued on the island.",
-  "Ordinance No. 192 separated Korean courts from the Department of Justice.",
-  "Three education ordinances drafted to create school districts and Boards of Education.",
-  "First Mukden repatriates (3,800 in four ships) arrived at Inchon.",
-  "Thirty-one 38th parallel border incidents with North Korean Constabulary reported."
+  "The 10 May 1948 election, the first in Korean history, drew more than 91 percent of registrants despite communist terror; of 198 Assemblymen, nearly half were rightists and none communist.",
+  "The National Assembly convened on 31 May with all 198 members present, and Rhee Syngman won the speakership with 188 votes; Hodge and Dean spoke at the opening.",
+  "North Korea cut electricity to the South on 14 May; power distribution fell to 56.1 million KWH from 74.5 million, and overall industrial production dropped about 75 percent by month end.",
+  "The power cutoff discredited Kim Koo and Kimm Kiu-sic, who had reported after the 19-25 April Pyongyang conference that the North promised no separate government and continued electricity.",
+  "Election violence killed four candidates, 15 election officials and 32 policemen; elections in two Cheju districts were voided as fighting on the island intensified, with 3,126 held.",
+  "Ordinance No. 192 separated the courts from the Department of Justice from 1 June, and three education ordinances were drafted for school districts and Boards of Education.",
+  "The first Mukden repatriates reached Inchon on 11 May, about 3,800 people in four ships; refugees from the north fell about 20 per cent from April.",
+  "Thirty-one border incidents with the North Korean Constabulary occurred, and communist saboteurs burned the Inchon telephone exchange and the Yongdungpo repeater station, killing two employees and a policeman."
  ],
  "keywords": [
   "South Korean Interim Government",
@@ -36,7 +36,7 @@
    "printed_page": "",
    "start_page": 450,
    "end_page": 457,
-   "summary": "Cover of South Korean Interim Government Activities No. 32 (May 1948), prepared by the National Economic Board for USAMGIK, followed by blank and image pages. Lists Board members at 31 May 1948, including Chairman Wilhelm Anderson, Executive Secretary Otis T. Weaver and directors for Agriculture, Commerce, Finance and Transportation, plus a six-part table of contents."
+   "summary": "Cover of No. 32 (May 1948), prepared by the National Economic Board; Board members at 31 May 1948 (Chairman Wilhelm Anderson, Executive Secretary Otis T. Weaver) and a six-part table of contents."
   },
   {
    "title": "Summary",
@@ -44,7 +44,7 @@
    "printed_page": "1",
    "start_page": 458,
    "end_page": 461,
-   "summary": "Reviews May 1948 as historic: the 10 May election drew 91 per cent of registrants despite communist terror, and the Assembly sat 31 May. North Korea's 14 May power cutoff cut production about 75 per cent and discredited Kim Koo and Kimm Kiu-sic. Also covers drought, Cheju rebellion, border incidents, rising trade, 469,000,000 won note issue and rice prices."
+   "summary": "May 1948 review: the 10 May election drew 91 per cent of registrants despite communist terror, and the Assembly sat 31 May. North Korea's 14 May power cutoff cut production about 75 per cent; drought, Cheju rebellion and a 469,000,000 won note issue also noted."
   },
   {
    "title": "Part I. Basic Aspects",
@@ -52,7 +52,7 @@
    "printed_page": "5",
    "start_page": 462,
    "end_page": 477,
-   "summary": "Population, repatriation and foreign affairs, plus vested property administration."
+   "summary": "Population and foreign affairs (about 20,041,000 people, first Mukden repatriates at Inchon) and vested property, where the Office of Property Custody prepared Koreanization and recorded 2,334 financial statements."
   },
   {
    "title": "Section 1. Population and Foreign Affairs",
@@ -60,7 +60,7 @@
    "printed_page": "5",
    "start_page": 462,
    "end_page": 471,
-   "summary": "South Korea's population rose one-third since 1940, reaching about 20,041,000 by January 1948; net migration added roughly 1,534,000. Refugees from the north fell about 20 per cent from April; the first Mukden repatriates reached Inchon on 11 May (3,831 by month end). Covers Korean schooling disputes in Japan, repatriating businessmen, and a new immigration ordinance expected about 1 August."
+   "summary": "South Korea's population reached about 20,041,000 by January 1948, with net migration of roughly 1,534,000. The first Mukden repatriates reached Inchon on 11 May (3,831 by month end); a new immigration ordinance was expected about 1 August."
   },
   {
    "title": "Section 2. Vested Property",
@@ -68,7 +68,7 @@
    "printed_page": "15",
    "start_page": 472,
    "end_page": 477,
-   "summary": "The Office of Property Custody prepared for Koreanization by decentralizing operations and training auditors. A record 2,334 financial statements arrived, and the Korean Residence Management Corporation was taken over on 6 May. Purchase applications rose after the election (497 cases), sales totaled 111,225 thousand won, and rent collections and loan guarantees continued; Allied nationals' property was reviewed."
+   "summary": "The Office of Property Custody prepared Koreanization by decentralizing and training auditors. A record 2,334 financial statements arrived, the Korean Residence Management Corporation was taken over on 6 May, and sales totaled 111,225 thousand won."
   },
   {
    "title": "Part II. Production and Supply",
@@ -76,7 +76,7 @@
    "printed_page": "21",
    "start_page": 478,
    "end_page": 547,
-   "summary": "Agriculture, prices, industry, mining, allocation, trade and labor."
+   "summary": "Production and supply: summer grain forecast of 673,982 tons, May wholesale price rises, a 75 per cent production fall after the 14 May power cutoff, anthracite output of 68,612 tons in April, trade licenses and Seoul and Pusan labor disputes."
   },
   {
    "title": "Section 1. Agriculture, Forestry and Fisheries",
@@ -84,7 +84,7 @@
    "printed_page": "21",
    "start_page": 478,
    "end_page": 488,
-   "summary": "Summer grain forecast of 673,982 metric tons on 1,956,227 acres (104.1 per cent of 1947) faced reduced yields from drought, and 94,153 acres of rice land depended on power pumps. Reports covered livestock, fertilizer, forestry tables, fisheries exports to Japan worth $4,936,162, KAA fertilizer sales, 448,513 farms sold by the National Land Administration, and the Agricultural Improvement Service."
+   "summary": "Summer grain forecast of 673,982 metric tons on 1,956,227 acres (104.1 per cent of 1947) was threatened by drought; 94,153 acres of rice land depended on power pumps. Fisheries exports to Japan were worth $4,936,162."
   },
   {
    "title": "Section 2. Prices",
@@ -92,7 +92,7 @@
    "printed_page": "32",
    "start_page": 489,
    "end_page": 496,
-   "summary": "Open-market wholesale prices in Seoul rose in May: rice up nearly 10 per cent to about the January level, with barley, red beans, building materials, metals and raw silk higher. Retail prices increased after a March-April dip, while sugar, salt, dried fish, laundry soap and work shoes fell. Nine-city rice averaged 734 won by 25 May; National Price Administration controlled prices are tabulated."
+   "summary": "Seoul wholesale rice rose nearly 10 per cent to about the January level, with barley, red beans, metals and raw silk also higher. Sugar, salt and dried fish fell. Nine-city rice averaged 734 won by 25 May."
   },
   {
    "title": "Section 3. Industrial Production",
@@ -100,7 +100,7 @@
    "printed_page": "40",
    "start_page": 497,
    "end_page": 507,
-   "summary": "Power cutoff from North Korea on 14 May cut overall production about 75 per cent by month end, reversing a strong April (rubber shoes from 154 plants, 2,261,906 pairs; cigarettes up 66.2 per cent). May hit flour, paper (166.9 tons), cement, bricks, briquettes and cotton goods, while salt rose to 28,056 tons. Production statistics cover under 100 larger plants."
+   "summary": "The 14 May North Korean power cutoff cut overall production about 75 per cent by month end, after a strong April (2,261,906 pairs of rubber shoes from 154 plants). Paper, cement and cotton goods fell; salt rose to 28,056 tons."
   },
   {
    "title": "Section 4. Mining and Minerals",
@@ -108,7 +108,7 @@
    "printed_page": "51",
    "start_page": 508,
    "end_page": 518,
-   "summary": "Anthracite output reached 68,612 metric tons in April, up 9.3 per cent and more than double the 1947 average, with Samchuk exceeding quota; the May power cutoff then reduced mining, flooded the Ongjin and Haeju mines, and Yong Wol fell to 6,639 tons. Bituminous imports from Japan dropped to 61,068 tons from 83,171. The Coal Industry Fund sought a 200,000,000 won loan."
+   "summary": "Anthracite output reached 68,612 metric tons in April, up 9.3 per cent, before the May power cutoff flooded the Ongjin and Haeju mines and Yong Wol fell to 6,639 tons. Bituminous imports from Japan dropped to 61,068 tons."
   },
   {
    "title": "Section 5. Allocations and Distribution",
@@ -116,7 +116,7 @@
    "printed_page": "62",
    "start_page": 519,
    "end_page": 528,
-   "summary": "The Consumer Goods Allocation Board dealt with delayed cotton cloth deliveries over price differences. Civilian supply allocations went to Commerce, Agriculture and other departments; May petroleum allocations included 6,936,921 liters of gasoline for elections. Salt distribution reached 27,434 tons, ex-Japanese metals were allocated, and Federation of Financial Associations goods reached employees."
+   "summary": "The Consumer Goods Allocation Board dealt with delayed cotton cloth deliveries. May petroleum allocations included 6,936,921 liters of gasoline for elections, and salt distribution reached 27,434 tons."
   },
   {
    "title": "Section 6. Imports and Exports",
@@ -124,7 +124,7 @@
    "printed_page": "72",
    "start_page": 529,
    "end_page": 541,
-   "summary": "May licenses (95 import, 83 export) pointed to exports near 548 million won against imports near 323 million. April private trade: imports 746 million won (paper products, rubber, drugs), exports 391 million (dried fish over half), 99 percent to Hong Kong, 87 percent of imports via Inchon. Government sales of ore and graphite, Civilian Supply coal, fertilizer, flour, sugar and petroleum are also covered."
+   "summary": "May licenses (95 import, 83 export) pointed to exports near 548 million won against imports near 323 million. April private trade: imports 746 million won, exports 391 million, 99 percent of exports to Hong Kong."
   },
   {
    "title": "Section 7. Labor",
@@ -132,7 +132,7 @@
    "printed_page": "85",
    "start_page": 542,
    "end_page": 547,
-   "summary": "Strike threats hit two industries in May. At Seoul Electric the Tai Han union denied a communist-inspired strike, the Military Governor approved Maj.-Gen. Dean's fact-finding report, and a 29 May conference followed. At Pusan, after wildcat stoppages of 450 stevedores on 11-12 May, contractors fell to seven or eight, a joint hiring hall replaced the honcho system, and the union deferred strikes. Child labor and overtime inspections, a renamed labor paper, and radio and health items also appear."
+   "summary": "At Seoul Electric, a communist-inspired strike was denied and a 29 May conference followed Maj.-Gen. Dean's fact-finding report. At Pusan, 450 stevedores stopped work on 11-12 May and a joint hiring hall replaced the honcho system."
   },
   {
    "title": "Part III. Public Services",
@@ -140,7 +140,7 @@
    "printed_page": "91",
    "start_page": 548,
    "end_page": 573,
-   "summary": "Transportation, communications, utilities and public works."
+   "summary": "Transportation, communications, utilities and public works: election sabotage on rail and telephone lines, a power fall from 74.5 to 56.1 million KWH after the 14 May shut-off, and a stocktaking of Public Works achievements."
   },
   {
    "title": "Section 1. Transportation",
@@ -148,7 +148,7 @@
    "printed_page": "91",
    "start_page": 548,
    "end_page": 556,
-   "summary": "Communist sabotage around the 10 May election wrecked train No. 36, pulled rails and spikes, and damaged locomotives at several cities. Marine shipping priorities were readjusted, coal first at 42.9 percent. April Transportation revenue fell 28 percent to 374.6 million won. Rail employment rose 2.3 percent, 17 more locomotives became operable, and coal moved from Mukko. Refugees were repatriated from Tientsin."
+   "summary": "Communist sabotage around the 10 May election wrecked train No. 36 and damaged locomotives. April Transportation revenue fell 28 percent to 374.6 million won; coal received top marine shipping priority at 42.9 percent."
   },
   {
    "title": "Section 2. Communications",
@@ -156,7 +156,7 @@
    "printed_page": "100",
    "start_page": 557,
    "end_page": 563,
-   "summary": "Saboteurs burned the Inchon telephone exchange (repairs of two to three months, about 7 million won) and arsonists destroyed the Yongdungpo repeater station on 23 May, killing two employees and a policeman. April revenue fell 30.6 percent from March, staff declined to 12,761, and postal deposits, book transfers and life insurance are tabulated. Phone and telegraph rates, about 85 times 1937 levels, rose at the end of May."
+   "summary": "Saboteurs burned the Inchon telephone exchange (about 7 million won) and arsonists destroyed the Yongdungpo repeater station on 23 May, killing two employees and a policeman. April revenue fell 30.6 percent; rates rose at month end."
   },
   {
    "title": "Section 3. Public Utilities",
@@ -164,7 +164,7 @@
    "printed_page": "107",
    "start_page": 564,
    "end_page": 567,
-   "summary": "May power distribution fell to 56.1 million KWH from 74.5 million in April; South Korea produced 41.5 million and the North delivered 15.1 million before the 14 May shut-off. The Emergency Power Board set Daylight Saving Time from 31 May, 30-watt home bulbs and new priorities, and US monitoring of dispatch began 26 May. Sun Jin Gang hit a record output; Seoul streetcars resumed within 45 minutes."
+   "summary": "May power distribution fell to 56.1 million KWH from 74.5 million in April; the North delivered 15.1 million before the 14 May shut-off. Daylight Saving Time began 31 May and US monitoring of dispatch 26 May."
   },
   {
    "title": "Section 4. Public Works",
@@ -172,7 +172,7 @@
    "printed_page": "111",
    "start_page": 568,
    "end_page": 573,
-   "summary": "A stocktaking of two and a half years credited Public Works with rebuilding the Seoul-Pusan Highway (37 bridges, 497 km, about 236.8 million won), 162 km of levees, water plants, fire service reorganization and 515 pieces of heavy equipment. May brought a road competition won by Cholla-namdo, bridge progress, 153 million won in flood subsidies, power-cut water problems, and 181 fires."
+   "summary": "Public Works was credited with rebuilding the Seoul-Pusan Highway (37 bridges, 497 km, about 236.8 million won), 162 km of levees and 515 pieces of heavy equipment. May brought 153 million won in flood subsidies and 181 fires."
   },
   {
    "title": "Part IV. Finance",
@@ -180,7 +180,7 @@
    "printed_page": "117",
    "start_page": 574,
    "end_page": 589,
-   "summary": "Government and non-government finance."
+   "summary": "Government finance (note issue, overdraft, budgets and April revenue) and non-government finance (banks, loans, deposits and insurance), with the note issue up 469 million won in May."
   },
   {
    "title": "Section 1. Government Finance",
@@ -188,7 +188,7 @@
    "printed_page": "117",
    "start_page": 574,
    "end_page": 579,
-   "summary": "The Bank of Chosun note issue peaked at 33,389 million won in December 1947 and was down 4,745 million by May, though May rose 469 million. The overdraft stood at 20,232 million won after a 4,424 million credit. F/Y 1947/48 authorizations reached 22,320 million; F/Y 1948/49 budgets approximate 29 billion. April revenue was 1,930 million (tobacco 702 million), expenditure 2,010 million, revenue-to-spending ratio 73 percent; Civilian Supply assets 22,995 million."
+   "summary": "Bank of Chosun note issue peaked at 33,389 million won in December 1947, rising 469 million in May. The overdraft stood at 20,232 million won. April revenue was 1,930 million against expenditure of 2,010 million."
   },
   {
    "title": "Section 2. Non-Government Finance",
@@ -196,7 +196,7 @@
    "printed_page": "123",
    "start_page": 580,
    "end_page": 589,
-   "summary": "April data only. Cash balances fell 1,080 million won to 2,428.7 million, and deposits reached a record 56,421 million (55 percent government). Loans outstanding fell 2,096 million to 30,025 million, the fourth monthly net retirement. Life insurance in force rose 68 million won; damage insurers wrote 8,294 policies. May loans approved totaled 1,839 million, and banks were told to compile claims against Japan."
+   "summary": "April data: cash balances fell 1,080 million won to 2,428.7 million; deposits reached a record 56,421 million. Loans outstanding fell 2,096 million to 30,025 million. May loans approved totaled 1,839 million."
   },
   {
    "title": "Part V. Government and Politics",
@@ -204,7 +204,7 @@
    "printed_page": "133",
    "start_page": 590,
    "end_page": 621,
-   "summary": "Administration, politics, legal affairs, police and interzone matters."
+   "summary": "Administration, politics, legal affairs, police and interzone matters: the 10 May election, Assembly opening on 31 May, Ordinance No. 192 on courts, election violence and 31 border incidents."
   },
   {
    "title": "Section 1. Administration",
@@ -212,7 +212,7 @@
    "printed_page": "133",
    "start_page": 590,
    "end_page": 593,
-   "summary": "Chief Adviser Dr. Edgar Johnson returned on 25 May from Washington after 72 conferences on budgets, supplies, Japan trade and post-transfer planning. The National Economic Board met four times on budgets, rates and grain prices. Provincial civil service officers met in Seoul; pay rises of 25 to 130 percent were approved from 1 June, tied to staff cuts. Military Government personnel were 3,003 in May."
+   "summary": "Chief Adviser Dr. Edgar Johnson returned on 25 May from Washington after 72 conferences. The National Economic Board met four times; pay rises of 25 to 130 percent were approved from 1 June. Military Government personnel numbered 3,003."
   },
   {
    "title": "Section 2. Political Developments",
@@ -220,7 +220,7 @@
    "printed_page": "137",
    "start_page": 594,
    "end_page": 605,
-   "summary": "10 May general election (91% turnout, 198 seats), National Assembly opening, Pyongyang North-South conference outcome, power shut-off effects on Kim Koo and Kimm Kiu-sic, Koreans in Japan."
+   "summary": "The 10 May election (91% turnout, 198 seats), the National Assembly's opening, the Pyongyang conference outcome, the 14 May power shut-off's effect on Kim Koo and Kimm Kiu-sic, and protests over Koreans in Japan."
   },
   {
    "title": "General Election",
@@ -228,7 +228,7 @@
    "printed_page": "137",
    "start_page": 594,
    "end_page": 600,
-   "summary": "On 10 May over 91 percent of registrants voted in Korea's first general election with little sabotage. Of 198 members, nearly half were rightists, none communist, and Hankook Democratic Party was strongest; two Cheju districts were voided. Party and occupation tables, rightist praise, moderate and Kim Koo objections that the vote was unfree, and an average age of 47 are included."
+   "summary": "Over 91 percent of registrants voted on 10 May in Korea's first general election. Of 198 members, nearly half were rightists and none communist; two Cheju districts were voided. The average age was 47."
   },
   {
    "title": "National Assembly",
@@ -236,7 +236,7 @@
    "printed_page": "144",
    "start_page": 601,
    "end_page": 602,
-   "summary": "Rhee Syngman said after the election that the Assembly's decisions would be state law and preferred the American presidential system. A preliminary meeting on 27 May saw 149 members elect him temporary chairman. On 31 May all 198 attended, Rhee won the speakership with 188 votes, Shin Ik-hi and Kim Tong-won became vice-speakers, and Hodge and Dean spoke at the opening."
+   "summary": "On 27 May 149 members elected Rhee Syngman temporary chairman. On 31 May all 198 attended; Rhee won the speakership with 188 votes, with Shin Ik-hi and Kim Tong-won as vice-speakers."
   },
   {
    "title": "North-South Conference",
@@ -244,7 +244,7 @@
    "printed_page": "146",
    "start_page": 603,
    "end_page": 603,
-   "summary": "Kimm Kiu-sic and Kim Koo returned from Pyongyang on 5 May after the 19-25 April conference. They reported a four-Kim agreement to oppose a separate southern government, demand withdrawal of US and Soviet forces, and hold a later North-South conference. Their 5 May statement said the North promised no separate government; the text breaks off in the electricity assurance."
+   "summary": "Kimm Kiu-sic and Kim Koo returned from Pyongyang on 5 May after the 19-25 April conference, reporting a four-Kim agreement to oppose a separate southern government and demand withdrawal of US and Soviet forces."
   },
   {
    "title": "Power Shut-off",
@@ -252,7 +252,7 @@
    "printed_page": "147",
    "start_page": 604,
    "end_page": 604,
-   "summary": "North Korea cut off electricity to the South on 14 May, citing unpaid bills and the refusal of USAFIK, which does not recognize the North Korean People's Committee, to send a delegation. Rightists blamed the Soviets and communists blamed the United States. Kim Koo disclaimed knowledge of the contract, and some saw benefit in forcing self-sufficiency."
+   "summary": "North Korea cut electricity to the South on 14 May, citing unpaid bills and USAFIK's refusal to send a delegation. Rightists blamed the Soviets, communists blamed the United States, and Kim Koo disclaimed knowledge of the contract."
   },
   {
    "title": "Koreans in Japan",
@@ -260,7 +260,7 @@
    "printed_page": "148",
    "start_page": 605,
    "end_page": 605,
-   "summary": "Several South Korean parties had for months protested treatment of Koreans in Japan, calling it a revival of Japanese imperialism. Reports that a number of Korean schools in Japan had been closed were read as an infringement of Korean rights. Protests came from all political factions, as already noted in the April report."
+   "summary": "Several South Korean parties protested treatment of Koreans in Japan as revived Japanese imperialism. Reports that Korean schools in Japan had been closed were read as an infringement of Korean rights."
   },
   {
    "title": "Section 3. Legal Affairs",
@@ -268,7 +268,7 @@
    "printed_page": "149",
    "start_page": 606,
    "end_page": 610,
-   "summary": "Ordinance No. 192 reorganized the courts, separating them from the Department of Justice from 1 June, alongside Ordinances 193-197, two USAFIK proclamations (daylight-saving time, National Assembly's first meeting). Opinions covered vested property and silk profiteering. Prison population was 22,141; Cheju trials were expedited; the Civil Code gained an air-carriers section; 49 vested-property claims were screened administratively."
+   "summary": "Ordinance No. 192 separated the courts from the Department of Justice from 1 June, alongside Ordinances 193-197. Prison population was 22,141; Cheju trials were expedited; 49 vested-property claims were screened."
   },
   {
    "title": "Section 4. National Police",
@@ -276,7 +276,7 @@
    "printed_page": "154",
    "start_page": 611,
    "end_page": 616,
-   "summary": "Violence around the 10 May election killed four candidates, 15 election officials and 32 policemen, with about 275 civilian deaths; only 68 of 13,407 booths were attacked. Fighting on Cheju-do intensified, with 3,126 held and two districts unable to vote. The section also describes police financing through contributions and the effective Pusan police under Chief Pak."
+   "summary": "Election violence killed four candidates, 15 election officials and 32 policemen, with about 275 civilian deaths; only 68 of 13,407 booths were attacked. On Cheju-do, 3,126 were held and two districts could not vote."
   },
   {
    "title": "Section 5. Interzone Activities",
@@ -284,7 +284,7 @@
    "printed_page": "160",
    "start_page": 617,
    "end_page": 621,
-   "summary": "Thirty-one border incidents with North Korean Constabulary occurred, mostly near the Oe-dong dam, and an American civilian was wounded on 26 May. A Soviet Yak-9 landed near Yosu. About 43,000 pieces of mail were exchanged, down from 59,000 in April. Radio Pyongyang attacked the election, the Americans and the power issue."
+   "summary": "Thirty-one border incidents with the North Korean Constabulary occurred, mostly near the Oe-dong dam; an American civilian was wounded on 26 May. A Soviet Yak-9 landed near Yosu; mail fell to 43,000 pieces."
   },
   {
    "title": "Part VI. Social",
@@ -292,7 +292,7 @@
    "printed_page": "165",
    "start_page": 622,
    "end_page": 649,
-   "summary": "Health, education, culture, press opinion, youth and women."
+   "summary": "Health, education, culture, press opinion, youth and women: Mukden repatriation, three education ordinances, 803 election campaign performances, 33 Korean National Youth Assemblymen and 3,000,000 women voters."
   },
   {
    "title": "Section 1. Public Health and Welfare",
@@ -300,7 +300,7 @@
    "printed_page": "165",
    "start_page": 622,
    "end_page": 625,
-   "summary": "Repatriation of Mukden refugees began, with four ships carrying about 3,800 people through Inchon quarantine camps and a low disease rate; smallpox appeared on Cheju. Kyongsang-namdo completed 2,106 low-cost housing units, UNRRA grants aided orphanages and training schools, and nursing, veterinary, pharmaceutical, narcotics and laboratory matters were reported."
+   "summary": "Repatriation of Mukden refugees began, with four ships carrying about 3,800 people through Inchon quarantine camps. Smallpox appeared on Cheju, and Kyongsang-namdo completed 2,106 low-cost housing units."
   },
   {
    "title": "Section 2. Education",
@@ -308,7 +308,7 @@
    "printed_page": "169",
    "start_page": 626,
    "end_page": 632,
-   "summary": "Three ordinances were drafted creating school districts, Boards of Education and a household-income-tax basis for school finance, replacing land-value taxes eroded by inflation. The FY 1948/49 budget was 1.5 billion won. Unified teacher certification starts 15 June; 845 teachers will attend summer sessions. Bureau reports covered textbooks (13.9 million printed), tests, language institute and vocational education."
+   "summary": "Three ordinances were drafted creating school districts, Boards of Education and a household-income-tax basis for school finance. The FY 1948/49 budget was 1.5 billion won; 13.9 million textbooks were printed."
   },
   {
    "title": "Section 3. Culture",
@@ -316,7 +316,7 @@
    "printed_page": "176",
    "start_page": 633,
    "end_page": 636,
-   "summary": "Thirty-organization election campaign teams gave 803 performances to 1,334,464 people from 7 April. Music news covered the first Musical Festival, Beethoven concerts and scholarships for three Korean musicians. The Seoul U.S. Information Center opened 29 April; art exhibits, Children's Day, election stamps issued 10 May, and KBS election coverage were also reported."
+   "summary": "Thirty election campaign teams gave 803 performances to 1,334,464 people from 7 April. The Seoul U.S. Information Center opened 29 April, and election stamps were issued 10 May."
   },
   {
    "title": "Section 4. Press and Public Opinion",
@@ -324,7 +324,7 @@
    "printed_page": "180",
    "start_page": 637,
    "end_page": 641,
-   "summary": "The press debated the Pyongyang Conference and the broken power promise, then covered the 10 May election. A police report listed 202 dead and 643 wounded from 31 March to 17 May; moderate and rightist papers praised the election, while the Country Guard Corps was ordered disbanded on 22 May. Rhee's press conference, power cutoff and fear of Japan also drew comment."
+   "summary": "The press debated the Pyongyang Conference and the broken power promise, then the election. Police counted 202 dead and 643 wounded from 31 March to 17 May; the Country Guard Corps was ordered disbanded on 22 May."
   },
   {
    "title": "Section 5. Korean National Youth, Inc.",
@@ -332,7 +332,7 @@
    "printed_page": "185",
    "start_page": 642,
    "end_page": 644,
-   "summary": "Thirty-three KNY members were elected to the National Assembly, mostly as rightist-backed candidates or independents, far outnumbering Dai Dong's 13. Audited membership reached 859,208 (605,316 men, 109,899 women, 93,910 maritime, 50,083 students), with a fifth screening ordered. The FY 1948/49 allocation was 20,600,000 won; May projects included literacy classes and road repair."
+   "summary": "Thirty-three Korean National Youth members were elected to the National Assembly, against Dai Dong's 13. Audited membership reached 859,208; the FY 1948/49 allocation was 20,600,000 won."
   },
   {
    "title": "Section 6. Women's Activities",
@@ -340,7 +340,7 @@
    "printed_page": "188",
    "start_page": 645,
    "end_page": 649,
-   "summary": "About 3,000,000 women voted on 10 May, roughly half of 7,908,892 registered voters (3,903,293 women); 19 of 594 candidates were women and none was elected. The Women's Bureau ran a Mothers' School, and the Korean women's federation was admitted to the American federation. Volunteer service, Junior Red Cross gift boxes, a YWCA fashion show and Ewha University's curriculum followed."
+   "summary": "About 3,000,000 women voted on 10 May, of 3,903,293 registered women; 19 of 594 candidates were women and none was elected. The Women's Bureau ran a Mothers' School."
   },
   {
    "title": "Back matter",
@@ -348,12 +348,14 @@
    "printed_page": "",
    "start_page": 650,
    "end_page": 655,
-   "summary": "Back matter consists of blank pages, a library date-due slip (stamped June 2010) with a barcode number, and a closing source note giving the UCSF Industry Documents Library URL. It contains no report content."
+   "summary": "Blank pages, a library date-due slip stamped June 2010, and a closing source note giving the UCSF Industry Documents Library URL; no report content."
   }
  ],
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 655,
  "_uncovered_pages": [],
  "_bad_ranges": [],
- "_refined": "33 leaf summaries rewritten from full section text"
+ "_refined": "33 leaf summaries rewritten from full section text",
+ "_needs_source": [],
+ "_polished": true
 }

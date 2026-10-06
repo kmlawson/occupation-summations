@@ -46,7 +46,9 @@ def weak_sections(c):
     out = set(c.get("_needs_source", []))
     for i, s in enumerate(c["sections"]):
         if re.match(r"(?i)(front|back) matter", s["title"]): continue
-        if not concrete(s.get("summary", ""), s["title"]): out.add(i)
+        t = s.get("summary", "").strip()
+        if len(t.split()) < 6 or re.match(r"(?i)^(this|the) (section|part|chapter) (covers|reports|discusses|describes|deals)", t) \
+                or t.lower().rstrip(".") == s["title"].lower(): out.add(i)
     return sorted(out)
 
 

@@ -1,12 +1,13 @@
 {
  "highlights": [
-  "Ordinance No. 64 redesignated all government bureaus as departments and sections as offices to streamline administration and expand responsibilities for Korean personnel.",
+  "Ordinance No. 64 redesignated all government bureaus as departments and sections as offices, made the Police Department an independent agency, and devolved fire protection to municipalities, expanding responsibilities for Korean personnel.",
   "All remaining Japanese personnel, who numbered 70,000 in September 1945, were completely removed from the South Korean civil service.",
-  "The U.S.-Soviet Joint Commission issued Communiqués 5 and 6, agreeing to consult democratic parties that sign declarations upholding the Moscow Decision.",
+  "The U.S.-Soviet Joint Commission issued Communiqués 5 and 6, agreeing to consult democratic parties that sign declarations upholding the Moscow Decision on Korea.",
   "A plot to assassinate right-wing leader Dr. Syngman Rhee was foiled when Korean police arrested seven armed members of a rival political party.",
-  "Open-market rice purchasing was legalized in Seoul, causing market prices to drop from 450 yen to between 200 and 225 yen per small marl.",
-  "The first espionage case against Military Government resulted in Kim Kei Cho's conviction, a 3,100,000 yen fine, and five years at hard labor.",
-  "Educational authorities scheduled compulsory schooling for September 1946 and initiated the adoption of the horizontal Korean alphabet for newly printed textbooks."
+  "Open-market rice purchasing was legalized in Seoul, and market prices dropped from 450 yen to between 200 and 225 yen per small marl; a National Food Administrator was also appointed.",
+  "In the first espionage case against Military Government, Kim Kei Cho was convicted, fined 3,100,000 yen, and sentenced to five years at hard labor.",
+  "Educational authorities scheduled compulsory schooling for September 1946 and began adopting the horizontal Korean alphabet for newly printed textbooks, amid record school attendance.",
+  "Extensive DDT dusting and vaccination campaigns curbed typhus and smallpox, while critical fertilizer shortages persisted and bituminous coal and raw materials arrived from Japan."
  ],
  "keywords": [
   "USAMGIK",
@@ -29,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Covers the title pages, publication details, table of contents, and list of charts for Summation No. 7.",
+   "summary": "Title pages, publication details, table of contents and list of charts for Summation No. 7.",
    "title": "Front matter"
   },
   {
@@ -37,7 +38,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 13,
-   "summary": "Summarizes political, economic, and social developments in South Korea for April 1946, highlighting military government reorganization, open-market rice purchasing in Seoul, coal receipts from Japan, and disease control efforts.",
+   "summary": "Overview of April 1946 in South Korea: military government reorganization, legalized open-market rice purchasing in Seoul, coal received from Japan, and disease control efforts.",
    "title": "Section 1. General"
   },
   {
@@ -45,7 +46,7 @@
    "level": 1,
    "printed_page": "7",
    "start_page": 19,
-   "summary": "Details national administration reorganization under Ordinance No. 64, civil service localization, the 1946-47 budget, an espionage trial, police work, right-hand traffic rules, U.S.-Soviet Joint Commission communiqués, and Korean and Japanese repatriation.",
+   "summary": "Ordinance No. 64 reorganization, civil service localization, the 1946-47 budget, an espionage trial, police work, right-hand traffic rules, Joint Commission Communiqués 5 and 6, and Korean and Japanese repatriation.",
    "title": "Section 2. Political Activities"
   },
   {
@@ -53,7 +54,7 @@
    "level": 1,
    "printed_page": "19",
    "start_page": 31,
-   "summary": "Reports rice distribution adjustments, land reclamation contracts, critical fertilizer shortages, commodity shipments from Japan, appointment of a National Food Administrator, and improvements in rail and coastal shipping operations.",
+   "summary": "Rice distribution adjustments, land reclamation contracts, critical fertilizer shortages, commodity shipments from Japan, appointment of a National Food Administrator, and improved rail and coastal shipping.",
    "title": "Section 3. Economic Activities"
   },
   {
@@ -61,7 +62,7 @@
    "level": 1,
    "printed_page": "29",
    "start_page": 43,
-   "summary": "Covers record school attendance, planned educational reforms and Korean alphabet adoption, adult leadership courses, typhus vaccination and DDT dusting, public health clinics, and refugee and orphanage welfare programs.",
+   "summary": "Record school attendance, planned educational reforms and adoption of the Korean alphabet, adult leadership courses, typhus vaccination and DDT dusting, public health clinics, and refugee and orphanage welfare.",
    "title": "Section 4. Social Activities"
   }
  ],
@@ -71,5 +72,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 54,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

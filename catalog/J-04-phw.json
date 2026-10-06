@@ -1,12 +1,13 @@
 {
  "highlights": [
   "On 21 January, SCAP directed the Japanese Government to abolish licensed prostitution and nullify all contracts binding women to the practice.",
-  "The Ministry of Health and Welfare estimated 8,000,000 persons in Japan were in need of relief as of 1 January 1946.",
+  "The Ministry of Health and Welfare estimated that 8,000,000 persons in Japan needed relief as of 1 January 1946, while SCAP directed restrictions on migration into large cities.",
   "By 27 January 1946, 730,458 foreign nationals had been repatriated from Japan, while 1,245,930 Japanese ex-servicemen and civilians had returned.",
-  "Since October 1945, civilian hospital capacity expanded by 413 facilities and 73,502 beds, largely through transfers of former military hospitals.",
-  "On 27 January, SCAP ordered comprehensive legislation establishing strict annual registration, licensing, and transaction accounting for all narcotic dealers.",
-  "Smallpox spread widely across Japan in January, with major epidemic foci in Hyogo, Aichi, Nagasaki, and Hokkaido prompting nationwide vaccination planning.",
-  "A December nutrition survey of 30,000 Tokyo residents showed an average intake of 1,970 calories, with nearly half obtained from black-market sources."
+  "Since October 1945, civilian hospital capacity expanded by 413 facilities and 73,502 beds, largely through transfers of former military hospitals, leaving bed occupancy below 40 percent.",
+  "On 27 January, SCAP ordered comprehensive legislation establishing strict annual registration, licensing and transaction accounting for all narcotic dealers; returned military medical stocks were also inventoried and controlled.",
+  "Smallpox spread widely across Japan in January, with major epidemic foci in Hyogo, Aichi, Nagasaki and Hokkaido prompting nationwide vaccination planning; regional typhus cases were also reported.",
+  "A December nutrition survey of 30,000 Tokyo residents showed an average intake of 1,970 calories, with nearly half obtained from black-market sources.",
+  "A warehouse fire destroyed a three-month supply of one-third of essential dental materials, even as precious metals were released for dental use."
  ],
  "keywords": [
   "Public Health and Welfare",
@@ -37,7 +38,7 @@
    "level": 1,
    "printed_page": "235",
    "start_page": 1,
-   "summary": "SCAP directed restrictions on migration to large cities, while Japan estimated 8,000,000 persons needing relief. Repatriation operations continued with 730,458 foreign nationals departing Japan and 1,245,930 Japanese returning.",
+   "summary": "SCAP restricted migration to large cities; Japan estimated 8,000,000 persons needing relief. Repatriation continued, with 730,458 foreign nationals leaving Japan and 1,245,930 Japanese returning.",
    "title": "Public Welfare"
   },
   {
@@ -45,7 +46,7 @@
    "level": 1,
    "printed_page": "238",
    "start_page": 4,
-   "summary": "Reconstruction and military hospital transfers added 73,502 civilian beds since October 1945, reducing bed occupancy below 40 percent despite stable patient totals.",
+   "summary": "Reconstruction and transfers of former military hospitals added 73,502 civilian beds since October 1945, leaving bed occupancy below 40 percent although patient totals stayed stable.",
    "title": "Hospital Administration"
   },
   {
@@ -53,7 +54,7 @@
    "level": 1,
    "printed_page": "238",
    "start_page": 4,
-   "summary": "The section reviews dairy and animal disease legislation, summarizes December 1945 animal disease outbreaks, and catalogs veterinary biological production and estimates for 1944 to 1946.",
+   "summary": "Japanese dairy (1933 Code) and animal disease laws translated; the 11-track racing association idle since 1943; December 1945 outbreaks led by 2,791 cases of white diarrhea in chickens; 1944-46 antiserum production figures.",
    "title": "Veterinary Affairs"
   },
   {
@@ -61,7 +62,7 @@
    "level": 1,
    "printed_page": "241",
    "start_page": 7,
-   "summary": "Precious metals were released for dental use and dental goods received transport priority, while a warehouse fire destroyed a three-month supply of one-third of essential dental materials.",
+   "summary": "Precious metals were released for dental use and dental goods got transport priority, but a warehouse fire destroyed a three-month supply of one-third of essential dental materials.",
    "title": "Dental Affairs"
   },
   {
@@ -69,7 +70,7 @@
    "level": 1,
    "printed_page": "241",
    "start_page": 7,
-   "summary": "Japanese public health nursing regulations were evaluated, Red Cross first-aid manuals were approved for reprinting, and the Ministry of Health and Welfare organized three new graded public health nursing courses.",
+   "summary": "Japanese public health nursing regulations were evaluated, Red Cross first-aid manuals approved for reprinting, and the Ministry of Health and Welfare organized three new graded public health nursing courses.",
    "title": "Nursing Affairs"
   },
   {
@@ -77,7 +78,7 @@
    "level": 1,
    "printed_page": "242",
    "start_page": 8,
-   "summary": "Production and distribution of medicines were stimulated through priority allocations and price increases, while returned military medical stocks and narcotics were concentrated, inventoried, and placed under strict controls.",
+   "summary": "Priority allocations and price increases stimulated medicine production; returned military medical stocks and narcotics were concentrated and inventoried. On 27 January SCAP ordered strict registration, licensing and accounting for narcotic dealers.",
    "title": "Medical Supply"
   },
   {
@@ -85,7 +86,7 @@
    "level": 1,
    "printed_page": "248",
    "start_page": 14,
-   "summary": "SCAP directed the abolition of licensed prostitution and nullification of binding contracts, while the Ministry of Health and Welfare submitted a ministry-wide reorganization and personnel reduction plan.",
+   "summary": "SCAP directed abolition of licensed prostitution and nullification of binding contracts on 21 January; the Ministry of Health and Welfare submitted a ministry-wide reorganization and personnel reduction plan.",
    "title": "Legal Affairs"
   },
   {
@@ -93,7 +94,7 @@
    "level": 1,
    "printed_page": "249",
    "start_page": 15,
-   "summary": "The report surveys 1945 communicable disease incidence, responds to smallpox and typhus outbreaks, and details public water rehabilitation, biological assay requirements, Tokyo dietary nutrition surveys, and venereal disease control.",
+   "summary": "Surveys 1945 communicable disease incidence and smallpox and typhus outbreaks (foci in Hyogo, Aichi, Nagasaki, Hokkaido), plus water rehabilitation, a 30,000-person Tokyo nutrition survey (1,970 calories average) and venereal disease control.",
    "title": "Preventive Medicine"
   }
  ],
@@ -103,5 +104,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 26,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

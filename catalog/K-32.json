@@ -1,14 +1,14 @@
 {
  "summary": "Report No. 32 covers May 1948, prepared by the National Economic Board. Its Summary calls the month historic: the 10 May general election (over 91 per cent of registrants voting despite communist terror) and the 31 May opening of the National Assembly, which elected Syngman Rhee Speaker. North Korea cut electricity to the South on 14 May, discrediting Kim Koo and Kimm Kiu-sic after the Pyongyang conference and cutting industrial output sharply. The text also covers Cheju-do guerrilla fighting, 38th Parallel incidents, Mukden repatriation, vested property sales, farmland transfers, drought, finance, public works, police, education, culture and youth/women's groups. Caution for researchers: the scan is misbound. PDF pages 47-113 and 134-137 are pages of a July 1947 report (Legislative Assembly debates, constitution draft, Joint Commission, police and prison tables), replacing May 1948 material on industry, mining, allocations, trade, labor, transportation, communications and loans.",
  "highlights": [
-  "10 May 1948: first general election; over 91 per cent of registrants voted, 198 Assembly members elected, Cheju-do's Puk Cheju A and B districts postponed.",
-  "31 May: National Assembly opened with all 198 members; Rhee Syngman elected Speaker with 188 votes.",
-  "14 May: North Korea cut electric power, which supplied about 60 per cent of South Korea's electricity; overall production fell 75 per cent.",
-  "Kim Koo and Kimm Kiu-sic lost political standing after their Pyongyang promise that power would continue proved false.",
-  "448,513 farms, 76 per cent of former Japanese farmland to be sold, had been transferred to Koreans by 31 May.",
-  "First Mukden repatriates reached Inchon from Tientsin on 10-11 May; 3,831 repatriated by month's end.",
-  "Election violence: press tally of 202 dead and 643 wounded; Cheju-do rebellion intensified, with 3,126 held.",
-  "Ordinance No. 192 separated the courts from the Department of Justice, effective 1 June 1948."
+  "10 May 1948: first general election, with over 91 per cent of registrants voting despite communist terror; 198 Assembly members were elected, and Cheju-do's Puk Cheju A and B districts were postponed.",
+  "31 May: the National Assembly opened with all 198 members, and Syngman Rhee was elected Speaker with 188 votes.",
+  "14 May: North Korea cut the electric power that supplied about 60 per cent of South Korea's electricity; national distribution fell from 74.5 to 56.1 million KWH and overall production fell sharply.",
+  "Kim Koo and Kimm Kiu-sic lost political standing after their Pyongyang assurance that power would continue proved false.",
+  "By 31 May, 448,513 of 587,974 farms (76 per cent) of former Japanese farmland had been sold or transferred to Koreans through the National Land Administration.",
+  "The first Mukden repatriates reached Inchon by LST from Tientsin on 10-11 May; 3,831 had been repatriated by month's end and 2,651 were still awaiting passage.",
+  "Election violence left a press tally of 202 dead and 643 wounded, and the Cheju-do rebellion intensified, with 3,126 persons held; police reported 68 of 13,407 polling booths attacked.",
+  "Ordinance No. 192 separated the courts from the Department of Justice effective 1 June 1948; the scan is also misbound, with July 1947 pages replacing May 1948 industry, labor and transport sections."
  ],
  "keywords": [
   "May 1948 election",
@@ -35,7 +35,7 @@
    "printed_page": "",
    "start_page": 1,
    "end_page": 7,
-   "summary": "Cover (No. 32, May 1948, prepared by the National Economic Board), blank page, list of Board members at 31 May 1948, and a four-page table of contents."
+   "summary": "Cover (No. 32, May 1948, National Economic Board), blank page, list of Board members at 31 May 1948, and four-page table of contents."
   },
   {
    "title": "Summary",
@@ -43,7 +43,7 @@
    "printed_page": "1",
    "start_page": 8,
    "end_page": 11,
-   "summary": "Overview of May: the 10 May election, power cutoff of 14 May, falling output, drought, fertilizer, population growth, border and Cheju-do violence, fear of Japan, public works, vested property, trade and finance."
+   "summary": "Overview of May: the 10 May election, the 14 May power cutoff and falling output, drought, fertilizer, population growth, border and Cheju-do violence, fear of Japan, public works, vested property, trade and finance."
   },
   {
    "title": "Part I: Basic Aspects",
@@ -51,7 +51,7 @@
    "printed_page": "5",
    "start_page": 12,
    "end_page": 27,
-   "summary": "Population, migration, repatriation, immigration rules and vested property."
+   "summary": "Population and migration (20.0 million by January 1948), Mukden repatriation, draft immigration ordinance, and Office of Property Custody preparations for Koreanization of vested property."
   },
   {
    "title": "Section 1: Population and Foreign Affairs",
@@ -59,7 +59,7 @@
    "printed_page": "5",
    "start_page": 12,
    "end_page": 21,
-   "summary": "South Korea's population rose one-third since 1940 to 20.0 million by January 1948; 2.4 million entered against 886,000 leaving. Covers Mukden repatriates, Korean schools in Japan and draft immigration ordinance."
+   "summary": "South Korea's population rose one-third since 1940 to 20.0 million by January 1948; 2.4 million entered against 886,000 leaving. Covers Mukden repatriates, Korean schools in Japan and a draft immigration ordinance."
   },
   {
    "title": "Census Report",
@@ -67,7 +67,7 @@
    "printed_page": "5",
    "start_page": 12,
    "end_page": 13,
-   "summary": "Compares 1940, 1944, 1946 and 1948 population counts; natural increase revised to 1.8 per cent; urban population up 72.7 per cent since 1940."
+   "summary": "Compares 1940, 1944, 1946 and 1948 counts; natural increase revised to 1.8 per cent; urban population up 72.7 per cent since 1940."
   },
   {
    "title": "Population Migration",
@@ -75,7 +75,7 @@
    "printed_page": "7",
    "start_page": 14,
    "end_page": 17,
-   "summary": "Table 1 by province, population charts, and tables of cumulative movement; refugee arrivals from the North fell about 20 per cent from April to May (12,391)."
+   "summary": "Table by province and cumulative movement tables; refugee arrivals from the North fell about 20 per cent from April to May (12,391)."
   },
   {
    "title": "Manchurian Repatriates",
@@ -115,7 +115,7 @@
    "printed_page": "15",
    "start_page": 22,
    "end_page": 27,
-   "summary": "Office of Property Custody prepared for Koreanization: a record 2,334 financial statements, reorganization studies, rising sales applications after the election, rent collection and decentralized accounting. Page 27 is garbled OCR."
+   "summary": "Office of Property Custody prepared for Koreanization: a record 2,334 financial statements, reorganization studies, rising sales applications after the election, rent collection. Page 27 is garbled OCR."
   },
   {
    "title": "Operations",
@@ -123,7 +123,7 @@
    "printed_page": "15",
    "start_page": 22,
    "end_page": 23,
-   "summary": "Took over Korean Residence Management Corporation 6 May; loan guarantees status; investigation of 1,841 companies for reorganization, 484 unlocated."
+   "summary": "Took over the Korean Residence Management Corporation on 6 May; investigated 1,841 companies for reorganization, 484 unlocated; loan guarantees status reviewed."
   },
   {
    "title": "Property Disposal",
@@ -131,7 +131,7 @@
    "printed_page": "17",
    "start_page": 24,
    "end_page": 24,
-   "summary": "Post-election rise in purchase applications (497 cases in May); tables of appraisals and sales, May total 111 million won."
+   "summary": "Post-election rise in purchase applications (497 cases in May); tables of appraisals and sales, with May total 111 million won."
   },
   {
    "title": "Real Estate Section",
@@ -147,7 +147,7 @@
    "printed_page": "18",
    "start_page": 25,
    "end_page": 25,
-   "summary": "Training Korean auditors, handbook, bilingual reports, new tax forms, Budget Section, bank-deposit reconciliation."
+   "summary": "Training Korean auditors, handbook, bilingual reports, new tax forms, Budget Section and bank-deposit reconciliation."
   },
   {
    "title": "Rental Properties",
@@ -163,7 +163,7 @@
    "printed_page": "19",
    "start_page": 26,
    "end_page": 26,
-   "summary": "Japanese Custodian records checked for Allied-owned property; US-owned cases go to the State Department or claims against Japan."
+   "summary": "Japanese Custodian records checked for Allied-owned property; US-owned cases go to the State Department or to claims against Japan."
   },
   {
    "title": "Executive Division",
@@ -179,7 +179,7 @@
    "printed_page": "21",
    "start_page": 28,
    "end_page": 46,
-   "summary": "Surviving pages cover agriculture, forestry, fisheries and prices; later sections of this Part are missing from the scan."
+   "summary": "Agriculture, forestry, fisheries and prices survive; drought, 448,513 farms transferred, reforestation collapse and May price rises. Later sections are missing from the scan."
   },
   {
    "title": "Section 1: Agriculture, Forestry and Fisheries",
@@ -187,7 +187,7 @@
    "printed_page": "21",
    "start_page": 28,
    "end_page": 38,
-   "summary": "Drought threatens summer grain on a forecast 1,956,227 acres; fertilizer receipts and straw-product purchases; reforestation collapse since 1944; fishery exports to Japan; 448,513 farms sold by NLA."
+   "summary": "Drought threatens summer grain on a forecast 1,956,227 acres; fertilizer receipts; reforestation collapse since 1944; fishery exports to Japan; 448,513 farms sold by NLA."
   },
   {
    "title": "General",
@@ -235,7 +235,7 @@
    "printed_page": "28",
    "start_page": 35,
    "end_page": 36,
-   "summary": "Fertilizer receipts and sales (156,444 and 106,717 tons in 1948), imports from US replacing Japan, 10,000 tons ammonium sulphate from North by barter; straw bag and rope purchases."
+   "summary": "Fertilizer receipts and sales (156,444 and 106,717 tons in 1948), US imports replacing Japan, 10,000 tons ammonium sulphate from the North by barter; straw bag and rope purchases."
   },
   {
    "title": "National Land Administration",
@@ -243,7 +243,7 @@
    "printed_page": "30",
    "start_page": 37,
    "end_page": 37,
-   "summary": "448,513 of 587,974 farms sold or transferred by 31 May (76 per cent), table by regional office; surveys ordered for deeds."
+   "summary": "448,513 of 587,974 farms sold or transferred by 31 May (76 per cent), with table by regional office; surveys ordered for deeds."
   },
   {
    "title": "Agricultural Improvement Service",
@@ -259,7 +259,7 @@
    "printed_page": "32",
    "start_page": 39,
    "end_page": 46,
-   "summary": "Wholesale and retail price indexes; Seoul rice up nearly 10 per cent in May; tables of controlled prices and a chart of price and production trends. Page 45 is garbled OCR."
+   "summary": "Wholesale and retail price indexes; Seoul rice up nearly 10 per cent in May; controlled-price tables and price and production trend chart. Page 45 is garbled OCR."
   },
   {
    "title": "Wholesale and Retail Prices",
@@ -275,7 +275,7 @@
    "printed_page": "37",
    "start_page": 43,
    "end_page": 46,
-   "summary": "National Price Administration prices of controlled domestic goods; nine-city open market retail prices; price and production trend charts."
+   "summary": "National Price Administration prices of controlled domestic goods; nine-city open-market retail prices; price and production trend charts."
   },
   {
    "title": "Misbound insert: July 1947 report pages (replaces printed pp. 40-106)",
@@ -283,7 +283,7 @@
    "printed_page": "",
    "start_page": 47,
    "end_page": 113,
-   "summary": "Pages from the July 1947 Summation inserted in place of May 1948 Industrial Production, Mining, Allocations, Imports and Exports, Labor, Transportation and Communications."
+   "summary": "Pages 47-113 are from the July 1947 Summation, bound in place of May 1948 Industrial Production, Mining, Allocations, Imports and Exports, Labor, Transportation and Communications."
   },
   {
    "title": "US aid statements and food-export rumors (July 1947)",
@@ -435,7 +435,7 @@
    "printed_page": "91",
    "start_page": 114,
    "end_page": 123,
-   "summary": "Surviving pages cover public utilities and public works; Transportation and Communications are missing from the scan."
+   "summary": "Public utilities and public works survive: power fell after the 14 May cutoff, streetcars and buses, bridges, levees and fires. Transportation and Communications are missing from the scan."
   },
   {
    "title": "Section 3: Public Utilities",
@@ -459,7 +459,7 @@
    "printed_page": "107",
    "start_page": 114,
    "end_page": 115,
-   "summary": "Board met 12, 19, 24 May; emergency plans worked; 30-watt bulbs replace 60-watt, saving 28,000 KW; new priorities set."
+   "summary": "Board met 12, 19 and 24 May; emergency plans worked; 30-watt bulbs replaced 60-watt, saving 28,000 KW; new priorities set."
   },
   {
    "title": "Power Plants",
@@ -523,7 +523,7 @@
    "printed_page": "",
    "start_page": 123,
    "end_page": 123,
-   "summary": "181 fires in May, 37 by arson, loss of 251.7 million won; industrial fire survey; extinguishing supplies received."
+   "summary": "181 fires in May, 37 by arson, with loss of 251.7 million won; industrial fire survey; extinguishing supplies received."
   },
   {
    "title": "Part IV: Finance",
@@ -531,7 +531,7 @@
    "printed_page": "117",
    "start_page": 124,
    "end_page": 139,
-   "summary": "Government finance and non-government finance, with four misbound July 1947 pages."
+   "summary": "Government finance (note issue, 20,232 million won overdraft, budgets) and non-government finance (deposits, insurance, loans), with four misbound July 1947 pages."
   },
   {
    "title": "Section 1: Government Finance",
@@ -579,7 +579,7 @@
    "printed_page": "120",
    "start_page": 127,
    "end_page": 127,
-   "summary": "Revenue was 73 per cent of expenditure paid and 69 per cent of the expenditure budget in F/Y 1947/48; monthly table and revenues."
+   "summary": "Revenue was 73 per cent of expenditure paid and 69 per cent of the expenditure budget in F/Y 1947/48; monthly table."
   },
   {
    "title": "Civilian Supply Program",
@@ -595,7 +595,7 @@
    "printed_page": "123",
    "start_page": 130,
    "end_page": 139,
-   "summary": "April data: cash balances down 1,080 million won, deposit balances at a record 56,421 million, insurance and loan activity. Pages 134-137 are misbound July 1947 police and prison tables."
+   "summary": "April data: cash balances down 1,080 million won, deposit balances at a record 56,421 million, insurance and loans. Pages 134-137 are misbound July 1947 police and prison tables."
   },
   {
    "title": "Cash Balances in Financial Institutions",
@@ -651,7 +651,7 @@
    "printed_page": "133",
    "start_page": 140,
    "end_page": 171,
-   "summary": "Administration, election and Assembly, legal affairs, police, interzone activities."
+   "summary": "Administration, the 10 May election and National Assembly, legal affairs, National Police (Cheju-do, election-day order), and interzone activities including 31 border incidents."
   },
   {
    "title": "Section 1: Administration",
@@ -707,7 +707,7 @@
    "printed_page": "137",
    "start_page": 144,
    "end_page": 144,
-   "summary": "Over 91 per cent of registrants voted; nearly half the winners avowed rightists; power cutoff angered public."
+   "summary": "Over 91 per cent of registrants voted; nearly half the winners avowed rightists; the power cutoff angered the public."
   },
   {
    "title": "General Election",
@@ -715,7 +715,7 @@
    "printed_page": "137",
    "start_page": 144,
    "end_page": 150,
-   "summary": "Results by province with names, ages and parties of the 198 members; party and occupation tables; reactions of rightist, moderate parties and Kim Koo; average age 47."
+   "summary": "Results by province with names, ages and parties of the 198 members; party and occupation tables; reactions of rightist and moderate parties and Kim Koo; average age 47."
   },
   {
    "title": "National Assembly",
@@ -723,7 +723,7 @@
    "printed_page": "144",
    "start_page": 151,
    "end_page": 152,
-   "summary": "Rhee's statements on the government; preliminary meeting 27 May; 31 May opening, Rhee elected Speaker 188 votes, formal ceremony and his speech."
+   "summary": "Rhee's statements on the government; preliminary meeting 27 May; 31 May opening, Rhee elected Speaker with 188 votes, formal ceremony and his speech."
   },
   {
    "title": "North-South Conference",
@@ -739,7 +739,7 @@
    "printed_page": "147",
    "start_page": 154,
    "end_page": 154,
-   "summary": "Cutoff of 14 May after Kim and Kimm said power would continue; Kim Koo denies knowing the contract; rightists call promise false."
+   "summary": "Cutoff of 14 May after Kim and Kimm said power would continue; Kim Koo denies knowing the contract; rightists call the promise false."
   },
   {
    "title": "Koreans in Japan",
@@ -747,7 +747,7 @@
    "printed_page": "148",
    "start_page": 155,
    "end_page": 155,
-   "summary": "South Korean parties protest what they call Japanese imperialism being re-established."
+   "summary": "South Korean parties protested for months over Japan's treatment of Koreans, claiming Japanese imperialism was being revived; closure of Korean schools in Japan was seen as an infringement of Korean rights."
   },
   {
    "title": "Section 3: Legal Affairs",
@@ -763,7 +763,7 @@
    "printed_page": "149",
    "start_page": 156,
    "end_page": 156,
-   "summary": "Ordinance 192 Court Reorganization to Ordinance 197 (Coast Guard searches); daylight saving from 31 May; proclamation on the National Assembly; summer grain collection."
+   "summary": "Ordinance 192 Court Reorganization through Ordinance 197 (Coast Guard searches); daylight saving from 31 May; proclamation on the National Assembly; summer grain collection."
   },
   {
    "title": "Legal Opinions",
@@ -771,7 +771,7 @@
    "printed_page": "150",
    "start_page": 157,
    "end_page": 157,
-   "summary": "Opinions on SKIG claims for vested property damage, Chosun Aircraft board election, Seoul city property powers, and free silk market."
+   "summary": "Opinions on SKIG claims for vested property damage, the Chosun Aircraft board election, Seoul city property powers, and the free silk market."
   },
   {
    "title": "Penal Institutions",
@@ -779,7 +779,7 @@
    "printed_page": "151",
    "start_page": 158,
    "end_page": 158,
-   "summary": "Guard target practice, prison labor for constabulary uniforms, raincoats, prison population 22,141 at 30 April, sports equipment."
+   "summary": "Guard target practice, prison labor for constabulary uniforms and raincoats, prison population 22,141 at 30 April, sports equipment."
   },
   {
    "title": "Korean Courts",
@@ -787,7 +787,7 @@
    "printed_page": "152",
    "start_page": 159,
    "end_page": 159,
-   "summary": "Court team sent to Cheju-do; NLA suits; courts separated from Department of Justice effective 1 June."
+   "summary": "Court team sent to Cheju-do; NLA suits; courts separated from the Department of Justice effective 1 June."
   },
   {
    "title": "Codification Bureau",
@@ -795,7 +795,7 @@
    "printed_page": "153",
    "start_page": 160,
    "end_page": 160,
-   "summary": "Air Carriers section of the proposed Civil Code completed."
+   "summary": "Drafting of the Air Carriers section of the proposed Korean Civil Code was completed in May, with articles on definitions, rights, jurisdiction, liability and operation."
   },
   {
    "title": "Property Claims Commission",
@@ -819,7 +819,7 @@
    "printed_page": "154",
    "start_page": 161,
    "end_page": 162,
-   "summary": "Propaganda, 14 labor and nine school strikes, sabotage of rail and power lines, four candidates killed, attacks on police and towns."
+   "summary": "14 labor and nine school strikes, rail and power-line sabotage, four candidates killed, attacks on police and towns, plus propaganda."
   },
   {
    "title": "Cheju-do",
@@ -827,7 +827,7 @@
    "printed_page": "156",
    "start_page": 163,
    "end_page": 163,
-   "summary": "Reasons for election success; fighting intensified despite appeals; 3,126 persons held; voting postponed in two districts."
+   "summary": "Fighting intensified despite appeals; 3,126 persons held; voting postponed in two districts; reasons for the election's success."
   },
   {
    "title": "Provincial Police",
@@ -867,7 +867,7 @@
    "printed_page": "160",
    "start_page": 167,
    "end_page": 167,
-   "summary": "South sent 28,810 pieces to the North and received 14,707."
+   "summary": "South sent 28,810 pieces of mail to the North and received 14,707."
   },
   {
    "title": "Radio Pyongyang Intercepts",
@@ -883,7 +883,7 @@
    "printed_page": "165",
    "start_page": 172,
    "end_page": 199,
-   "summary": "Health and welfare, education, culture, press, youth and women's activities."
+   "summary": "Health and welfare, education (845 teachers in summer training), culture, press, Korean National Youth (859,208 members) and women's activities."
   },
   {
    "title": "Section 1: Public Health and Welfare",
@@ -915,7 +915,7 @@
    "printed_page": "167",
    "start_page": 174,
    "end_page": 174,
-   "summary": "38 doctors examined for Army hospital internships; leper settlement of 100 in caves visited."
+   "summary": "38 doctors examined for Army hospital internships; a leper settlement of 100 living in caves visited."
   },
   {
    "title": "Nursing Affairs",
@@ -931,7 +931,7 @@
    "printed_page": "169",
    "start_page": 176,
    "end_page": 182,
-   "summary": "Three ordinances drafted to create school districts and Boards of Education financed by family income tax; teacher certification, summer training for 845 teachers, textbooks and Korean typewriter."
+   "summary": "Three ordinances drafted for school districts and Boards of Education financed by family income tax; teacher certification, summer training for 845 teachers, textbooks and Korean typewriter."
   },
   {
    "title": "Bureau of Administration",
@@ -1091,7 +1091,7 @@
    "printed_page": "183",
    "start_page": 190,
    "end_page": 190,
-   "summary": "Papers divided on whether the cutoff was political or economic."
+   "summary": "Press explanations of the North Korean power cutoff followed political lines: rightists blamed anger at the election, leftists blamed non-payment, and U.S. authorities refused to deal with the North Korean People's Committee."
   },
   {
    "title": "Fear of Japan",
@@ -1171,7 +1171,7 @@
    "printed_page": "189",
    "start_page": 196,
    "end_page": 196,
-   "summary": "Aims, gift boxes to schools and orphanages, 4,714 members, planned publications and training."
+   "summary": "Gift boxes to schools and orphanages, 4,714 members, planned publications and training."
   },
   {
    "title": "The YWCA",
@@ -1193,5 +1193,7 @@
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 199,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

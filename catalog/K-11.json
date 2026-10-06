@@ -1,13 +1,14 @@
 {
  "embedded_issues": [],
  "highlights": [
-  "Over one million Koreans celebrated the first anniversary of liberation on 15 August in Seoul, marked by the return of historic royal seals.",
-  "Lt. Gen. John R. Hodge urged the Soviet command to reconvene the Joint Commission, rejecting ideological restrictions on Korean democratic participation.",
-  "General Hodge ordered the transfer of operational civil administration to Korean officials, leaving American personnel in largely advisory roles.",
-  "Ordinance No. 102 formally established Seoul National University, merging nine existing colleges and institutes under a unified Board of Regents.",
-  "Military Government promulgated National Food Regulation No. 2, establishing local quotas and administrative procedures for the 1946-1947 rice collection program.",
-  "Ordinance No. 103 established a seven-member Property Claims Commission with final judicial authority to settle disputed Japanese property titles.",
-  "Public health officials battled a major cholera epidemic, recording 10,648 cases and 6,894 deaths while distributing nearly ten million vaccine units."
+  "More than one million Koreans celebrated the first anniversary of liberation in Seoul on 15 August, marked by the ceremonial return of the 1910 Annexation Treaty and nine historic royal seals.",
+  "Lt. Gen. John R. Hodge and Soviet Col. Gen. I. M. Chistiakov exchanged published letters over the Joint Commission deadlock, Hodge urging reconvening and rejecting ideological restrictions on Korean democratic participation.",
+  "General Hodge directed the transfer of operational civil administration to Korean officials, leaving American personnel largely in advisory roles; Ordinance No. 104 created the Department of Public Works.",
+  "Ordinance No. 103 established a seven-member Property Claims Commission with final authority to settle disputed titles to Japanese property.",
+  "Ordinance No. 102 founded Seoul National University, merging nine existing colleges and institutes under a unified Board of Regents.",
+  "National Food Regulation No. 2 set local quotas and administrative procedures for the 1946-1947 rice collection program, while post-flood crop rehabilitation continued.",
+  "A major cholera epidemic produced 10,648 cases and 6,894 deaths, with nearly ten million vaccine units distributed and fishery bans imposed.",
+  "An appendix reviews the first year of military government, 7 September 1945 to 31 August 1946, including education reaching 1.7 million students with Korean textbooks."
  ],
  "keywords": [
   "USAMGIK",
@@ -30,7 +31,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Cover, title pages, table of contents, and list of charts, graphs, and maps for the August 1946 monthly summation.",
+   "summary": "Cover, title pages, table of contents and list of charts, graphs and maps for the August 1946 monthly summation.",
    "title": "Front matter"
   },
   {
@@ -38,7 +39,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 15,
-   "summary": "Summary overview of political, economic, and social activities in South Korea during August 1946.",
+   "summary": "General overview of August 1946: Liberation Day and Hodge-Chistiakov letters, Property Claims Commission, Ordinance No. 102, National Food Regulation No. 2, New Korea Company assets, and cholera containment.",
    "title": "Part I: General"
   },
   {
@@ -46,7 +47,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 17,
-   "summary": "Summarizes party leader resignations, Liberation Day observances, Hodge-Chistiakov Joint Commission letters, the creation of the Property Claims Commission, and public safety.",
+   "summary": "Covers party leader resignations, Liberation Day observances, the Hodge-Chistiakov Joint Commission letters, creation of the Property Claims Commission, and public safety.",
    "title": "Section 1. Political Activities"
   },
   {
@@ -54,7 +55,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 21,
-   "summary": "Summarizes post-flood crop rehabilitation, factory openings, sericulture goals, National Food Regulation No. 2, currency expansion, and New Korea Company asset custody.",
+   "summary": "Covers post-flood crop rehabilitation, factory openings, sericulture goals, National Food Regulation No. 2, currency expansion, and New Korea Company asset custody.",
    "title": "Section 2. Economic Activities"
   },
   {
@@ -62,7 +63,7 @@
    "level": 2,
    "printed_page": "11",
    "start_page": 25,
-   "summary": "Covers cholera containment efforts, the establishment of Seoul National University under Ordinance No. 102, Korean textbook distribution, and repatriation progress.",
+   "summary": "Covers cholera containment, Seoul National University's founding under Ordinance No. 102, distribution of Korean textbooks, and repatriation progress.",
    "title": "Section 3. Social Activities"
   },
   {
@@ -70,7 +71,7 @@
    "level": 1,
    "printed_page": "13",
    "start_page": 27,
-   "summary": "Reports on civil government administration, political developments, legal reforms, and public safety operations.",
+   "summary": "Civil administration and politics: the new Department of Public Works, Liberation Day parade, Hodge-Chistiakov correspondence, Ordinance No. 103 creating the Property Claims Commission, an Rhee assassination plot, and crime trends.",
    "title": "Part II: Political"
   },
   {
@@ -78,7 +79,7 @@
    "level": 2,
    "printed_page": "15",
    "start_page": 29,
-   "summary": "Details the establishment of the Department of Public Works, political party resignations, the massive 15 August Liberation Day parade, and correspondence between Hodge and Chistiakov.",
+   "summary": "Reports creation of the Department of Public Works, party resignations, the massive 15 August Liberation Day parade, and the Hodge-Chistiakov correspondence.",
    "title": "Section 1. Government and Politics"
   },
   {
@@ -94,7 +95,7 @@
    "level": 1,
    "printed_page": "29",
    "start_page": 43,
-   "summary": "Comprehensive reports and statistics on agriculture, forestry, mining, manufacturing, transportation, labor, prices, and vested property.",
+   "summary": "Economic statistics and reports: post-flood agricultural recovery, 1944-1945 crop figures, fishery bans, coal, industrial reopenings, railroad repairs, National Food Regulation No. 2, living costs and the New Korea Company.",
    "title": "Part III: Economic"
   },
   {
@@ -118,7 +119,7 @@
    "level": 1,
    "printed_page": "71",
    "start_page": 85,
-   "summary": "Reports on public health and welfare, educational reorganization, cultural programs, and public information media.",
+   "summary": "Social affairs: the cholera epidemic and vaccination, welfare subsidies, repatriation, Ordinance No. 102 and Seoul National University, Korean textbooks, royal seals, and radio, film and press coverage.",
    "title": "Part IV: Social"
   },
   {
@@ -126,7 +127,7 @@
    "level": 2,
    "printed_page": "73",
    "start_page": 87,
-   "summary": "Documents the severe cholera epidemic and vaccination campaigns, public welfare subsidies, repatriation of Japanese nationals, and Korea's admission as an associate member of the World Health Assembly.",
+   "summary": "Documents the severe cholera epidemic and vaccination campaigns, welfare subsidies, repatriation of Japanese nationals, and Korea's admission as associate member of the World Health Assembly.",
    "title": "Section 1. Public Health and Welfare"
   },
   {
@@ -134,7 +135,7 @@
    "level": 2,
    "printed_page": "79",
    "start_page": 93,
-   "summary": "Details Ordinance No. 102 creating Seoul National University, the publication of new Korean-script textbooks, the return of the Education Mission, and the recovery of historic royal seals.",
+   "summary": "Details Ordinance No. 102 creating Seoul National University, new Korean-script textbooks, the return of the Education Mission, and recovery of historic royal seals.",
    "title": "Section 2. Education, Culture and Religion"
   },
   {
@@ -150,7 +151,7 @@
    "level": 1,
    "printed_page": "93",
    "start_page": 107,
-   "summary": "A comprehensive historical review of the first year of American military government in South Korea.",
+   "summary": "One-year review of American military government in South Korea, 7 September 1945 to 31 August 1946: occupation problems, civil administration and politics, and social reforms.",
    "title": "Appendix: Review of Military Government Activities 7 September 1945 - 31 August 1946"
   },
   {
@@ -158,7 +159,7 @@
    "level": 2,
    "printed_page": "95",
    "start_page": 109,
-   "summary": "Reviews initial postwar administrative difficulties, the repatriation of Japanese military and civilians, the elimination of Japanese influence, and responses to floods and cholera.",
+   "summary": "Reviews early administrative difficulties, repatriation of Japanese military and civilians, elimination of Japanese influence, and responses to floods and cholera.",
    "title": "Section 1. Problems of the Occupation"
   },
   {
@@ -166,7 +167,7 @@
    "level": 2,
    "printed_page": "99",
    "start_page": 113,
-   "summary": "Chronicles the transfer of governmental operations to Korean officials, civil service and police restructuring, internal security forces development, and efforts toward a legislative assembly.",
+   "summary": "Chronicles transfer of governmental operations to Korean officials, civil service and police restructuring, internal security force development, and efforts toward a legislative assembly.",
    "title": "Section 2. Civil Administration and Politics"
   },
   {
@@ -174,7 +175,7 @@
    "level": 2,
    "printed_page": "103",
    "start_page": 117,
-   "summary": "Summarizes one year of achievements in public health, epidemic prevention, and the expansion of democratic education serving 1.7 million students with Korean textbooks.",
+   "summary": "Summarizes a year of achievements in public health and epidemic prevention, and democratic education serving 1.7 million students with Korean textbooks.",
    "title": "Section 3. Social Reforms"
   },
   {
@@ -192,5 +193,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 126,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

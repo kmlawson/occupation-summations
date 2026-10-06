@@ -1,14 +1,14 @@
 {
  "embedded_issues": [],
  "highlights": [
-  "The Military Governor proposed the establishment of a Korean legislative body composed of party representatives and elected provincial delegates.",
-  "Ordinance No. 97 created an independent Department of Labor and affirmed workers' rights to form unions and engage in collective bargaining.",
-  "Ordinance No. 94 established Cheju-do and the Chuja Archipelago as a separate province, restoring administrative autonomy lost in 1906.",
+  "The Military Governor proposed a Korean legislative body composed of party representatives and elected provincial delegates.",
+  "Ordinance No. 97 created an independent Department of Labor and affirmed workers' rights to form unions and bargain collectively.",
+  "Ordinance No. 94 made Cheju-do and the Chuja Archipelago a separate province, restoring administrative autonomy lost in 1906.",
   "The National Police Academy graduated its first class of 55 policewomen on 12 July and its first commissioned officer class on 19 July.",
-  "The Korean Red Cross Society adopted its new charter under International Red Cross principles, electing Dr. Kim Kyu Sic as its first president.",
-  "A major cholera epidemic reached 7,642 reported cases and 4,878 deaths, forcing quarantines, travel restrictions, and mass public inoculations across South Korea.",
-  "Price ceilings were instituted on key commodities, including cloth, shoes, soap, and matches, in an effort to combat severe post-flood retail inflation.",
-  "The trial of alleged Communist counterfeiters commenced in Seoul on 29 July, where police repulsed an attempted rescue by sympathizers."
+  "The Korean Red Cross Society adopted a new charter under International Red Cross principles and elected Dr. Kim Kyu Sic its first president.",
+  "A cholera epidemic reached 7,642 reported cases and 4,878 deaths, prompting quarantines, travel restrictions, port closures and mass public inoculations across South Korea.",
+  "Price ceilings were set on cloth, shoes, soap, matches and other key commodities to counter severe post-flood retail inflation.",
+  "The trial of alleged Communist counterfeiters opened in Seoul on 29 July; police repulsed an attempted rescue by sympathizers."
  ],
  "keywords": [
   "USAMGIK",
@@ -33,7 +33,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Title pages, table of contents, and list of charts, graphs, and maps for Summation No. 10.",
+   "summary": "Title pages, table of contents and list of charts, graphs and maps for Summation No. 10.",
    "title": "Front matter"
   },
   {
@@ -41,7 +41,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 16,
-   "summary": "Summary of monthly political, economic, and social developments in South Korea for July 1946.",
+   "summary": "July 1946 overview: creation of the Department of Labor, a proposed Korean legislative body, flood damage and price ceilings, repatriation, the Korean Red Cross charter and cholera campaigns.",
    "title": "Part I: General"
   },
   {
@@ -49,7 +49,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 18,
-   "summary": "Summarizes the creation of the Department of Labor, the proposal for a Korean legislative body, and police academy graduations.",
+   "summary": "The new Department of Labor, the Military Governor's proposal for a Korean legislative body, and police academy graduations.",
    "title": "Political Activities"
   },
   {
@@ -57,7 +57,7 @@
    "level": 2,
    "printed_page": "5",
    "start_page": 20,
-   "summary": "Summarizes flood damage to railroads and communications, crop shortages, arrival of American food imports, and new consumer price ceilings.",
+   "summary": "Flood damage to railroads and communications, crop shortages, arrival of American food imports, and new consumer price ceilings.",
    "title": "Economic Activities"
   },
   {
@@ -65,7 +65,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 22,
-   "summary": "Summarizes Korean repatriation progress, the Korean Red Cross charter, distribution of 3 million textbooks, and cholera public education campaigns.",
+   "summary": "Korean repatriation progress, the Korean Red Cross charter, distribution of 3 million textbooks, and public education campaigns against cholera.",
    "title": "Social Activities"
   },
   {
@@ -73,7 +73,7 @@
    "level": 1,
    "printed_page": "9",
    "start_page": 24,
-   "summary": "Administrative reorganization, political party developments, legal enactments, and internal security activities in South Korea during July 1946.",
+   "summary": "July 1946 administrative reorganization (Commerce, Labor, Cheju Province), political developments, Ordinances 91-99, the counterfeiters trial, National Police training and Constabulary flood relief.",
    "title": "Part II: Political"
   },
   {
@@ -81,7 +81,7 @@
    "level": 2,
    "printed_page": "11",
    "start_page": 26,
-   "summary": "Covers the reorganization of Commerce and Labor departments, separation of Cheju Province, foreign trade licensing regulations, and the proposed interim legislative assembly.",
+   "summary": "Reorganization of the Commerce and Labor departments, separation of Cheju Province, foreign trade licensing rules, and the proposed interim legislative assembly.",
    "title": "Government and Politics"
   },
   {
@@ -89,7 +89,7 @@
    "level": 2,
    "printed_page": "13",
    "start_page": 28,
-   "summary": "Details Ordinances 91-99, the Seoul counterfeiters trial, a comprehensive review of National Police organization and training, and Constabulary flood relief operations.",
+   "summary": "Ordinances 91-99, the Seoul counterfeiters trial, a review of National Police organization and training, and Constabulary flood relief operations.",
    "title": "Legal and Public Safety"
   },
   {
@@ -97,7 +97,7 @@
    "level": 1,
    "printed_page": "23",
    "start_page": 38,
-   "summary": "Reports on agriculture, fisheries, forestry, mining, manufacturing, transportation, communications, labor, foreign trade, rationing, and finance in July 1946.",
+   "summary": "Agriculture, fisheries, forestry and mining, plus factory employment, textiles, rail repairs, mail with the US, price ceilings and foreign exchange restrictions in July 1946.",
    "title": "Part III: Economic"
   },
   {
@@ -105,7 +105,7 @@
    "level": 2,
    "printed_page": "25",
    "start_page": 40,
-   "summary": "Reports on stunted grain crops in Kyonggi-do, cholera-related fishing bans at Inchon, halted forestry operations, and surveys of pyrophyllite and talc mines.",
+   "summary": "Stunted grain crops in Kyonggi-do, cholera-related fishing bans at Inchon, halted forestry operations, and surveys of pyrophyllite and talc mines.",
    "title": "Natural Resources"
   },
   {
@@ -113,7 +113,7 @@
    "level": 2,
    "printed_page": "27",
    "start_page": 42,
-   "summary": "Covers factory employment surveys, Kwangju textile output, flood repairs to rail lines, mail service resumption with the US, price ceilings, and foreign exchange restrictions.",
+   "summary": "Factory employment surveys, Kwangju textile output, flood repairs to rail lines, resumed mail service with the US, price ceilings, and foreign exchange restrictions.",
    "title": "Commerce and Industry"
   },
   {
@@ -121,7 +121,7 @@
    "level": 1,
    "printed_page": "47",
    "start_page": 62,
-   "summary": "Reports on public health, epidemic control, welfare institutions, educational institutes, cultural properties, and public information media in July 1946.",
+   "summary": "Public health and cholera control, child welfare, Red Cross charter, repatriation, teacher institutes, art treasures, radio campaigns and licensing of 242 periodicals in July 1946.",
    "title": "Part IV: Social"
   },
   {
@@ -129,7 +129,7 @@
    "level": 2,
    "printed_page": "49",
    "start_page": 64,
-   "summary": "Details institutional child welfare, adoption of the Korean Red Cross charter, repatriation statistics, rinderpest containment at the 38th parallel, and the cholera epidemic response.",
+   "summary": "Institutional child welfare, the Korean Red Cross charter, repatriation statistics, rinderpest containment at the 38th parallel, and the cholera epidemic response.",
    "title": "Public Health and Welfare"
   },
   {
@@ -137,7 +137,7 @@
    "level": 2,
    "printed_page": "55",
    "start_page": 70,
-   "summary": "Reports on summer teacher institutes, school attendance figures, the return of the US educational mission, restoration of national art treasures, and incoming missionaries.",
+   "summary": "Summer teacher institutes, school attendance figures, return of the US educational mission, restoration of national art treasures, and incoming missionaries.",
    "title": "Education, Culture and Religion"
   },
   {
@@ -145,7 +145,7 @@
    "level": 2,
    "printed_page": "59",
    "start_page": 74,
-   "summary": "Details public health radio campaigns, mobile visual education film-strips, licensing of 242 periodicals, and press coverage of price ceilings and political unification.",
+   "summary": "Public health radio campaigns, mobile film-strip education, licensing of 242 periodicals, and press coverage of price ceilings and political unification.",
    "title": "Public Information"
   },
   {
@@ -153,7 +153,7 @@
    "level": 1,
    "printed_page": "63",
    "start_page": 78,
-   "summary": "Full-page reference map of Korea showing provincial borders, the 38th parallel demarcation line, and major transportation routes.",
+   "summary": "Reference map of Korea showing provincial borders, the 38th parallel demarcation line, and major transportation routes.",
    "title": "Map of Korea"
   }
  ],
@@ -163,5 +163,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 85,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

@@ -1,12 +1,13 @@
 {
  "embedded_issues": [],
  "highlights": [
-  "The Military Governor proposed establishing a representative Korean interim legislative body to enact ordinances and screen governmental appointments.",
-  "Ordinance No. 97 established the Department of Labor, officially recognizing the right of Korean workers to organize unions and engage in collective bargaining.",
-  "Cheju-do and the Chuja Archipelago were separated from Cholla-namdo and established as an independent province under Ordinance No. 94.",
-  "A nationwide cholera epidemic reached 7,642 reported cases and 4,878 deaths by 31 July, prompting strict travel quarantines and mass vaccinations.",
-  "Price ceilings were instituted on 15 July for essential consumer goods, including cotton cloth, rubber shoes, soap, matches, and electric light bulbs.",
-  "Type A occupational currency was demonetized and required to be deposited into financial institutions between 1 and 10 July.",
+  "The Military Governor proposed a representative Korean interim legislative body to enact ordinances and screen governmental appointments.",
+  "Ordinance 97 created the Department of Labor, officially recognizing Korean workers' right to organize unions and bargain collectively; Ordinance 98 split Commerce into foreign and domestic bureaus.",
+  "Cheju-do and the Chuja Archipelago were separated from Cholla-namdo and made an independent province under Ordinance No. 94.",
+  "A nationwide cholera epidemic reached 7,642 reported cases and 4,878 deaths by 31 July, prompting strict travel quarantines, mass vaccinations, and suspension of mail exchange with North Korea.",
+  "Price ceilings took effect on 15 July for essential goods including cotton cloth, rubber shoes, soap, matches, and electric light bulbs.",
+  "Type A occupational currency was demonetized and had to be deposited in financial institutions between 1 and 10 July.",
+  "Late June floods crippled the railway network and coal transport, while summer grain collection lagged and Seoul and Inchon relied on imported American grain.",
   "The National Police Academy graduated its first class of 55 policewomen on 12 July and its first commissioned officer class on 19 July."
  ],
  "keywords": [
@@ -30,7 +31,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Contains the report title pages, library markings, table of contents, and list of charts, graphs, and maps for July 1946.",
+   "summary": "Title pages, library markings, table of contents, and list of charts, graphs, and maps for the July 1946 report.",
    "title": "Front Matter"
   },
   {
@@ -38,7 +39,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 15,
-   "summary": "Monthly general summary covering political, economic, and social developments in South Korea during July 1946.",
+   "summary": "General monthly summary of South Korea in July 1946: Labor and Commerce department changes, a proposed legislative body, flood damage, price ceilings and currency changes, and cholera containment.",
    "title": "Part I: General"
   },
   {
@@ -46,7 +47,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 17,
-   "summary": "Summarizes the reorganization of the Department of Commerce, establishment of the Department of Labor, the proposal for a Korean legislative assembly, and police training milestones.",
+   "summary": "Reorganization of the Department of Commerce, creation of the Department of Labor, the proposed Korean legislative assembly, and police training milestones.",
    "title": "Political Activities"
   },
   {
@@ -54,7 +55,7 @@
    "level": 2,
    "printed_page": "5",
    "start_page": 19,
-   "summary": "Summarizes agricultural conditions, flood damage to rail and wire communications, the ¥200,000,000 road relief program, lagging summer grain collection, price ceilings, and currency changes.",
+   "summary": "Agricultural conditions, flood damage to rail and wire communications, the ¥200,000,000 road relief program, lagging summer grain collection, price ceilings, and currency changes.",
    "title": "Economic Activities"
   },
   {
@@ -62,7 +63,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 21,
-   "summary": "Highlights cholera containment, the adoption of the Korean Red Cross charter, teacher training institutes, educational missions, and press commentary on price controls and national independence.",
+   "summary": "Cholera containment, adoption of the Korean Red Cross charter, teacher training institutes, educational missions, and press commentary on price controls and national independence.",
    "title": "Social Activities"
   },
   {
@@ -70,7 +71,7 @@
    "level": 1,
    "printed_page": "9",
    "start_page": 23,
-   "summary": "Reports on Korean administration, political party movements, statutory enactments, police reorganization, prison industries, and internal security operations.",
+   "summary": "Korean administration, party movements, statutory enactments, police reorganization, prison industries, and internal security operations.",
    "title": "Part II: Political"
   },
   {
@@ -78,7 +79,7 @@
    "level": 2,
    "printed_page": "11",
    "start_page": 25,
-   "summary": "Details the creation of the Department of Labor, establishment of Cheju Province, regulation of foreign trade licensing, and the Military Governor's proposal for an interim Korean legislative body.",
+   "summary": "Creation of the Department of Labor, establishment of Cheju Province, foreign trade licensing rules, and the Military Governor's proposal for an interim Korean legislative body.",
    "title": "Government and Politics"
   },
   {
@@ -86,7 +87,7 @@
    "level": 2,
    "printed_page": "13",
    "start_page": 27,
-   "summary": "Lists Ordinances 92-99, describes food protests and the counterfeiting trial, and details the reorganization, training, and communications of the National Police, alongside prison administration and flood relief.",
+   "summary": "Ordinances 92-99, food protests and a counterfeiting trial, National Police reorganization, training and communications, plus prison administration and flood relief.",
    "title": "Legal and Public Safety"
   },
   {
@@ -94,7 +95,7 @@
    "level": 1,
    "printed_page": "23",
    "start_page": 37,
-   "summary": "Reports on natural resources, agricultural and mineral production, industrial activities, transportation repairs, communications, labor regulations, foreign trade, price controls, and financial conditions.",
+   "summary": "Natural resources, agricultural and mineral output, industry, transportation repairs, labor regulations, foreign trade, price controls, and financial conditions.",
    "title": "Part III: Economic"
   },
   {
@@ -102,7 +103,7 @@
    "level": 2,
    "printed_page": "25",
    "start_page": 39,
-   "summary": "Reports poor grain germination in Kyonggi-do, closure of Inchon fisheries due to cholera, halted forestry operations, Kyongsang-pukto coal output, and surveys of pyrophyllite and talc deposits.",
+   "summary": "Poor grain germination in Kyonggi-do, Inchon fisheries closed by cholera, halted forestry operations, Kyongsang-pukto coal output, and pyrophyllite and talc deposit surveys.",
    "title": "Natural Resources"
   },
   {
@@ -110,7 +111,7 @@
    "level": 2,
    "printed_page": "27",
    "start_page": 41,
-   "summary": "Covers textile manufacturing, flood repairs to railways, reopening of U.S. mail, Ordinance 97 on labor, food and coal imports, consumer price ceilings, and foreign exchange restrictions under Ordinance 93.",
+   "summary": "Textile manufacturing, flood repairs to railways, reopened U.S. mail, Ordinance 97 on labor, food and coal imports, consumer price ceilings, and foreign exchange limits under Ordinance 93.",
    "title": "Commerce and Industry"
   },
   {
@@ -118,7 +119,7 @@
    "level": 1,
    "printed_page": "47",
    "start_page": 61,
-   "summary": "Covers public health, welfare institutions, disease control, repatriation figures, educational programs, cultural property recovery, and public information media.",
+   "summary": "Public health, welfare institutions, disease control, repatriation figures, education, cultural property recovery, and public information media.",
    "title": "Part IV: Social"
   },
   {
@@ -126,7 +127,7 @@
    "level": 2,
    "printed_page": "49",
    "start_page": 63,
-   "summary": "Reports increased welfare subsidies, Korean Red Cross reorganization under Kim Kyu Sic, cumulative repatriation figures, veterinary rinderpest cordons, cholera outbreak containment, and medical supply imports.",
+   "summary": "Increased welfare subsidies, Korean Red Cross reorganization under Kim Kyu Sic, cumulative repatriation figures, rinderpest cordons, cholera containment, and medical supply imports.",
    "title": "Public Health and Welfare"
   },
   {
@@ -134,7 +135,7 @@
    "level": 2,
    "printed_page": "55",
    "start_page": 69,
-   "summary": "Details school attendance data, teacher summer institutes, normal school sessions, return of the Korean Educational Mission, recovery of temple art treasures, and missionary arrivals.",
+   "summary": "School attendance data, teacher summer institutes, normal school sessions, the Korean Educational Mission's return, recovery of temple art treasures, and missionary arrivals.",
    "title": "Education, Culture and Religion"
   },
   {
@@ -142,7 +143,7 @@
    "level": 2,
    "printed_page": "59",
    "start_page": 73,
-   "summary": "Reviews public education campaigns on food and cholera, visual education film strips, new radio programming, periodical licensing, and press reactions to price controls and Right-Left unification.",
+   "summary": "Public education campaigns on food and cholera, visual education film strips, new radio programming, periodical licensing, and press reaction to price controls and Right-Left unification.",
    "title": "Public Information"
   },
   {
@@ -160,5 +161,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 84,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

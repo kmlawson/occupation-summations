@@ -1,14 +1,13 @@
 {
  "summary": "South Korean Interim Government Activities No. 24 covers September 1947 and is the first monthly report for which the South Korean Interim Government, rather than SCAP's Statistics and Research Section, takes full responsibility. Its six parts report population movements, vested property, food collection, prices, agriculture, mining, industry, trade, labor, transport, communications, finance, politics and social affairs. The month was dominated by the death of Military Governor Major General Archer L. Lerch on 11 September, Brigadier General C. G. Helmick becoming Acting Military Governor, the second anniversary of USAMGIK, the franchise law (Public Law No. 5) for popular election of the Legislative Assembly, and press reaction to the American four-power conference proposal and the Soviet withdrawal proposal. Historians will find detailed tables on rice collection quotas, coal output, the 18 billion won budget, bank note issue, refugee inflow from the North and school enrollment, plus frank statements of the limits of Korean statistical reporting.",
  "highlights": [
-  "Major General Archer L. Lerch, Military Governor, died at 0758 on 11 September; Brigadier General C. G. Helmick, Acting Military Governor since 7 September, announced it, and funeral services were held in front of the National Capitol in Seoul on 16 September.",
-  "On 3 September Helmick signed Public Law No. 5, the franchise law for popular election of Korean Interim Legislative Assembly members; an election was not to be held until at least 80 days after a 15-member Central Election Committee is chosen.",
+  "Military Governor Major General Archer L. Lerch died at 0758 on 11 September; Brigadier General C. G. Helmick, Acting Military Governor since 7 September, announced it, and funeral services were held before the National Capitol in Seoul on 16 September.",
+  "On 3 September Helmick signed Public Law No. 5, the franchise law for popular election of Korean Interim Legislative Assembly members; no election was to be held until at least 80 days after a 15-member Central Election Committee is chosen.",
   "Moderate leaders including Civil Administrator Ahn Chai Hong and KILA Speaker Kimm Kiu Siu announced the Minju Dok Dang (Democratic Independence Party) on 23 September, with Hong Myung Hi as temporary chairman.",
-  "The 1947 rice collection program from 1 November sets the farmer price at 640 won per 54-kg bag of unhulled grade 2 rice; summer grain collection reached 88.3 percent of its 711,000 suk quota by 25 September.",
-  "Population movement from October 1945 to 22 September 1947 shows 885,532 outbound (mostly Japanese) against 2,332,458 inbound, including 1,110,513 Koreans from Japan and 838,263 Koreans from north of the 38th parallel.",
-  "The SKIG budget for 1947-48 stood at about 18 billion won on 30 September after supplementals, up 261 million from the 17,720,227,310 won approved on 2 July; Bank of Chosun note issue rose 1.8 billion won from July to September.",
-  "National Economic Board Administrative Study No. 5 explained the 'rice formula' price policy and the 30 June revocation of National Price Regulation No. 1; polished rice stood at 55 times the 1937-45 base-period average.",
-  "Labor Department Orders No. 1 and 2 of 15 September implemented the Child Labor Law, regulating hours and requiring education of employed children under eighteen; the Seoul Electric Company reinstatement dispute drew rightist youth agitation.",
+  "The 1947 rice collection program from 1 November sets the farmer price at 640 won per 54-kg bag; summer grain collection reached 88.3 percent of its 711,000 suk quota by 25 September.",
+  "Population movement from October 1945 to 22 September 1947 shows 885,532 outbound, mostly Japanese, against 2,332,458 inbound, including 1,110,513 Koreans from Japan and 838,263 Koreans from north of the 38th parallel.",
+  "The SKIG 1947-48 budget stood at about 18 billion won on 30 September after supplementals, up from the 17,720,227,310 won approved on 2 July; Bank of Chosun note issue rose 1.8 billion won from July to September.",
+  "Labor Department Orders No. 1 and 2 of 15 September implemented the Child Labor Law, and the Seoul Electric Company reinstatement dispute over three discharged workers drew pressure from the Northwestern Youth Association.",
   "Education statistics report 3,058,433 students enrolled in South Korean schools at 31 July 1947, including 13,827 in 25 universities and colleges; the fall typhoid immunization program began 15 September."
  ],
  "keywords": [
@@ -46,7 +45,7 @@
    "printed_page": "",
    "start_page": 1,
    "end_page": 13,
-   "summary": "Cover, title page, and table of contents for Number 24, September 1947, listing six parts from Basic Aspects to Social."
+   "summary": "Cover, title page and table of contents for Number 24, September 1947, listing six parts from Basic Aspects to Social."
   },
   {
    "title": "Introduction",
@@ -54,7 +53,7 @@
    "printed_page": "1",
    "start_page": 14,
    "end_page": 15,
-   "summary": "Explains that No. 24 is the first report for which the South Korean Interim Government has full responsibility, and warns that statistics are incomplete and charts await SCAP drawings."
+   "summary": "States that No. 24 is the first report for which the South Korean Interim Government has full responsibility; warns that statistics are incomplete and charts await SCAP drawings."
   },
   {
    "title": "Part I: Basic Aspects",
@@ -62,7 +61,7 @@
    "printed_page": "3",
    "start_page": 16,
    "end_page": 27,
-   "summary": "Population movement since 1945 (net inflow near 1.5 million) and Office of Property Custody income, leases, staff and policy for vested Japanese property."
+   "summary": "Population movement since 1945, with net inflow near 1.5 million, and Office of Property Custody income, leases, staff and policy on vested Japanese property."
   },
   {
    "title": "Section 1. Population",
@@ -70,7 +69,7 @@
    "printed_page": "3",
    "start_page": 16,
    "end_page": 21,
-   "summary": "Net inflow of about 1.45 million people; 20,394 illegal Korean entrants returned from Japan; refugee flow from the North rising; Office of Foreign Affairs activities on Chinese junks and Japanese repatriation costs."
+   "summary": "Net inflow of about 1.45 million people; 20,394 illegal Korean entrants returned from Japan; refugee flow from the North rising; Office of Foreign Affairs handled Chinese junks and Japanese repatriation costs."
   },
   {
    "title": "Repatriation",
@@ -78,7 +77,7 @@
    "printed_page": "3",
    "start_page": 16,
    "end_page": 16,
-   "summary": "Table of outbound 885,532 against inbound 2,332,458 since October 1945; ship Kogane Maru carried 797 Koreans from Japan on 12 September."
+   "summary": "Since October 1945, 885,532 people left and 2,332,458 arrived; the ship Kogane Maru carried 797 Koreans from Japan on 12 September."
   },
   {
    "title": "Refugees",
@@ -86,7 +85,7 @@
    "printed_page": "4",
    "start_page": 17,
    "end_page": 18,
-   "summary": "Refugee arrivals from north of the 38th parallel in 1947 exceeded 1946 levels from May to August, with Pyongan-pukto the leading origin."
+   "summary": "Refugee arrivals from north of the 38th parallel exceeded 1946 levels from May to August 1947, with Pyongan-pukto the leading origin."
   },
   {
    "title": "Activities",
@@ -94,7 +93,7 @@
    "printed_page": "6",
    "start_page": 19,
    "end_page": 21,
-   "summary": "Chinese junk permits at Inchon, Japanese repatriation cost of $177,199.56 in CARIOA supplies, Korean registration in Japan, and 13 Korean students cleared for US study."
+   "summary": "Chinese junk permits at Inchon, Japanese repatriation cost of $177,199.56 in CARIOA supplies, Korean registration in Japan, and 13 Korean students cleared for study in the US."
   },
   {
    "title": "Section 2. Vested Property",
@@ -102,7 +101,7 @@
    "printed_page": "9",
    "start_page": 22,
    "end_page": 27,
-   "summary": "Office of Property Custody income shifted from rents to sales and confiscations; Korean staff rose to 2,062 by 30 September; Helmick ruling and 1 September bonding memorandum for managers."
+   "summary": "Property Custody income shifted from rents to sales and confiscations; Korean staff rose to 2,062 by 30 September; Helmick ruling and 1 September bonding memorandum for managers."
   },
   {
    "title": "Income",
@@ -118,7 +117,7 @@
    "printed_page": "11",
    "start_page": 24,
    "end_page": 24,
-   "summary": "Tables of vested properties under lease by province and type."
+   "summary": "Vested residences under lease rose from 51,256 at 31 December 1946 to 57,505 at 30 June 1947, Seoul City alone reaching 11,494; no income breakdown between residential and non-residential leases exists."
   },
   {
    "title": "Employment",
@@ -126,7 +125,7 @@
    "printed_page": "12",
    "start_page": 25,
    "end_page": 25,
-   "summary": "Korean employees of the Office of Property Custody grew from 895 to 2,062 (budgeted) between December 1946 and September 1947."
+   "summary": "Korean employees of the Office of Property Custody grew from 895 in December 1946 to 2,062 (budgeted) in September 1947."
   },
   {
    "title": "Activities",
@@ -142,7 +141,7 @@
    "printed_page": "15",
    "start_page": 28,
    "end_page": 83,
-   "summary": "Food collection, prices, agriculture, coal and metals, industrial output and allocations, foreign trade and labor conditions in South Korea for August-September 1947."
+   "summary": "Summer grain and rice collection, prices, agriculture, coal and metals, industrial output, foreign trade and labor in South Korea, August-September 1947."
   },
   {
    "title": "Section 1. Food Supply",
@@ -174,7 +173,7 @@
    "printed_page": "17",
    "start_page": 30,
    "end_page": 30,
-   "summary": "Grain and pulse imports for rations during the period."
+   "summary": "September grain imports to South Korea were 33,574 metric tons, near the January-August monthly average; cumulative imports since May 1946 reached 520,256 tons, mostly wheat."
   },
   {
    "title": "Grain Released for Rations",
@@ -182,7 +181,7 @@
    "printed_page": "17",
    "start_page": 30,
    "end_page": 30,
-   "summary": "Amounts of grain released for rations from government stocks."
+   "summary": "Grain other than rice released for rations roughly equalled rice May-July 1947; in August it was 356,376 suk against 184,661 suk of rice, 65 percent of the total."
   },
   {
    "title": "Population on Rations",
@@ -190,7 +189,7 @@
    "printed_page": "17",
    "start_page": 30,
    "end_page": 31,
-   "summary": "Numbers of persons receiving rations by category and province."
+   "summary": "Population on general and special rations rose from 7,718,526 in March to 8,720,198 in August 1947; supplementary rations peaked at 395,697. Ration set at 2.2 hop (1,155 calories) daily."
   },
   {
    "title": "Rice Collection Program, 1947",
@@ -198,7 +197,7 @@
    "printed_page": "18",
    "start_page": 31,
    "end_page": 31,
-   "summary": "Program beginning 1 November sets the farmer price at 640 won per bag and removes subsidies; provincial quotas in polished rice."
+   "summary": "Program beginning 1 November sets the farmer price at 640 won per bag and removes subsidies; provincial quotas are in polished rice."
   },
   {
    "title": "Section 2. Prices",
@@ -206,7 +205,7 @@
    "printed_page": "19",
    "start_page": 32,
    "end_page": 41,
-   "summary": "National Economic Board Administrative Study No. 5 on the 'rice formula', Seoul price tables through July 1947, gold prices, and National Price Administration pricing of vested-factory goods."
+   "summary": "National Economic Board Administrative Study No. 5 on the 'rice formula', Seoul price tables through July 1947, gold prices, and pricing of vested-factory goods."
   },
   {
    "title": "Administrative Study No. 5",
@@ -214,7 +213,7 @@
    "printed_page": "19",
    "start_page": 32,
    "end_page": 33,
-   "summary": "Explains the October 1946 rice formula, polished rice at 55 times base prices, revocation of National Price Regulation No. 1 on 30 June and 10 to 15 percent factory profit margins."
+   "summary": "Explains the October 1946 rice formula, polished rice at 55 times base prices, revocation of National Price Regulation No. 1 on 30 June, and 10 to 15 percent factory profit margins."
   },
   {
    "title": "Price Trends",
@@ -230,7 +229,7 @@
    "printed_page": "27",
    "start_page": 40,
    "end_page": 40,
-   "summary": "Gold price data for the period."
+   "summary": "The August 1947 open-market wholesale gold price was a preliminary 2,425 won per don, over five times the 473 of August 1945 and more than three times the year before."
   },
   {
    "title": "Activities, National Price Administration",
@@ -238,7 +237,7 @@
    "printed_page": "27",
    "start_page": 40,
    "end_page": 41,
-   "summary": "In September prices were set on over 20 lots of goods from underwear to pharmaceuticals and tar paper, balancing inflation against manufacturer profit."
+   "summary": "In September prices were set on over 20 lots of goods, from underwear to pharmaceuticals and tar paper, balancing inflation against manufacturer profit."
   },
   {
    "title": "Section 3. Agriculture, Forestry and Fisheries",
@@ -270,7 +269,7 @@
    "printed_page": "32",
    "start_page": 45,
    "end_page": 45,
-   "summary": "Potatoes from imported seed harvested in Kangwon-do despite late planting and wild boar losses."
+   "summary": "Potatoes from imported seed were harvested in Kangwon-do despite late planting and wild boar losses."
   },
   {
    "title": "Cotton and Fiber",
@@ -286,7 +285,7 @@
    "printed_page": "33",
    "start_page": 46,
    "end_page": 46,
-   "summary": "Cholla-namdo collected 4,000 suk of vetch seed for green manure; meeting on compost and fertilizer distribution."
+   "summary": "Cholla-namdo collected 4,000 suk of vetch seed for green manure; meeting held on compost and fertilizer distribution."
   },
   {
    "title": "Irrigation",
@@ -294,7 +293,7 @@
    "printed_page": "33",
    "start_page": 46,
    "end_page": 46,
-   "summary": "Irrigation work reported for the month."
+   "summary": "Korean Irrigation Association let contracts to resume five tidal projects (estimated cost 57,473,253 won; bids 40,544,000 won), and on 20 September marked completion of the Son San, Ko Ah and Kim O San projects."
   },
   {
    "title": "Suwon Experiment Station",
@@ -302,7 +301,7 @@
    "printed_page": "33",
    "start_page": 46,
    "end_page": 46,
-   "summary": "Experiment station work at Suwon."
+   "summary": "Suwon station drew up a new table of organization placing the Central Station at bureau level, and a Japanese study of fertilizers and rice root development was translated and mimeographed."
   },
   {
    "title": "Korea Agricultural Association",
@@ -310,7 +309,7 @@
    "printed_page": "33",
    "start_page": 46,
    "end_page": 47,
-   "summary": "Activities of the Korea Agricultural Association in organizing farmers."
+   "summary": "KAA ran a farmer lecture course for 50 men in Kyonggi-do and filed its fiscal-year report; fertilizer sales reached 119,347 metric tons, 85 percent of receipts, with 457,685,968 won collected."
   },
   {
    "title": "Rural Youth Activities",
@@ -318,7 +317,7 @@
    "printed_page": "34",
    "start_page": 47,
    "end_page": 47,
-   "summary": "Rural youth clubs specializing in gardening, livestock, sericulture and forestry, some electing girls as officers."
+   "summary": "Rural youth clubs specialize in gardening, livestock, sericulture and forestry; some elect girls as officers."
   },
   {
    "title": "Forestry",
@@ -326,7 +325,7 @@
    "printed_page": "35",
    "start_page": 48,
    "end_page": 48,
-   "summary": "Forestry activities of the Department of Agriculture."
+   "summary": "Provincial Forestry Advisers met in Seoul 7-9 October; rough Army lumber was exchanged for dressed lumber on 2 September; Inchon plywood plant cleared to produce about 20,000 sheets monthly."
   },
   {
    "title": "Fisheries",
@@ -334,7 +333,7 @@
    "printed_page": "36",
    "start_page": 49,
    "end_page": 49,
-   "summary": "Fisheries activities and catches."
+   "summary": "Fisheries data were limited; the motor mine sweeper YNS 200 was released for deep-sea fishing, and Seoul Public Market received 68.65 tons of fish and marine products in the week ending 20 September."
   },
   {
    "title": "Section 4. Mining and Minerals",
@@ -342,7 +341,7 @@
    "printed_page": "37",
    "start_page": 50,
    "end_page": 57,
-   "summary": "Anthracite and lignite output fell in August as stockpiles should have grown; bituminous coal demand, Coal Committee proceedings, and gold, silver, copper and tungsten, with tungsten hit by the 3 August flood."
+   "summary": "Anthracite and lignite output fell in August; bituminous coal demand and Coal Committee proceedings; gold, silver, copper and tungsten, with tungsten hit by the 3 August flood."
   },
   {
    "title": "Coal",
@@ -366,7 +365,7 @@
    "printed_page": "45",
    "start_page": 58,
    "end_page": 70,
-   "summary": "Flour output fell to 236 metric tons, the lowest on record; reports on textiles, paper, nails, briquettes, rubber, tobacco and salt, plus allocations of metal and controlled commodities."
+   "summary": "Flour output fell to 236 metric tons, the lowest on record; textiles, paper, nails, briquettes, rubber, tobacco and salt, plus allocations of metal and controlled commodities."
   },
   {
    "title": "Processed Foods",
@@ -374,7 +373,7 @@
    "printed_page": "45",
    "start_page": 58,
    "end_page": 58,
-   "summary": "One of two government flour mills closed for lack of wheat; Tong-A Food Products canned peaches and soy sauce output."
+   "summary": "One of two government flour mills closed for lack of wheat; Tong-A Food Products canned peaches and made soy sauce."
   },
   {
    "title": "Textiles",
@@ -382,7 +381,7 @@
    "printed_page": "46",
    "start_page": 59,
    "end_page": 59,
-   "summary": "Textile production figures from controlled factories."
+   "summary": "1,589 bales of raw cotton arrived in early August (1,200 UNRRA), keeping vested mills running at reduced output; two of seven mills made 46-52 percent of July-August yarn."
   },
   {
    "title": "Paper",
@@ -390,7 +389,7 @@
    "printed_page": "47",
    "start_page": 60,
    "end_page": 60,
-   "summary": "Paper production by the Chemical Section, Department of Commerce."
+   "summary": "August paper output was 312.8 metric tons, below July's 362.3, from one mill breakdown and coal shortage though 10 of 14 vested mills increased; first Japanese cylinder-face parts arrived."
   },
   {
    "title": "Machinery and Hardware",
@@ -398,7 +397,7 @@
    "printed_page": "47",
    "start_page": 60,
    "end_page": 61,
-   "summary": "Output of nails and miscellaneous machinery and hardware items reported by the Machinery Section."
+   "summary": "August nail output in two vested plants was 140.9 metric tons, nearly 20 percent below July, from sulphuric acid and wire shortages; Inchon Nail Company furnaces were repaired and another added in September."
   },
   {
    "title": "Other Industries",
@@ -406,7 +405,7 @@
    "printed_page": "49",
    "start_page": 62,
    "end_page": 63,
-   "summary": "Coal briquettes, coke, and rubber and leather items from controlled factories."
+   "summary": "Briquette output fell almost 50 percent in two months to 11,000 tons in August; Chosun Onada Cement reopened 1 August making 6,147 tons; brick, firebrick, and rubber shoe output declined."
   },
   {
    "title": "Monopoly Bureau Products",
@@ -430,7 +429,7 @@
    "printed_page": "56",
    "start_page": 69,
    "end_page": 70,
-   "summary": "Government distribution agencies and their handling of controlled goods."
+   "summary": "The Federation of Financial Associations and Federation of Distributing Associations distribute domestic controlled goods; FFA purchases fell from 164,266 thousand won in July to 37,627 thousand in September."
   },
   {
    "title": "Section 6. Imports and Exports",
@@ -438,7 +437,7 @@
    "printed_page": "58",
    "start_page": 71,
    "end_page": 77,
-   "summary": "July private-trade imports fell 86.6 percent from June while exports fell 21 percent; trade with the United States, Japan, Hong Kong and Egypt, and civilian supply imports of salt and fertilizer."
+   "summary": "July private-trade imports fell 86.6 percent from June and exports fell 21 percent; trade with the US, Japan, Hong Kong and Egypt; civilian supply imports of salt and fertilizer."
   },
   {
    "title": "Private Trade",
@@ -454,7 +453,7 @@
    "printed_page": "60",
    "start_page": 73,
    "end_page": 74,
-   "summary": "Bilateral trade items with the United States, Japan, Hong Kong and Egypt, and Korean items for Americans in Korea."
+   "summary": "USCC will cancel its Korea export contract at 31 December 1947; direct Hong Kong trade resumed; Egypt barter of 3,000 cotton bales for 700 tons scheelite; PX souvenir sales reached 3,406 dollars."
   },
   {
    "title": "Imports, Services of Civilian Supply",
@@ -470,7 +469,7 @@
    "printed_page": "65",
    "start_page": 78,
    "end_page": 83,
-   "summary": "Child labor orders of 15 September, Seoul Electric Company grievance and reinstatement dispute, Korean Industrial Health Association, and unemployment sampling in Seoul, Kyonggi-do and Chungchong-pukto."
+   "summary": "Child labor orders of 15 September, Seoul Electric Company reinstatement dispute, Korean Industrial Health Association, and unemployment sampling in Seoul, Kyonggi-do and Chungchong-pukto."
   },
   {
    "title": "Labor Regulations",
@@ -502,7 +501,7 @@
    "printed_page": "67",
    "start_page": 80,
    "end_page": 80,
-   "summary": "A labor conference held during the period."
+   "summary": "Provincial labor bureau chiefs met for three days from 25 August 1947; they backed the Child Labor Law, thought Maximum Working Hours too strict, and were told to staff a new Industrial Health and Welfare section."
   },
   {
    "title": "Industrial Health and Welfare",
@@ -510,7 +509,7 @@
    "printed_page": "67",
    "start_page": 80,
    "end_page": 80,
-   "summary": "Korean Industrial Health Association formed 19 August by 14 industrial physicians, drafting a charter."
+   "summary": "Korean Industrial Health Association formed 19 August by 14 industrial physicians, who began drafting a charter."
   },
   {
    "title": "Unemployment",
@@ -542,7 +541,7 @@
    "printed_page": "71",
    "start_page": 84,
    "end_page": 84,
-   "summary": "Railroads account for 99 percent of Department of Transportation income and 92 percent of expenditures in August."
+   "summary": "Railroads accounted for 99 percent of Department of Transportation income and 92 percent of expenditures in August."
   },
   {
    "title": "Railroads",
@@ -566,7 +565,7 @@
    "printed_page": "78",
    "start_page": 91,
    "end_page": 91,
-   "summary": "Highway transport and selected transportation activities for September."
+   "summary": "About 5,000 Army-condemned tires went to the Korean Automobile Supply Company; 50,774 railroad ties arrived from the United States (212,000 in six weeks), and a Taejon creosoting plant started."
   },
   {
    "title": "Section 2. Communications",
@@ -574,7 +573,7 @@
    "printed_page": "79",
    "start_page": 92,
    "end_page": 100,
-   "summary": "Revenue rose from 19.2 million won in June to 31.9 million in August; air mail service worldwide began 1 October with a 50-won stamp; postal savings and bureau activities."
+   "summary": "Revenue rose from 19.2 million won in June to 31.9 million in August; worldwide air mail began 1 October with a 50-won stamp; postal savings and bureau activities."
   },
   {
    "title": "Postal Savings and Insurance",
@@ -590,7 +589,7 @@
    "printed_page": "85",
    "start_page": 98,
    "end_page": 100,
-   "summary": "Postal, Communications, Fiscal and Supply Bureau work, including air mail to all parts of the world effective 1 October and weekly mail volume to Japan and the United States."
+   "summary": "Postal, Communications, Fiscal and Supply Bureau work, including air mail to all parts of the world from 1 October and weekly mail volume to Japan and the United States."
   },
   {
    "title": "Section 3. Public Utilities",
@@ -606,7 +605,7 @@
    "printed_page": "90",
    "start_page": 103,
    "end_page": 104,
-   "summary": "Public works man-days and wages peaked in May, dipped in June and rose in August; highways, city planning and National Board of Fire Commissioners."
+   "summary": "Public works man-days and wages peaked in May, dipped in June and rose in August; highways, city planning and the National Board of Fire Commissioners."
   },
   {
    "title": "Section 5. Housing",
@@ -614,7 +613,7 @@
    "printed_page": "92",
    "start_page": 105,
    "end_page": 105,
-   "summary": "The 350 twenty-pyung houses for dispossessed Koreans were 85 percent complete on 30 September, delayed to 15 October by glass shortage; occupation set for 13 October; refugee housing allocation."
+   "summary": "The 350 twenty-pyung houses for dispossessed Koreans were 85 percent complete on 30 September, delayed to 15 October by glass shortage; occupation set for 13 October."
   },
   {
    "title": "Part IV: Finance",
@@ -646,7 +645,7 @@
    "printed_page": "94",
    "start_page": 107,
    "end_page": 108,
-   "summary": "Budget approved 2 July at 17,720,227,310 won reached 18 billion with supplementals; National Economic Board reviewed supplementals on 30 September."
+   "summary": "Budget approved 2 July at 17,720,227,310 won reached 18 billion with supplementals; the National Economic Board reviewed supplementals on 30 September."
   },
   {
    "title": "Monthly Receipts and Payments",
@@ -662,7 +661,7 @@
    "printed_page": "97",
    "start_page": 110,
    "end_page": 110,
-   "summary": "69 percent of 1946-47 assessments collected, 31 percent outstanding; study found enforcement facilities wholly inadequate."
+   "summary": "69 percent of 1946-47 assessments collected, 31 percent outstanding; a study found enforcement facilities wholly inadequate."
   },
   {
    "title": "Civilian Supply Program",
@@ -686,7 +685,7 @@
    "printed_page": "100",
    "start_page": 113,
    "end_page": 121,
-   "summary": "Seven banks and 401 financial associations, with cash balances, deposits, government-guaranteed industrial loans, life and damage insurance, and institution activities."
+   "summary": "Seven banks and 401 financial associations: cash balances, deposits, government-guaranteed industrial loans, life and damage insurance, and institution activities."
   },
   {
    "title": "Financial Institutions and Cash Balance",
@@ -742,7 +741,7 @@
    "printed_page": "109",
    "start_page": 122,
    "end_page": 126,
-   "summary": "Helmick became Acting Military Governor 7 September; Lerch died 11 September and was buried after 16 September services; Helmick's 12 September statement on USAMGIK's second anniversary."
+   "summary": "Helmick became Acting Military Governor 7 September; Lerch died 11 September, with services on 16 September; Helmick's 12 September statement on USAMGIK's second anniversary."
   },
   {
    "title": "Section 2. Korean Interim Legislative Assembly",
@@ -790,7 +789,7 @@
    "printed_page": "125",
    "start_page": 138,
    "end_page": 142,
-   "summary": "Editorials on the American four-power conference proposal, UN presentation of the Korean problem, the Soviet withdrawal proposal, Lerch's death, and tables of South Korean publications."
+   "summary": "Editorials on the American four-power conference proposal, UN presentation of the Korean problem, the Soviet withdrawal proposal and Lerch's death, plus tables of South Korean publications."
   },
   {
    "title": "Four-Power Conference Proposal",
@@ -1027,5 +1026,16 @@
   332,
   333
  ],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [
+  67,
+  76,
+  78,
+  79,
+  82,
+  84,
+  85,
+  95
+ ],
+ "_polished": true
 }

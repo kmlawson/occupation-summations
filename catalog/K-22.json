@@ -2,8 +2,8 @@
  "summary": "Summation No. 22 covers South Korean Interim Government activities for July 1947, prepared by the Statistical Research Division, Office of Administration, under Acting Military Governor Brig. Gen. C. G. Helmick. The month is dominated by the stalled US-USSR Joint Commission over which parties may be consulted, the 19 July assassination of Lyuh Woon-hyung, and the Interim Legislative Assembly's passage of the anti-collaborator law and second reading of a Temporary Constitution. Administration reports detail the new policy for selling vested Japanese residences and small businesses, rent increases, New Korea Company landholdings, Helmick's objections to the franchise law, and the 1948-49 budget directive. Social sections give refugee quotas, public health guidance to provincial advisers, vaccine and narcotics tables, school statistics, Korean National Youth data, and a long press digest. Part III (Economic) is not included. Historians will find full texts of Joint Commission statements, directives and ordinances.",
  "highlights": [
   "Lyuh Woon-hyung, leader of the Laboring People's Party, was shot dead in his car in Seoul on 19 July; Han Chi-kun, a young man from North Korea, was arrested, and General Hodge publicly deplored the killing.",
-  "The Interim Legislative Assembly passed the Special Law Dealing with National Traitors, Collaborators, and Profiteers (formerly the Anti-Collaborator Bill) on 2 July and by 31 July had passed most articles of a Temporary Constitution on second reading.",
-  "On 12 July Helmick announced sale of vested Japanese small businesses and urban residences to Koreans; purchasers pay at least 20 percent down, contracts run up to ten years, and provincial advisory committees will screen buyers.",
+  "The Interim Legislative Assembly passed the Special Law Dealing with National Traitors, Collaborators, and Profiteers (formerly the Anti-Collaborator Bill) on 2 July, and by 31 July had passed most articles of a Temporary Constitution on second reading.",
+  "On 12 July Helmick announced the sale of vested Japanese small businesses and urban residences to Koreans: buyers pay at least 20 percent down, contracts run up to ten years, and provincial advisory committees screen purchasers.",
   "Helmick's 21 July letter asked the Assembly to reconsider the franchise law, objecting to the voting age of 23, disqualification of ex-prisoners and alleged collaborators, a special northern district, the written-ballot requirement and Supreme Court jurisdiction.",
   "The US-USSR Joint Commission deadlocked from the 37th to the 42nd meeting and beyond over consulting parties linked to the Anti-Trusteeship Committee; Gen. Brown and Soviet chief Shtykov issued rival statements on 15, 21, 27 and 31 July.",
   "A Property Custodian rental decree let rents on vested residences rise up to 300 percent for government employees and up to fifty times 1937 levels for others; the New Korea Company controls 309,658 chungbo of agricultural land.",
@@ -44,7 +44,7 @@
    "printed_page": "1",
    "start_page": 5,
    "end_page": 18,
-   "summary": "Short overview of July: property disposal, franchise law, Legislative Assembly action, Lyuh's assassination, Joint Commission, plus a social summary; economic section deferred to the National Economic Board."
+   "summary": "Overview of July: sale of Japanese property, franchise law, Legislative Assembly action, Lyuh's assassination and the Joint Commission, plus a social summary. The economic section was deferred to the National Economic Board."
   },
   {
    "title": "Section 1. Political Activities",
@@ -52,7 +52,7 @@
    "printed_page": "1",
    "start_page": 6,
    "end_page": 13,
-   "summary": "Summarizes sale of Japanese property, rental increases, governor transfers, Assembly laws, Lyuh's 19 July assassination, Joint Commission consultation dispute, and Constabulary and Coast Guard activities."
+   "summary": "Summarizes sale of Japanese property, rent increases, governor transfers, Assembly laws, Lyuh's 19 July assassination, the Joint Commission consultation dispute, and Constabulary and Coast Guard activities."
   },
   {
    "title": "Section 2. Economic Activities",
@@ -60,7 +60,7 @@
    "printed_page": "9",
    "start_page": 14,
    "end_page": 14,
-   "summary": "Placeholder page stating the economic section is to be submitted by the National Economic Board."
+   "summary": "Placeholder page stating that the economic section is to be submitted by the National Economic Board."
   },
   {
    "title": "Section 3. Social Activities",
@@ -68,7 +68,7 @@
    "printed_page": "10",
    "start_page": 15,
    "end_page": 18,
-   "summary": "Provincial health advisers' 14 July conference, UNRRA aid of about one million dollars, penicillin plan, Seoul National University year-end, Olympic celebrations, and bulletin and radio coverage of the Joint Commission."
+   "summary": "Provincial health advisers' 14 July conference, UNRRA aid of about one million dollars, a penicillin plan, Seoul National University's year-end, Olympic celebrations, and bulletin and radio coverage of the Joint Commission."
   },
   {
    "title": "Part II: Political",
@@ -76,7 +76,7 @@
    "printed_page": "14",
    "start_page": 19,
    "end_page": 143,
-   "summary": "Detailed government and political reporting (property policy, Assembly, Joint Commission texts) followed by legal developments, police, prisons and internal security; Part III Economic was not submitted."
+   "summary": "Government and political reporting (property policy, Assembly, Joint Commission texts), then legal developments, police, prisons and internal security. Part III (Economic) was not submitted."
   },
   {
    "title": "Section 1. Government and Politics",
@@ -84,7 +84,7 @@
    "printed_page": "14",
    "start_page": 20,
    "end_page": 111,
-   "summary": "Full texts of property sale directives, Helmick's franchise-law letter, Assembly debates on collaborators and the constitution, party trends, Joint Commission statements, mail exchange and Foreign Affairs."
+   "summary": "Full texts of property sale directives and Helmick's franchise-law letter, Assembly debates on collaborators and the constitution, party trends, Joint Commission statements, interzone mail and Foreign Affairs."
   },
   {
    "title": "Administration",
@@ -92,7 +92,7 @@
    "printed_page": "14",
    "start_page": 20,
    "end_page": 52,
-   "summary": "Policy and directives for selling Japanese urban residences and small businesses, rent increases, New Korea Company's 309,658 chungbo, governor transfers, franchise letter, budget directive, and US aid statements."
+   "summary": "Policy and directives for selling Japanese urban residences and small businesses, rent increases, New Korea Company's 309,658 chungbo, governor transfers, the franchise letter, the budget directive, and US aid statements."
   },
   {
    "title": "Korea Civil Service",
@@ -100,7 +100,7 @@
    "printed_page": "47",
    "start_page": 53,
    "end_page": 53,
-   "summary": "Training Division prepared first Performance Rating Reports, due in the first fifteen days of August, and clerical examinations continued in the provinces."
+   "summary": "Training Division prepared the first Performance Rating Reports, due in the first fifteen days of August; clerical examinations continued in the provinces."
   },
   {
    "title": "Korean Interim Legislative Assembly",
@@ -108,7 +108,7 @@
    "printed_page": "48",
    "start_page": 54,
    "end_page": 83,
-   "summary": "Passage of the Special Law on traitors, collaborators and profiteers; second reading of the Temporary Constitution; vote 39-22 returning governor transfers; Ordinance 118 dispute; July attendance table."
+   "summary": "Passage of the Special Law on traitors, collaborators and profiteers; second reading of the Temporary Constitution; a 39-22 vote returning governor transfers; the Ordinance 118 dispute; July attendance table."
   },
   {
    "title": "Political Activities",
@@ -116,7 +116,7 @@
    "printed_page": "78",
    "start_page": 84,
    "end_page": 86,
-   "summary": "Rightist 4 July conference demanded Civil Administrator Ahn's resignation; Leftist joint statements; Lyuh assassinated 19 July; Wedemeyer designated as presidential envoy."
+   "summary": "Rightist 4 July conference demanded Civil Administrator Ahn's resignation; Leftists issued joint statements; Lyuh was assassinated 19 July; Wedemeyer was designated presidential envoy."
   },
   {
    "title": "US-USSR Joint Commission",
@@ -124,7 +124,7 @@
    "printed_page": "81",
    "start_page": 87,
    "end_page": 107,
-   "summary": "Pyongyang sessions 2-3 July, dispute over consulting Anti-Trusteeship Committee parties, statements by Brown and Shtykov, Koreans in Japan's message, and party-membership tables of 118 South Korean groups."
+   "summary": "Pyongyang sessions 2-3 July, dispute over consulting Anti-Trusteeship Committee parties, statements by Brown and Shtykov, a message from Koreans in Japan, and membership tables of 118 South Korean groups."
   },
   {
    "title": "Interzone Activities",
@@ -132,7 +132,7 @@
    "printed_page": "102",
    "start_page": 108,
    "end_page": 108,
-   "summary": "Two exchanges of mail with the Soviet zone, on 12 July (10,643 letters sent north) and 26 July (10,108 letters sent north)."
+   "summary": "Two mail exchanges with the Soviet zone, on 12 July (10,643 letters sent north) and 26 July (10,108 letters sent north)."
   },
   {
    "title": "Foreign Affairs",
@@ -164,7 +164,7 @@
    "printed_page": "123",
    "start_page": 129,
    "end_page": 143,
-   "summary": "Law and order, police, prison and internal security reports for July with statistical tables."
+   "summary": "Law and order after Lyuh's assassination, police strength of 28,552, prison population of 19,833, and Constabulary and Coast Guard help to farmers, with statistical tables."
   },
   {
    "title": "Law and Order",
@@ -196,7 +196,7 @@
    "printed_page": "138",
    "start_page": 142,
    "end_page": 143,
-   "summary": "Constabulary and prisoners helped Kunsan farmers transplant rice; Coast Guard rescued rice ship off Ullung-do on 26 July; supply receipts of 17,563 cots and 1,214 tents."
+   "summary": "Constabulary and prisoners helped Kunsan farmers transplant rice; Coast Guard rescued a rice ship off Ullung-do on 26 July; supply receipts of 17,563 cots and 1,214 tents."
   },
   {
    "title": "Part IV: Social",
@@ -204,7 +204,7 @@
    "printed_page": "138",
    "start_page": 144,
    "end_page": 233,
-   "summary": "Public health and welfare, education and culture, and public information for July, including health guidance letter, refugee quotas, vaccine and school tables, and a long press digest."
+   "summary": "Public health and welfare, education and culture, and public information for July, including the health guidance letter, refugee quotas, vaccine and school tables, and a long press digest."
   },
   {
    "title": "Section 1. Public Health and Welfare",
@@ -220,7 +220,7 @@
    "printed_page": "138",
    "start_page": 145,
    "end_page": 165,
-   "summary": "Provincial health advisers met 14 July; letter covers disease control, vital statistics, veterinary and nursing advice, medical supply distribution and welfare; organizational chart as reorganized May 1947."
+   "summary": "Provincial health advisers met 14 July; the guidance letter covers disease control, vital statistics, veterinary and nursing advice, medical supply distribution and welfare; includes the May 1947 organizational chart."
   },
   {
    "title": "Public Welfare",
@@ -292,7 +292,7 @@
    "printed_page": "175",
    "start_page": 182,
    "end_page": 186,
-   "summary": "Cholera vaccine production figures (5,375,300 cc on hand 25 July), veterinary biologicals consolidated at Pusan, and tables of vaccine stocks at Seoul, Anyang and Pusan institutes."
+   "summary": "Cholera vaccine production (5,375,300 cc on hand 25 July), veterinary biologicals consolidated at Pusan, and tables of vaccine stocks at Seoul, Anyang and Pusan institutes."
   },
   {
    "title": "Housing",
@@ -348,7 +348,7 @@
    "printed_page": "195",
    "start_page": 202,
    "end_page": 205,
-   "summary": "Olympic celebration at Seoul Stadium on 19 July before 50,000 spectators; National Youth held 13,080 discussion meetings, graduated 197 leaders, membership of 147,481."
+   "summary": "Olympic celebration at Seoul Stadium on 19 July before 50,000 spectators; National Youth held 13,080 discussion meetings, graduated 197 leaders, and had 147,481 members."
   },
   {
    "title": "Section 3. Public Information",
@@ -356,7 +356,7 @@
    "printed_page": "199",
    "start_page": 206,
    "end_page": 233,
-   "summary": "Information programs, newsreels, Korean Broadcasting System programming of 341 hours, publications, newspaper circulation table and a digest of press opinion on politics, the Joint Commission and Lyuh's assassination."
+   "summary": "Information programs, newsreels, 341 hours of Korean Broadcasting System programming, publications, a newspaper circulation table, and a digest of press opinion on politics, the Joint Commission and Lyuh's assassination."
   },
   {
    "title": "Information Programs",
@@ -396,11 +396,13 @@
    "printed_page": "212",
    "start_page": 219,
    "end_page": 233,
-   "summary": "Circulation table of 21 Seoul dailies, then press comment on the franchise law, Joint Commission, Wedemeyer visit, Lyuh's death, Rhee-Hodge dispute, and a poll in which 67 percent favored the interim government."
+   "summary": "Circulation table of 21 Seoul dailies, then press comment on the franchise law, Joint Commission, Wedemeyer visit, Lyuh's death and Rhee-Hodge dispute; a poll found 67 percent favored the interim government."
   }
  ],
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 233,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

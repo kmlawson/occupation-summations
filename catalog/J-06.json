@@ -1,13 +1,13 @@
 {
  "highlights": [
-  "Publication on 6 March of the proposed new Japanese Constitution featuring popular sovereignty and the renunciation of war.",
-  "Preparations for the 10 April general election, including the enfranchisement of women and strict non-interference directives to Occupation Forces.",
-  "General Douglas MacArthur upholds the Manila military commission's death sentence for General Tomoyuki Yamashita for war crimes in the Philippines.",
-  "Arrival of the United States Education Mission headed by Dr. George D. Stoddard to assist in reforming Japanese schooling.",
-  "Bank of Japan note issue drops from ¥61.8 billion to ¥15.2 billion following emergency monetary conversion measures.",
-  "First post-war raw silk export shipments of 3,000 bales sent to New York to establish Japanese commodity credit.",
-  "Enforcement of the Labor Union Law on 1 March and inauguration of the tripartite Central Labor Relations Committee.",
-  "Establishment of the International Military Tribunal for the Far East courtroom in the War Ministry Building in Tokyo."
+  "The draft Japanese Constitution, approved by SCAP and published on 6 March, vests sovereignty in the people, reduces the Emperor to a state symbol, and renounces war in Article 9.",
+  "Preparations for the 10 April general election, the first with women's suffrage, included party campaigning, voter education, Occupation Forces surveillance and non-interference directives, and broadened purge directives against wartime elites.",
+  "General MacArthur confirmed the Manila military commission's death sentence on General Tomoyuki Yamashita, while the courtroom and preparations for the International Military Tribunal for the Far East advanced in Tokyo.",
+  "The U.S. Education Mission headed by Dr. George D. Stoddard arrived to assist in reforming Japanese schooling, alongside compliance with the directive separating Shinto from the state.",
+  "Emergency currency conversion cut Bank of Japan note circulation from 61.8 billion yen to 15.2 billion yen, as authorities fought soaring inflation.",
+  "SCAP authorized the first post-war raw silk export, 3,000 bales shipped to New York to establish commodity credits for Japan.",
+  "The Labor Union Law took effect on 1 March and the tripartite Central Labor Relations Committee was inaugurated; mining labor standards were reinstated.",
+  "Japanese DDT dusting teams and mass smallpox vaccination fought typhus epidemics, and 180 companies were added to the Schedule of Restricted Concerns amid investigation of Zaibatsu war profits."
  ],
  "keywords": [
   "Constitution of Japan",
@@ -30,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Title pages, general table of contents, and list of charts, graphs, maps, and tables for the March 1946 summation report.",
+   "summary": "Cover, title pages, general table of contents, and list of charts, graphs, maps and tables for the March 1946 report.",
    "title": "Front matter"
   },
   {
@@ -38,7 +38,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 4,
-   "summary": "Summary of monthly non-military developments in Japan.",
+   "summary": "Monthly overview: draft constitution published, 10 April election preparations, first raw silk export to New York, emergency currency conversion, typhus and smallpox control, and arrival of the U.S. Education Mission.",
    "title": "Part I: General"
   },
   {
@@ -46,7 +46,7 @@
    "level": 2,
    "printed_page": "2",
    "start_page": 5,
-   "summary": "Establishes the Office of the Civil Property Custodian under SCAP and amends directives to include the Izu Islands north of and including Sofu Gan within Japan.",
+   "summary": "Establishes the Office of the Civil Property Custodian under SCAP and amends directives to place the Izu Islands north of and including Sofu Gan within Japan.",
    "title": "Organization under SCAP"
   },
   {
@@ -54,7 +54,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 5,
-   "summary": "Summarizes publication of the draft constitution, preparations and party campaigns for the 10 April general election, extension of the purge directive, and establishment of occupation provost courts.",
+   "summary": "Summarizes publication of the draft constitution, party campaigns for the 10 April general election, extension of the purge directive, and establishment of occupation provost courts.",
    "title": "Political Activities"
   },
   {
@@ -62,7 +62,7 @@
    "level": 2,
    "printed_page": "9",
    "start_page": 9,
-   "summary": "Reviews relaxed industrial controls, rail transport gains, the first export shipment of raw silk to New York, emergency currency conversion, and the wartime asset growth of the Zaibatsu.",
+   "summary": "Notes relaxed industrial controls, rail transport gains, the first raw silk export shipment to New York, emergency currency conversion, and the wartime asset growth of the Zaibatsu.",
    "title": "Economic Activities"
   },
   {
@@ -70,7 +70,7 @@
    "level": 2,
    "printed_page": "12",
    "start_page": 10,
-   "summary": "Outlines smallpox and typhus control measures, repatriation progress, the arrival of the U.S. Education Mission, separation of Shinto from the state, and women's campaign activities.",
+   "summary": "Outlines smallpox and typhus control, repatriation progress, arrival of the U.S. Education Mission, separation of Shinto from the state, and women's campaign activities.",
    "title": "Social Activities"
   },
   {
@@ -78,7 +78,7 @@
    "level": 1,
    "printed_page": "15",
    "start_page": 11,
-   "summary": "Political developments, civil administration, public safety, and war crimes trials.",
+   "summary": "Covers the draft constitution and election preparations, black-market raids and the Valentine police mission, and Eighth Army provost courts, Yamashita's death sentence and Tokyo tribunal preparations.",
    "title": "Part II: Political"
   },
   {
@@ -86,7 +86,7 @@
    "level": 2,
    "printed_page": "17",
    "start_page": 12,
-   "summary": "Presents the full draft constitution renouncing war and vesting sovereignty in the people, political party campaigns and pre-campaign spending, surveillance rules for the general election, and new purge directives.",
+   "summary": "Presents the full draft constitution renouncing war and vesting sovereignty in the people, party campaigns and pre-campaign spending, election surveillance rules, and new purge directives.",
    "title": "Government and Civil Administration"
   },
   {
@@ -94,7 +94,7 @@
    "level": 2,
    "printed_page": "47",
    "start_page": 28,
-   "summary": "Details black-market raids including seized raw silk and contraband opium, traffic safety drives, the arrival of Lewis J. Valentine's police advisory mission, and military censorship operations.",
+   "summary": "Details black-market raids including seized raw silk and contraband opium, traffic safety drives, arrival of Lewis J. Valentine's police advisory mission, and military censorship operations.",
    "title": "Public Safety and Intelligence"
   },
   {
@@ -102,7 +102,7 @@
    "level": 2,
    "printed_page": "53",
    "start_page": 30,
-   "summary": "Reports legal status of Korean residents, establishment of Eighth Army provost courts, apprehension and trial of military war criminals, Tomoyuki Yamashita's death sentence confirmation, and preparations for the Tokyo war crimes tribunal.",
+   "summary": "Reports the legal status of Korean residents, Eighth Army provost courts, trials of military war criminals, confirmation of Tomoyuki Yamashita's death sentence, and preparations for the Tokyo tribunal.",
    "title": "Legal and War Crimes"
   },
   {
@@ -110,7 +110,7 @@
    "level": 1,
    "printed_page": "65",
    "start_page": 37,
-   "summary": "Economic activities, natural resources, manufacturing, public utilities, commerce, and finance.",
+   "summary": "Economic review spanning the agrarian reform proposal, coal and timber, steel and textiles, Labor Union Law enforcement, raw silk exports, flour and price ceilings, note contraction, and 180 firms added to restricted list.",
    "title": "Part III: Economic"
   },
   {
@@ -118,7 +118,7 @@
    "level": 2,
    "printed_page": "67",
    "start_page": 38,
-   "summary": "Details the Japanese Government's proposed agrarian reform program, Kanto Plain soil surveys, Hokkaido herring season preparations, Bonin Islands whaling, and pearl culture operations at Mikimoto.",
+   "summary": "Details the Japanese Government's proposed agrarian reform program, Kanto Plain soil surveys, Hokkaido herring season preparations, Bonin Islands whaling, and pearl culture at Mikimoto.",
    "title": "Agriculture and Fisheries"
   },
   {
@@ -126,7 +126,7 @@
    "level": 2,
    "printed_page": "75",
    "start_page": 42,
-   "summary": "Covers timber shortages, Kyushu pulp and paper production, coal mine strikes and output, the dismissal of female and child miners, and Pacific phosphate rock surveys for fertilizer manufacture.",
+   "summary": "Covers timber shortages, Kyushu pulp and paper production, coal mine strikes and output, dismissal of female and child miners, and Pacific phosphate rock surveys for fertilizer.",
    "title": "Forestry and Mining"
   },
   {
@@ -134,7 +134,7 @@
    "level": 2,
    "printed_page": "89",
    "start_page": 50,
-   "summary": "Reports slight industrial production gains, relaxed government business restrictions, establishment of the Japanese Reparation Council, and SCAP inspections of 152 university and government scientific institutions.",
+   "summary": "Reports slight industrial production gains, relaxed government business restrictions, creation of the Japanese Reparation Council, and SCAP inspections of 152 university and government scientific institutions.",
    "title": "Industry and Industrial Reparations"
   },
   {
@@ -142,7 +142,7 @@
    "level": 2,
    "printed_page": "93",
    "start_page": 52,
-   "summary": "Details output of steel, aluminum, copper, and petroleum, merchant shipyard repair activities, chemical and fertilizer production rates, and machinery maintenance inspections for potential reparations.",
+   "summary": "Details output of steel, aluminum, copper and petroleum, merchant shipyard repairs, chemical and fertilizer production, and machinery inspections for potential reparations.",
    "title": "Heavy Industries"
   },
   {
@@ -150,7 +150,7 @@
    "level": 2,
    "printed_page": "108",
    "start_page": 60,
-   "summary": "Covers production and prices in food processing, pulp and paper, glass, electrical equipment, truck chassis, rubber goods, and leather goods facing fuel and raw material shortages.",
+   "summary": "Covers production and prices in food processing, pulp and paper, glass, electrical equipment, truck chassis, rubber and leather goods, all facing fuel and raw material shortages.",
    "title": "Manufacturing"
   },
   {
@@ -158,7 +158,7 @@
    "level": 2,
    "printed_page": "122",
    "start_page": 72,
-   "summary": "Reports production and mill inventories across cotton, silk, rayon, wool, and hard fibers, including preparations to receive 50,000 short tons of American raw cotton.",
+   "summary": "Reports production and mill inventories in cotton, silk, rayon, wool and hard fibers, including preparations to receive 50,000 short tons of American raw cotton.",
    "title": "Textile Industries"
   },
   {
@@ -166,7 +166,7 @@
    "level": 2,
    "printed_page": "145",
    "start_page": 78,
-   "summary": "Covers railway passenger and freight increases, severe automotive fuel shortages, expanding electric power generation, and proposed 60-cycle frequency unification across Japan.",
+   "summary": "Covers rising railway passenger and freight traffic, severe automotive fuel shortages, expanding electric power generation, and a proposal to unify Japan on 60-cycle frequency.",
    "title": "Transportation and Public Utilities"
   },
   {
@@ -174,7 +174,7 @@
    "level": 2,
    "printed_page": "161",
    "start_page": 87,
-   "summary": "Details rehabilitation of domestic wire lines, overseas radiotelephone traffic, communications equipment manufacture, and the Board of Communications' request for elevation to cabinet ministry status.",
+   "summary": "Details rehabilitation of domestic wire lines, overseas radiotelephone traffic, communications equipment manufacture, and the Board of Communications' request for cabinet ministry status.",
    "title": "Communications"
   },
   {
@@ -182,7 +182,7 @@
    "level": 2,
    "printed_page": "171",
    "start_page": 92,
-   "summary": "Reports enforcement of the Labor Union Law, establishment of the Central Labor Relations Committee, reinstatement of protective mining labor standards, and elimination of cut-rate convict labor.",
+   "summary": "Reports enforcement of the Labor Union Law, creation of the Central Labor Relations Committee, reinstated protective mining labor standards, and elimination of cut-rate convict labor.",
    "title": "Labor"
   },
   {
@@ -190,7 +190,7 @@
    "level": 2,
    "printed_page": "179",
    "start_page": 97,
-   "summary": "Details the shipment of 3,000 bales of raw silk to New York to establish commodity credits, salt imports from China, and the visit of the U.S. Food Survey Board.",
+   "summary": "Details shipment of 3,000 bales of raw silk to New York to establish commodity credits, salt imports from China, and the visit of the U.S. Food Survey Board.",
    "title": "Imports and Exports"
   },
   {
@@ -198,7 +198,7 @@
    "level": 2,
    "printed_page": "182",
    "start_page": 99,
-   "summary": "Covers revised staple food collection quotas and price increases, the release of imported American flour for Tokyo bread rations, and official price ceilings on fertilizers, rubber, and leather.",
+   "summary": "Covers revised staple food collection quotas and price increases, release of imported American flour for Tokyo bread rations, and price ceilings on fertilizers, rubber and leather.",
    "title": "Rationing and Price Control"
   },
   {
@@ -206,7 +206,7 @@
    "level": 2,
    "printed_page": "201",
    "start_page": 107,
-   "summary": "Reports a sharp contraction in Bank of Japan note circulation following emergency currency conversion, external asset declarations, and liquidation procedures for closed colonial banking institutions.",
+   "summary": "Reports a sharp fall in Bank of Japan note circulation after emergency currency conversion, external asset declarations, and liquidation procedures for closed colonial banks.",
    "title": "Money and Banking"
   },
   {
@@ -214,7 +214,7 @@
    "level": 2,
    "printed_page": "207",
    "start_page": 111,
-   "summary": "Analyzes the national debt, additions of 180 companies to the Schedule of Restricted Concerns, wartime expansion of the Big Four Zaibatsu, and pending industrial war damage indemnity claims.",
+   "summary": "Analyzes the national debt, 180 companies added to the Schedule of Restricted Concerns, wartime expansion of the Big Four Zaibatsu, and pending industrial war damage indemnity claims.",
    "title": "Public Finance"
   },
   {
@@ -222,7 +222,7 @@
    "level": 1,
    "printed_page": "217",
    "start_page": 115,
-   "summary": "Public health, welfare, education, religion, and information media.",
+   "summary": "Covers typhus DDT dusting and smallpox vaccination, repatriation statistics, the U.S. Education Mission, State Shinto separation, women's political participation, and theatrical labor unions.",
    "title": "Part IV: Social"
   },
   {
@@ -230,7 +230,7 @@
    "level": 2,
    "printed_page": "219",
    "start_page": 116,
-   "summary": "Details typhus control through Japanese DDT dusting teams, widespread smallpox vaccination, urban population entry controls, repatriation statistics, and the organization of the Japanese Council on Medical Education.",
+   "summary": "Details typhus control by Japanese DDT dusting teams, widespread smallpox vaccination, urban population entry controls, repatriation statistics, and organization of the Japanese Council on Medical Education.",
    "title": "Public Health and Welfare"
   },
   {
@@ -238,7 +238,7 @@
    "level": 2,
    "printed_page": "227",
    "start_page": 125,
-   "summary": "Covers the arrival of the U.S. Education Mission, compliance with the State Shinto separation directive, women's political participation, political broadcast regulations, and theatrical labor unions.",
+   "summary": "Covers arrival of the U.S. Education Mission, compliance with the State Shinto separation directive, women's political participation, political broadcast regulations, and theatrical labor unions.",
    "title": "Education, Religion and Media of Expression"
   }
  ],
@@ -248,5 +248,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 131,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

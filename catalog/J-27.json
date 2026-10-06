@@ -1,14 +1,14 @@
 {
  "summary": "Summation No. 27 covers non-military activities in Japan for December 1947, the month the First National Diet closed (9 December) after passing 174 of 186 bills. Political coverage centres on the Kato Committee's report on hoarded and concealed goods, the dissolution of the Home Ministry, the new Attorney General's Office and Police Law, party realignments, and the near-completion of the purge. War-crimes sections follow the IMTFE defence cases of Oshima, Sato, Shigemitsu, Shimada, Shiratori and Suzuki. The economic part reports production, trade, price, banking and tax statistics with charts, plus the Elimination of Excessive Concentration of Economic Power Law, the public food-distribution corporations (kudan), coal control and reparations transfers. Labor, health, education, and information media are covered in detail. A historian will find month-end statistics, legislative lists and the Occupation's own framing of Japanese reform.",
  "highlights": [
-  "The Diet's Special Committee headed by Kanju Kato estimated goods disposed of by the Japanese Government after the surrender at over 50 billion yen, and on 11 December the House of Representatives formed an Illegal Transactions Investigation Committee.",
-  "The Home Ministry Dissolution Act (8 December) abolished the ministry controlling police, local government and State Shinto; the Police Law created a National Public Safety Commission under the Prime Minister, and a National Fire Defense Law followed on 9 December.",
+  "The Diet's Special Committee headed by Kanju Kato estimated goods disposed of by the Japanese Government after the surrender at over 50 billion yen; on 11 December the House of Representatives formed an Illegal Transactions Investigation Committee.",
+  "The Home Ministry Dissolution Act (8 December) abolished the ministry controlling police, local government and State Shinto; the Police Law created a National Public Safety Commission, and a National Fire Defense Law followed on 9 December.",
   "The First National Diet closed on 9 December after sitting since 20 May: 186 bills introduced, 174 passed, 12 rejected, including new civil and criminal codes, a Ministry of Labor and the Attorney General's Office law (effective 15 February).",
   "The Elimination of Excessive Concentration of Economic Power Law, aimed at zaibatsu control, passed on 9 December and was promulgated as Law No. 207 on 18 December; the Closed Institutions Liquidating Commission was ordered to liquidate 145 control organizations.",
   "Purge figures from 4 January to 13 December: 656,550 persons screened, 4,789 removed and 954 barred; the Cabinet announced on 10 December the virtual completion of the purge.",
-  "Coal production reached a peak of 2,481,000 metric tons in November, while the Diet passed the Bill for Temporary State Control of Coal Mines in the House of Councillors by 132 to 79 on 8 December.",
-  "Five public corporations (kudan) were formed by law on 9 December to control wholesale and retail distribution of staple foods, groceries, fats and oils, feed and liquor; November food imports were 106,719 metric tons, 94 percent US flour and wheat.",
-  "Bank of Japan notes outstanding reached 219,142,000,000 yen on 31 December; labor unions numbered 25,896 with 5,926,986 members at 31 October."
+  "Coal production reached a record 2,481,000 metric tons in November, while the House of Councillors passed the Bill for Temporary State Control of Coal Mines by 132 to 79 on 8 December.",
+  "Five public corporations (kudan) were formed by law on 9 December to control distribution of staple foods, groceries, fats and oils, feed and liquor; November food imports were 106,719 metric tons, 94 percent US flour and wheat.",
+  "Bank of Japan notes outstanding reached 219,142,000,000 yen on 31 December, and labor unions numbered 25,896 with 5,926,986 members at 31 October."
  ],
  "keywords": [
   "Summation December 1947",
@@ -44,7 +44,7 @@
    "printed_page": "1",
    "start_page": 6,
    "end_page": 15,
-   "summary": "Digest of the month: no SCAP reorganization, hoarded-goods drive, Home Ministry dissolution, end of the First Diet, near-complete purge, economic indicators and social developments."
+   "summary": "Digest of the month: no SCAP reorganization, the hoarded-goods drive, Home Ministry dissolution, end of the First Diet, near-complete purge, economic indicators and social developments."
   },
   {
    "title": "Organization Under SCAP",
@@ -52,7 +52,7 @@
    "printed_page": "3",
    "start_page": 7,
    "end_page": 7,
-   "summary": "Single paragraph stating there was no change in the non-military organization of GHQ SCAP during December."
+   "summary": "No change occurred in the non-military organization of GHQ SCAP during December."
   },
   {
    "title": "Political Activities",
@@ -60,7 +60,7 @@
    "printed_page": "3",
    "start_page": 7,
    "end_page": 8,
-   "summary": "Hoarded-goods investigation, Katayama's denial of a secret government, Home Ministry dissolution, party realignments, Diet's closing on 9 December, purge totals, Police Law and war-crimes trial progress."
+   "summary": "Hoarded-goods investigation, Katayama's denial of a secret government, Home Ministry dissolution, party realignments, the Diet's closing on 9 December, purge totals, the Police Law and war-crimes trial progress."
   },
   {
    "title": "Economic Activities",
@@ -68,7 +68,7 @@
    "printed_page": "7",
    "start_page": 9,
    "end_page": 13,
-   "summary": "Summary of resources, industry, textiles, transport, communications, labor, trade, rationing, finance and property control, including Law No. 207 on economic concentration and 340 looted ships reported."
+   "summary": "Digest of resources, industry, transport, labor, trade, rationing, finance and property control, including Law No. 207 on economic concentration and 340 looted ships reported."
   },
   {
    "title": "Social Activities",
@@ -76,7 +76,7 @@
    "printed_page": "17",
    "start_page": 14,
    "end_page": 15,
-   "summary": "Summary of public health, education, religion, arts and media developments for December 1947."
+   "summary": "December 1947: separate prefectural health and welfare departments were legislated 7 December; 4,000,000 children got school lunches; National Treasures registered rose to 8,211; Katayama Cabinet politics dominated press comment."
   },
   {
    "title": "Part II: Political",
@@ -84,7 +84,7 @@
    "printed_page": "21",
    "start_page": 16,
    "end_page": 54,
-   "summary": "Government and politics, public safety and legal affairs: the Kato Committee report, Home Ministry abolition, the Diet's legislation, police and prison statistics, and the Tokyo war-crimes trial defence cases."
+   "summary": "Government and politics, public safety and legal affairs: the Kato Committee report, Home Ministry abolition, the Diet's legislation, police and prison statistics, and Tokyo war-crimes trial defence cases."
   },
   {
    "title": "Government and Politics",
@@ -100,7 +100,7 @@
    "printed_page": "23",
    "start_page": 17,
    "end_page": 22,
-   "summary": "Text of the Kato Committee report estimating over 50 billion yen of goods disposed of after the surrender; conclusions blame the Suzuki Cabinet's secret order of 14 August 1945."
+   "summary": "Kato Committee report estimating over 50 billion yen of goods disposed of after the surrender; conclusions blame the Suzuki Cabinet's secret order of 14 August 1945."
   },
   {
    "title": "Political Supplements",
@@ -116,7 +116,7 @@
    "printed_page": "",
    "start_page": 24,
    "end_page": 25,
-   "summary": "Dissolution of the Home Ministry on 8 December, the Attorney General's Office law replacing the Ministry of Justice, and new ministers of Transportation, State and Agriculture."
+   "summary": "Home Ministry dissolved on 8 December, an Attorney General's Office law replacing the Ministry of Justice, and new ministers of Transportation, State and Agriculture."
   },
   {
    "title": "Political Parties",
@@ -132,7 +132,7 @@
    "printed_page": "",
    "start_page": 28,
    "end_page": 40,
-   "summary": "Niigata by-election, party strength in both Houses and ministry-by-ministry list of legislation passed by the First Diet, which closed 9 December."
+   "summary": "Niigata by-election, party strength in both Houses, and a ministry-by-ministry list of legislation passed by the First Diet, which closed 9 December."
   },
   {
    "title": "Screening of Information Media Companies",
@@ -156,7 +156,7 @@
    "printed_page": "81",
    "start_page": 46,
    "end_page": 54,
-   "summary": "Judicial administration, 1,403 atrocity investigations on hand, six trials of 32 war criminals completed, and IMTFE individual defence cases of Oshima, Sato, Shigemitsu, Shimada, Shiratori and Suzuki."
+   "summary": "1,403 atrocity investigations on hand, six trials of 32 war criminals completed, and IMTFE defence cases of Oshima, Sato, Shigemitsu, Shimada, Shiratori and Suzuki."
   },
   {
    "title": "Legal Affairs and National Prosecution of War Criminals",
@@ -164,7 +164,7 @@
    "printed_page": "",
    "start_page": 46,
    "end_page": 47,
-   "summary": "Japanese judicial administration, investigation and apprehension of suspects, and trials of war atrocity cases in December."
+   "summary": "Diet passed the Attorney General's Office law on 8 December; 1,403 atrocity cases remained under investigation; 429 suspects tried by 23 December (410 guilty, 32 death sentences); six trials of 32 defendants completed."
   },
   {
    "title": "International Prosecution of War Criminals",
@@ -172,7 +172,7 @@
    "printed_page": "",
    "start_page": 48,
    "end_page": 54,
-   "summary": "Tokyo tribunal testimony: Sir William Webb back on the bench 15 December; defence of Oshima, Sato, Shigemitsu, Shimada, Shiratori and Suzuki, with Prince Higashi-kuni testifying."
+   "summary": "Tokyo tribunal: Sir William Webb back on the bench 15 December; defence of Oshima, Sato, Shigemitsu, Shimada, Shiratori and Suzuki, with Prince Higashi-kuni testifying."
   },
   {
    "title": "Part III: Economic",
@@ -180,7 +180,7 @@
    "printed_page": "99",
    "start_page": 55,
    "end_page": 159,
-   "summary": "Thirteen sections on agriculture, mining, industry, textiles, transport, communications, labor, trade, rationing, finance, property control and science, with extensive production tables and charts."
+   "summary": "Thirteen sections on agriculture, mining, industry, textiles, transport, communications, labor, trade, rationing, finance, property control and science, with extensive production tables and charts; record coal output of 2,481,000 tons in November."
   },
   {
    "title": "Agriculture and Fisheries",
@@ -188,7 +188,7 @@
    "printed_page": "101",
    "start_page": 56,
    "end_page": 58,
-   "summary": "New Resources Committee (13 December), the fourth government land purchase of 471,636 cho, crop insurance law effective 27 December, fishing fleet and 232 whales caught in antarctic whaling."
+   "summary": "New Resources Committee (13 December), fourth government land purchase of 471,636 cho, crop insurance law effective 27 December, and 232 whales caught in antarctic whaling."
   },
   {
    "title": "Forestry and Mining",
@@ -204,7 +204,7 @@
    "printed_page": "117",
    "start_page": 64,
    "end_page": 73,
-   "summary": "Coke up 5.8 percent, iron and steel limited by power, nonferrous metals, chemicals at 39 percent of requirements, shipbuilding, machine tools down 14 percent and railway rolling stock."
+   "summary": "Coke up 5.8 percent, iron and steel limited by power, chemicals at 39 percent of requirements, machine tools down 14 percent, plus shipbuilding and railway rolling stock."
   },
   {
    "title": "Manufacturing",
@@ -236,7 +236,7 @@
    "printed_page": "197",
    "start_page": 104,
    "end_page": 111,
-   "summary": "Collect radiotelephone calls to the US from 5 January 1948, first premium postal savings certificates, savings limit raised to 30,000 yen, equipment production, Ministry personnel."
+   "summary": "Collect radiotelephone calls to the US from 5 January 1948, first premium postal savings certificates, savings limit raised to 30,000 yen, and equipment production."
   },
   {
    "title": "Labor",
@@ -244,7 +244,7 @@
    "printed_page": "213",
    "start_page": 112,
    "end_page": 120,
-   "summary": "Employment Security Law, 25,896 unions with 5,926,986 members, coal and electric power disputes settled, anti-Communist takeover of railway workers' union, labor education and unemployment insurance."
+   "summary": "Employment Security Law, 25,896 unions with 5,926,986 members, coal and electric power disputes settled, and anti-Communist takeover of the railway workers' union."
   },
   {
    "title": "Imports and Exports",
@@ -252,7 +252,7 @@
    "printed_page": "231",
    "start_page": 121,
    "end_page": 133,
-   "summary": "Private trade contracts (32 imports, 651 exports), 106,719 tons of food imports, 18,564,833 yards of cotton exports and many first postwar shipments by commodity group."
+   "summary": "Private trade contracts (32 imports, 651 exports), 106,719 tons of food imports, 18,564,833 yards of cotton exports and many first postwar shipments."
   },
   {
    "title": "Rationing and Price Control",
@@ -268,7 +268,7 @@
    "printed_page": "271",
    "start_page": 141,
    "end_page": 149,
-   "summary": "Bank notes of 219,142,000,000 yen, Reconstruction Finance Bank loans of 37,904,260,000 yen, Interest Rate Adjustment Law, liquidation proceeds, tax collections of 32.8 billion yen and national debt of 330.9 billion yen."
+   "summary": "Bank notes of 219,142,000,000 yen, Reconstruction Finance Bank loans of 37,904,260,000 yen, Interest Rate Adjustment Law, tax collections of 32.8 billion yen and national debt of 330.9 billion yen."
   },
   {
    "title": "Property Control and Reparations",
@@ -276,7 +276,7 @@
    "printed_page": "289",
    "start_page": 150,
    "end_page": 155,
-   "summary": "8,183 foreign property reports, 340 looted ships, SCAP custody account of 252,604,035 yen, cartel approvals, Law No. 207, and 11,938 of 19,052 arsenal machines accepted for reparations."
+   "summary": "8,183 foreign property reports, 340 looted ships, SCAP custody account of 252,604,035 yen, Law No. 207, and 11,938 of 19,052 arsenal machines accepted for reparations."
   },
   {
    "title": "Science and Technology",
@@ -284,7 +284,7 @@
    "printed_page": "299",
    "start_page": 156,
    "end_page": 159,
-   "summary": "New Institute of Physical and Chemical Research Co., research grants, cancer diagnostic test, 158 patents granted in November, 48 new Japanese Standards and earthquake forecasting."
+   "summary": "New Institute of Physical and Chemical Research Co., a cancer diagnostic test, 158 patents granted in November, 48 new Japanese Standards and earthquake forecasting."
   },
   {
    "title": "Part IV: Social",
@@ -300,7 +300,7 @@
    "printed_page": "309",
    "start_page": 161,
    "end_page": 170,
-   "summary": "Typhus control drives, communicable disease rates, veterinary and milk inspection, hospital capacity, medical supplies, Red Cross, public assistance, repatriation and vital statistics."
+   "summary": "Typhus control drives, communicable disease rates, milk inspection, hospital capacity, medical supplies, Red Cross, public assistance, repatriation and vital statistics."
   },
   {
    "title": "Education, Religion and Media of Expression",
@@ -308,7 +308,7 @@
    "printed_page": "327",
    "start_page": 171,
    "end_page": 183,
-   "summary": "School administration, teacher education and new textbook printing, Christian missions, newly designated national treasures, press and radio, film production and 29,392 visits to SCAP libraries."
+   "summary": "School administration, new textbook printing, Christian missions, newly designated national treasures, press and radio, film production and 29,392 visits to SCAP libraries."
   },
   {
    "title": "Education",
@@ -316,7 +316,7 @@
    "printed_page": "",
    "start_page": 171,
    "end_page": 174,
-   "summary": "School finance, secondary and higher education, normal-school teachers, vocational and physical education, textbook printing and book gifts."
+   "summary": "Tokyo approved about $12,000,000 to reimburse private schools taking overflow pupils; 40,050 boxes of window glass allocated; aptitude test for higher schools set for 31 January 1948; 2,302,275 surplus batteries donated; 141,038,394 textbooks authorized."
   },
   {
    "title": "Religion, Arts and Monuments",
@@ -324,7 +324,7 @@
    "printed_page": "",
    "start_page": 175,
    "end_page": 176,
-   "summary": "Christian mission activity, citizens' public halls, new national treasures, art exhibitions and monument preservation."
+   "summary": "Lutheran and Nazarene churches left the United Church of Christ on 2 and 6 December; Chien-in split from the Jodo Sect; 194 more National Treasures designated, total 8,211; Fenollosa memorial held at Otsu."
   },
   {
    "title": "Media of Expression",
@@ -332,11 +332,13 @@
    "printed_page": "",
    "start_page": 176,
    "end_page": 183,
-   "summary": "Public opinion surveys, information exhibits, press and magazines, radio, motion pictures, theater, music and SCAP Information Libraries."
+   "summary": "December press and radio campaigns on coal, rice collection and the new Civil Code; 778 books published in November, a postwar record; Catholic Digest licensed; French films licensed; SCAP libraries drew 29,392 visitors."
   }
  ],
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 183,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

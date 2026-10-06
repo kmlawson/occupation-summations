@@ -1,13 +1,14 @@
 {
  "embedded_issues": [],
  "highlights": [
-  "Ambassador Edwin W. Pauley inspected industrial centers in North Korea, finding no evidence of substantial equipment removals by Soviet occupation authorities.",
-  "The Soviet Consulate in Seoul was officially closed, and its diplomatic personnel headed by Vice-Consul Alexander S. Poliansky returned to Moscow.",
-  "Moderate political leaders Dr. Kim Kyu-sik and Lyuh Woon-hyung met to negotiate a center coalition between moderate Left and Right political factions.",
-  "The National Economic Board was established under Ordinance No. 90 to coordinate government economic policy, price stabilization, commodity allocations, and rationing.",
-  "Disastrous late June flooding along the Han River caused 88 deaths, destroyed 13,686 homes, and severely aggravated South Korea's critical summer food deficit.",
-  "Public health authorities contained a major cholera epidemic that caused 651 deaths, inoculating more than 1.6 million residents across Seoul, Pusan, and Taegu.",
-  "Approximately 55,000 tons of American wheat arrived in South Korea to supplement depleted government rice stocks in critical deficit areas."
+  "Ambassador Edwin W. Pauley toured industrial centers in North Korea on a reparations mission and found no evidence of substantial equipment removals by Soviet occupation authorities.",
+  "The Soviet Consulate in Seoul was officially closed, and its personnel, headed by Vice-Consul Alexander S. Poliansky, returned to Moscow.",
+  "Moderate leaders Dr. Kim Kyu-sik and Lyuh Woon-hyung met to negotiate a center coalition between moderate Left and Right factions after the Joint American-Soviet Commission adjourned.",
+  "The National Economic Board was established under Ordinance No. 90 to coordinate economic policy, price stabilization, commodity allocations, and rationing.",
+  "Late June flooding along the Han River caused 88 deaths and destroyed 13,686 homes, aggravating South Korea's critical summer food deficit.",
+  "Authorities contained a cholera epidemic that caused 651 deaths, administering more than 1.6 million inoculations across Seoul, Pusan, and Taegu.",
+  "About 55,000 tons of American wheat arrived to supplement depleted government rice stocks in critical deficit areas.",
+  "Masan Tuberculosis Sanatorium opened, college courses were extended to four years, and cumulative repatriation of Koreans reached nearly one million."
  ],
  "keywords": [
   "USAMGIK",
@@ -38,7 +39,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 11,
-   "summary": "Monthly summary of political, economic, and social developments in South Korea during June 1946.",
+   "summary": "Monthly overview of South Korea in June 1946: Kim Kyu-sik and Lyuh Woon-hyung's coalition talks, Pauley's North Korea tour, 55,000 tons of American wheat, a cholera outbreak, and repatriation.",
    "title": "Part I: General"
   },
   {
@@ -46,7 +47,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 13,
-   "summary": "Summarizes political developments including moderate unification talks between Kim Kyu-sik and Lyuh Woon-hyung, Ambassador Pauley's North Korea mission, closing of the Soviet consulate, civil service rules, and the suspension of Ordinance No. 72.",
+   "summary": "Moderate unification talks between Kim Kyu-sik and Lyuh Woon-hyung, Ambassador Pauley's North Korea mission, closing of the Soviet consulate, civil service rules, and suspension of Ordinance No. 72.",
    "title": "Political Activities"
   },
   {
@@ -54,7 +55,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 17,
-   "summary": "Summarizes economic affairs including severe flood damage to crops, arrival of 55,000 tons of American wheat, summer grain collection plans, establishment of the National Economic Board and Price Administration, and currency circulation trends.",
+   "summary": "Flood damage to crops, arrival of 55,000 tons of American wheat, summer grain collection plans, creation of the National Economic Board and Price Administration, and currency circulation trends.",
    "title": "Economic Activities"
   },
   {
@@ -62,7 +63,7 @@
    "level": 2,
    "printed_page": "11",
    "start_page": 21,
-   "summary": "Summarizes public health measures against a cholera outbreak, opening of Masan Tuberculosis Sanatorium, extension of college courses to four years, teacher summer schools, adult literacy initiatives, and repatriation movements.",
+   "summary": "Measures against a cholera outbreak, opening of Masan Tuberculosis Sanatorium, four-year college courses, teacher summer schools, adult literacy drives, and repatriation movements.",
    "title": "Social Activities"
   },
   {
@@ -70,7 +71,7 @@
    "level": 1,
    "printed_page": "13",
    "start_page": 23,
-   "summary": "Detailed reports on government administration, political parties, interzone relations, legal affairs, and public safety.",
+   "summary": "Detailed political reports: Korean Civil Service and National Economic Board, Kim-Lyuh coalition efforts, Pauley's tour, Soviet consulate closing, chief judges' meeting, Ordinance No. 72, Han River floods, and police matters.",
    "title": "Part II: Political"
   },
   {
@@ -78,7 +79,7 @@
    "level": 2,
    "printed_page": "15",
    "start_page": 25,
-   "summary": "Details Korean Civil Service organization, National Economic Board creation, moderate coalition efforts between Kim Kyu-sik and Lyuh Woon-hyung, Chungchong-pukto local elections, Ambassador Pauley's reparations tour of North Korea, and the closing of the Soviet consulate in Seoul.",
+   "summary": "Korean Civil Service organization, National Economic Board creation, Kim Kyu-sik and Lyuh Woon-hyung's coalition efforts, Chungchong-pukto local elections, Pauley's reparations tour of North Korea, and the Soviet consulate's closing in Seoul.",
    "title": "Government and Politics"
   },
   {
@@ -86,7 +87,7 @@
    "level": 2,
    "printed_page": "19",
    "start_page": 29,
-   "summary": "Covers the first post-liberation meeting of chief judges, suspension of Ordinance No. 72, disastrous Han River floods causing widespread destruction, scientific crime laboratory establishment, Railroad Police graduations, and renaming the Department of Internal Security.",
+   "summary": "First post-liberation meeting of chief judges, suspension of Ordinance No. 72, Han River floods, a scientific crime laboratory, Railroad Police graduations, and renaming of the Department of Internal Security.",
    "title": "Legal and Public Safety"
   },
   {
@@ -94,7 +95,7 @@
    "level": 1,
    "printed_page": "23",
    "start_page": 33,
-   "summary": "Detailed reports on agriculture, fisheries, forestry, commerce, transportation, communications, labor, price controls, and government monopolies.",
+   "summary": "Detailed economic reports: flood damage to summer grain, fishing industry reorganization, railroads and cables, a 300,000,000-yen public work relief program, wheat imports, inflation surveys, Bank of Chosen notes, and Monopoly Bureau operations.",
    "title": "Part III: Economic"
   },
   {
@@ -102,7 +103,7 @@
    "level": 2,
    "printed_page": "25",
    "start_page": 35,
-   "summary": "Reports flood damage to summer grain crops, rinderpest cattle vaccinations, extensive structural reorganization and licensing in the fishing industry, forest fire prevention measures, and a census of provincial sawmills.",
+   "summary": "Flood damage to summer grain crops, rinderpest cattle vaccinations, reorganization and licensing in the fishing industry, forest fire prevention, and a census of provincial sawmills.",
    "title": "Natural Resources"
   },
   {
@@ -110,7 +111,7 @@
    "level": 2,
    "printed_page": "35",
    "start_page": 45,
-   "summary": "Covers industrial reconversion of war material, railroad operations and communications networks, submarine cables to Japan, postal exchange with North Korea, a ¥300,000,000 public work relief program, wheat imports, and cost-of-living inflation surveys.",
+   "summary": "Industrial reconversion of war material, railroad operations and communications, submarine cables to Japan, postal exchange with North Korea, a 300,000,000-yen public work relief program, wheat imports, and cost-of-living inflation surveys.",
    "title": "Commerce and Industry"
   },
   {
@@ -118,7 +119,7 @@
    "level": 2,
    "printed_page": "57",
    "start_page": 67,
-   "summary": "Surveys Bank of Chosen note circulation and details the Monopoly Bureau's operations, organization, and revenues, covering state licensing, production, and distribution of red and white ginseng, leaf tobacco, and evaporated sea salt.",
+   "summary": "Bank of Chosen note circulation, and the Monopoly Bureau's organization, revenues, licensing and production of red and white ginseng, leaf tobacco, and evaporated sea salt.",
    "title": "Finance and Government Monopolies"
   },
   {
@@ -126,7 +127,7 @@
    "level": 1,
    "printed_page": "63",
    "start_page": 73,
-   "summary": "Detailed reports on public health and welfare, educational reforms, cultural events, and public information activities.",
+   "summary": "Detailed social reports: cholera control by mass inoculation, nearly one million repatriated Koreans, Masan Sanatorium, education reorganization, four-year colleges, Korean history textbooks, Tan Oh Day, and radio and press coverage.",
    "title": "Part IV: Social"
   },
   {
@@ -134,7 +135,7 @@
    "level": 2,
    "printed_page": "65",
    "start_page": 75,
-   "summary": "Documents control of a major cholera epidemic through mass inoculations and vaccine production, cumulative repatriation of nearly one million Koreans, the opening of Masan Tuberculosis Sanatorium, and medical licensing examinations.",
+   "summary": "Control of a major cholera epidemic through mass inoculations and vaccine production, cumulative repatriation of nearly one million Koreans, opening of Masan Tuberculosis Sanatorium, and medical licensing examinations.",
    "title": "Public Health and Welfare"
   },
   {
@@ -142,7 +143,7 @@
    "level": 2,
    "printed_page": "73",
    "start_page": 83,
-   "summary": "Reports structural reorganization of the Department of Education, extension of college programs to four years, distribution of new Korean history textbooks, adult literacy campaigns, civic university fundraising, cultural preservation, and Tan Oh Day festivals.",
+   "summary": "Reorganization of the Department of Education, four-year college programs, new Korean history textbooks, adult literacy campaigns, civic university fundraising, cultural preservation, and Tan Oh Day festivals.",
    "title": "Education, Culture and Religion"
   },
   {
@@ -150,7 +151,7 @@
    "level": 2,
    "printed_page": "79",
    "start_page": 89,
-   "summary": "Details public health and grain collection information campaigns via radio and mobile units, motion picture licensing, Korean Broadcasting Corporation coverage, and press commentary on North-South unification and the Joint Commission.",
+   "summary": "Radio and mobile-unit campaigns on public health and grain collection, motion picture licensing, Korean Broadcasting Corporation coverage, and press commentary on North-South unification and the Joint Commission.",
    "title": "Public Information"
   },
   {
@@ -158,7 +159,7 @@
    "level": 1,
    "printed_page": "83",
    "start_page": 93,
-   "summary": "Full-page reference map of Korea depicting provincial administrative boundaries, the 38th parallel division, and principal cities.",
+   "summary": "Full-page reference map of Korea showing provincial boundaries, the 38th parallel division, and principal cities.",
    "title": "Map of Korea"
   }
  ],
@@ -168,5 +169,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 100,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

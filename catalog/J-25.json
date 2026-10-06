@@ -1,13 +1,13 @@
 {
  "summary": "Summation No. 25 reports on Occupied Japan for October 1947 (statistics mostly for August-September), under the Katayama coalition Cabinet. Politically it covers the National Public Service Law, the Police Reform Bill following MacArthur's 16 September letter demanding decentralization, the Economic Decentralization Bill, the fight over the 1,800-yen wage standard and the new 1,700-yen rice price, coal control, 51 Imperial princes becoming commoners, and Liberal Party moves toward a new conservative party. Legal chapters give the revised Criminal Code, new judicial laws, war crimes trial totals, and the IMTFE defense cases of Hirota, Itagaki, Kaya, Kido and Kimura. Economic sections track the September typhoon and flood damage, coal, steel, textile, power, rail, labor, trade, rationing, finance, property and reparations figures. Social sections cover nutrition surveys, disease rates, welfare, schools, religion and media. Historians will find detailed production, price and wage data and the full text of SCAP's police-reform letter.",
  "highlights": [
-  "On 16 September MacArthur replied to Prime Minister Katayama's police plan, demanding full decentralization into local police under civilian commissions, a national rural police and a 125,000-man ceiling; the Cabinet approved a Police Reform Bill of 90 articles on 13 October.",
+  "On 16 September MacArthur replied to Prime Minister Katayama's police plan, demanding full decentralization into local police under civilian commissions, a national rural police and a 125,000-man ceiling; the Cabinet approved a 90-article Police Reform Bill on 13 October.",
   "The Diet enacted the National Public Service Law on 16 October, creating a three-member National Personnel Commission to set civil-service standards, with competitive examinations and merit promotion.",
   "On 22 October the Government fixed the 1947 producer rice price at 1,700 yen per koku (up from 550), while insisting on the 1,800-yen monthly wage standard, which labor federations and the press attacked.",
   "Fifty-one Imperial princes and princesses became commoners on 14 October, leaving only the Emperor's immediate family; 47,475,000 yen was approved in retirement allowances, with none for 11 former militarist princes.",
-  "The revised Criminal Code, enacted 26 October for effect on 15 November, abolished lese-majeste and wartime treason provisions and the adultery clause discriminating against women.",
-  "War crimes figures: 385 suspects tried by 24 October, 368 convicted and 17 acquitted, 33 death sentences (5 executed); 92 more interned in Sugamo, bringing the total to 1,062.",
-  "Floods and typhoons of September damaged 572 schools in nine prefectures, cut rail traffic in central Honshu, and caused over 7,000,000,000 yen in farm damage; Bank of Japan notes in circulation reached 167,665,000,000 yen.",
+  "The revised Criminal Code, enacted 26 October for effect on 15 November, abolished lese-majeste, wartime treason provisions and the adultery clause discriminating against women.",
+  "War crimes figures: 385 suspects tried by 24 October, 368 convicted and 17 acquitted, with 33 death sentences (5 executed); 92 more were interned in Sugamo, bringing the total to 1,062.",
+  "September floods and typhoons damaged 572 schools in nine prefectures, cut rail traffic in central Honshu and caused over 7,000,000,000 yen in farm damage; Bank of Japan notes in circulation reached 167,665,000,000 yen.",
   "On 2 October SCAP designated 17 arsenals holding about 19,054 metalworking machines for advance reparations transfer to China, the Netherlands, the Philippines and the United Kingdom."
  ],
  "keywords": [
@@ -44,7 +44,7 @@
    "printed_page": "1",
    "start_page": 6,
    "end_page": 13,
-   "summary": "Brief digest of the month: no change in SCAP organization, plus short political, economic and social summaries, including the Police Reform Bill, the 1,800-yen wage dispute and the September floods."
+   "summary": "Brief digest of the month: no change in SCAP organization, plus short political, economic and social summaries covering the Police Reform Bill, the 1,800-yen wage dispute and the September floods."
   },
   {
    "title": "Section 1. Organization Under SCAP",
@@ -60,7 +60,7 @@
    "printed_page": "3",
    "start_page": 7,
    "end_page": 8,
-   "summary": "Digest of the National Public Service Law (16 Oct), the 1,800-yen wage fight, Police Reform Bill, Economic Decentralization Bill, 51 princes losing status, party maneuvers and the Purge (315 removed centrally)."
+   "summary": "Digest of the National Public Service Law (16 Oct), 1,800-yen wage fight, Police Reform Bill, Economic Decentralization Bill, 51 princes losing status, party maneuvers and the Purge (315 removed centrally)."
   },
   {
    "title": "Section 3. Economic Activities",
@@ -68,7 +68,7 @@
    "printed_page": "5",
    "start_page": 8,
    "end_page": 10,
-   "summary": "Digest of land sales (69,568 cho), flood damage, coal up 188,300 tons, industry output, trade firsts, new rice quotas and price rises, finance (167.7 billion yen notes) and property control."
+   "summary": "Digest of land sales (69,568 cho), flood damage, coal up 188,300 tons, trade firsts, new rice quotas and price rises, finance (167.7 billion yen notes) and property control."
   },
   {
    "title": "Section 4. Social Activities",
@@ -76,7 +76,7 @@
    "printed_page": "11",
    "start_page": 10,
    "end_page": 13,
-   "summary": "Digest of nutrition survey, flood sanitation, National Disaster Law (20 Oct), 572 flood-damaged schools, Shosoin airing, SCAP exhibits and press, radio and film developments."
+   "summary": "Digest of nutrition survey, flood sanitation, National Disaster Law (20 Oct), 572 flood-damaged schools, Shosoin airing, SCAP exhibits, and press, radio and film developments."
   },
   {
    "title": "Part II: Political",
@@ -84,7 +84,7 @@
    "printed_page": "15",
    "start_page": 13,
    "end_page": 34,
-   "summary": "Government and politics, public safety, and legal affairs and war crimes, centered on civil-service reform, police decentralization, the Purge, the Criminal Code and the IMTFE defense phase."
+   "summary": "Covers the National Public Service Law, police decentralization after MacArthur's 16 September letter, the Purge, the revised Criminal Code, war crimes totals and the IMTFE defense phase."
   },
   {
    "title": "Section 1. Government and Politics",
@@ -108,7 +108,7 @@
    "printed_page": "39",
    "start_page": 25,
    "end_page": 34,
-   "summary": "Five judicial laws and the revised Criminal Code, war crimes investigations, apprehensions and trial results (385 tried), and defense presentations at the International Military Tribunal."
+   "summary": "Five judicial laws and the revised Criminal Code, war crimes apprehensions and trial results (385 tried), and defense presentations before the International Military Tribunal."
   },
   {
    "title": "Japanese Judicial Administration",
@@ -116,7 +116,7 @@
    "printed_page": "39",
    "start_page": 25,
    "end_page": 26,
-   "summary": "Diet passed laws on court reserve funds, popular review of Supreme Court judges, judge status and impeachment; Criminal Code abolishes lese-majeste and adultery clauses."
+   "summary": "Diet passed laws on court reserve funds, popular review of Supreme Court judges, judge status and impeachment; the Criminal Code abolishes lese-majeste and adultery clauses."
   },
   {
    "title": "Investigation, Apprehension and Prosecution of War Criminals",
@@ -148,7 +148,7 @@
    "printed_page": "",
    "start_page": 29,
    "end_page": 30,
-   "summary": "Defense of the former War Minister and Kwantung Army officer, including cross-examination on whether the China war intensified after he became Minister of War."
+   "summary": "Defense of the former War Minister and Kwantung Army officer Itagaki, including cross-examination on whether the China war intensified after he became Minister of War."
   },
   {
    "title": "Defense of Okinori Kaya",
@@ -156,7 +156,7 @@
    "printed_page": "",
    "start_page": 31,
    "end_page": 31,
-   "summary": "Kaya's defense as Finance Minister under Konoye and Tojo and president of the North China Development Company."
+   "summary": "Kaya's defense as Finance Minister under Konoye and Tojo and as president of the North China Development Company."
   },
   {
    "title": "Defense of Koichi Kido",
@@ -164,7 +164,7 @@
    "printed_page": "",
    "start_page": 32,
    "end_page": 33,
-   "summary": "Defense of the Lord Keeper of the Privy Seal, Koichi Kido, as presented to the Tribunal."
+   "summary": "Kido, diarist and Privy Seal keeper (heard 14-23 Oct), testified he opposed fascism, the Axis alliance and war, backed Tojo only to avert war, and said the Emperor could not stop a Cabinet-approved war."
   },
   {
    "title": "Defense of Heitaro Kimura",
@@ -180,7 +180,7 @@
    "printed_page": "59",
    "start_page": 35,
    "end_page": 132,
-   "summary": "Twelve sections on agriculture, mining, industry, textiles, transport, communications, labor, trade, rationing, finance and property, dominated by flood and typhoon effects and power shortages."
+   "summary": "Twelve sections on agriculture through property control, dominated by flood and typhoon effects and power shortages; figures include 312,280 tenants buying land, coal up 188,300 tons and 167.7 billion yen in notes."
   },
   {
    "title": "Section 1. Agriculture and Fisheries",
@@ -196,7 +196,7 @@
    "printed_page": "71",
    "start_page": 41,
    "end_page": 46,
-   "summary": "September log output fell to 453,320,000 board feet, 6,300,000 acres of forest inaccessible, coal output rose 188,300 tons but missed quota by 17,700, plus oil and mine production."
+   "summary": "September log output fell to 453,320,000 board feet, 6,300,000 acres of forest were inaccessible, and coal output rose 188,300 tons but missed quota by 17,700."
   },
   {
    "title": "Section 3. Heavy Industries",
@@ -204,7 +204,7 @@
    "printed_page": "83",
    "start_page": 47,
    "end_page": 55,
-   "summary": "Coke 176,900 tons, pig iron falling to 31,063 tons, crude runs 22,557 kiloliters, cement down 13 percent, fertilizer, chemicals, machine tools and rolling stock hampered by power shortages."
+   "summary": "Coke 176,900 tons, pig iron falling to 31,063 tons, crude runs 22,557 kiloliters and cement down 13 percent; power shortages hampered fertilizer, chemicals, machine tools and rolling stock."
   },
   {
    "title": "Section 4. Manufacturing",
@@ -212,7 +212,7 @@
    "printed_page": "101",
    "start_page": 56,
    "end_page": 65,
-   "summary": "Food processing, brewing, tobacco, pulp and paper, glass, optical and medical instruments, bricks, motor vehicles, leather and farm implements; canned food fell from 848 to 350 tons."
+   "summary": "Food processing, brewing, tobacco, pulp and paper, glass, instruments, motor vehicles, leather and farm implements; canned food fell from 848 to 350 tons."
   },
   {
    "title": "Section 5. Textile Industries",
@@ -220,7 +220,7 @@
    "printed_page": "121",
    "start_page": 66,
    "end_page": 81,
-   "summary": "905,353 bales of U.S. cotton received, raw silk up 540 bales, rayon exports prioritized for power, wool and cotton output down, plus knit goods, clothing, sundry goods and dyeing."
+   "summary": "905,353 bales of U.S. cotton received, raw silk up 540 bales, rayon exports prioritized for power, and wool and cotton output down."
   },
   {
    "title": "Section 6. Transportation and Public Utilities",
@@ -228,7 +228,7 @@
    "printed_page": "153",
    "start_page": 82,
    "end_page": 87,
-   "summary": "Registered trucks and buses hit 99,492, rail passengers fell 6.6 percent to 284,246,252 after typhoon damage, electric generation dropped 3.8 percent to 2,368,168,000 kWh, and gas output declined."
+   "summary": "Registered trucks and buses hit 99,492, rail passengers fell 6.6 percent to 284,246,252 after typhoon damage, and electric generation dropped 3.8 percent to 2,368,168,000 kWh."
   },
   {
    "title": "Section 7. Communications",
@@ -236,7 +236,7 @@
    "printed_page": "165",
    "start_page": 88,
    "end_page": 94,
-   "summary": "Radiotelegraph service extended to Egypt and about 75 British Commonwealth points on 15 October, 1,090,426 telephones in service, flood repairs, mail, equipment and Ministry finances."
+   "summary": "Radiotelegraph service extended to Egypt and about 75 British Commonwealth points on 15 October; 1,090,426 telephones in service; flood repairs."
   },
   {
    "title": "Section 8. Labor",
@@ -244,7 +244,7 @@
    "printed_page": "179",
    "start_page": 95,
    "end_page": 103,
-   "summary": "Employment Security Law delayed to 1 December, Economic Reconstruction Council program, communications workers' dispute over the 1,800-yen standard, 762,000-yen labor education plan, wage rises and retrenchment."
+   "summary": "Employment Security Law delayed to 1 December, communications workers' dispute over the 1,800-yen standard, a 762,000-yen labor education plan, wage rises and retrenchment."
   },
   {
    "title": "Section 9. Imports and Exports",
@@ -252,7 +252,7 @@
    "printed_page": "197",
    "start_page": 104,
    "end_page": 115,
-   "summary": "First postwar trade shipments: Korean apples, canned peaches to Singapore, wool via Singapore, tungsten from Korea, buttons to Sweden, with detailed tables by commodity group."
+   "summary": "First postwar trade shipments: Korean apples, canned peaches to Singapore, wool via Singapore, tungsten from Korea and buttons to Sweden, with tables by commodity group."
   },
   {
    "title": "Section 10. Rationing and Price Control",
@@ -268,7 +268,7 @@
    "printed_page": "235",
    "start_page": 123,
    "end_page": 128,
-   "summary": "46 licensed foreign concerns, notes at 167,665,000,000 yen, bank and savings figures, liquidation proceeds, and national debt of 312,091,000,000 yen on 30 September."
+   "summary": "46 licensed foreign concerns, notes at 167,665,000,000 yen, and national debt of 312,091,000,000 yen on 30 September."
   },
   {
    "title": "Section 12. Property Control and Reparations",
@@ -276,7 +276,7 @@
    "printed_page": "247",
    "start_page": 129,
    "end_page": 132,
-   "summary": "7,184 reports on neutral and Allied properties, looted property returned to China and the Philippines, precious-metal allocations, 378 cartel applications cleared, and 17 arsenals designated for reparations."
+   "summary": "7,184 reports on neutral and Allied properties, looted property returned to China and the Philippines, 378 cartel applications cleared, and 17 arsenals designated for reparations."
   },
   {
    "title": "Part IV: Social",
@@ -284,7 +284,7 @@
    "printed_page": "255",
    "start_page": 133,
    "end_page": 158,
-   "summary": "Public health and welfare, and education, religion and media of expression, with nutrition and disease statistics, flood school damage and a map of Japan."
+   "summary": "Public health and welfare plus education, religion and media: nutrition and disease statistics, 572 flood-damaged schools and a map of Japan."
   },
   {
    "title": "Section 1. Public Health and Welfare",
@@ -292,7 +292,7 @@
    "printed_page": "257",
    "start_page": 134,
    "end_page": 147,
-   "summary": "August nutrition survey (Tokyo 1,704 calories), communicable diseases, hospitals, medical supplies worth 609,550,258 yen, narcotics, 3,210,865 persons on public assistance, repatriation and vital statistics."
+   "summary": "August nutrition survey (Tokyo 1,704 calories), medical supplies worth 609,550,258 yen, 3,210,865 persons on public assistance, plus communicable diseases, narcotics, repatriation and vital statistics."
   },
   {
    "title": "Section 2. Education, Religion and Media of Expression",
@@ -300,11 +300,13 @@
    "printed_page": "283",
    "start_page": 148,
    "end_page": 158,
-   "summary": "572 flood-damaged schools, teacher training, new university standards, Shosoin airing, 81 showings of SCAP exhibits, press, radio, film, SCAP Information Library and a map of Japan."
+   "summary": "572 flood-damaged schools, teacher training, new university standards, Shosoin airing, 81 showings of SCAP exhibits, and press, radio, film and SCAP Information Library developments."
   }
  ],
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 158,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

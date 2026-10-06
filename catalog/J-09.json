@@ -1,13 +1,14 @@
 {
  "embedded_issues": [],
  "highlights": [
-  "Emperor Hirohito formally opened the 90th Imperial Diet speaking in colloquial Japanese for the first time, submitting the government's draft revised constitution for deliberation.",
-  "The Japanese Government notified eight newly elected members of the House of Representatives, including prominent party leaders, that they were disqualified under the Purge Directive.",
-  "At the International Military Tribunal for the Far East, Chief Prosecutor Joseph B. Keenan delivered opening arguments, and defendant Yosuke Matsuoka died of tuberculosis.",
-  "To alleviate desperate urban starvation, SCAP authorized the emergency distribution of 47,807 long tons of imported cereals and U.S. Army excess food stocks.",
-  "The first postwar shipments of American raw cotton arrived in Japan, initiating the processing and manufacture of cotton goods for export.",
-  "SCAP ordered the dissolution of the Japan Lumber Company and local lumber monopolies, restoring distribution functions to voluntary democratic associations.",
-  "Strict quarantine measures and naval patrols were instituted to contain a 25-case cholera outbreak on Tsushima traced to illicit shipping from Korea."
+  "Emperor Hirohito opened the 90th Imperial Diet speaking colloquial Japanese for the first time and submitted the government's draft revised constitution, while Prime Minister Yoshida outlined government policies.",
+  "Eight newly elected House of Representatives members were disqualified under the Purge Directive, and several peers were also purged; the Demobilization Board was created.",
+  "At the IMTFE, Chief Prosecutor Joseph B. Keenan delivered the opening statement, and defendant Yosuke Matsuoka died; SCAP also ordered 56 war crime suspects arrested.",
+  "Urban food deficits forced SCAP to release 47,807 long tons of imported cereals and flour, while staple food reserves fell to 45.3 days.",
+  "The first postwar American raw cotton arrived (21,712 bales), lifting cotton weaving 50 percent for export, though coal shortages continued to restrict heavy industry.",
+  "SCAP ordered the monopolistic Japan Lumber Company dissolved; May coal output of 1,695,000 metric tons fell below minimum quotas.",
+  "Registered union membership reached 2,695,988 in 7,207 unions, the April census counted 5,600,000 unemployed, and the Cabinet approved the Labor Disputes Adjustment Bill.",
+  "Strict quarantine contained cholera outbreaks on Tsushima and in Kyushu, 16,000,000 people were revaccinated against smallpox, and cumulative repatriates reached 3,685,378."
  ],
  "keywords": [
   "Diet",
@@ -30,7 +31,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Title pages, table of contents, and list of charts, maps, and graphs for Summation No. 9.",
+   "summary": "Title pages, table of contents, and list of charts, maps and graphs for Summation No. 9 (June 1946).",
    "title": "Front matter"
   },
   {
@@ -38,7 +39,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 4,
-   "summary": "Monthly summary of political, economic, and social developments in Japan for June 1946.",
+   "summary": "June 1946 overview: the 90th Diet opened with the draft constitution, eight members were purged, raw cotton arrived, food reserves fell to 45.3 days, and cholera was quarantined in Kyushu.",
    "title": "Part I: General"
   },
   {
@@ -54,7 +55,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 5,
-   "summary": "The 90th Imperial Diet opened with the Emperor speaking in colloquial Japanese and receiving the draft constitution. SCAP conferred with 31 women Diet members, eight Diet members were purged, and the Demobilization Board was created under Shidehara.",
+   "summary": "The 90th Imperial Diet opened with the Emperor speaking in colloquial Japanese and receiving the draft constitution. SCAP conferred with 31 women Diet members, eight members were purged, and the Demobilization Board was created.",
    "title": "Political Activities"
   },
   {
@@ -62,7 +63,7 @@
    "level": 2,
    "printed_page": "9",
    "start_page": 8,
-   "summary": "SCAP extended authorized fishing grounds, while coal and lumber production remained below target. The first shipment of American raw cotton arrived, staple food reserves fell to 45.3 days, and currency circulation reached ¥40,644,000,000.",
+   "summary": "Fishing grounds were extended, while coal and lumber output stayed below target. First American raw cotton arrived, staple food reserves fell to 45.3 days, and currency circulation reached ¥40,644,000,000.",
    "title": "Economic Activities"
   },
   {
@@ -70,7 +71,7 @@
    "level": 2,
    "printed_page": "15",
    "start_page": 11,
-   "summary": "Public relief assisted 2,182,662 individuals, and cumulative Japanese repatriates reached 3,685,378. Teacher screening began in Chiba Prefecture, the Ministry of Education published the new Teachers' Manual, and cholera outbreaks in Kyushu were quarantined.",
+   "summary": "Public relief assisted 2,182,662 people and cumulative repatriates reached 3,685,378. Teacher screening began in Chiba, the new Teachers' Manual was published, and Kyushu cholera outbreaks were quarantined.",
    "title": "Social Activities"
   },
   {
@@ -78,7 +79,7 @@
    "level": 1,
    "printed_page": "19",
    "start_page": 13,
-   "summary": "Covers Japanese government administration, political parties, Diet proceedings, public safety, and war crimes trials.",
+   "summary": "Political part: the 90th Diet and draft constitution, purge of eight members, Ueno black-market raid, 1,550 occupation court cases, and Keenan's IMTFE opening statement with Matsuoka's death.",
    "title": "Part II: Political"
   },
   {
@@ -86,7 +87,7 @@
    "level": 2,
    "printed_page": "21",
    "start_page": 14,
-   "summary": "The 90th Diet convened as the Emperor submitted the draft constitution and Prime Minister Yoshida outlined government policies. Eight Diet members and several peers were purged, the Demobilization Board was established, and the Emperor toured Chiba and Shizuoka.",
+   "summary": "The 90th Diet convened as the Emperor submitted the draft constitution and Prime Minister Yoshida outlined policy. Eight Diet members and several peers were purged; the Demobilization Board was established; the Emperor toured Chiba and Shizuoka.",
    "title": "Government and Civil Administration"
   },
   {
@@ -94,7 +95,7 @@
    "level": 2,
    "printed_page": "49",
    "start_page": 28,
-   "summary": "Mass demonstrations subsided following SCAP warnings, police raided Tokyo's Ueno black market, and crackdowns targeted lethal bootleg liquor. Recommendations were submitted for police decentralization, while prison death rates remained critically elevated.",
+   "summary": "Mass demonstrations subsided after SCAP warnings, police raided Tokyo's Ueno black market, and lethal bootleg liquor was targeted. Police decentralization recommendations were submitted; prison death rates stayed critically high.",
    "title": "Public Safety and Intelligence"
   },
   {
@@ -102,7 +103,7 @@
    "level": 2,
    "printed_page": "57",
    "start_page": 32,
-   "summary": "Military occupation courts heard 1,550 cases, and SCAP ordered the arrest of 56 war crime suspects. At the IMTFE, Chief Prosecutor Keenan presented opening statements, key witnesses testified on Japanese militarism, and defendant Yosuke Matsuoka died.",
+   "summary": "Occupation courts heard 1,550 cases and SCAP ordered 56 war crime suspects arrested. At the IMTFE, Chief Prosecutor Keenan gave opening statements, witnesses testified on militarism, and defendant Yosuke Matsuoka died.",
    "title": "Legal and War Crimes"
   },
   {
@@ -110,7 +111,7 @@
    "level": 1,
    "printed_page": "61",
    "start_page": 44,
-   "summary": "Covers natural resources, industry, commerce, labor, finance, trade, and reparations.",
+   "summary": "Economic part: Japan Lumber Company dissolved, May coal at 1,695,000 tons, first raw cotton, 47,807 long tons of emergency cereals, 2,695,988 union members, and 10 zaibatsu families' property impounded.",
    "title": "Part III: Economic"
   },
   {
@@ -118,7 +119,7 @@
    "level": 2,
    "printed_page": "83",
    "start_page": 45,
-   "summary": "A reconnaissance soil survey of Kyushu was completed, and SCAP doubled authorized offshore fishing and whaling areas. Hokkaido herring catches reached 207,947 metric tons, while live ko-ayu fry were transplanted from Lake Biwa to nationwide streams.",
+   "summary": "A reconnaissance soil survey of Kyushu was completed and SCAP doubled authorized offshore fishing and whaling areas. Hokkaido herring catches reached 207,947 metric tons; ko-ayu fry were transplanted from Lake Biwa.",
    "title": "Agriculture and Fisheries"
   },
   {
@@ -126,7 +127,7 @@
    "level": 2,
    "printed_page": "93",
    "start_page": 50,
-   "summary": "SCAP ordered dissolution of the monopolistic Japan Lumber Company. May coal output reached 1,695,000 metric tons, failing minimum quotas due to food shortages, while a newly formed petroleum committee estimated national reserves at 10,000,000 kiloliters.",
+   "summary": "SCAP ordered the monopolistic Japan Lumber Company dissolved. May coal output of 1,695,000 metric tons missed minimum quotas for lack of food, and a petroleum committee estimated reserves at 10,000,000 kiloliters.",
    "title": "Forestry and Mining"
   },
   {
@@ -134,7 +135,7 @@
    "level": 2,
    "printed_page": "105",
    "start_page": 56,
-   "summary": "Production gains occurred in pig iron, steel, aluminum, and cement, but severe coal shortages restricted metal refining and chemical output. Commercial nitrogenous fertilizer production reached half of prewar peak levels, and 250 merchant vessels were repaired.",
+   "summary": "Pig iron, steel, aluminum and cement output rose, but coal shortages restricted refining and chemicals. Nitrogenous fertilizer reached half of prewar peak and 250 merchant vessels were repaired.",
    "title": "Heavy Industries"
   },
   {
@@ -142,7 +143,7 @@
    "level": 2,
    "printed_page": "123",
    "start_page": 65,
-   "summary": "Canned fish and flour milling production increased, but shortages of fuel and containers constrained food processing. Output rose for paper, sheet glass, and bicycles, while 1,272 truck chassis and expanding supplies of farm implements were manufactured.",
+   "summary": "Canned fish and flour milling rose despite fuel and container shortages. Paper, sheet glass and bicycle output increased, and 1,272 truck chassis plus growing farm implement supplies were manufactured.",
    "title": "Manufacturing"
   },
   {
@@ -150,7 +151,7 @@
    "level": 2,
    "printed_page": "149",
    "start_page": 78,
-   "summary": "The first post-war American raw cotton arrived for processing, boosting cotton cloth weaving by 50 percent for export. Raw silk production rose to 7,540 bales, rayon pulp manufacturing resumed, and silk fabric output more than doubled.",
+   "summary": "First postwar American raw cotton arrived, raising cotton weaving 50 percent for export. Raw silk reached 7,540 bales, rayon pulp manufacture resumed, and silk fabric output more than doubled.",
    "title": "Textile Industries"
   },
   {
@@ -158,7 +159,7 @@
    "level": 2,
    "printed_page": "177",
    "start_page": 92,
-   "summary": "Rail freight increased to 8,527,200 metric tons and rolling stock additions improved operations, while coastal shipping declined slightly. Hydroelectric generation supplied ample electric power, but 70 percent of municipal gas capacity remained idle for lack of coal.",
+   "summary": "Rail freight rose to 8,527,200 metric tons and coastal shipping dipped slightly. Hydroelectric power was ample, but 70 percent of municipal gas capacity sat idle for lack of coal.",
    "title": "Transportation and Public Utilities"
   },
   {
@@ -166,7 +167,7 @@
    "level": 2,
    "printed_page": "195",
    "start_page": 96,
-   "summary": "An Imperial ordinance elevated the Board of Communications to a Ministry effective 1 July. Higher domestic postal and telephone rates were introduced, radio receiver production jumped 40 percent, and the 400,000-member All Japan Communications Workers' Union was inaugurated.",
+   "summary": "An Imperial ordinance raised the Board of Communications to a Ministry from 1 July. Postal and telephone rates rose, radio receiver output jumped 40 percent, and the 400,000-member All Japan Communications Workers' Union was inaugurated.",
    "title": "Communications"
   },
   {
@@ -174,7 +175,7 @@
    "level": 2,
    "printed_page": "199",
    "start_page": 103,
-   "summary": "The Cabinet approved the Labor Disputes Adjustment Bill, and registered union membership reached 2,695,988 across 7,207 unions. The April census revealed 5,600,000 totally or partially unemployed persons, and plans were made to establish a separate Ministry of Labor.",
+   "summary": "The Cabinet approved the Labor Disputes Adjustment Bill; union membership reached 2,695,988 in 7,207 unions. The April census found 5,600,000 totally or partially unemployed, and a separate Ministry of Labor was planned.",
    "title": "Labor"
   },
   {
@@ -182,7 +183,7 @@
    "level": 2,
    "printed_page": "211",
    "start_page": 109,
-   "summary": "Arrival of 21,712 bales of American raw cotton initiated Japan's textile export-import program. June exports included 11,053 bales of raw silk and 70,000 metric tons of coal, while imports provided 60,000 tons of food grains and Chinese wheat bran.",
+   "summary": "Arrival of 21,712 bales of American raw cotton began the textile export-import program. June exports included 11,053 bales of raw silk and 70,000 tons of coal; imports included 60,000 tons of food grains.",
    "title": "Imports and Exports"
   },
   {
@@ -190,7 +191,7 @@
    "level": 2,
    "printed_page": "217",
    "start_page": 112,
-   "summary": "Critical urban food deficits required emergency SCAP releases of 47,807 long tons of imported cereals and flour. New official vegetable ceilings eliminated subsidies, rubber goods prices were adjusted upward, and economic police recorded 144,353 rationing and price violations.",
+   "summary": "Urban food deficits forced SCAP to release 47,807 long tons of imported cereals and flour. New vegetable ceilings ended subsidies, rubber goods prices rose, and economic police logged 144,353 rationing and price violations.",
    "title": "Rationing and Price Control"
   },
   {
@@ -198,7 +199,7 @@
    "level": 2,
    "printed_page": "231",
    "start_page": 119,
-   "summary": "Bank of Japan note issue reached ¥40,644,000,000, though the daily expansion rate slowed. The government operated under temporary budget authorizations and short-term loans, local tax reforms were enacted to raise ¥3,327,000,000, and national debt reached ¥203,064,000,000.",
+   "summary": "Bank of Japan note issue reached ¥40,644,000,000 as daily growth slowed. The government ran on temporary budgets and short-term loans, local tax reform aimed at ¥3,327,000,000, and national debt hit ¥203,064,000,000.",
    "title": "Finance"
   },
   {
@@ -206,7 +207,7 @@
    "level": 2,
    "printed_page": "239",
    "start_page": 123,
-   "summary": "SCAP impounded properties of 10 zaibatsu families, placed four second-line holding companies under surveillance, and added 17 holding companies to the restricted schedule. Custody was reported over 594 potential reparations facilities and ¥63,024,347 in war criminal assets.",
+   "summary": "SCAP impounded properties of 10 zaibatsu families, put four second-line holding companies under surveillance, and added 17 holding companies to the restricted schedule. Custody covered 594 potential reparations facilities and ¥63,024,347 in war criminal assets.",
    "title": "Property Control and Reparations"
   },
   {
@@ -214,7 +215,7 @@
    "level": 1,
    "printed_page": "251",
    "start_page": 129,
-   "summary": "Covers public health, welfare, repatriation, education, religion, arts, monuments, and media of expression.",
+   "summary": "Social part: welfare relief and repatriation (3,685,378 returned), cholera quarantine in Tsushima and Kyushu, smallpox revaccination of 16,000,000, Chiba teacher screening and the new Teachers' Manual.",
    "title": "Part IV: Social"
   },
   {
@@ -222,7 +223,7 @@
    "level": 2,
    "printed_page": "253",
    "start_page": 130,
-   "summary": "Welfare relief assisted 2,182,493 individuals, while repatriates returned to Japan reached 3,685,378. Rigorous port quarantines and sanitary cordons contained cholera outbreaks in Tsushima and Kyushu, 16,000,000 people were revaccinated against smallpox, and DDT duster production expanded.",
+   "summary": "Relief assisted 2,182,493 people and repatriates totaled 3,685,378. Port quarantines and sanitary cordons contained cholera in Tsushima and Kyushu, 16,000,000 were revaccinated against smallpox, and DDT duster production expanded.",
    "title": "Public Health and Welfare"
   },
   {
@@ -230,7 +231,7 @@
    "level": 2,
    "printed_page": "269",
    "start_page": 138,
-   "summary": "Teacher screening was launched in Chiba Prefecture, the Ministry of Education distributed the new democratic Teachers' Manual, and Imperial portrait depositories were removed from schools. The Tokyo war crimes trials and Diet constitution debates dominated public media.",
+   "summary": "Teacher screening began in Chiba Prefecture, the Ministry of Education issued the new democratic Teachers' Manual, and Imperial portrait depositories were removed from schools. Tokyo trials and constitution debates dominated the media.",
    "title": "Education, Religion and Media of Expression"
   }
  ],
@@ -240,5 +241,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 146,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

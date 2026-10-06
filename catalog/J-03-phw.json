@@ -1,11 +1,13 @@
 {
  "highlights": [
-  "SCAP ordered the transfer of 292 Japanese Army and Navy hospitals with 156,725 beds to the Ministry of Health and Welfare for civilian use.",
-  "By 30 December 1945, 924,584 Japanese nationals returned to Japan, while 654,523 Koreans, Chinese, Formosans, and Ryukyuans were repatriated from the Home Islands.",
-  "The 1 November 1945 census recorded Japan's population at 71,996,477, showing major urban populations like Tokyo falling by up to 60 percent due to wartime dispersal.",
-  "A large-scale nutrition survey across Tokyo examined 33,000 residents and 2,777 households, finding no evidence supporting rumors of widespread civilian starvation deaths.",
-  "Emergency DDT dusting and quarantine procedures reduced weekly typhus cases among Hokkaido coal miners from 151 in early November to 44 in December.",
-  "SCAP intervened in Japanese Cabinet civil service retrenchment plans to prevent indiscriminate 50 percent personnel cuts among technical public health staff."
+  "SCAP ordered 292 Japanese Army and Navy hospitals with 156,725 beds transferred to the Ministry of Health and Welfare for civilian use, against existing civilian capacity of 142,926 beds.",
+  "By 30 December 1945, 924,584 Japanese nationals had returned to Japan, while 654,523 Koreans, Chinese, Formosans and Ryukyuans were repatriated from the Home Islands.",
+  "The 1 November 1945 census put Japan's population at 71,996,477, with major cities such as Tokyo falling by up to 60 percent because of wartime dispersal.",
+  "A Tokyo nutrition survey examined 33,000 residents and 2,777 households and, with post-mortem findings, found no evidence for rumors of widespread civilian starvation deaths.",
+  "Emergency DDT dusting, an airlift of DDT and quarantine procedures cut weekly typhus cases among Hokkaido coal miners from 151 in early November to 44 in December.",
+  "SCAP intervened in the Japanese Cabinet's civil service retrenchment plans to prevent indiscriminate 50 percent personnel cuts among technical public health staff.",
+  "The Japanese government was directed to administer destitution relief and distribute military reserve stocks, while SCAP issued a new venereal disease control ordinance.",
+  "A national refresher course trained 250 public health nurses from 46 prefectures, and the Nurses Association petitioned for self-governing status."
  ],
  "keywords": [
   "public health",
@@ -28,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Contains the report title, table of contents, and organizational overview for the Public Health and Welfare section.",
+   "summary": "Report title, table of contents and organizational overview of the Public Health and Welfare Section.",
    "title": "Front matter"
   },
   {
@@ -36,7 +38,7 @@
    "level": 1,
    "printed_page": "151",
    "start_page": 1,
-   "summary": "Reports disease incidence including typhus and smallpox control, post-mortem findings showing no starvation deaths, relief directives, and the ordered transfer of military hospitals to civilian use.",
+   "summary": "Summarizes typhus and smallpox control, post-mortem findings showing no starvation deaths, relief directives, and the ordered transfer of military hospitals to civilian use.",
    "title": "General"
   },
   {
@@ -44,7 +46,7 @@
    "level": 1,
    "printed_page": "152",
    "start_page": 2,
-   "summary": "Directs the Japanese government to administer destitution relief and distribute military reserve stocks, while reporting the repatriation of 654,523 non-Japanese from Japan and 924,584 Japanese nationals to the home islands.",
+   "summary": "The Japanese government was directed to administer destitution relief and distribute military reserve stocks. Repatriation totaled 654,523 non-Japanese leaving and 924,584 Japanese nationals arriving.",
    "title": "Public Welfare"
   },
   {
@@ -52,7 +54,7 @@
    "level": 1,
    "printed_page": "153",
    "start_page": 3,
-   "summary": "Civilian hospital capacity reached 142,926 beds with declining in-patient numbers, while SCAP ordered the transfer of 292 military hospitals with 156,725 beds to the Health Ministry for civilian use.",
+   "summary": "Civilian hospital capacity reached 142,926 beds while in-patient numbers declined. SCAP ordered 292 military hospitals with 156,725 beds transferred to the Health Ministry for civilian use.",
    "title": "Administration of Hospitals"
   },
   {
@@ -60,7 +62,7 @@
    "level": 1,
    "printed_page": "154",
    "start_page": 4,
-   "summary": "Reports the 1945 livestock census showing declines in cattle and poultry, horse breeding operations, animal disease outbreaks including swine cholera in Osaka, and slaughterhouse and dairy inspection statistics.",
+   "summary": "The 1945 livestock census showed declines in cattle and poultry. Also covers horse breeding, animal disease outbreaks including swine cholera in Osaka, and slaughterhouse and dairy inspection statistics.",
    "title": "Veterinary Affairs"
   },
   {
@@ -68,7 +70,7 @@
    "level": 1,
    "printed_page": "158",
    "start_page": 8,
-   "summary": "Shortages of equipment, supplies, and housing hampered dental practices, though manufacturing facilities were deemed adequate if fuel and materials are provided; 295 dentists resumed practice in November.",
+   "summary": "Shortages of equipment, supplies and housing hampered dental practice, though manufacturing facilities were judged adequate if fuel and materials are supplied. 295 dentists resumed practice in November.",
    "title": "Dental Affairs"
   },
   {
@@ -76,7 +78,7 @@
    "level": 1,
    "printed_page": "158",
    "start_page": 8,
-   "summary": "Efforts began to standardize nursing education and prefectural licensing, a national refresher course trained 250 public health nurses from 46 prefectures, and the Nurses Association petitioned for self-governing status.",
+   "summary": "Standardization of nursing education and prefectural licensing began. A national refresher course trained 250 public health nurses from 46 prefectures, and the Nurses Association petitioned for self-governing status.",
    "title": "Nursing Affairs"
   },
   {
@@ -84,7 +86,7 @@
    "level": 1,
    "printed_page": "158",
    "start_page": 8,
-   "summary": "Details the distribution of returned military medical stocks and controlled drugs, emergency airlift of DDT for typhus control, production bottlenecks in biologicals and penicillin, and the impounding of raw opium stocks.",
+   "summary": "Covers distribution of returned military medical stocks and controlled drugs, emergency airlift of DDT for typhus control, bottlenecks in biologicals and penicillin production, and impounding of raw opium stocks.",
    "title": "Supply"
   },
   {
@@ -92,7 +94,7 @@
    "level": 1,
    "printed_page": "161",
    "start_page": 11,
-   "summary": "Covers the new venereal disease control ordinance, SCAP intervention to prevent indiscriminate 50 percent personnel cuts of technical staff in the Health Ministry, and deficient drug standards legislation.",
+   "summary": "A new venereal disease control ordinance was issued. SCAP intervened to prevent indiscriminate 50 percent personnel cuts among Health Ministry technical staff; drug standards legislation was found deficient.",
    "title": "Legal"
   },
   {
@@ -100,7 +102,7 @@
    "level": 1,
    "printed_page": "162",
    "start_page": 12,
-   "summary": "Covers communicable disease control including DDT dusting, water supply chlorination, Tokyo nutrition surveys refuting starvation rumors, port quarantine operations, and the November 1945 census revealing dramatic wartime urban-to-rural population shifts.",
+   "summary": "Covers DDT dusting, water chlorination, Tokyo nutrition surveys refuting starvation rumors, port quarantine, and the November 1945 census showing dramatic wartime urban-to-rural population shifts.",
    "title": "Preventive Medicine"
   }
  ],
@@ -110,5 +112,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 18,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

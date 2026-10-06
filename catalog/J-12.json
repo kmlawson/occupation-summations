@@ -1,12 +1,14 @@
 {
  "embedded_issues": [],
  "highlights": [
-  "The Diet passed four local government reform bills providing for the direct popular election of prefectural governors, city mayors, and local headmen.",
+  "The Diet passed four local government reform bills providing for direct popular election of prefectural governors, city mayors, and local headmen, while the House of Peers reviewed the draft constitution line by line.",
   "The Cabinet announced that 899 high-ranking government and political figures were forced to resign under the SCAP Purge Directive.",
-  "The Diet enacted the Labor Relations Adjustment Law, and a 10-day general strike by the All-Japan Seamen's Union was successfully arbitrated.",
-  "The Holding Company Liquidation Commission designated the top five Zaibatsu holding companies—Mitsui, Mitsubishi, Sumitomo, Yasuda, and Fuji Industrial—for dissolution.",
-  "International postal service from Japan was officially resumed on 10 September to all nations except Germany.",
-  "The International Military Tribunal for the Far East heard detailed prosecution evidence exposing Japanese state-sponsored opium monopolies and narcotics trafficking in occupied China."
+  "The Diet enacted the Labor Relations Adjustment Law amid labor strife, including a 10-day maritime strike and a narrowly averted railway strike; union membership passed 3.7 million.",
+  "The Holding Company Liquidation Commission designated five Zaibatsu holding companies (Mitsui, Mitsubishi, Sumitomo, Yasuda, and Fuji Industrial) for dissolution.",
+  "Bills for a 100 percent war indemnities tax and a progressive capital levy were introduced, while Bank of Japan note circulation reached a record ¥64.4 billion.",
+  "International postal service from Japan resumed on 10 September; General Orders No. 30 of 7 September created the Civil Transportation Section as a Special Staff Section of GHQ, SCAP.",
+  "Relief disbursements exceeded ¥101 million under the new Daily Life Security Law, and 248,677 Japanese were repatriated during the period.",
+  "The IMTFE heard prosecution evidence on Japanese state-sponsored opium monopolies and narcotics trafficking in occupied China."
  ],
  "keywords": [
   "Constitution of Japan",
@@ -37,7 +39,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 5,
-   "summary": "General summary of non-military activities in Japan during September 1946.",
+   "summary": "General summary of September 1946: Civil Transportation Section created, House of Peers reviewing the draft constitution, Labor Relations Adjustment Law, Zaibatsu dissolution, international mail resumed, and repatriation of over 248,000 Japanese.",
    "title": "Part I: General"
   },
   {
@@ -53,7 +55,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 6,
-   "summary": "Summarizes the House of Peers' review of the draft constitution, party reorganizations, Diet legislation, local government reform bills, and war crimes proceedings.",
+   "summary": "House of Peers debated the draft constitution; Shinsei-kai formed the New People's Party; four local government reform bills passed 20 September; 899 leaders purged; 165 war crimes suspects ordered delivered to Sugamo.",
    "title": "Political Activities"
   },
   {
@@ -61,7 +63,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 8,
-   "summary": "Summarizes economic developments, including agricultural forecasts, industrial output, resumption of international mail, passage of the Labor Relations Adjustment Law, and Zaibatsu dissolution actions.",
+   "summary": "Covers agricultural forecasts, industrial output, resumption of international mail, passage of the Labor Relations Adjustment Law, and Zaibatsu dissolution actions.",
    "title": "Economic Activities"
   },
   {
@@ -69,7 +71,7 @@
    "level": 2,
    "printed_page": "11",
    "start_page": 10,
-   "summary": "Summarizes social conditions, including passage of the Daily Life Security Bill, repatriation of over 248,000 Japanese, meetings of the Educational Reform Committee, and public health programs.",
+   "summary": "Covers passage of the Daily Life Security Bill, repatriation of over 248,000 Japanese, Educational Reform Committee meetings, and public health programs.",
    "title": "Social Activities"
   },
   {
@@ -77,7 +79,7 @@
    "level": 1,
    "printed_page": "15",
    "start_page": 13,
-   "summary": "Political activities in Japan during September 1946, covering civil administration, public safety, and legal affairs.",
+   "summary": "Political activities in September 1946: the draft constitution, purge of 899 officials, local government reform bills, black-market crackdowns, juvenile delinquency, and IMTFE narcotics testimony.",
    "title": "Part II: Political"
   },
   {
@@ -85,7 +87,7 @@
    "level": 2,
    "printed_page": "17",
    "start_page": 14,
-   "summary": "Reports the House of Peers' deliberations on the draft constitution, political party realignments, the purge of 899 officials, and the Diet's passage of four major local government reform bills.",
+   "summary": "House of Peers deliberated the draft constitution; political parties realigned; 899 officials were purged; the Diet passed four major local government reform bills.",
    "title": "Government and Civil Administration"
   },
   {
@@ -93,7 +95,7 @@
    "level": 2,
    "printed_page": "23",
    "start_page": 17,
-   "summary": "Details black-market crackdowns, rising juvenile delinquency, police organizational adjustments, Tokyo fire prevention measures, and July fire losses totaling over ¥294 million.",
+   "summary": "Black-market crackdowns, rising juvenile delinquency, police adjustments, Tokyo fire prevention measures, and July fire losses of over ¥294 million.",
    "title": "Public Safety and Intelligence"
   },
   {
@@ -101,7 +103,7 @@
    "level": 2,
    "printed_page": "27",
    "start_page": 19,
-   "summary": "Covers Japanese judicial code revisions, occupation court trials, apprehension and sentencing of war criminals, and IMTFE testimony regarding Japanese-administered narcotics trade, economic exploitation in China, and Axis treaty negotiations.",
+   "summary": "Judicial code revisions, occupation court trials, sentencing of war criminals, and IMTFE testimony on Japanese-run narcotics trade, economic exploitation in China, and Axis treaty negotiations.",
    "title": "Legal and War Crimes"
   },
   {
@@ -109,7 +111,7 @@
    "level": 1,
    "printed_page": "47",
    "start_page": 29,
-   "summary": "Economic activities in Japan during August and September 1946, spanning natural resources, commerce, industry, finance, and reparations.",
+   "summary": "Economic activities in August and September 1946: rice harvest, coal and industrial output, textiles, 10-day maritime strike, trade, record note circulation, Zaibatsu dissolution, and reparations.",
    "title": "Part III: Economic"
   },
   {
@@ -117,7 +119,7 @@
    "level": 2,
    "printed_page": "49",
    "start_page": 30,
-   "summary": "Reports favorable rice harvest estimates, August fish catches reaching 79,368 metric tons, plans for the Antarctic whaling expedition, and pearl oyster harvesting in Ago Bay.",
+   "summary": "Favorable rice harvest estimates, August fish catch of 79,368 metric tons, Antarctic whaling expedition plans, and pearl oyster harvesting in Ago Bay.",
    "title": "Agriculture and Fisheries"
   },
   {
@@ -125,7 +127,7 @@
    "level": 2,
    "printed_page": "55",
    "start_page": 33,
-   "summary": "Details August lumber production, coal production rising to 1,770,200 metric tons, a five-year coal production goal, and crude petroleum output trends and labor disputes.",
+   "summary": "August coal production rose to 1,770,200 metric tons; a five-year coal goal is set; lumber production and crude petroleum output trends and labor disputes are reported.",
    "title": "Forestry and Mining"
   },
   {
@@ -133,7 +135,7 @@
    "level": 2,
    "printed_page": "67",
    "start_page": 41,
-   "summary": "Covers declines in iron, steel, and coke production due to coal shortages, civilian shipyard repairs, fertilizer manufacturing progress, and reparations designations of 396 machinery plants.",
+   "summary": "Iron, steel, and coke output fell because of coal shortages; civilian shipyard repairs and fertilizer manufacture progressed; 396 machinery plants were designated for reparations.",
    "title": "Heavy Industries"
   },
   {
@@ -141,7 +143,7 @@
    "level": 2,
    "printed_page": "81",
    "start_page": 48,
-   "summary": "Reports production across food processing, paper, glass, optical instruments, medical supplies, electrical equipment, motor vehicles, bicycles, rubber products, tanned leather, and agricultural implements.",
+   "summary": "Production reports for food processing, paper, glass, optical instruments, medical supplies, electrical equipment, motor vehicles, bicycles, rubber products, tanned leather, and agricultural implements.",
    "title": "Manufacturing"
   },
   {
@@ -149,7 +151,7 @@
    "level": 2,
    "printed_page": "99",
    "start_page": 58,
-   "summary": "Reports a 50 percent increase in cotton yarn production, receipt of 19 American cotton cargoes, raw silk output trends, rayon and wool manufacturing, and clothing deliveries.",
+   "summary": "Cotton yarn production rose 50 percent; 19 American cotton cargoes were received; raw silk, rayon, wool manufacturing and clothing deliveries are also reported.",
    "title": "Textile Industries"
   },
   {
@@ -157,7 +159,7 @@
    "level": 2,
    "printed_page": "123",
    "start_page": 70,
-   "summary": "Covers slight increases in railway freight traffic and coastwise shipping, adequate hydroelectric power generation, and urban gas utility operations severely curtailed by coal shortages.",
+   "summary": "Railway freight and coastwise shipping rose slightly, hydroelectric generation was adequate, and urban gas utilities were severely curtailed by coal shortages.",
    "title": "Transportation and Public Utilities"
   },
   {
@@ -165,7 +167,7 @@
    "level": 2,
    "printed_page": "131",
    "start_page": 74,
-   "summary": "Details telephone and telegraph rehabilitation, the resumption of international postal service on 10 September, radio broadcasting expansion, equipment manufacture, and postal and communications labor negotiations.",
+   "summary": "Telephone and telegraph rehabilitation, international postal service resumed 10 September, radio expansion, equipment manufacture, and postal and communications labor negotiations.",
    "title": "Communications"
   },
   {
@@ -173,7 +175,7 @@
    "level": 2,
    "printed_page": "147",
    "start_page": 82,
-   "summary": "Reports Diet passage of the Labor Relations Adjustment Law, hearings on the Labor Standards Bill, the 10-day maritime strike, an averted railway strike, and trade union growth past 3.7 million members.",
+   "summary": "Diet passed the Labor Relations Adjustment Law; Labor Standards Bill hearings; 10-day maritime strike; railway strike averted; trade unions passed 3.7 million members.",
    "title": "Labor"
   },
   {
@@ -181,7 +183,7 @@
    "level": 2,
    "printed_page": "161",
    "start_page": 88,
-   "summary": "Details foreign trade planning with Allied nations, shipments of raw silk, tea, and minerals, and incoming imports of United States food, raw cotton, and phosphate rock.",
+   "summary": "Foreign trade planning with Allied nations, shipments of raw silk, tea, and minerals, and incoming United States food, raw cotton, and phosphate rock.",
    "title": "Imports and Exports"
   },
   {
@@ -189,7 +191,7 @@
    "level": 2,
    "printed_page": "167",
    "start_page": 91,
-   "summary": "Reports staple food collections, releases of imported cereals and canned goods, new price schedules for meat and vegetables, recovery of hoarded goods, and licensing controls over street stalls.",
+   "summary": "Staple food collections, releases of imported cereals and canned goods, new meat and vegetable price schedules, recovery of hoarded goods, and licensing controls over street stalls.",
    "title": "Rationing and Price Control"
   },
   {
@@ -197,7 +199,7 @@
    "level": 2,
    "printed_page": "185",
    "start_page": 100,
-   "summary": "Covers record Bank of Japan note circulation of ¥64.4 billion, introduction of the 100 percent war indemnities tax and capital levy bills, the national debt, and local government budgets.",
+   "summary": "Bank of Japan note circulation hit a record ¥64.4 billion; bills introduced for a 100 percent war indemnities tax and a capital levy; national debt and local budgets covered.",
    "title": "Finance"
   },
   {
@@ -205,7 +207,7 @@
    "level": 2,
    "printed_page": "191",
    "start_page": 103,
-   "summary": "Details impounding of German assets, inventories of looted foreign films and vessels, custody of precious metals, designation of five major Zaibatsu for dissolution, and reparations plant inspections.",
+   "summary": "German assets impounded, looted foreign films and vessels inventoried, precious metals held, five major Zaibatsu designated for dissolution, and reparations plants inspected.",
    "title": "Property Control and Reparations"
   },
   {
@@ -213,7 +215,7 @@
    "level": 1,
    "printed_page": "199",
    "start_page": 108,
-   "summary": "Social activities in Japan during August and September 1946, covering public health, welfare, education, religion, and information media.",
+   "summary": "Social activities in August and September 1946: relief under the Daily Life Security Law, repatriation, cholera, education reform, teacher screening, missionaries, and information media.",
    "title": "Part IV: Social"
   },
   {
@@ -221,7 +223,7 @@
    "level": 2,
    "printed_page": "201",
    "start_page": 109,
-   "summary": "Reports relief disbursements exceeding ¥101 million under the new Daily Life Security Law, repatriation of 248,677 Japanese, medical supply production, and declining cholera incidence.",
+   "summary": "Relief disbursements exceeded ¥101 million under the new Daily Life Security Law; 248,677 Japanese repatriated; medical supply production rose and cholera declined.",
    "title": "Public Health and Welfare"
   },
   {
@@ -229,7 +231,7 @@
    "level": 2,
    "printed_page": "215",
    "start_page": 116,
-   "summary": "Covers weekly meetings of the Japanese Educational Reform Committee, adult education programs, screening of over 63,000 teachers, return of Christian missionaries, and public information campaigns.",
+   "summary": "Educational Reform Committee met weekly; adult education programs ran; over 63,000 teachers were screened; Christian missionaries returned; public information campaigns continued.",
    "title": "Education, Religion and Media of Expression"
   }
  ],
@@ -239,5 +241,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 120,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

@@ -2,14 +2,13 @@
  "summary": "Issue No. 25 of South Korean Interim Government Activities covers October 1947 and is the second monthly report produced wholly in Korea, prepared by the National Economic Board. It reports on population movements, vested property, food and rice collection, prices, agriculture, mining, industry, trade, labor, transport, communications, finance, administration, the Legislative Assembly, politics, security, police, legal affairs, health, education, information and Korean National Youth. The month was dominated by the start of the 1947 rice collection, with quotas, Executive Order No. 8 banning private rice transport, and a dispute over the purchase price. Other notable items are the appointment of Major General William F. Dean as Military Governor, record note issue and budget deficits, power talks with the North in Pyongyang, and the political debate over the Russian withdrawal proposal, a general election and a Korean delegate to the United Nations. The extensive statistical tables make it a rich source for South Korean economic history.",
  "highlights": [
   "On 30 October 1947 Lieutenant General John R. Hodge announced the appointment of Major General William F. Dean as Military Governor of Korea.",
-  "The 1947 rice collection quota was set at 5,156,000 polished suk; by 5 November only 174,291 suk (3.2 percent) had been collected, while the summer grain collection ended at 1,237,576 hectoliters, 97.1 percent of quota.",
-  "Executive Order No. 8 (20 October) banned unauthorized rice transportation; the Assembly voted 45 to 1 to ask for its rescission and amended the KILA Rice Collection Law to permit carrying one mal of rice for family use.",
+  "The 1947 rice collection quota was set at 5,156,000 polished suk, but by 5 November only 174,291 suk (3.2 percent) had been collected; the summer grain collection ended at 1,237,576 hectoliters, 97.1 percent of quota.",
+  "Executive Order No. 8 (20 October) banned unauthorized rice transportation; the Assembly voted 45 to 1 to seek its rescission and amended the KILA Rice Collection Law to allow carrying one mal for family use.",
   "The final 1947 rice estimate was 24,930,000 hectoliters of brown rice, about 15 percent above 1946, while cotton fell to 42,125,574 kilograms from 59,945,165.",
   "Bank of Chosun note issue rose almost 1.4 billion won to 21,803,700 thousand won, with cumulative government overdrafts of 29.4 billion won; the approved FY 1947/48 budget reached 18.79 billion won against a revenue budget of 15.43 billion.",
-  "The population on rations reached 9,476,856 in October, while polished rice stocks fell to 434,955 hectoliters from 1,851,049 in June.",
+  "The rationed population reached 9,476,856 in October, while polished rice stocks fell to 434,955 hectoliters from 1,851,049 in June.",
   "US and Soviet delegates met in Pyongyang on 21-24 October on payment for North Korean electric power; South Korea had received 537,678,737 KWH from 16 August 1945 to 31 May 1947.",
-  "Korean National Youth celebrated its first anniversary on 7-11 October, and membership grew from 199,014 to 290,333 in one month, amid attacks by rightist Taedong youth groups.",
-  "The Assembly passed parts of the Temporary Administrative Organizational Law, approved Lee Choon Ho as president of Seoul National University by 45 to 4, and took up a bill to close night clubs and dance halls."
+  "Korean National Youth celebrated its first anniversary on 7-11 October, and membership grew from 199,014 to 290,333 in one month, amid attacks by rightist Taedong youth groups."
  ],
  "keywords": [
   "South Korean Interim Government",
@@ -53,7 +52,7 @@
    "printed_page": "3",
    "start_page": 10,
    "end_page": 21,
-   "summary": "Population movement figures, including 2,342,852 inbound against 885,667 outbound since 1945, and the status and finances of vested property under the Office of Property Custody."
+   "summary": "Population movements, with 2,342,852 inbound against 885,667 outbound since 1945, and the status and finances of vested property under the Office of Property Custody."
   },
   {
    "title": "Section 1. Population",
@@ -77,7 +76,7 @@
    "printed_page": "15",
    "start_page": 22,
    "end_page": 85,
-   "summary": "Food collection and rationing, official prices, 1947 crop estimates, coal and metal output, industrial production, controlled commodity allocation, foreign trade and labor conditions."
+   "summary": "Food collection and rationing, official prices, 1947 crop estimates, coal and metal output, industry, commodity allocation, foreign trade and labor conditions."
   },
   {
    "title": "Section 1. Food Supply",
@@ -93,7 +92,7 @@
    "printed_page": "15",
    "start_page": 22,
    "end_page": 23,
-   "summary": "Grain and pulse stocks rose in October, but polished rice stocks declined steadily from 1,851,049 hectoliters in June to 434,955 at 31 October."
+   "summary": "Grain and pulse stocks rose in October, but polished rice stocks fell steadily from 1,851,049 hectoliters in June to 434,955 at 31 October."
   },
   {
    "title": "Summer Grain Collection",
@@ -133,7 +132,7 @@
    "printed_page": "20",
    "start_page": 27,
    "end_page": 37,
-   "summary": "Official rice prices of 16.10 won per kilogram polished, National Economic Board price-policy minutes, Seoul price indices to August 1947, gold prices and routine price adjustments."
+   "summary": "Official rice price of 16.10 won per kilogram polished, Economic Board price-policy minutes, Seoul price indices to August 1947, gold prices and routine price adjustments."
   },
   {
    "title": "Official Price of Rice and Other Grains",
@@ -141,7 +140,7 @@
    "printed_page": "20",
    "start_page": 27,
    "end_page": 29,
-   "summary": "Prices set 15 September but published in October, with a controlled rice price of 120 won per small mal against 579 on the open market, and 30 October Board minutes defending it."
+   "summary": "Prices set 15 September but published in October: controlled rice at 120 won per small mal against 579 on the open market, with 30 October Board minutes defending it."
   },
   {
    "title": "Price Trends",
@@ -165,7 +164,7 @@
    "printed_page": "29",
    "start_page": 36,
    "end_page": 37,
-   "summary": "Railroad coal fixed at 736.20 won per ton, tobacco purchase prices doubled to 120 and 200 won per kilogram, and tire prices raised 20 percent to 14,500 won for truck tires."
+   "summary": "Railroad coal fixed at 736.20 won per ton, tobacco purchase prices doubled to 120 and 200 won per kilogram, and truck tires raised 20 percent to 14,500 won."
   },
   {
    "title": "Section 3. Agriculture, Forestry and Fisheries",
@@ -173,7 +172,7 @@
    "printed_page": "31",
    "start_page": 38,
    "end_page": 44,
-   "summary": "Rice estimated at 24,930,000 hectoliters, cotton down to 42,125,574 kilograms, livestock programs, irrigation, fertilizer distribution of 124,890 tons, forestry data and weak fishery statistics."
+   "summary": "Rice estimated at 24,930,000 hectoliters, cotton down to 42,125,574 kilograms, fertilizer distribution of 124,890 tons, plus livestock, irrigation, forestry data and weak fishery statistics."
   },
   {
    "title": "Section 4. Mining and Minerals",
@@ -213,7 +212,7 @@
    "printed_page": "47",
    "start_page": 54,
    "end_page": 62,
-   "summary": "September output for flour (430 tons), cotton yarn, paper (375.1 tons), nails, bulbs, cement (3,546 tons), rubber, ginseng, salt and tobacco from mostly vested plants."
+   "summary": "September output from mostly vested plants: flour 430 tons, paper 375.1 tons, cement 3,546 tons, plus cotton yarn, nails, bulbs, rubber, ginseng, salt and tobacco."
   },
   {
    "title": "Section 6. Allocation and Distribution",
@@ -221,7 +220,7 @@
    "printed_page": "56",
    "start_page": 63,
    "end_page": 73,
-   "summary": "Allocations of cloth, shoes, soap, tires and civilian supplies, distribution by FFA (66,697,000 won in October) and FDA, drum deposits for petroleum, and a cut in the salt ration."
+   "summary": "Allocations of cloth, shoes, soap, tires and civilian supplies, distribution by FFA (66,697,000 won in October) and FDA, a petroleum drum deposit, and a cut in the salt ration."
   },
   {
    "title": "Allocations, Korean Produced Commodities",
@@ -261,7 +260,7 @@
    "printed_page": "65",
    "start_page": 72,
    "end_page": 73,
-   "summary": "Basic ration of salt dropped for lack of supply and the kimchi ration cut from 3.9 to 2.7 kilograms per capita; distribution so far ranges 0.9 to 2.7 kilograms."
+   "summary": "Basic salt ration dropped for lack of supply and the kimchi ration cut from 3.9 to 2.7 kilograms per capita; distribution so far ranges 0.9 to 2.7 kilograms."
   },
   {
    "title": "Section 7. Import and Export",
@@ -285,7 +284,7 @@
    "printed_page": "69",
    "start_page": 76,
    "end_page": 76,
-   "summary": "A Frazer and Hansen representative arrived without completing barter deals; earlier government exports to the US Commercial Company included 1,000 tons of copper ingots and 700 tons of scheelite."
+   "summary": "A Frazer and Hansen representative arrived without completing barter deals; earlier exports to the US Commercial Company included 1,000 tons of copper ingots and 700 tons of scheelite."
   },
   {
    "title": "Trade with Japan",
@@ -333,7 +332,7 @@
    "printed_page": "71",
    "start_page": 78,
    "end_page": 81,
-   "summary": "Price data requested from the War Department, Program IV Part 2 released 20 October ($19,910,739 for other supplies, including 900,000 tons of coal), and coal, salt, fertilizer and food import tables."
+   "summary": "Program IV Part 2 released 20 October ($19,910,739 for other supplies, including 900,000 tons of coal), price data requested from the War Department, and coal, salt, fertilizer and food import tables."
   },
   {
    "title": "Section 8. Labor",
@@ -349,7 +348,7 @@
    "printed_page": "79",
    "start_page": 86,
    "end_page": 109,
-   "summary": "Railroads, shipping, communications, power, public works and housing, with transport revenue, a first Korean-crewed voyage to Shanghai, postal rates doubled and a 400-house project completed."
+   "summary": "Railroads, shipping, communications, power, public works and housing: transport revenue, a first Korean-crewed voyage to Shanghai, postal rates doubled and a 400-house project completed."
   },
   {
    "title": "Section 1. Transportation",
@@ -365,7 +364,7 @@
    "printed_page": "79",
    "start_page": 86,
    "end_page": 87,
-   "summary": "Railroads carry over 90 percent of freight; Transportation revenue rose 7 percent in September after a 50 percent freight rate rise, while expenditures rose 18 percent."
+   "summary": "Railroads carry over 90 percent of freight; transportation revenue rose 7 percent in September after a 50 percent freight rate rise, while expenditures rose 18 percent."
   },
   {
    "title": "Railroads",
@@ -373,7 +372,7 @@
    "printed_page": "79",
    "start_page": 87,
    "end_page": 93,
-   "summary": "Receipts, record passenger traffic, freight tonnage of 391,151 tons, locomotive census, back-shop repairs of 161 freight cars, wages and coal consumption of 57,331 tons."
+   "summary": "Record passenger traffic, freight tonnage of 391,151 tons, locomotive census, back-shop repairs of 161 freight cars, wages and coal consumption of 57,331 tons."
   },
   {
    "title": "Marine Transport",
@@ -477,7 +476,7 @@
    "printed_page": "107",
    "start_page": 114,
    "end_page": 115,
-   "summary": "Budget of 17,720,227,310 won approved 2 July grew to 18,785,864,050 won by 31 October, with 15 pending requests of nearly 3.3 billion won under National Economic Board review."
+   "summary": "Budget of 17,720,227,310 won approved 2 July grew to 18,785,864,050 won by 31 October, with 15 pending requests of nearly 3.3 billion won under Board review."
   },
   {
    "title": "Monthly Receipts and Payments",
@@ -573,7 +572,7 @@
    "printed_page": "123",
    "start_page": 130,
    "end_page": 152,
-   "summary": "Appointment of Dean as Military Governor, Assembly debates on organization and rice, political reactions to election and UN questions, security, police, interzone power talks and legal affairs."
+   "summary": "Dean's appointment as Military Governor, Assembly debates on organization and rice, political reactions to election and UN questions, security, police, interzone power talks and legal affairs."
   },
   {
    "title": "Section 1. Administration",
@@ -717,7 +716,7 @@
    "printed_page": "139",
    "start_page": 147,
    "end_page": 148,
-   "summary": "Pyongyang talks of 21-24 October on payment for 537,678,737 KWH of North Korean power, and a 18 October mail exchange of 6,348 South Korean letters."
+   "summary": "Pyongyang talks of 21-24 October on payment for 537,678,737 KWH of North Korean power, and an 18 October mail exchange of 6,348 South Korean letters."
   },
   {
    "title": "Section 7. Legal Affairs",
@@ -733,7 +732,7 @@
    "printed_page": "145",
    "start_page": 153,
    "end_page": 174,
-   "summary": "Public health, education, public information, press opinion and Korean National Youth, including a Sanchong cholera outbreak, 3,122,140 pupils, and youth membership of 290,333."
+   "summary": "Public health, education, information, press opinion and Korean National Youth, including a Sanchong cholera outbreak, 3,122,140 pupils, and youth membership of 290,333."
   },
   {
    "title": "Section 1. Public Health and Welfare",
@@ -773,7 +772,7 @@
    "printed_page": "163",
    "start_page": 171,
    "end_page": 172,
-   "summary": "Moderate, leftist and rightist papers split over the Russian withdrawal proposal, Rhee's election call, and the ban on rice transportation, blamed for sudden price rises."
+   "summary": "Moderate, leftist and rightist papers split over the Russian withdrawal proposal, Rhee's election call, and the ban on rice transportation, which was blamed for sudden price rises."
   },
   {
    "title": "Section 5. Korean National Youth, Inc.",
@@ -787,5 +786,7 @@
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 174,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

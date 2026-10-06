@@ -1,12 +1,13 @@
 {
  "highlights": [
   "Japan held its first post-war general election on 10 April with 72.1% turnout, electing thirty-nine women to the Diet under newly granted suffrage.",
-  "Premier Kijuro Shidehara and his Cabinet resigned en bloc on 22 April amid inter-party pressure following the general election.",
-  "An indictment containing 55 counts against 28 major Japanese war criminals was filed with the International Military Tribunal for the Far East on 29 April.",
+  "Premier Kijuro Shidehara and his Cabinet resigned en bloc on 22 April amid inter-party negotiations following the general election, and a revised popular-style draft constitution was published.",
+  "An indictment of 55 counts against 28 major Japanese war criminals was filed with the International Military Tribunal for the Far East on 29 April, after amendments expanded the tribunal's membership.",
   "The United States Education Mission submitted its report recommending administrative decentralization, curriculum democratization, language simplification, and tuition-free coeducational schooling.",
   "General Orders No. 18 established the Diplomatic Section as a Special Staff Section under SCAP on 18 April 1946.",
-  "An Imperial Ordinance establishing the Holding Company Liquidation Commission was approved by SCAP and promulgated by the Japanese Government on 20 April.",
-  "The first restitution of identifiable looted property occurred on 12 April when two Hong Kong fire engines were returned to British authorities."
+  "An Imperial Ordinance establishing the Holding Company Liquidation Commission was approved by SCAP and promulgated by the Japanese Government on 20 April, and 65 subsidiaries were added to the restricted list.",
+  "The first restitution of identifiable looted property occurred on 12 April, when two Hong Kong fire engines were returned to British authorities.",
+  "Union membership reached 877,014, government rice collections stood at 80.7% of quota, and over 2.3 million Japanese had been repatriated."
  ],
  "keywords": [
   "General Election",
@@ -29,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Cover page, errata sheet, general table of contents, and complete lists of charts, graphs, and maps for the April 1946 monthly report.",
+   "summary": "Cover page, errata sheet, general table of contents, and lists of charts, graphs and maps for the April 1946 report.",
    "title": "Front matter"
   },
   {
@@ -37,7 +38,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 5,
-   "summary": "Monthly overview summarizing non-military activities across political, economic, and social sectors in Japan during April 1946.",
+   "summary": "Overview of April 1946: the Diplomatic Section's creation, the 10 April general election and Shidehara Cabinet resignation, rising industrial output, currency controls, the US Education Mission report, and public assistance spending.",
    "title": "Part I: General"
   },
   {
@@ -45,7 +46,7 @@
    "level": 2,
    "printed_page": "2",
    "start_page": 5,
-   "summary": "Reports the establishment of the Diplomatic Section as a Special Staff Section under SCAP and amendments expanding IMTFE tribunal membership.",
+   "summary": "The Diplomatic Section was established as a Special Staff Section under SCAP, and amendments expanded the membership of the International Military Tribunal for the Far East.",
    "title": "Organization under SCAP"
   },
   {
@@ -53,7 +54,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 5,
-   "summary": "Summarizes the 10 April general election, political party campaigns, the Shidehara Cabinet resignation, constitutional draft revisions, civil service reforms, and war crime trials.",
+   "summary": "Covers the 10 April general election, party campaigns, the Shidehara Cabinet's resignation, constitutional draft revisions, civil service reforms, and war crime trials.",
    "title": "Political Activities"
   },
   {
@@ -61,7 +62,7 @@
    "level": 2,
    "printed_page": "9",
    "start_page": 8,
-   "summary": "Outlines gradual industrial production increases, food collection and fishery developments, emergency financial controls, currency circulation fluctuations, and holding company subsidiary restrictions.",
+   "summary": "Industrial production rose gradually; also covers food collection, fishery developments, emergency financial controls, fluctuating currency circulation, and restrictions on holding company subsidiaries.",
    "title": "Economic Activities"
   },
   {
@@ -69,7 +70,7 @@
    "level": 2,
    "printed_page": "15",
    "start_page": 11,
-   "summary": "Summarizes national public assistance expenditures, epidemic disease control, urban nutrition surveys, the US Education Mission report, and information programs educating voters on democratic election procedures.",
+   "summary": "Covers national public assistance expenditures, epidemic disease control, urban nutrition surveys, the US Education Mission report, and information programs teaching voters democratic election procedures.",
    "title": "Social Activities"
   },
   {
@@ -77,7 +78,7 @@
    "level": 1,
    "printed_page": "21",
    "start_page": 14,
-   "summary": "Covers Japanese government administration, the post-war general election, public safety, legal developments, and war crimes trials.",
+   "summary": "Covers the 10 April general election, Shidehara Cabinet resignation, public safety, legal developments, and war crimes, including the 55-count indictment of 28 major war criminals.",
    "title": "Part II: Political"
   },
   {
@@ -85,7 +86,7 @@
    "level": 2,
    "printed_page": "22",
    "start_page": 15,
-   "summary": "Covers the 10 April general election, post-election inter-party negotiations following the Shidehara Cabinet's resignation, the revised popular-style draft constitution, purge directive enforcement, and civil service reforms.",
+   "summary": "Covers the 10 April election, inter-party negotiations after the Shidehara Cabinet resigned, the revised popular-style draft constitution, enforcement of the purge directive, and civil service reforms.",
    "title": "Government and Civil Administration"
   },
   {
@@ -93,7 +94,7 @@
    "level": 2,
    "printed_page": "21",
    "start_page": 29,
-   "summary": "Reports black-market investigations, poisonous alcohol fatalities, military occupation court convictions, police and prison inspections, demobilization intelligence, and press and radio censorship operations.",
+   "summary": "Reports black-market investigations, poisonous alcohol deaths, occupation court convictions, police and prison inspections, demobilization intelligence, and press and radio censorship.",
    "title": "Public Safety and Intelligence"
   },
   {
@@ -101,7 +102,7 @@
    "level": 2,
    "printed_page": "29",
    "start_page": 33,
-   "summary": "Details judicial system reorganizations, apprehension of 72 war crime suspects, trials in Yokohama and the Philippines, and the filing of a 55-count indictment against 28 major war criminals.",
+   "summary": "Covers judicial reorganization, arrest of 72 war crime suspects, trials in Yokohama and the Philippines, and the 55-count indictment of 28 major war criminals.",
    "title": "Legal and War Crimes"
   },
   {
@@ -109,7 +110,7 @@
    "level": 1,
    "printed_page": "83",
    "start_page": 45,
-   "summary": "Covers Japanese agriculture, forestry, mining, heavy industries, manufacturing, textiles, utilities, communications, labor, foreign trade, rationing, finance, and reparations.",
+   "summary": "Covers agriculture, forestry, mining, heavy industry, textiles, utilities, labor, trade, rationing, finance, and reparations, including rice collections at 80.7% of quota and union membership of 877,014.",
    "title": "Part III: Economic"
   },
   {
@@ -117,7 +118,7 @@
    "level": 2,
    "printed_page": "85",
    "start_page": 46,
-   "summary": "Reports 1946 tea crop deterioration, fruit industry conditions, pyrethrum output, crop disease fungicides, government rice collections reaching 80.7% of quota, Bonin Island whaling, and heavy Hokkaido herring catches.",
+   "summary": "Reports tea crop deterioration, pyrethrum output, government rice collections reaching 80.7% of quota, Bonin Island whaling, and heavy Hokkaido herring catches.",
    "title": "Agriculture and Fisheries"
   },
   {
@@ -125,7 +126,7 @@
    "level": 2,
    "printed_page": "95",
    "start_page": 51,
-   "summary": "Details veneer and plywood stockpiles, charcoal production goals, pulp shortages caused by the loss of Karafuto, coal production trends, and lead and zinc mining operations.",
+   "summary": "Covers veneer and plywood stockpiles, charcoal production goals, pulp shortages caused by the loss of Karafuto, coal production trends, and lead and zinc mining.",
    "title": "Forestry and Mining"
   },
   {
@@ -133,7 +134,7 @@
    "level": 2,
    "printed_page": "102",
    "start_page": 55,
-   "summary": "Reports pig iron and steel output, aluminum reduction gains, nonferrous metal refining, petroleum production, cement manufacturing, merchant ship repairs, chemical fertilizer supplies, and industrial machinery surveys.",
+   "summary": "Reports pig iron and steel output, aluminum reduction gains, petroleum production, cement manufacturing, merchant ship repairs, chemical fertilizer supplies, and industrial machinery surveys.",
    "title": "Heavy Industries"
   },
   {
@@ -141,7 +142,7 @@
    "level": 2,
    "printed_page": "121",
    "start_page": 64,
-   "summary": "Details seasonal peak sake brewing and beer output gains, pulp and paper production, doubled truck chassis assembly, tractor manufacturing, rubber goods production, and raw hide and leather shortages.",
+   "summary": "Covers seasonal peak sake and beer output, pulp and paper production, doubled truck chassis assembly, tractor manufacturing, rubber goods, and raw hide and leather shortages.",
    "title": "Manufacturing"
   },
   {
@@ -157,7 +158,7 @@
    "level": 2,
    "printed_page": "157",
    "start_page": 82,
-   "summary": "Details government railway passenger increases and operating deficits, rolling stock repairs, coastwise shipping traffic, electric power demand reaching 99% of 1944 levels, and gas utility coal shortages.",
+   "summary": "Covers government railway passenger growth and operating deficits, rolling stock repairs, coastwise shipping, electric power demand at 99% of 1944 levels, and gas utility coal shortages.",
    "title": "Transportation and Public Utilities"
   },
   {
@@ -165,7 +166,7 @@
    "level": 2,
    "printed_page": "165",
    "start_page": 87,
-   "summary": "Covers occupation wire communications installations, long-distance telephone service delays, overseas radiotelegraph traffic, postal service operations, radio station inventories, and equipment manufacturing shortages.",
+   "summary": "Covers occupation wire communications installations, delays in long-distance telephone service, overseas radiotelegraph traffic, postal operations, radio station inventories, and equipment manufacturing shortages.",
    "title": "Communications"
   },
   {
@@ -173,7 +174,7 @@
    "level": 2,
    "printed_page": "181",
    "start_page": 95,
-   "summary": "Reports the drafting of the Labor Disputes Adjustment Bill, union membership reaching 877,014, formation of national industrial federations, Central Labor Relations Committee rulings, and a multi-billion yen public works program.",
+   "summary": "Reports drafting of the Labor Disputes Adjustment Bill, union membership reaching 877,014, new national industrial federations, Central Labor Relations Committee rulings, and a multi-billion yen public works program.",
    "title": "Labor"
   },
   {
@@ -181,7 +182,7 @@
    "level": 2,
    "printed_page": "191",
    "start_page": 100,
-   "summary": "Details centralization of customs under the Ministry of Finance, designation of Boeki Cho as sole foreign trade agency, raw silk exports totaling 8,300 bales, and imports of US surplus food and Chinese salt.",
+   "summary": "Reports customs centralized under the Ministry of Finance, Boeki Cho designated sole foreign trade agency, raw silk exports of 8,300 bales, and imports of US surplus food and Chinese salt.",
    "title": "Imports and Exports"
   },
   {
@@ -189,7 +190,7 @@
    "level": 2,
    "printed_page": "199",
    "start_page": 104,
-   "summary": "Covers staple food stock levels and reduction of household rations, distribution of imported foodstuffs, fresh vegetable and fish rationing in major cities, expiration of textile coupons, and official coal price schedules.",
+   "summary": "Covers staple food stocks and reduced household rations, distribution of imported foodstuffs, fresh vegetable and fish rationing in major cities, expiring textile coupons, and official coal prices.",
    "title": "Rationing and Price Control"
   },
   {
@@ -197,7 +198,7 @@
    "level": 2,
    "printed_page": "215",
    "start_page": 112,
-   "summary": "Reports termination of compulsory bank lending, deposit withdrawal restrictions to curb currency circulation, Bank of Japan balance sheet changes, capital levy and tax revision proposals, and local government budget subsidies.",
+   "summary": "Reports end of compulsory bank lending, deposit withdrawal limits to curb currency circulation, Bank of Japan balance sheet changes, capital levy and tax revision proposals, and local budget subsidies.",
    "title": "Finance"
   },
   {
@@ -205,7 +206,7 @@
    "level": 2,
    "printed_page": "222",
    "start_page": 116,
-   "summary": "Details custody of 6,146 United Nations properties, German assets, first restitution of looted Hong Kong fire engines to British authorities, addition of 65 subsidiaries to the restricted list, and Holding Company Liquidation Commission establishment.",
+   "summary": "Covers custody of 6,146 United Nations properties, German assets, first restitution of looted Hong Kong fire engines to British authorities, 65 subsidiaries added to the restricted list, and the Holding Company Liquidation Commission.",
    "title": "Property Controls and Reparations"
   },
   {
@@ -213,7 +214,7 @@
    "level": 1,
    "printed_page": "281",
    "start_page": 120,
-   "summary": "Covers Japanese public health, welfare, education, religion, cultural monuments, and media of expression during April 1946.",
+   "summary": "Covers public health, welfare, education, religion, cultural monuments, and media of expression, including repatriation of over 2.3 million Japanese and the US Education Mission report.",
    "title": "Part IV: Social"
   },
   {
@@ -221,7 +222,7 @@
    "level": 2,
    "printed_page": "233",
    "start_page": 121,
-   "summary": "Details national public assistance disbursements, child protection committees, repatriation progress of over 2.3 million Japanese, typhus containment through DDT dusting in Osaka, smallpox vaccinations, port quarantine of cholera cases, and urban nutrition surveys.",
+   "summary": "Covers public assistance disbursements, child protection committees, repatriation of over 2.3 million Japanese, typhus control by DDT dusting in Osaka, smallpox vaccination, port cholera quarantine, and urban nutrition surveys.",
    "title": "Public Health and Welfare"
   },
   {
@@ -229,7 +230,7 @@
    "level": 2,
    "printed_page": "257",
    "start_page": 134,
-   "summary": "Reports the US Education Mission recommendations, school textbook purges, procedures for returning Christian missionaries, civic education campaigns surrounding the general election, BCJ radio reorganization, and theatrical and library activities.",
+   "summary": "Reports US Education Mission recommendations, textbook purges, procedures for returning Christian missionaries, civic education around the general election, BCJ radio reorganization, and theatrical and library activities.",
    "title": "Education, Religion and Media of Expression"
   }
  ],
@@ -239,5 +240,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 142,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

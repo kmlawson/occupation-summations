@@ -1,13 +1,13 @@
 {
  "highlights": [
-  "The Emperor issued a New Year Rescript reaffirming the Meiji Charter Oath and explicitly renouncing the concept of imperial divinity.",
-  "SCAP issued landmark 4 January directives ordering the removal of militarists from public office and abolishing ultra-nationalistic political organizations.",
-  "The International Military Tribunal for the Far East was established by special proclamation, and its formal Charter was approved.",
-  "SCAP directed the Japanese Government to abrogate all laws permitting licensed prostitution and annul all contracts binding women to prostitution.",
-  "Allied authorities impounded 394 industrial plants, including 294 aircraft and arsenal facilities, as the initial step in interim reparations.",
-  "Nationwide protests and strikes erupted across Southern Korea opposing the Moscow Conference agreement on a four-power trusteeship.",
-  "The first war atrocity trials at Yokohama concluded, resulting in two death sentences and one life imprisonment sentence.",
-  "Bank of Japan note issue expanded to ¥56 billion as the government halted direct overdraft borrowing to curb inflation."
+  "The Emperor's New Year Rescript reaffirmed the Meiji Charter Oath and explicitly renounced imperial divinity, while SCAP's 4 January directives ordered militarists removed from office and ultra-nationalist organizations abolished, forcing a Shidehara Cabinet reshuffle.",
+  "The International Military Tribunal for the Far East was established by proclamation and its Charter approved; SCAP ordered 171 war crimes suspects arrested, including Koki Hirota and Yosuke Matsuoka.",
+  "The first Yokohama war atrocity trials concluded with two death sentences and one life imprisonment sentence.",
+  "SCAP directed Japan to abrogate laws permitting licensed prostitution and annul contracts binding women to it.",
+  "Allied authorities impounded 394 industrial plants, including 294 aircraft and arsenal facilities, as the first step in interim reparations; 41 companies including Oji Paper were added to the Zaibatsu schedule.",
+  "Bank of Japan note issue reached a record ¥56 billion as direct government overdraft borrowing was halted; coal output rose 41 percent, though government rice collections stood at only 20 percent of quotas.",
+  "Labor unions expanded at two per day and planned a national federation, while a Tokyo survey found half of food came from black markets and Hokkaido cities held as little as two days of staples.",
+  "USAMGIK was formally established in Southern Korea, where nationwide protests and strikes opposed the Moscow Conference trusteeship agreement, and rice hoarding and coal shortages strained the economy."
  ],
  "keywords": [
   "SCAP purge directives",
@@ -32,7 +32,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Cover, table of contents, and list of 50 charts, graphs, maps, and tables for the January 1946 report.",
+   "summary": "Cover, table of contents, and list of 50 charts, graphs, maps and tables for the January 1946 report.",
    "title": "Front matter"
   },
   {
@@ -40,7 +40,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 5,
-   "summary": "General summary of non-military activities in Japan and Korea for January 1946.",
+   "summary": "Overview of January 1946: the 4 January purge directives, the Emperor's rescript, 394 plants held for reparations, ¥56 billion note issue, USAMGIK's establishment and Korean anti-trusteeship protests.",
    "title": "Part I: General"
   },
   {
@@ -48,7 +48,7 @@
    "level": 2,
    "printed_page": "1",
    "start_page": 6,
-   "summary": "SCAP established the International Military Tribunal for the Far East and the General Accounting Section, Sixth Army was deactivated with Eighth Army assuming control, and USAMGIK was formally established in Korea.",
+   "summary": "SCAP established the International Military Tribunal for the Far East; Sixth Army's General Accounting Section was deactivated with Eighth Army taking control; USAMGIK was formally established in Korea.",
    "title": "Organization under SCAP"
   },
   {
@@ -56,7 +56,7 @@
    "level": 2,
    "printed_page": "2",
    "start_page": 6,
-   "summary": "The 4 January purge directives prompted reorganization of the Shidehara Cabinet, the Emperor renounced divinity in his New Year rescript, licensed prostitution was abolished, national elections were scheduled, and initial war crimes trials concluded in Yokohama.",
+   "summary": "The 4 January purge directives forced reorganization of the Shidehara Cabinet; the Emperor renounced divinity, licensed prostitution was abolished, elections were scheduled, and Yokohama war crimes trials concluded.",
    "title": "Political Activities in Japan"
   },
   {
@@ -64,7 +64,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 8,
-   "summary": "Allied custody was established over 394 industrial plants for reparations, coal output rose 41 percent, Bank of Japan note issue reached ¥56 billion, and new capital levy and war-profit tax bills were drafted.",
+   "summary": "Allied custody covered 394 industrial plants for reparations; coal output rose 41 percent; Bank of Japan note issue reached ¥56 billion; capital levy and war-profit tax bills were drafted.",
    "title": "Economic Activities in Japan"
   },
   {
@@ -72,7 +72,7 @@
    "level": 2,
    "printed_page": "11",
    "start_page": 10,
-   "summary": "A Tokyo nutrition survey showed half of food was obtained through black markets, typhus was checked while smallpox spread, 143 textbooks were cleared of militaristic content, and professional educators were appointed to lead the Education Ministry.",
+   "summary": "A Tokyo survey found half of food came from black markets; typhus was checked while smallpox spread; 143 textbooks were cleared of militarism; professional educators were appointed to the Education Ministry.",
    "title": "Social Activities in Japan"
   },
   {
@@ -80,7 +80,7 @@
    "level": 2,
    "printed_page": "14",
    "start_page": 12,
-   "summary": "USAMGIK assumed direct control over local military government units, widespread anti-trusteeship demonstrations erupted, a Korean constabulary was formed, and emergency rice collection efforts struggled against hoarding.",
+   "summary": "USAMGIK took direct control of local military government units; anti-trusteeship demonstrations spread; a Korean constabulary was formed; emergency rice collection struggled against hoarding.",
    "title": "Civil Administration in Korea"
   },
   {
@@ -88,7 +88,7 @@
    "level": 1,
    "printed_page": "17",
    "start_page": 13,
-   "summary": "Political activities, civil administration, public safety, legal matters, and war crimes in Japan.",
+   "summary": "Japan's political affairs: the purge and Cabinet reshuffle, the Imperial Rescript, police and censorship measures, the Charter of the International Military Tribunal, 171 war crimes arrests and Yokohama death sentences.",
    "title": "Part II: Political - Japan"
   },
   {
@@ -96,7 +96,7 @@
    "level": 2,
    "printed_page": "19",
    "start_page": 14,
-   "summary": "SCAP's purge directives prompted a major reshuffle of the Shidehara Cabinet and local governments, the Emperor issued an Imperial Rescript denying divinity, Communist leader Sanzo Nozaka returned from exile, and Japan's administrative authority was limited to the four main islands.",
+   "summary": "The purge directives prompted a major Shidehara Cabinet and local government reshuffle; the Emperor's rescript denied divinity; Sanzo Nozaka returned from exile; Japan's administrative authority was limited to the four main islands.",
    "title": "Government and Civil Administration"
   },
   {
@@ -104,7 +104,7 @@
    "level": 2,
    "printed_page": "33",
    "start_page": 21,
-   "summary": "Authorities combated widespread black-market operations and lethal bootleg whiskey, abolished the Keihei-tai auxiliary police while rearming civil police with revolvers, interned former German Ambassador Stahmer, and instituted mandatory censorship screening for all motion pictures.",
+   "summary": "Authorities fought black markets and lethal bootleg whiskey, abolished the Keihei-tai auxiliary police while arming civil police with revolvers, interned ex-Ambassador Stahmer, and required censorship screening of all motion pictures.",
    "title": "Public Safety and Intelligence"
   },
   {
@@ -112,7 +112,7 @@
    "level": 2,
    "printed_page": "41",
    "start_page": 25,
-   "summary": "The Supreme Commander approved the Charter for the International Military Tribunal for the Far East, SCAP ordered the arrest of 171 war crimes suspects including Koki Hirota and Yosuke Matsuoka, and Yokohama military commissions handed down two death sentences.",
+   "summary": "The Supreme Commander approved the Far East Tribunal's Charter; SCAP ordered 171 war crimes suspects arrested, including Koki Hirota and Yosuke Matsuoka; Yokohama commissions imposed two death sentences.",
    "title": "Legal and War Crimes"
   },
   {
@@ -120,7 +120,7 @@
    "level": 1,
    "printed_page": "53",
    "start_page": 31,
-   "summary": "Economic activities, natural resources, industry, commerce, labor, and finance in Japan.",
+   "summary": "Japan's economy: rice collection at 20 percent of quotas, coal up 41 percent, 394 plants held for reparations, unions growing, ¥56 billion note issue, and 41 firms added to the Zaibatsu schedule.",
    "title": "Part III: Economic - Japan"
   },
   {
@@ -128,7 +128,7 @@
    "level": 2,
    "printed_page": "55",
    "start_page": 32,
-   "summary": "Government rice collections lagged at only 20 percent of quotas due to rampant black markets, the Agricultural Association Law was amended toward democratization, and a fuel-oil link system was instituted to stimulate fish deliveries.",
+   "summary": "Government rice collections reached only 20 percent of quotas amid black markets; the Agricultural Association Law was amended toward democratization; a fuel-oil link system was set up to stimulate fish deliveries.",
    "title": "Agriculture and Fisheries"
   },
   {
@@ -136,7 +136,7 @@
    "level": 2,
    "printed_page": "82",
    "start_page": 49,
-   "summary": "Severe shortages of charcoal and lumber hampered urban heating and reconstruction, while coal production rebounded 41 percent following increased rations for miners, and geological surveys evaluated domestic nonferrous metal, cement, and quarrying capacities.",
+   "summary": "Charcoal and lumber shortages hampered heating and reconstruction; coal production rebounded 41 percent after increased miner rations; geological surveys assessed nonferrous metal, cement and quarrying capacity.",
    "title": "Forestry and Mining"
   },
   {
@@ -144,7 +144,7 @@
    "level": 2,
    "printed_page": "119",
    "start_page": 70,
-   "summary": "Allied authorities took custody of 394 aircraft plants, arsenals, and laboratories for reparations, while acute coal shortages suppressed industrial output across iron, steel, chemicals, textiles, and motor vehicles despite ambitious new housing construction targets.",
+   "summary": "Allied authorities took custody of 394 aircraft plants, arsenals and laboratories for reparations; coal shortages suppressed iron, steel, chemical, textile and motor vehicle output despite new housing construction targets.",
    "title": "Industry"
   },
   {
@@ -152,7 +152,7 @@
    "level": 2,
    "printed_page": "151",
    "start_page": 86,
-   "summary": "Railroads struggled with neglected rolling stock while planning widespread electrification and fare increases, commercial shipping remained crippled at a quarter of prewar capacity, and electric power consumption rose sharply due to residential space heating.",
+   "summary": "Railroads suffered neglected rolling stock while electrification and fare increases were planned; shipping stood at a quarter of prewar capacity; electric power consumption rose sharply from residential heating.",
    "title": "Transportation and Public Utilities"
   },
   {
@@ -160,7 +160,7 @@
    "level": 2,
    "printed_page": "169",
    "start_page": 96,
-   "summary": "Foreign trade operated strictly under SCAP direction, with imports arriving of U.S. Army surplus flour, diesel oil, and medicines, while initial exports of raw silk, coal, pitch, and mining timbers were dispatched to Korea, China, and Hong Kong.",
+   "summary": "Foreign trade ran strictly under SCAP direction; U.S. Army surplus flour, diesel oil and medicines were imported; raw silk, coal, pitch and mining timbers went to Korea, China and Hong Kong.",
    "title": "Imports and Exports"
   },
   {
@@ -168,7 +168,7 @@
    "level": 2,
    "printed_page": "175",
    "start_page": 98,
-   "summary": "Labor unions expanded rapidly at two per day and planned a national federation, winning substantial wage increases to offset soaring living costs, while an official registration recorded 32.7 million employed and 3.3 million unemployed.",
+   "summary": "Unions grew at two per day and planned a national federation; substantial wage increases offset rising living costs; an official registration counted 32.7 million employed and 3.3 million unemployed.",
    "title": "Labor"
   },
   {
@@ -176,7 +176,7 @@
    "level": 2,
    "printed_page": "185",
    "start_page": 103,
-   "summary": "International radio and telephone circuits were restored with the United States and Britain, signal facilities were overhauled to support occupational forces, and production goals were established for 2.1 million radio receivers despite critical vacuum tube shortages.",
+   "summary": "International radio and telephone circuits to the United States and Britain were restored; signal facilities supported occupation forces; a goal of 2.1 million radio receivers was set despite vacuum tube shortages.",
    "title": "Communications"
   },
   {
@@ -184,7 +184,7 @@
    "level": 2,
    "printed_page": "191",
    "start_page": 107,
-   "summary": "Staple food collections lagged, leaving Hokkaido cities with as little as two days of reserves, while the government abandoned vegetable auctions to reimpose official price ceilings on perishable foods amid surging living costs.",
+   "summary": "Staple food collections lagged, leaving Hokkaido cities with as little as two days of reserves; the government abandoned vegetable auctions and reimposed official ceiling prices on perishable foods.",
    "title": "Rationing and Price Control"
   },
   {
@@ -192,7 +192,7 @@
    "level": 2,
    "printed_page": "211",
    "start_page": 118,
-   "summary": "The Bank of Japan's currency issue expanded to a record ¥56 billion, direct government overdraft borrowing was halted, commercial banks restricted credit to essential producers, and liquidation of closed colonial and Axis financial institutions proceeded.",
+   "summary": "Bank of Japan note issue hit a record ¥56 billion; direct government overdraft borrowing was halted; commercial banks limited credit to essential producers; closed colonial and Axis financial institutions were liquidated.",
    "title": "Money and Banking"
   },
   {
@@ -200,7 +200,7 @@
    "level": 2,
    "printed_page": "221",
    "start_page": 123,
-   "summary": "SCAP ordered strict fiscal retrenchment and the abolition of the Special Account for War Expenses, draft capital levy and war profit tax laws were prepared, and 41 companies including Oji Paper were added to the restricted Zaibatsu schedule.",
+   "summary": "SCAP ordered fiscal retrenchment and abolition of the Special Account for War Expenses; capital levy and war profit tax drafts were prepared; 41 companies including Oji Paper joined the Zaibatsu schedule.",
    "title": "Public Finance"
   },
   {
@@ -208,7 +208,7 @@
    "level": 1,
    "printed_page": "233",
    "start_page": 129,
-   "summary": "Public health, welfare, education, religion, and information media in Japan.",
+   "summary": "Japan's social affairs: relief and migration controls, smallpox vaccination, repatriation figures, appointment of educators to the Education Ministry, textbook screening, severing Shinto from the state, and media campaigns.",
    "title": "Part IV: Social - Japan"
   },
   {
@@ -216,7 +216,7 @@
    "level": 2,
    "printed_page": "235",
    "start_page": 130,
-   "summary": "SCAP directed curbs on rural-to-urban migration, the Welfare Ministry estimated 8,000,000 people needed relief, smallpox outbreaks triggered a nationwide vaccination drive, and repatriation through January processed over 1.2 million returning Japanese and 720,000 outbound foreign nationals.",
+   "summary": "SCAP curbed rural-to-urban migration; the Welfare Ministry estimated 8,000,000 people needed relief; smallpox prompted nationwide vaccination; repatriation processed over 1.2 million returnees and 720,000 departing foreign nationals.",
    "title": "Public Health and Welfare"
   },
   {
@@ -224,7 +224,7 @@
    "level": 2,
    "printed_page": "261",
    "start_page": 143,
-   "summary": "Professional educators were appointed to head the Ministry of Education, English translations were required for textbook screening, Shinto was severed from state control, and media campaigns promoted democratic ideals and explained SCAP's political purge.",
+   "summary": "Professional educators were appointed to head the Ministry of Education; English translations were required for textbook screening; Shinto was severed from state control; media explained SCAP's political purge.",
    "title": "Education, Religion and Media of Expression"
   },
   {
@@ -232,7 +232,7 @@
    "level": 1,
    "printed_page": "279",
    "start_page": 153,
-   "summary": "Political, economic, and social activities under USAMGIK in Southern Korea.",
+   "summary": "Southern Korea under USAMGIK: Moscow Agreement protests and strikes, stalled coalition talks, Special Judicial Officers, constabulary recruitment, rice hoarding, trade licensing, coal shortages and refugee relief.",
    "title": "Part V: Korea"
   },
   {
@@ -240,7 +240,7 @@
    "level": 2,
    "printed_page": "281",
    "start_page": 154,
-   "summary": "Intense political turmoil and strikes erupted across Southern Korea following the Moscow Agreement's trusteeship announcement, coalition talks between Right and Left stalled, USAMGIK established Special Judicial Officers, and recruitment began for the Korean Constabulary.",
+   "summary": "Strikes and turmoil followed the Moscow Agreement's trusteeship announcement; Right-Left coalition talks stalled; USAMGIK created Special Judicial Officers; recruitment began for the Korean Constabulary.",
    "title": "Political Activities in Korea"
   },
   {
@@ -248,7 +248,7 @@
    "level": 2,
    "printed_page": "287",
    "start_page": 157,
-   "summary": "Rampant rice hoarding persisted despite ceiling prices and incentive programs, foreign trade was placed under rigid licensing control, the Chosen Stock Exchange was dissolved, and severe coal shortages from Japan crippled southern Korean manufacturing.",
+   "summary": "Rice hoarding persisted despite ceiling prices and incentives; foreign trade came under rigid licensing; the Chosen Stock Exchange was dissolved; coal shortages from Japan crippled southern Korean manufacturing.",
    "title": "Economic Activities in Korea"
   },
   {
@@ -256,7 +256,7 @@
    "level": 2,
    "printed_page": "291",
    "start_page": 159,
-   "summary": "Educational planning committees drafted democratic school programs, free civic newspapers achieved over one million circulation, procedures were established to recover cultural property taken by Japan, and emergency relief and disease control aided incoming northern refugees.",
+   "summary": "Committees drafted democratic school programs; free civic newspapers passed one million circulation; procedures were set to recover cultural property taken by Japan; relief and disease control aided northern refugees.",
    "title": "Social Activities in Korea"
   }
  ],
@@ -266,5 +266,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 160,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

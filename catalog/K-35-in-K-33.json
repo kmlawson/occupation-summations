@@ -1,14 +1,14 @@
 {
  "summary": "Republic of Korea Economic Summation No. 35 covers September and October 1948, the first economic report after USAMGIK handed authority to the Republic of Korea, and continues the SKIG Activities series. It records transfer of American-run departments to Korean ministries and the end of the Office of Property Custody under US control on 12 October. Main topics are the grain collection programs, ration-roll inflation, falling electric power, coal imports, prices, trade, currency growth and finances. Part I covers refugees and vested property sales; Part II food, prices, industry, mining, allocations and trade; Part III transport, communications, utilities and public works; Part IV finance. Historians will find provincial quotas, ration estimates, trade statistics, power figures, and the barter suspension with North Korea, in statistical tables.",
  "highlights": [
-  "Summer grain collection reached 107,766 metric tons, 100.4 percent of quota; rice goal set at 1,125,000 tons.",
-  "Ration rolls listed 9,987,587 persons; officials suspected a 'ghost population', about 500,000 in Seoul.",
-  "Office of Property Custody passed to Korean custodian 12 October; 1,279 cumulative sales worth about 2,611 million won.",
-  "Electricity distribution fell about 18 percent below August; Yongwol steam plant test reached 80,400 KW.",
-  "Currency in circulation rose 2,500 million won between 31 August and 31 October.",
-  "Bituminous coal imports from Japan reached 100,015 tons in September.",
-  "Minister Louise Yim suspended barter trade with North Korea pending Assembly approval.",
-  "Wholesale prices fell to 177 percent of 1947 average in October from 184 in August."
+  "Summer grain collection reached 107,766 metric tons, 100.4 percent of quota (Cheju only 4 percent), and the 1948 rice collection goal was set at 1,125,000 tons, split by province.",
+  "Ration rolls listed 9,987,597 persons in October, up nearly 1,000,000 in a year; officials suspected a 'ghost population', about 500,000 of it in Seoul.",
+  "The Office of Property Custody passed to a Korean custodian on 12 October, with 1,279 cumulative sales worth about 2,611 million won; immovable sales halted 18 September.",
+  "Electricity deliveries fell about 18 percent below August, to 45.6 million KWH in September; Yongwol's rehabilitated plant carried 80,400 KW in a 23 October test.",
+  "Currency in circulation rose 2,500 million won from 31 August to 31 October, over 1,500 million of it for Monopoly tobacco purchases; the overdraft reached 38,400 million won.",
+  "Bituminous coal imports from Japan reached 100,015 metric tons in September, 73 percent above the 1947 monthly average, while anthracite output fell a fifth month, 51 percent below April.",
+  "Commerce Minister Louise Yim suspended barter trade with North Korea pending Assembly approval; it resumed by end of October under modified rules, mainly manufactured goods.",
+  "Wholesale prices fell to 177 percent of the 1947 average in October from 184 in August, and September exports were 45 percent of imports, with Hong Kong taking over 93 percent."
  ],
  "keywords": [
   "Republic of Korea",
@@ -37,7 +37,7 @@
    "printed_page": "",
    "start_page": 486,
    "end_page": 493,
-   "summary": "Cover and blank digitization pages of Republic of Korea Economic Summation No. 35 (September-October 1948), prepared by the Civil Affairs Section, USAFIK. The foreword calls it the first economic summation under the Republic, successor to SKIG Activities, confined to economics, with one more edition (No. 36) planned through December 1948. A table of contents follows."
+   "summary": "Cover, blank digitization pages, foreword and contents of Economic Summation No. 35 (September-October 1948), the first under the Republic, successor to SKIG Activities; No. 36 is planned through December."
   },
   {
    "title": "Summary",
@@ -45,7 +45,7 @@
    "printed_page": "1",
    "start_page": 494,
    "end_page": 495,
-   "summary": "Reports the shift of agencies from American to Korean management. Summer grain collection reached 107,766 tons (100.4 percent of goal) and a 1,125,000-ton rice goal was set, amid suspected 'ghost' ration rolls (about 500,000 in Seoul). Electricity fell 18 percent, exports were 45 percent of imports, currency rose 2,500 million won, and 1,279 vested-property sales were made."
+   "summary": "Agencies shifted to Korean management. Summer grain collection reached 107,766 tons (100.4 percent of goal), a 1,125,000-ton rice goal was set, and ration rolls were suspected padded. Electricity fell 18 percent; currency rose 2,500 million won."
   },
   {
    "title": "Part I. Basic Aspects",
@@ -53,7 +53,7 @@
    "printed_page": "",
    "start_page": 496,
    "end_page": 503,
-   "summary": "Population and vested property."
+   "summary": "Refugee arrivals across the 38th parallel and the 12 October transfer of the Office of Property Custody, with 1,279 cumulative vested-property sales."
   },
   {
    "title": "Section 1. Population",
@@ -61,7 +61,7 @@
    "printed_page": "3",
    "start_page": 496,
    "end_page": 498,
-   "summary": "Refugee entries across the 38th parallel: 11,718 in September, 7,764 in October; 1948 total to date 106,463. Cumulative movement shows net inbound gain of 1,588,030 persons since October 1945. Population map."
+   "summary": "Refugee entries across the 38th parallel were 11,718 in September and 7,764 in October (1948 total 106,463). Net movement since October 1945 added 1,588,030 residents."
   },
   {
    "title": "Refugee Migration",
@@ -69,7 +69,7 @@
    "printed_page": "3",
    "start_page": 496,
    "end_page": 497,
-   "summary": "Recorded refugee entries across the 38th parallel were 11,718 in September (up 57 percent on August) and 7,764 in October (down 33 percent), attributed to colder weather. Arrivals peak each April to June. January to October totals fell 16 percent in 1947 against 1946 and 34 percent in 1948 against 1947. Table 1 gives monthly counts, excluding uncounted crossings."
+   "summary": "Refugee entries were 11,718 in September (up 57 percent on August) and 7,764 in October (down 33 percent), attributed to colder weather. January-October totals fell 34 percent in 1948 against 1947."
   },
   {
    "title": "Population Movement",
@@ -77,7 +77,7 @@
    "printed_page": "3",
    "start_page": 496,
    "end_page": 497,
-   "summary": "Table 2 covers movement in and out of South Korea from 1 October 1945 to 31 October 1948: 887,301 outbound (179,920 Japanese military, 705,056 Japanese civilians, plus Chinese, Formosans and Okinawans) and 2,475,331 inbound, including 1,117,819 Koreans from Japan and 646,034 from North Korea. Net immigration added 1,588,030 residents."
+   "summary": "From 1 October 1945 to 31 October 1948, 887,301 left South Korea (705,056 Japanese civilians) and 2,475,331 entered, including 1,117,819 Koreans from Japan and 646,034 from North Korea; net gain 1,588,030."
   },
   {
    "title": "Section 2. Vested Property",
@@ -85,7 +85,7 @@
    "printed_page": "6",
    "start_page": 499,
    "end_page": 503,
-   "summary": "Office of Property Custody transferred to Korean custodian on 12 October 1948; 1,279 cumulative sales worth about 2,611 million won; sales of immovables halted 18 September; KRMC low-cost housing plans; real estate returned by US forces."
+   "summary": "Office of Property Custody passed to a Korean custodian on 12 October 1948, with 1,279 cumulative sales worth about 2,611 million won. Immovable sales halted 18 September; KRMC planned low-cost housing."
   },
   {
    "title": "Administration Division",
@@ -93,7 +93,7 @@
    "printed_page": "6",
    "start_page": 499,
    "end_page": 499,
-   "summary": "Strength reports show the Office of Property Custody shrinking ahead of its 12 October transfer to Korean custodians. American staff fell from 96 on 1 July (75 civilians, 21 soldiers) to 58 (50 and 8). Korean employees fell from 2,948 to 2,635: national office 500 to 468, provincial offices 2,448 to 2,167."
+   "summary": "Office of Property Custody shrank before transfer: American staff fell from 96 to 58, and Korean employees from 2,948 to 2,635 (national office 468, provincial offices 2,167)."
   },
   {
    "title": "Property Disposal",
@@ -101,7 +101,7 @@
    "printed_page": "7",
    "start_page": 500,
    "end_page": 500,
-   "summary": "Sales rose steadily from 1 July to 12 October: 581 sales worth 1,358.4 million won, bringing the cumulative total to 1,279 sales. Sales of immovables and vested shares stopped 18 September under the US-Korean financial agreement, and provincial activity slowed before recovering in late October. OPC asked the US Army to ship 1,600 tons of war-booty steel billets to the United States."
+   "summary": "581 sales worth 1,358.4 million won since 1 July brought the total to 1,279. Sales of immovables and shares stopped 18 September under the financial agreement; OPC asked to ship 1,600 tons of steel billets to the US."
   },
   {
    "title": "Korean Residence Management Corporation",
@@ -109,7 +109,7 @@
    "printed_page": "8",
    "start_page": 501,
    "end_page": 501,
-   "summary": "Operations planned spring construction of 500 low-cost KRMC houses, types B (100), C (100) and D (300), costing about 240 million won; larger A houses were dropped as unaffordable. Financing combines subsidy, bank loans, lot sales and 20 percent down payments, with 10-year, 20-year and rental monthly schedules. Police posted 149,056 pyung of KRMC lots against unauthorized building."
+   "summary": "KRMC planned 500 low-cost houses (types B, C, D) costing about 240 million won, financed by subsidy, loans, lot sales and 20 percent down payments. Police guarded 149,056 pyung of lots."
   },
   {
    "title": "Real Estate Transfers",
@@ -117,7 +117,7 @@
    "printed_page": "9",
    "start_page": 502,
    "end_page": 502,
-   "summary": "The department accepted real property released by US forces, giving Korean government agencies priority under Procedural Memorandums 21 and 24; most Army construction was leased to the Korean Army and Navy. Releases comprised 280 dependent houses (205 Army-built) and 625 other properties. Rent claims received before 15 September were mostly settled, but the 30 September quarterly rent could not be paid without Korean authorization."
+   "summary": "The department accepted US-released property, with Korean agencies given priority under Procedural Memorandums 21 and 24: 280 dependent houses and 625 other properties. The 30 September quarterly rent could not be paid."
   },
   {
    "title": "Policy Division",
@@ -125,7 +125,7 @@
    "printed_page": "9",
    "start_page": 502,
    "end_page": 502,
-   "summary": "The Claims Section finished hearings on disputed property claims by 18 September: of 1,394 cases transferred from the Property Claims Commission, 825 were allowed, 356 disallowed and 213 returned. Forms and procedures were distributed on 24 August under Ordinance No. 210 for Allied nationals and Korean Zaidans (largely missionary groups) seeking return of seized property. By 12 October the Custodian held shares in 38 corporations."
+   "summary": "Of 1,394 cases from the Property Claims Commission, 825 were allowed, 356 disallowed and 213 returned. Ordinance No. 210 claim forms went out 24 August; the Custodian held shares in 38 corporations."
   },
   {
    "title": "Comptroller Division",
@@ -133,7 +133,7 @@
    "printed_page": "9",
    "start_page": 502,
    "end_page": 502,
-   "summary": "To train Koreans to run the Office of Property Custody, the division prepared manuals on taxes, loans and auditing procedures and translated them into Korean, supplemented by periodic bulletins for field staff. Korean auditors, supervised by an American from the national office, made quarterly audits of all provincial offices, plus audits of custodian-controlled firms tied to loan and capital-expenditure requests."
+   "summary": "Manuals on taxes, loans and auditing were translated to train Korean staff. Korean auditors, supervised by an American, made quarterly audits of all provincial offices and of custodian-controlled firms."
   },
   {
    "title": "Part II. Production and Supply",
@@ -141,7 +141,7 @@
    "printed_page": "",
    "start_page": 504,
    "end_page": 553,
-   "summary": "Food, prices, industry, mining, allocations and foreign trade."
+   "summary": "Food, prices, industry, mining, allocations and trade: summer grain at 100.4 percent of quota, wholesale prices down to 177, bituminous imports of 100,015 tons, 1,211 allocations, and exports at 45 percent of imports."
   },
   {
    "title": "Section 1. Food and Agriculture",
@@ -149,7 +149,7 @@
    "printed_page": "11",
    "start_page": 504,
    "end_page": 512,
-   "summary": "Ministry of Agriculture and Forestry took over on 13 September; summer grain 107,766 tons (100.4 percent of quota); rice collection quota 1,125,000 tons with 18.04-liter personal-transport rider; ration rolls inflated; fertilizer imports, forestry and land payments."
+   "summary": "Ministry of Agriculture and Forestry took over 13 September. Summer grain reached 107,766 tons; the rice quota was 1,125,000 tons. Ration rolls were inflated; fertilizer imports, forestry and land payments reported."
   },
   {
    "title": "Administrative Changes and Rice Collection",
@@ -157,7 +157,7 @@
    "printed_page": "11",
    "start_page": 504,
    "end_page": 505,
-   "summary": "The Republic's Ministry of Agriculture and Forestry took over the Department of Agriculture, Controller of Commodities and National Food Administration on 13 September and the National Land Administration on 11 October. The Assembly's 30 September bill allowed 18.04 liters of rice per trip. A 1,125,000-ton quota was split by province, with fertilizer certificates worth 400 won per bag. Summer grain hit 100.4 percent, Cheju only 4 percent."
+   "summary": "The Ministry of Agriculture and Forestry took over food agencies on 13 September and the National Land Administration on 11 October. A 1,125,000-ton rice quota was split by province; summer grain hit 100.4 percent, Cheju 4."
   },
   {
    "title": "Food",
@@ -165,7 +165,7 @@
    "printed_page": "13",
    "start_page": 506,
    "end_page": 509,
-   "summary": "Ration rolls kept rising, up nearly 1,000,000 in a year to 9,987,597 in October, and padding by provincial officials was suspected; the Food Bureau released grain on 9,285,000 recipients for October. Grain releases fell with summer harvests and vegetables. Stocks fell to 170,551 tons by October. Imports included 18,328 tons of milo maize and 325 tons of substandard Australian canned goods for the Korean National Army."
+   "summary": "Ration rolls rose to 9,987,597 in October, with padding suspected; grain was released to 9,285,000 recipients. Stocks fell to 170,551 tons. Imports included 18,328 tons of milo maize."
   },
   {
    "title": "Korea Agricultural Association",
@@ -173,7 +173,7 @@
    "printed_page": "17",
    "start_page": 510,
    "end_page": 510,
-   "summary": "Fertilizer imports fell in October 1948, and all September-October shipments came from the United States. Imports from October 1946 through October 1948 totaled 630,777 metric tons (340,858 ammonium nitrate, 244,645 superphosphate). Of 521,776 tons received by provinces since July 1947, 461,344 tons (88 percent) were sold to farmers, 52,554 were in distribution channels and 7,878 were apparent losses."
+   "summary": "Fertilizer imports from October 1946 to October 1948 totaled 630,777 tons. Of 521,776 tons received by provinces since July 1947, 461,344 (88 percent) were sold to farmers; 7,878 were apparent losses."
   },
   {
    "title": "Bureau of Forestry",
@@ -181,7 +181,7 @@
    "printed_page": "18",
    "start_page": 511,
    "end_page": 511,
-   "summary": "Forestry output for September and October 1948 was: plywood 10,000 and 12,000 pieces (3 by 6 feet); logs 19,700 and 21,300 cubic meters; fuelwood 313,889 and 293,714 cubic meters; charcoal 3,660 and 3,960 metric tons. Logs, plywood and charcoal rose in October while fuelwood fell."
+   "summary": "September and October output: plywood 10,000 and 12,000 pieces; logs 19,700 and 21,300 cubic meters; fuelwood 313,889 and 293,714; charcoal 3,660 and 3,960 tons. Fuelwood alone fell in October."
   },
   {
    "title": "National Land Administration",
@@ -189,7 +189,7 @@
    "printed_page": "19",
    "start_page": 512,
    "end_page": 512,
-   "summary": "Purchasers of land through the National Land Administration pay 20 percent of annual principal-crop output for 15 years. October installments came to 10,801 metric tons (70.5 percent of 15,315 due), strong in Seoul and Pusan but only 24.4 percent at Iri. Rents brought in 477 tons (58.8 percent of 815). Shortfalls were carried over to the rice purchase program."
+   "summary": "Land purchasers pay 20 percent of annual crop output for 15 years. October installments were 10,801 tons (70.5 percent of 15,315 due), only 24.4 percent at Iri; rents 477 tons (58.8 percent)."
   },
   {
    "title": "Section 2. Prices",
@@ -197,7 +197,7 @@
    "printed_page": "20",
    "start_page": 513,
    "end_page": 521,
-   "summary": "Wholesale index fell to 177 percent of 1947 average in October from 184 in August; rice and grains declined after floods eased; cotton cloth and firewood rose; retail followed wholesale; controlled price lists."
+   "summary": "Wholesale index fell to 177 percent of the 1947 average in October from 184 in August as grains declined after floods eased; cotton cloth and firewood rose. Retail prices followed."
   },
   {
    "title": "Wholesale Prices",
@@ -205,7 +205,7 @@
    "printed_page": "21",
    "start_page": 514,
    "end_page": 515,
-   "summary": "Wholesale indexes rose slightly in September, then fell in October to 177 percent of the 1947 average against 184 in August, on lower grains, protein foods and miscellaneous items. Rice, barley, wheat, millet and soybeans dropped sharply from July as transport recovered from floods and summer crops arrived. Cotton sheeting and sookso silk rose on power-cut output losses; firewood jumped on seasonal demand."
+   "summary": "Wholesale indexes fell in October to 177 percent of the 1947 average (184 in August) on lower grains and protein foods. Cotton sheeting and sookso silk rose on power cuts; firewood jumped seasonally."
   },
   {
    "title": "Retail Prices",
@@ -213,7 +213,7 @@
    "printed_page": "21",
    "start_page": 514,
    "end_page": 519,
-   "summary": "Seoul retail prices of 26 family commodities and the nine-city indexes followed wholesale prices. Grains fell by late October; cleaned rice went from 2,480 won per mal in September to 1,800. Firewood, Chinese cabbage and Korean turnips rose sharply for kimchi season. Table 6 put the national retail index at 175 in October, with fuel at 230."
+   "summary": "Seoul retail prices and nine-city indexes followed wholesale prices. Cleaned rice fell from 2,480 won per mal in September to 1,800; firewood and kimchi vegetables rose. Table 6 put the October retail index at 175."
   },
   {
    "title": "Controlled Prices",
@@ -221,7 +221,7 @@
    "printed_page": "27",
    "start_page": 520,
    "end_page": 521,
-   "summary": "Controlled prices (table 7) were set by the former National Price Administration, now the Bureau of Prices in the Office of Planning of the Republic. No new prices were set and no commodities added after the Republic took over. The table lists food, textiles, footwear, fuel and miscellaneous items, such as cleaned rice at 300 won per large mal and nails at 5,200."
+   "summary": "Controlled prices were set by the former National Price Administration, now the Bureau of Prices in the Office of Planning. No new prices were set after the Republic took over; cleaned rice was 300 won per large mal."
   },
   {
    "title": "Section 3. Industrial Production",
@@ -229,7 +229,7 @@
    "printed_page": "29",
    "start_page": 522,
    "end_page": 529,
-   "summary": "Output improved slightly in September and October despite the power shortage, as industry adapted and added generators. Flour, noodles, coal briquettes (15,849 tons in October), electric insulators and oxygen set 1948 highs. Cement stopped in early November for lack of power; no carbide was made. Brick and rubber shoes rose, truck tires fell, paper was unchanged, and salt output stayed below its early-summer peak."
+   "summary": "Output improved slightly despite the power shortage. Flour, noodles, coal briquettes (15,849 tons in October), insulators and oxygen set 1948 highs. Cement stopped in early November for lack of power; no carbide was made."
   },
   {
    "title": "Section 4. Mining and Minerals",
@@ -237,7 +237,7 @@
    "printed_page": "37",
    "start_page": 530,
    "end_page": 536,
-   "summary": "Anthracite output fell for fifth month, 51 percent below April; lignite up to 5,496 tons; bituminous imports from Japan 100,015 tons in September; gold, silver, copper, tungsten and graphite recovered."
+   "summary": "Anthracite output fell for a fifth month, 51 percent below April. Lignite rose to 5,496 tons, bituminous imports from Japan reached 100,015 tons in September, and gold, silver, copper, tungsten and graphite recovered."
   },
   {
    "title": "Indigenous Anthracite and Lignite Coal",
@@ -245,7 +245,7 @@
    "printed_page": "37",
    "start_page": 530,
    "end_page": 532,
-   "summary": "South Korean anthracite is poor quality and mines never recovered from wartime deterioration. September output fell for the fifth straight month, 51 percent below April, because of power shortage. Lignite reached 5,496 tons, best since December 1947. The 70,500-ton quota proved unrealistic; Samchuk made 21,650 tons, Hwasun stayed weak after flooding, and Yongwol mine reached 19,636 short tons in October."
+   "summary": "Anthracite output fell a fifth month, 51 percent below April, from power shortage. Lignite reached 5,496 tons; the 70,500-ton quota proved unrealistic, Samchuk made 21,650 tons, and Yongwol 19,636 short tons in October."
   },
   {
    "title": "Bituminous Coal and Shipments to Consumers",
@@ -253,7 +253,7 @@
    "printed_page": "40",
    "start_page": 533,
    "end_page": 533,
-   "summary": "Bituminous coal imports from Japan reached 100,015 metric tons in September, close to the post-liberation July peak and 73 percent above the 1947 monthly average; October imports (90,297 tons) fell 10 percent. Deliveries to consumers differ from production, import and allocation figures because of pilferage, evaporation, waste and transit losses. September supply was 18,474 tons of anthracite and 64,566 of bituminous."
+   "summary": "Bituminous imports from Japan were 100,015 tons in September, 73 percent above the 1947 monthly average, and 90,297 tons in October. September supply was 18,474 tons of anthracite and 64,566 of bituminous."
   },
   {
    "title": "Other Minerals",
@@ -261,7 +261,7 @@
    "printed_page": "41",
    "start_page": 534,
    "end_page": 536,
-   "summary": "Production of minerals other than coal recovered in September from low summer levels. Gold rose to 15.9 kg and silver to 129.6 kg; copper concentrate reached 276 tons; tungsten ore 119.4 tons; zinc and lead resumed after flood stoppage in June to August (31.8 and 33.8 tons of ore). Tables 6 to 10 also cover crystalline graphite grades."
+   "summary": "Non-coal minerals recovered in September: gold 15.9 kg, silver 129.6 kg, copper concentrate 276 tons, tungsten ore 119.4 tons. Zinc (31.8 tons) and lead (33.8) resumed after flood stoppage."
   },
   {
    "title": "Section 5. Allocations and Distribution",
@@ -269,7 +269,7 @@
    "printed_page": "44",
    "start_page": 537,
    "end_page": 546,
-   "summary": "Allocations Bureau of Office of Planning processed 1,211 allocations worth 2,551.8 million won; 37,181 tons of salt distributed; petroleum deliveries and prewar consumption; barter trade with North Korea suspended then resumed under restrictions."
+   "summary": "Allocations Bureau processed 1,211 allocations worth 2,551.8 million won; 37,181 tons of salt distributed; petroleum deliveries fell short of allocations. Barter trade with North Korea was suspended, then resumed under restrictions."
   },
   {
    "title": "Allocation of Consumer Goods",
@@ -277,7 +277,7 @@
    "printed_page": "44",
    "start_page": 537,
    "end_page": 537,
-   "summary": "The Allocations Bureau of the new Office of Planning replaced the National Consumer Goods Office on 16 August. By end of October it had processed 1,211 allocations worth 2,551.8 million won, with farmers 37 percent. In September and October, 116 allocations worth 367.4 million won were made, over 80 percent incentive goods for farmers. October imports were 340,000 woolen drawers worth 139.4 million won."
+   "summary": "The Allocations Bureau replaced the National Consumer Goods Office on 16 August and had processed 1,211 allocations worth 2,551.8 million won by October, farmers receiving 37 percent. September-October allocations: 116, worth 367.4 million won."
   },
   {
    "title": "Distribution of Controlled Commodities",
@@ -285,7 +285,7 @@
    "printed_page": "45",
    "start_page": 538,
    "end_page": 538,
-   "summary": "Federation of Financial Associations purchases of controlled goods for government and vested-industry employees were tabulated. Purchases totaled 315.95 million won in September and 117.75 million in October, mainly cotton cloth and underwear, against 3,577.8 million since July 1946. Tables 6 and 7 show distribution from national to provincial FFA and onward to local associations, Table 6 including year-end bonus goods."
+   "summary": "Federation of Financial Associations purchases of controlled goods totaled 315.95 million won in September and 117.75 million in October, mainly cotton cloth and underwear, against 3,577.8 million since July 1946."
   },
   {
    "title": "Salt Distribution",
@@ -293,7 +293,7 @@
    "printed_page": "45",
    "start_page": 538,
    "end_page": 538,
-   "summary": "The Monopoly Bureau reported 37,181 metric tons of salt distributed in September and October, mostly kimchi rations (28.3 million kg in October) for the winter. Stock on 31 October was 89,927 tons. Imports were 9,263 tons through Civilian Supply and 143 tons privately. Government salterns made 14,084 tons in the two months, 88,637 tons since April, or 66 percent of the F/Y 1948/49 estimate."
+   "summary": "37,181 tons of salt were distributed in September and October, mostly kimchi rations. Stock on 31 October was 89,927 tons; government salterns made 88,637 tons since April, 66 percent of the F/Y 1948/49 estimate."
   },
   {
    "title": "Petroleum",
@@ -301,7 +301,7 @@
    "printed_page": "45",
    "start_page": 538,
    "end_page": 545,
-   "summary": "The Petroleum Distribution Agency delivered less than allocated, for example 6.48 million liters of gasoline in October against 7.78 million allocated, owing to stock shortages and poor Pusan terminal facilities, though better than June and July. National agencies such as the Navy, Coast Guard and Marine Bureau drew separate quantities. Korean use fell from 409 million liters in 1937 to 48 million in 1944. Sales tables follow."
+   "summary": "Petroleum deliveries fell short of allocations, such as 6.48 million liters of gasoline in October against 7.78 million allocated, owing to stock shortages and poor Pusan terminal facilities. Korean use fell from 409 million liters in 1937 to 48 million in 1944."
   },
   {
    "title": "Barter Trade with North Korea",
@@ -309,7 +309,7 @@
    "printed_page": "53",
    "start_page": 546,
    "end_page": 546,
-   "summary": "Minister of Commerce and Industry Louise Yim ordered the Bureau of Commerce to suspend trade with North Korea pending National Assembly approval, adopt a new import-export program, and bar exports of food, rubber, cotton cloth, ginned cotton and petroleum. By end of October the Assembly had approved and barter resumed under modified rules, mainly manufactured goods, to keep raw materials from the north."
+   "summary": "Minister Louise Yim ordered trade with North Korea suspended pending National Assembly approval and barred exports of food, rubber, cotton cloth and petroleum. By end of October the Assembly approved and barter resumed under modified rules."
   },
   {
    "title": "Section 6. Imports and Exports",
@@ -317,7 +317,7 @@
    "printed_page": "54",
    "start_page": 547,
    "end_page": 553,
-   "summary": "Private trade: imports up 22 percent and exports up 80 percent in September, exports 45 percent of imports; government shipments to US, Hong Kong and Japan; souvenir sales to Americans."
+   "summary": "Private imports rose 22 percent and exports 80 percent in September, exports reaching 45 percent of imports. Government shipments went to the US, Hong Kong and Japan; souvenirs were sold to Americans."
   },
   {
    "title": "Private Trade Statistics",
@@ -325,7 +325,7 @@
    "printed_page": "54",
    "start_page": 547,
    "end_page": 550,
-   "summary": "August imports rose 118 percent over July while exports fell 18 percent; in September imports rose 22 percent and exports over 80 percent, giving exports 45 percent of imports. September imports were 1,155 million won, driven by newsprint, raw rubber, thread and plate glass; exports were 516 million, led by shellfish and agar. Hong Kong took over 93 percent of exports; Inchon handled about 96 percent of imports."
+   "summary": "September imports were 1,155 million won (newsprint, raw rubber, thread, plate glass); exports 516 million (shellfish, agar), 93 percent to Hong Kong. Imports rose 22 percent and exports over 80 percent; Inchon handled 96 percent of imports."
   },
   {
    "title": "Government-to-Government Transactions",
@@ -333,7 +333,7 @@
    "printed_page": "58",
    "start_page": 551,
    "end_page": 552,
-   "summary": "No government shipments went to the United States from mid-August through September; over 3,600 tons followed in October (mostly 3,595.6 tons of scrap metal, plus concentrates and agar, worth $106,941). Hong Kong received agar agar and apples. Over 5,800 tons went to Japan from 15 August to 31 October, chiefly 4,108 tons of amorphous graphite. Pusan stocks fell to 1,422 tons."
+   "summary": "October government shipments to the US exceeded 3,600 tons, mostly 3,595.6 tons of scrap metal ($106,941). Over 5,800 tons went to Japan from 15 August, chiefly 4,108 tons of graphite."
   },
   {
    "title": "Korean Items for Americans in Korea",
@@ -341,7 +341,7 @@
    "printed_page": "60",
    "start_page": 553,
    "end_page": 553,
-   "summary": "Sales of Korean-made souvenirs such as brassware, lacquer and postcards continued at the Army Exchange Service PX in Seoul through August, September and October, declining late in October as the PX returned to basic necessities. Deliveries were 10,414 pieces ($11,274) in August, 4,850 ($5,399) in September and 5,320 ($4,259) in October."
+   "summary": "Korean-made souvenirs such as brassware and lacquer sold at the Seoul Army PX: 10,414 pieces ($11,274) in August, 4,850 ($5,399) in September, 5,320 ($4,259) in October."
   },
   {
    "title": "Part III. Public Services",
@@ -349,7 +349,7 @@
    "printed_page": "",
    "start_page": 554,
    "end_page": 572,
-   "summary": "Transportation, communications, utilities and public works."
+   "summary": "Railroads, communications, utilities and public works: transport and communications departments passed to Korean ministries, power deliveries fell 18 percent, and Public Works became a bureau under Home Affairs."
   },
   {
    "title": "Section 1. Transportation",
@@ -357,7 +357,7 @@
    "printed_page": "61",
    "start_page": 554,
    "end_page": 560,
-   "summary": "Transportation department turned over 15 August; September expenditures rose 61 percent to postliberation high; railroad passengers up, tonnage slightly down, locomotives and employment declines, coal use up."
+   "summary": "Transportation department turned over 15 August. September expenditures rose 61 percent to a postliberation high of 1,418.6 million won; passengers and freight rose, operable locomotives fell to 256, and coal use increased."
   },
   {
    "title": "Railroads",
@@ -365,7 +365,7 @@
    "printed_page": "61",
    "start_page": 554,
    "end_page": 559,
-   "summary": "The Department of Transportation passed to the Republic on 15 August; Min He-sik resigned 6 October and Ho Chung succeeded him. Ministry expenditures peaked in September (1,418.6 million won) on winter stockpiling and fell sharply in October. Railroad receipts rose in September, then dropped. Passenger and freight traffic rose, locomotives operable fell to 256, repairs increased, and employment declined while wages rose."
+   "summary": "Transportation passed to the Republic on 15 August; Min He-sik resigned 6 October, succeeded by Ho Chung. September spending peaked at 1,418.6 million won. Operable locomotives fell to 256; employment declined while wages rose."
   },
   {
    "title": "Marine, Highway and Air Transportation",
@@ -373,7 +373,7 @@
    "printed_page": "67",
    "start_page": 560,
    "end_page": 560,
-   "summary": "Railroad coal consumption rose to 45,919 metric tons in September and 49,923 in October, still well below 1947, with economy indexes worse because locomotive run fell. Marine income gained to 28.6 and 32.4 million won; September expenditures spiked to 206 million won on winter stockpiling, then fell to 28 million in October."
+   "summary": "Railroad coal use rose to 45,919 tons in September and 49,923 in October. Marine income rose to 28.6 and 32.4 million won; September marine spending spiked to 206 million won, then fell to 28 million."
   },
   {
    "title": "Section 2. Communications",
@@ -381,7 +381,7 @@
    "printed_page": "68",
    "start_page": 561,
    "end_page": 566,
-   "summary": "The Department of Communications passed to the Republic of Korea on 13 September under Minister Yoon Suk-ku. September revenue neared double the year before on higher telephone rates; expenditure hit a postwar high of 201 million won, with 12,570 employees. Postal depositors rose 153,000; Seoul-Shanghai radio-telephone tests began and RCA training was arranged."
+   "summary": "Communications passed to the Republic on 13 September under Minister Yoon Suk-ku. September revenue nearly doubled on higher telephone rates; expenditure hit 201 million won with 12,570 employees. Seoul-Shanghai radio-telephone tests began."
   },
   {
    "title": "Section 3. Public Utilities",
@@ -389,7 +389,7 @@
    "printed_page": "74",
    "start_page": 567,
    "end_page": 569,
-   "summary": "Power deliveries were 45.6 million KWH in September and 46.1 million in October, about 18 percent below August, all from southern sources. Yongwol and Pusan plants were down for repairs in September; Yongwol's rehabilitated plant carried 80,400 KW in a 23 October test. A seven-man Korean Power Mission under Loyal R. Millburn arrived 19 October."
+   "summary": "Power deliveries were 45.6 million KWH in September and 46.1 million in October, about 18 percent below August. Yongwol's rehabilitated plant carried 80,400 KW on 23 October; a seven-man power mission under Loyal R. Millburn arrived 19 October."
   },
   {
    "title": "Section 4. Public Works",
@@ -397,7 +397,7 @@
    "printed_page": "77",
    "start_page": 570,
    "end_page": 572,
-   "summary": "Public Works became a bureau under Home Affairs on 13 September; the Fire Commissioners went to the National Police. Highway projects used 82,677 man-days and 41.3 million won; eight bridges advanced, Waegwon finished. Water plants in many cities were repaired, rates raised in four cities, and river works planned at 82.4 million won."
+   "summary": "Public Works became a Home Affairs bureau on 13 September. Highway projects used 82,677 man-days and 41.3 million won; Waegwon bridge finished. Water plants were repaired and river works planned at 82.4 million won."
   },
   {
    "title": "Part IV. Finance",
@@ -405,7 +405,7 @@
    "printed_page": "",
    "start_page": 573,
    "end_page": 585,
-   "summary": "Government and non-government finance."
+   "summary": "Government finance and non-government finance: notes outstanding rose 2,500 million won, the overdraft reached 38,400 million, and deposits stood at 52,328 million won at end of September."
   },
   {
    "title": "Section 1. Government Finance",
@@ -413,7 +413,7 @@
    "printed_page": "80",
    "start_page": 573,
    "end_page": 578,
-   "summary": "Notes outstanding rose 2,500 million won from August to October, with over 1,500 million for Monopoly tobacco purchases. Spending exceeded revenue by 3,695 million won in September and 878 million in October, overdraft reaching 38,400 million. Appropriations totaled 43,749 million won by 12 November; Civilian Supply net proceeds were 40,971 million."
+   "summary": "Notes outstanding rose 2,500 million won from August to October, over 1,500 million for tobacco purchases. Spending exceeded revenue by 3,695 million in September and 878 million in October; appropriations reached 43,749 million won."
   },
   {
    "title": "Section 2. Non-Government Finance",
@@ -421,7 +421,7 @@
    "printed_page": "86",
    "start_page": 579,
    "end_page": 585,
-   "summary": "Deposit balances rose since July to 52,328 million won at end of September: 38 percent government, 11 inter-bank, 51 public. Bank of Chosun held nearly 36 percent; Chobeung led public deposits. Cash balances reached 4,691.9 million. Loans outstanding fell 960 million won to 27,441 million; life and damage insurance continued to grow."
+   "summary": "Deposits reached 52,328 million won at end of September (38 percent government, 51 public); Bank of Chosun held nearly 36 percent. Loans outstanding fell 960 million to 27,441 million won."
   },
   {
    "title": "Back matter",
@@ -429,12 +429,14 @@
    "printed_page": "",
    "start_page": 586,
    "end_page": 591,
-   "summary": "Back matter of the scanned volume: blank pages marked only 'Digitized by Google', a library due-date slip with a 2010 date, and a closing page with an English-information note. No report content or figures."
+   "summary": "Blank pages marked 'Digitized by Google', a library due-date slip and a closing page; no report content."
   }
  ],
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 591,
  "_uncovered_pages": [],
  "_bad_ranges": [],
- "_refined": "38 leaf summaries rewritten from full section text"
+ "_refined": "38 leaf summaries rewritten from full section text",
+ "_needs_source": [],
+ "_polished": true
 }

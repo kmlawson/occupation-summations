@@ -1,7 +1,7 @@
 {
  "summary": "Summation No. 21 covers USAMGIK activities in South Korea for June 1947, with economic statistics mostly for April and May. The Korean Interim Legislative Assembly ended its long franchise-law dispute on 27 June, setting the minimum voting age at 23 after Speaker Kimm Kiu Sic's resignation threat. The U.S.-U.S.S.R. Joint Commission issued Communique No. 11, circulated questionnaires on the provisional government's charter and platform to parties, and moved to Pyongyang for consultations. Rightist ranks split over participation. Economic sections report record April coal output, record salt output, rising Bank of Chosen note circulation, the new Korean Foreign Exchange Bank, a revised income tax law, rail and power figures, and grain-import tables. Social sections cover cholera immunization, refugees from the North (102,185 since January), repatriation, textbooks, school statistics, the National Youth Movement and press reaction. The volume is a Digitized-by-Google University of Virginia copy, useful to historians for the Joint Commission texts and detailed statistics.",
  "highlights": [
-  "The Interim Legislative Assembly passed the General Franchise Law on 27 June with a compromise minimum voting age of 23 (40 votes for 23 against 26 for 21), after Speaker Kimm Kiu Sic and Vice-speakers Choe Tong O and Yun Ki Sop resigned over a 25-year requirement and withdrew on 9 June.",
+  "The Interim Legislative Assembly passed the General Franchise Law on 27 June with a compromise minimum voting age of 23 (40 votes to 26 for 21), after Speaker Kimm Kiu Sic and Vice-speakers Choe Tong O and Yun Ki Sop resigned over a 25-year requirement and withdrew on 9 June.",
   "Joint Communique No. 11 (12 June) set the method of consulting Korean parties; 344 parties had obtained copies by 19 June, applications were due 23 June, answers extended from 1 July to 5 July, and the delegations left for Pyongyang on 25-26 June.",
   "The Hankuk Democratic Party decided to join Joint Commission deliberations, splitting the Rightists led by Syngman Rhee and Kim Koo, while the South Korea Labor Party named Pak Hun Tung its representative and demanded Rhee and Kim be expelled.",
   "April coal production reached 31,318 metric tons, the highest since liberation but 4,182 tons short of the 35,500-ton quota; anthracite supplies of 35,305 tons met only part of the 85,000-ton requirement.",
@@ -44,7 +44,7 @@
    "printed_page": "1",
    "start_page": 15,
    "end_page": 24,
-   "summary": "Condensed overview of June 1947: franchise law, Joint Commission consultations, coal and finance news, health, refugees, education and public information."
+   "summary": "Overview of June 1947: the franchise law, Joint Commission consultations, coal and finance news, health, refugees, education and public information."
   },
   {
    "title": "Section 1. Political Activities",
@@ -52,7 +52,7 @@
    "printed_page": "3",
    "start_page": 17,
    "end_page": 18,
-   "summary": "Speaker Kimm's resignation and the 27 June franchise law (voting age 23), Rightist split, Joint Commission Communique No. 11, 344 parties applying and move to Pyongyang on 25 June."
+   "summary": "Speaker Kimm's resignation threat and the 27 June franchise law (voting age 23), the Rightist split, Joint Commission Communique No. 11 with 344 parties applying, and the 25 June move to Pyongyang."
   },
   {
    "title": "Section 2. Economic Activities",
@@ -60,7 +60,7 @@
    "printed_page": "5",
    "start_page": 19,
    "end_page": 22,
-   "summary": "Rice transplanting of 2,824,466 acres, April coal at 31,318 tons, salt at 32,207 tons, Foreign Exchange Bank, note circulation of 18,035,603,028 yen, and summer-grain prices."
+   "summary": "Rice transplanting of 2,824,466 acres, April coal at 31,318 tons, salt at 32,207 tons, the new Foreign Exchange Bank, note circulation of 18,035,603,028 yen, and summer-grain prices."
   },
   {
    "title": "Section 3. Social Activities",
@@ -68,7 +68,7 @@
    "printed_page": "9",
    "start_page": 23,
    "end_page": 24,
-   "summary": "Cholera immunization, 4,863 renewed doctors, 102,185 refugees from the North, 9,129,922 textbooks distributed, youth movement and a poll favoring a 20-year voting age."
+   "summary": "Cholera immunization, 4,863 renewed doctors, 102,185 refugees from the North, 9,129,922 textbooks distributed, the youth movement, and a poll favoring a 20-year voting age."
   },
   {
    "title": "Part II: Political",
@@ -76,7 +76,7 @@
    "printed_page": "11",
    "start_page": 25,
    "end_page": 50,
-   "summary": "Government and politics, including the franchise law and Joint Commission documents, plus legal and public safety matters such as police, prisons and fires."
+   "summary": "Franchise law and Joint Commission documents, plus legal and public safety matters: police, prisons and fires."
   },
   {
    "title": "Section 1. Government and Politics",
@@ -92,7 +92,7 @@
    "printed_page": "31",
    "start_page": 45,
    "end_page": 50,
-   "summary": "Legislation promulgated, orderly Rightist demonstration of 23 June, 80 percent of police lacking pre-liberation experience, 20,554 prisoners in May, 92 fires, and Constabulary training courses."
+   "summary": "Orderly Rightist demonstration of 23 June, 80 percent of police lacking pre-liberation experience, 20,554 prisoners in May, 92 fires, and Constabulary training courses."
   },
   {
    "title": "Part III: Economic",
@@ -100,7 +100,7 @@
    "printed_page": "37",
    "start_page": 51,
    "end_page": 88,
-   "summary": "Natural resources, industry, commerce and rationing, with coal, salt, silk, currency, trade, railroads, power, communications and price statistics."
+   "summary": "Coal, salt, silk, currency, trade, railroads, power, communications and price statistics, including record April coal and the Foreign Exchange Bank."
   },
   {
    "title": "Section 1. Natural Resources",
@@ -116,7 +116,7 @@
    "printed_page": "45",
    "start_page": 59,
    "end_page": 64,
-   "summary": "Flour, noodle, salt, paper and brick output, silk ceiling price of 54.40 yen, cotton and silk cloth production, and the Pusan stevedore strike settlement."
+   "summary": "Flour, noodle, salt, paper and brick output, a silk ceiling price of 54.40 yen, cotton and silk cloth production, and the Pusan stevedore strike settlement."
   },
   {
    "title": "Section 3. Commerce",
@@ -124,7 +124,7 @@
    "printed_page": "51",
    "start_page": 65,
    "end_page": 82,
-   "summary": "Note circulation of 18.0 billion yen, Foreign Exchange Bank, revised income tax, vested property sales, May import jump, rail and power data, public works spending of 362,831,452 yen, and postal statistics."
+   "summary": "Note circulation of 18.0 billion yen, the Foreign Exchange Bank, revised income tax, vested property sales, May import jump, rail and power data, public works spending of 362,831,452 yen."
   },
   {
    "title": "Section 4. Rationing and Price Control",
@@ -132,7 +132,7 @@
    "printed_page": "69",
    "start_page": 83,
    "end_page": 88,
-   "summary": "Basic rice ration of about 0.23 pound, summer-grain purchase prices (wheat 1,792 yen per suk), 46 percent of fertilizer sold, petroleum distribution down 24 percent, and declining April free-market prices."
+   "summary": "Basic rice ration of about 0.23 pound, summer-grain purchase prices (wheat 1,792 yen per suk), 46 percent of fertilizer sold, petroleum distribution down 24 percent, falling April free-market prices."
   },
   {
    "title": "Part IV: Social",
@@ -140,7 +140,7 @@
    "printed_page": "75",
    "start_page": 89,
    "end_page": 106,
-   "summary": "Public health and welfare, education, culture and religion, and public information, led by refugee relief, school statistics and press commentary on the Joint Commission."
+   "summary": "Refugee relief, school statistics and press commentary on the Joint Commission, within public health, education, culture, religion and public information."
   },
   {
    "title": "Section 1. Public Health and Welfare",
@@ -164,7 +164,7 @@
    "printed_page": "89",
    "start_page": 103,
    "end_page": 106,
-   "summary": "600,000 leaflets dropped on Joint Commission news, 35 films reviewed, radio weather forecasts, suffrage-age poll of 1,149 persons, and press reaction to Rightist division over cooperation."
+   "summary": "600,000 leaflets dropped on Joint Commission news, 35 films reviewed, radio weather forecasts, a suffrage-age poll of 1,149 persons, and press reaction to the Rightist division over cooperation."
   },
   {
    "title": "Map of Korea",
@@ -186,5 +186,7 @@
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 116,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

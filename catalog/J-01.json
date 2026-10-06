@@ -1,12 +1,13 @@
 {
  "highlights": [
-  "General Douglas MacArthur established GHQ SCAP in Tokyo on 2 October 1945, activating nine Special Staff Sections to supervise non-military occupation policies.",
-  "SCAP issued the 4 October 'Bill of Rights' directive, repealing the Peace Preservation Law, abolishing thought-control police, and freeing 507 political prisoners.",
-  "Prime Minister Prince Higashikuni's cabinet resigned en bloc on 5 October following SCAP's civil liberties directive, replaced on 9 October by Baron Kijuro Shidehara.",
-  "The four major Zaibatsu combines—Mitsui, Mitsubishi, Yasuda, and Sumitomo—agreed to voluntary dissolution plans transferring their holding company securities to a liquidation commission.",
-  "SCAP ordered the arrest of former Premier Hideki Tojo, his Pearl Harbor Cabinet, and approximately 300 suspected war criminals.",
-  "General MacArthur proclaimed U.S. Military Government in Korea on 7 September 1945, refusing recognition to domestic provisional regimes amid partition at the 38th parallel.",
-  "Japanese coal production plunged from 3.4 million metric tons in June 1945 to under 600,000 tons in October following the liberation of forced laborers."
+  "General MacArthur established GHQ SCAP in Tokyo on 2 October 1945 and activated nine Special Staff Sections to supervise non-military occupation policy, governing indirectly through the Japanese Government.",
+  "SCAP's 4 October 'Bill of Rights' directive repealed the Peace Preservation Law, abolished the thought-control police (4,800 officials dismissed), and freed 507 political prisoners.",
+  "Prime Minister Prince Higashikuni's Cabinet resigned en bloc on 5 October after the civil liberties directive and was replaced on 9 October by Baron Kijuro Shidehara's Cabinet.",
+  "The four major Zaibatsu combines, Mitsui, Mitsubishi, Yasuda and Sumitomo, agreed to voluntary dissolution plans transferring holding company securities to a liquidation commission; 29 wartime colonial banks were closed.",
+  "SCAP ordered the arrest of former Premier Hideki Tojo, his Pearl Harbor Cabinet and about 300 suspected war criminals.",
+  "Coal production fell from 3.4 million metric tons in June 1945 to under 600,000 tons in October after forced laborers were liberated, while typhoons worsened food shortages and the staple ration fell to 294 grams.",
+  "General MacArthur proclaimed U.S. Military Government in Korea on 7 September 1945, refusing recognition to domestic provisional regimes amid partition at the 38th parallel and 54 rival political parties.",
+  "Active Japanese merchant shipping shrank to 908,000 gross tons, mostly allocated to coastal coal and repatriation, while black-market prices reached up to 260 times official ceilings."
  ],
  "keywords": [
   "SCAP",
@@ -29,7 +30,7 @@
    "level": 1,
    "printed_page": "",
    "start_page": 1,
-   "summary": "Includes the title page, document documentation sheet, War Department transmittal memorandum, and general table of contents for the initial monthly summation.",
+   "summary": "Title page, document documentation sheet, War Department transmittal memorandum and general table of contents for the first monthly summation.",
    "title": "Front Matter"
   },
   {
@@ -37,7 +38,7 @@
    "level": 1,
    "printed_page": "1",
    "start_page": 6,
-   "summary": "Executive summaries of SCAP organization, initial political and social reforms in Japan, economic stabilization and demilitarization, and civil administration in Korea.",
+   "summary": "Executive overview of SCAP organization, early political and social reforms, economic demilitarization and stabilization in Japan, and U.S. Military Government civil administration in Korea.",
    "title": "Part I: General"
   },
   {
@@ -45,7 +46,7 @@
    "level": 2,
    "printed_page": "3",
    "start_page": 8,
-   "summary": "Details the establishment of GHQ SCAP in Tokyo, activation of nine Special Staff Sections, indirect control mechanisms via the Japanese Government's Central Liaison Office, and the administrative framework for Military Government in Korea.",
+   "summary": "GHQ SCAP was established in Tokyo with nine Special Staff Sections, governing indirectly through the Japanese Government's Central Liaison Office; the section also outlines the Military Government framework in Korea.",
    "title": "Section 1. Organization under SCAP"
   },
   {
@@ -53,7 +54,7 @@
    "level": 2,
    "printed_page": "7",
    "start_page": 12,
-   "summary": "Summarizes political reforms including the 4 October 'Bill of Rights' directive, fall of the Higashikuni Cabinet and formation of the Shidehara Cabinet, dismissal of 4,800 thought-police officials, release of political prisoners, emergence of new political parties, and early war crimes arrests.",
+   "summary": "The 4 October 'Bill of Rights' directive toppled the Higashikuni Cabinet in favor of Shidehara's, 4,800 thought-police officials were dismissed, political prisoners freed, new parties emerged, and war crimes arrests began.",
    "title": "Section 2. Political and Social Activities in Japan"
   },
   {
@@ -61,7 +62,7 @@
    "level": 2,
    "printed_page": "13",
    "start_page": 18,
-   "summary": "Reviews the demilitarization of war industries, initial plans for dissolving Zaibatsu holding companies, legalization of trade unions, severe coal and food shortages, strict foreign trade and exchange controls, and the closure of 29 wartime colonial banks.",
+   "summary": "War industries were demilitarized and Zaibatsu dissolution planned; trade unions were legalized, coal and food were scarce, trade and exchange were tightly controlled, and 29 wartime colonial banks were closed.",
    "title": "Section 3. Economic Activities in Japan"
   },
   {
@@ -69,7 +70,7 @@
    "level": 2,
    "printed_page": "19",
    "start_page": 24,
-   "summary": "Surveys early operations of U.S. Military Government in South Korea, the impact of division at the 38th parallel, replacement of Japanese personnel, emergence of dozens of political factions, critical coal shortages, and prevention of winter typhus epidemics.",
+   "summary": "U.S. Military Government in South Korea began operating under the 38th parallel division, replaced Japanese personnel, faced dozens of political factions and coal shortages, and moved to prevent winter typhus.",
    "title": "Section 4. Civil Administration in Korea"
   },
   {
@@ -77,7 +78,7 @@
    "level": 1,
    "printed_page": "23",
    "start_page": 28,
-   "summary": "Covers government administration, political reorganization, legal affairs, public safety, and intelligence activities in Japan.",
+   "summary": "Government administration, political reorganization, legal affairs, public safety and intelligence in Japan, including the Cabinet change, demobilization, release of political prisoners, and arrest orders for Tojo and 300 suspected war criminals.",
    "title": "Part II: Political"
   },
   {
@@ -85,7 +86,7 @@
    "level": 2,
    "printed_page": "25",
    "start_page": 30,
-   "summary": "Details the operation of indirect administration through the Japanese Diet and Ministries, the fall of the Higashikuni Cabinet and formation of the Shidehara Cabinet, prefectural governorship shake-ups, early constitutional revision committees, proposed woman suffrage, and the emergence of competing political parties.",
+   "summary": "Indirect administration worked through the Diet and Ministries; Higashikuni's Cabinet fell and Shidehara's formed, governors were shaken up, constitutional revision committees began, woman suffrage was proposed, and rival parties emerged.",
    "title": "Section 1. Government and Civil Administration"
   },
   {
@@ -93,7 +94,7 @@
    "level": 2,
    "printed_page": "33",
    "start_page": 38,
-   "summary": "Reports the complete demobilization of the armed forces, abrogation of peace preservation laws, release of political prisoners, purge of 4,800 secret police, arrest orders for Tojo and 300 war criminals, and implementation of press censorship.",
+   "summary": "Armed forces were fully demobilized, peace preservation laws abrogated, political prisoners released, 4,800 secret police purged, arrest orders issued for Tojo and 300 war criminals, and press censorship implemented.",
    "title": "Section 2. Legal, Public Safety and Intelligence"
   },
   {
@@ -101,7 +102,7 @@
    "level": 1,
    "printed_page": "41",
    "start_page": 46,
-   "summary": "Comprehensive report on natural resources, industry, transportation, foreign trade, labor, communications, rationing and price control, and finance in Japan.",
+   "summary": "Economic conditions in Japan: food and coal collapse, stagnant industry, crippled transport, controlled foreign trade, unemployment, black markets, and finance including closure of 29 colonial banks and Zaibatsu dissolution plans.",
    "title": "Part III: Economic"
   },
   {
@@ -109,7 +110,7 @@
    "level": 2,
    "printed_page": "43",
    "start_page": 48,
-   "summary": "Documents severe food deficits aggravated by September typhoon damage to rice crops, the establishment of authorized fishing zones amid fuel and net shortages, urban charcoal shortages, and a catastrophic drop in coal production following the liberation of forced laborers.",
+   "summary": "September typhoon damage to rice worsened food deficits; fishing zones were authorized despite fuel and net shortages, urban charcoal ran short, and coal output collapsed after forced laborers were liberated.",
    "title": "Section 1. Natural Resources"
   },
   {
@@ -117,7 +118,7 @@
    "level": 2,
    "printed_page": "55",
    "start_page": 60,
-   "summary": "Surveys industrial stagnation, authorization of monthly truck production, 24-hour shipyard repair operations, severe iron and steel declines due to coal shortages, textile deficits, plans to dissolve wartime control associations, and restrictions on scientific research including cyclotrons.",
+   "summary": "Industry stagnated: monthly truck production was authorized, shipyards repaired around the clock, iron and steel fell with coal shortages, wartime control associations were slated for dissolution, and cyclotron research was restricted.",
    "title": "Section 2. Industry"
   },
   {
@@ -125,7 +126,7 @@
    "level": 2,
    "printed_page": "73",
    "start_page": 78,
-   "summary": "Assesses operational conditions across transportation sectors, noting relative railroad resilience despite passenger overcrowding, severe deterioration of motor vehicles, and the reduction of active merchant shipping to 908,000 gross tons allocated primarily to coastal coal and repatriation.",
+   "summary": "Railroads proved relatively resilient despite overcrowding while motor vehicles deteriorated severely; active merchant shipping shrank to 908,000 gross tons, allocated mainly to coastal coal and repatriation.",
    "title": "Section 3. Transportation"
   },
   {
@@ -133,7 +134,7 @@
    "level": 2,
    "printed_page": "79",
    "start_page": 84,
-   "summary": "Outlines foreign trade controls limiting imports to vital necessities paid by approved exports, reports identified export surpluses such as raw silk, details emergency coal exports to Korea and Hong Kong, and reviews the legacy of wartime military trading companies.",
+   "summary": "Imports were limited to vital necessities paid for by approved exports; export surpluses such as raw silk were identified, emergency coal went to Korea and Hong Kong, and wartime military trading companies were reviewed.",
    "title": "Section 4. Imports and Exports"
   },
   {
@@ -141,7 +142,7 @@
    "level": 2,
    "printed_page": "85",
    "start_page": 90,
-   "summary": "Covers labor procurement for Allied forces, projected unemployment of over four million, restoration of prewar protective labor standards, rebirth of independent labor unions under a unified federation, and violent strikes among liberated Korean and Chinese coal miners.",
+   "summary": "Labor was procured for Allied forces and unemployment projected above four million; prewar labor protections returned, independent unions re-formed under a unified federation, and Korean and Chinese coal miners struck violently.",
    "title": "Section 5. Labor"
   },
   {
@@ -149,7 +150,7 @@
    "level": 2,
    "printed_page": "91",
    "start_page": 96,
-   "summary": "Details emergency rehabilitation of war-damaged telephone and telegraph networks for Allied use, censorship of international radio circuits, redistribution of seized military vacuum tubes, slow manufacturing recovery of communications equipment, and restrictions on electronics research.",
+   "summary": "War-damaged telephone and telegraph networks were rehabilitated for Allied use, international radio circuits censored, seized military vacuum tubes redistributed, equipment manufacturing recovered slowly, and electronics research restricted.",
    "title": "Section 6. Communications"
   },
   {
@@ -157,7 +158,7 @@
    "level": 2,
    "printed_page": "107",
    "start_page": 112,
-   "summary": "Reports the breakdown of commodity distribution, reduction of the staple food ration to 294 grams, critical newsprint and textile shortages, pervasive black-market pricing up to 260 times official ceilings, and efforts to reform price control mechanisms.",
+   "summary": "Commodity distribution broke down; the staple food ration fell to 294 grams, newsprint and textiles ran short, black-market prices reached 260 times official ceilings, and price control reform was pursued.",
    "title": "Section 7. Rationing and Price Control"
   },
   {
@@ -165,7 +166,7 @@
    "level": 2,
    "printed_page": "115",
    "start_page": 120,
-   "summary": "Details fiscal distress, currency stabilization at ¥42 billion, closure and liquidation of 29 wartime colonial banks, impounding of gold and silver reserves, unsettled war damage insurance guarantees, and initial dissolution plans for the four major Zaibatsu combines.",
+   "summary": "Fiscal distress persisted with the currency stabilized at 42 billion yen; 29 wartime colonial banks were liquidated, gold and silver impounded, war damage insurance left unsettled, and Zaibatsu dissolution begun.",
    "title": "Section 8. Finance"
   },
   {
@@ -173,7 +174,7 @@
    "level": 1,
    "printed_page": "131",
    "start_page": 136,
-   "summary": "Reports on public health, welfare administration, medical supplies, education reform, religious freedom, cultural preservation, and media liberalization in Japan.",
+   "summary": "Public health, welfare, medical supplies, education reform, religious freedom, cultural preservation and media liberalization in Japan, including relief for over 83,000 persons and the dissolution of the Domei news monopoly.",
    "title": "Part IV: Social Services"
   },
   {
@@ -181,7 +182,7 @@
    "level": 2,
    "printed_page": "133",
    "start_page": 138,
-   "summary": "Surveys damaged hospital facilities, relief programs for over 83,000 persons, venereal disease control directives, emergency typhus prevention measures among repatriates, transfer of military medical stockpiles, and the delivery of relief supplies to Hiroshima.",
+   "summary": "Hospital facilities were damaged; relief reached over 83,000 persons, venereal disease directives issued, typhus prevention applied to repatriates, military medical stockpiles transferred, and relief supplies delivered to Hiroshima.",
    "title": "Section 1. Public Health and Welfare"
   },
   {
@@ -189,7 +190,7 @@
    "level": 2,
    "printed_page": "147",
    "start_page": 152,
-   "summary": "Details educational demilitarization and teacher screening, abolition of the Religious Bodies Law, plans to separate State Shinto from the state, dissolution of the Domei news monopoly, and the introduction of democratic radio, film, and theatrical programs.",
+   "summary": "Education was demilitarized and teachers screened, the Religious Bodies Law abolished, State Shinto separation planned, the Domei news monopoly dissolved, and democratic radio, film and theatrical programs introduced.",
    "title": "Section 2. Education, Religion and Media of Expression"
   },
   {
@@ -197,7 +198,7 @@
    "level": 1,
    "printed_page": "173",
    "start_page": 178,
-   "summary": "Surveys political developments, economic conditions, and social affairs under United States Army Military Government in South Korea.",
+   "summary": "U.S. Army Military Government in South Korea: political developments, economic conditions and social affairs, including the partition at the 38th parallel, rice market, typhus immunization and refugee relief.",
    "title": "Part V: Korea"
   },
   {
@@ -205,7 +206,7 @@
    "level": 2,
    "printed_page": "175",
    "start_page": 180,
-   "summary": "Details the establishment of direct U.S. Military Government, the impact of partition at the 38th parallel, purging of Japanese officials and police, intense rivalry among 54 political parties, the return of Syngman Rhee, and widespread hostility toward trusteeship.",
+   "summary": "Direct U.S. Military Government was established under the 38th parallel partition; Japanese officials and police were purged, 54 parties rivaled one another, Syngman Rhee returned, and trusteeship drew wide hostility.",
    "title": "Section 1. Political"
   },
   {
@@ -213,7 +214,7 @@
    "level": 2,
    "printed_page": "187",
    "start_page": 192,
-   "summary": "Reports the establishment of a free market in rice, severe fertilizer and fuel deficits caused by severed supplies from North Korea, emergency coal shipments from Japan, reorganization of railroads and communications, and strict financial controls.",
+   "summary": "A free rice market was established; fertilizer and fuel were severely short after supplies from North Korea were cut, emergency coal came from Japan, railroads and communications were reorganized, and finances tightly controlled.",
    "title": "Section 2. Economic"
   },
   {
@@ -221,7 +222,7 @@
    "level": 2,
    "printed_page": "193",
    "start_page": 198,
-   "summary": "Covers the reopening of secondary schools with Korean-language instruction, expansion of Military Government press and radio information services, creation of the Bureau of Public Health, mass immunization against typhus, and refugee relief operations at Fusan and Seoul.",
+   "summary": "Secondary schools reopened with Korean-language instruction, Military Government press and radio services expanded, the Bureau of Public Health was created, mass typhus immunization ran, and refugees were relieved at Fusan and Seoul.",
    "title": "Section 3. Social"
   }
  ],
@@ -231,5 +232,7 @@
  "_model": "gemini-3.8-flash-high",
  "_pages": 203,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }

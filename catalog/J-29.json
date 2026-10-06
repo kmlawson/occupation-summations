@@ -1,13 +1,13 @@
 {
  "summary": "Summation No. 29 covers February 1948 (with most economic statistics for January or December). Politically it is dominated by the resignation of the Katayama Cabinet on 10 February after the Social Democratic left wing revolted over rail and postal rate rises in a supplementary budget, followed by a prolonged contest in which the Democratic leader Hitoshi Ashida was chosen prime minister over Liberal Shigeru Yoshida. The report also covers the hunt for hoarded goods, the National Diet Library Law, purge screening totals, police decentralization, war-crimes trials, and the prosecution's summation before the International Military Tribunal for the Far East. Economic sections give January output for coal, steel, textiles, power and transport, the 1947 foreign-trade totals, price controls, banking and liquidation figures, and reparations transfers. Social sections report nutrition surveys, the 1 October 1947 census (79.6 million), education conferences and media. Historians will find the Cabinet-crisis narrative and the quantitative series most useful.",
  "highlights": [
-  "The Katayama Cabinet resigned on 10 February after the Social Democratic left wing (Satake-hai) refused the supplementary budgets raising railway and postal rates; it had served eight months since 1 June 1947.",
-  "After weeks of interparty talks, Hitoshi Ashida of the Democratic Party was elected prime minister, winning 216 votes on the first ballot in the House of Representatives, though the Councillors had favored Yoshida; the Lower House choice prevailed.",
-  "Hoarded and concealed goods worth about 1,400,000,000 yen at official prices were uncovered between November and January; the Illegal Transactions Investigation Committee probed Diet members, and a comprehensive inventory of critical goods was ordered.",
-  "The National Diet Library Law passed both Houses unanimously on 4 February, creating a national library modeled on the Library of Congress following the 1947 United States Library Mission.",
-  "Purge screening had provisionally designated 202,413 persons by 21 February, of whom 173,602 were finally designated; 163 of 1,424 information-media officials screened were barred, and the Hirano court injunction was ruled void.",
-  "At the Tokyo war crimes trial the defense finished surrebuttal on 10 February and the prosecution began its summation on 11 February, with Chief Counsel Joseph Keenan's team charging 25 defendants under a 60-count indictment.",
-  "Japan's 1947 trade was about $526,000,000 imports and $175,000,000 exports, with roughly 92 percent of imports from the United States and foodstuffs 58 percent of import value.",
+  "The Katayama Cabinet resigned on 10 February, after eight months in office, when the Social Democratic left wing refused the supplementary budgets that raised railway and postal rates.",
+  "After weeks of interparty talks, Democratic leader Hitoshi Ashida was elected prime minister with 216 votes in the House of Representatives, though the Councillors favored Yoshida; the Lower House choice prevailed.",
+  "Hoarded and concealed goods worth about 1,400,000,000 yen were uncovered between November and January; a Diet committee probed members, and a comprehensive inventory of critical goods was ordered.",
+  "The National Diet Library Law passed both Houses unanimously on 4 February, creating a national library modeled on the Library of Congress after the 1947 United States Library Mission.",
+  "Purge screening provisionally designated 202,413 persons by 21 February, 173,602 of them finally; 163 of 1,424 information-media officials screened were barred, and the Hirano court injunction was ruled void.",
+  "At the Tokyo war crimes trial the defense ended surrebuttal on 10 February and the prosecution began its summation on 11 February against 25 defendants.",
+  "Japan's 1947 trade was about $526,000,000 in imports and $175,000,000 in exports, with roughly 92 percent of imports from the United States and foodstuffs 58 percent of import value.",
   "The 1 October 1947 census counted 79,626,729 persons, about 5.6 percent above 1946; Bank of Japan notes outstanding stood at 215,219,000,000 yen on 29 February."
  ],
  "keywords": [
@@ -44,7 +44,7 @@
    "printed_page": "1",
    "start_page": 4,
    "end_page": 13,
-   "summary": "Digest of the month: no SCAP reorganization, Katayama resignation and Ashida election, economic output figures, and social developments including the October 1947 census."
+   "summary": "Digest of the month: no change in SCAP organization, Katayama's resignation and Ashida's election, January output figures, and social items including the 1 October 1947 census."
   },
   {
    "title": "Section 1. Organization Under SCAP",
@@ -52,7 +52,7 @@
    "printed_page": "2",
    "start_page": 5,
    "end_page": 5,
-   "summary": "One-paragraph statement that the non-military organization of GHQ SCAP did not change during February 1948."
+   "summary": "States that the non-military organization of GHQ SCAP did not change during February 1948."
   },
   {
    "title": "Section 2. Political Activities",
@@ -60,7 +60,7 @@
    "printed_page": "3",
    "start_page": 5,
    "end_page": 6,
-   "summary": "Cabinet resignation of 10 February, Ashida's election, hoarded-goods drive, National Diet Library Law, purge screening totals (202,413 designated provisionally), police decentralization and war-crimes trials."
+   "summary": "Katayama Cabinet resigned 10 February and Ashida was elected prime minister; also hoarded-goods drive, National Diet Library Law, 202,413 provisional purge designations, police decentralization and war-crimes trials."
   },
   {
    "title": "Section 3. Economic Activities",
@@ -68,7 +68,7 @@
    "printed_page": "7",
    "start_page": 7,
    "end_page": 11,
-   "summary": "Summary of January output in agriculture, mining, industry, textiles, transport and communications, plus 1947 trade totals, finance, antitrust (267 concerns designated), reparations and science."
+   "summary": "January output in agriculture, mining, industry, textiles and transport, plus 1947 trade totals, finance, antitrust (267 concerns designated), reparations and science."
   },
   {
    "title": "Section 4. Social Activities",
@@ -76,7 +76,7 @@
    "printed_page": "17",
    "start_page": 12,
    "end_page": 13,
-   "summary": "Nutrition surveys, venereal disease campaign, 79,626,729 census total, education conferences, Christian conferences, newspaper survey (2,978 papers) and cultural items."
+   "summary": "Nutrition surveys, venereal disease campaign, the 79,626,729 census total, education and Christian conferences, and a newspaper survey covering 2,978 papers."
   },
   {
    "title": "Part II: Political",
@@ -84,7 +84,7 @@
    "printed_page": "21",
    "start_page": 14,
    "end_page": 39,
-   "summary": "Detailed account of the Katayama Cabinet crisis and Ashida's election, hoarded goods, Diet and purge, crime and police statistics, and war crimes trials including the IMTFE prosecution summation."
+   "summary": "Detailed account of the Katayama Cabinet crisis and Ashida's election, hoarded goods, purge, police and crime statistics, and war-crimes trials including the IMTFE prosecution summation."
   },
   {
    "title": "Section 1. Government and Politics",
@@ -92,7 +92,7 @@
    "printed_page": "21",
    "start_page": 15,
    "end_page": 28,
-   "summary": "Katayama Cabinet falls 10 February over rate increases; Ashida elected prime minister with 216 votes; hoarded-goods inquiries; party maneuvers; Diet Library Law; purge screening of 671,120 persons."
+   "summary": "Katayama Cabinet fell 10 February over rate increases; Ashida elected prime minister with 216 votes; hoarded-goods inquiries, Diet Library Law, and purge screening of 671,120 persons."
   },
   {
    "title": "Cabinet Crisis",
@@ -100,7 +100,7 @@
    "printed_page": "",
    "start_page": 15,
    "end_page": 18,
-   "summary": "Social Democratic left wing opposes the rate-increase budget bills; Cabinet decides 7 February to hand the issue to the Diet; party leaders' statements and Katayama's 10 February resignation statement."
+   "summary": "Social Democratic left wing opposed the rate-increase budget bills; the Cabinet decided 7 February to pass the issue to the Diet; Katayama resigned 10 February."
   },
   {
    "title": "Record of the Katayama Cabinet",
@@ -116,7 +116,7 @@
    "printed_page": "",
    "start_page": 21,
    "end_page": 24,
-   "summary": "Interparty conferences from 10 February, Democratic and Social Democratic policy programs, Ashida elected in the Lower House, Yoshida in the Upper House, joint committee deadlock."
+   "summary": "Interparty conferences from 10 February and Democratic and Social Democratic programs; Ashida elected in the Lower House, Yoshida in the Upper, ending in joint committee deadlock."
   },
   {
    "title": "Hoarded Goods",
@@ -124,7 +124,7 @@
    "printed_page": "",
    "start_page": 25,
    "end_page": 26,
-   "summary": "1.4 billion yen of hidden goods found November-January, Economic Stabilization Board finds worth 100,000,000 yen, weapons seized at Kawasaki, and Diet committee probes including the Hara and Kondo cases."
+   "summary": "About 1.4 billion yen of hidden goods found November-January, Economic Stabilization Board finds worth 100,000,000 yen, weapons seized at Kawasaki, and Diet committee probes including the Hara and Kondo cases."
   },
   {
    "title": "Political Parties and the Diet",
@@ -132,7 +132,7 @@
    "printed_page": "",
    "start_page": 26,
    "end_page": 28,
-   "summary": "Party positions during the crisis, National Diet Library Law of 4 February, dissolution of the Central Liaison Office, Upper House by-elections won by Liberals, and 26 February fire at purge records building."
+   "summary": "Party positions in the crisis, National Diet Library Law of 4 February, Central Liaison Office dissolved, Liberal wins in Upper House by-elections, and a 26 February fire at the purge records building."
   },
   {
    "title": "Section 2. Public Safety",
@@ -140,7 +140,7 @@
    "printed_page": "51",
    "start_page": 29,
    "end_page": 31,
-   "summary": "December crime and arrests, autonomous police in 1,604 of 1,808 municipalities, prison population of 82,760 in January, 943 railway accidents, and December fire losses."
+   "summary": "December crime and arrests, autonomous police in 1,604 of 1,808 municipalities, 82,760 prisoners in January, 943 railway accidents, and December fire losses."
   },
   {
    "title": "Section 3. Legal Affairs and War Crimes",
@@ -148,7 +148,7 @@
    "printed_page": "57",
    "start_page": 32,
    "end_page": 39,
-   "summary": "Office of Attorney General begins 15 February; Class B and C trial results; IMTFE surrebuttal ends 10 February and the prosecution's summation begins 11 February."
+   "summary": "Office of Attorney General began 15 February; Class B and C trial results; IMTFE defense surrebuttal ended 10 February and the prosecution's summation began 11 February."
   },
   {
    "title": "Legal Affairs and National War Crimes Trials",
@@ -156,7 +156,7 @@
    "printed_page": "",
    "start_page": 32,
    "end_page": 34,
-   "summary": "Attorney General office, 85 investigations completed, 40 persons ordered apprehended, and 19 trials of 48 accused including death sentences for Ishizaki and Katsudo."
+   "summary": "Attorney General's office, 85 investigations completed, 40 persons ordered apprehended, and 19 trials of 48 accused, including death sentences for Ishizaki and Katsudo."
   },
   {
    "title": "International Prosecution of War Criminals",
@@ -164,7 +164,7 @@
    "printed_page": "",
    "start_page": 34,
    "end_page": 39,
-   "summary": "Court sessions in February, defense surrebuttal for Hirota and Taku, and the prosecution's summation on conspiracy, Manchuria, Southwest Pacific and aggression against the USSR."
+   "summary": "February IMTFE sessions, defense surrebuttal for Hirota and Taku, and the prosecution's summation on conspiracy, Manchuria, the Southwest Pacific and aggression against the USSR."
   },
   {
    "title": "Part III: Economic",
@@ -172,7 +172,7 @@
    "printed_page": "70",
    "start_page": 40,
    "end_page": 133,
-   "summary": "January and February economic reporting: farm land sales, coal, metals and chemicals, manufacturing, textiles, transport, communications, labor, trade, prices, finance, property control and science."
+   "summary": "January and February economic reporting on farm land sales, coal, metals, chemicals, manufacturing, textiles, transport, communications, labor, trade, prices, finance, property control and science."
   },
   {
    "title": "Section 1. Agriculture and Fisheries",
@@ -180,7 +180,7 @@
    "printed_page": "70",
    "start_page": 41,
    "end_page": 42,
-   "summary": "Government land sales of 32,700 cho in January, purchases of 94,655 cho on 2 February, livestock population changes and fish landings."
+   "summary": "Government sold 32,700 cho of land in January and purchased 94,655 cho on 2 February; also livestock population changes and fish landings."
   },
   {
    "title": "Section 2. Forestry and Mining",
@@ -188,7 +188,7 @@
    "printed_page": "79",
    "start_page": 43,
    "end_page": 48,
-   "summary": "Whaling catch of 271 blue whale units, January log production of 57,107,500 cubic feet, coal output of 2,829,200 tons, stockpiles of 667,200 tons and crude oil production."
+   "summary": "Whaling catch of 271 blue whale units, January log production of 57,107,500 cubic feet, coal output of 2,829,200 tons, stockpiles of 667,200 tons, and crude oil production."
   },
   {
    "title": "Section 3. Heavy Industries",
@@ -196,7 +196,7 @@
    "printed_page": "91",
    "start_page": 49,
    "end_page": 58,
-   "summary": "Coke, iron and steel, light and nonferrous metals, rubber, construction, shipbuilding, chemicals and machinery; January output hit by power shortages and New Year holidays."
+   "summary": "January pig iron fell to 38,922 metric tons on hydroelectric shortage; coke stocks ended at 38,220 tons; cement 103,281 tons; ammonium sulfate 56,875 tons; machine tools 271 units; 17,084 coal-miner dwellings built since January 1947."
   },
   {
    "title": "Section 4. Manufacturing",
@@ -204,7 +204,7 @@
    "printed_page": "111",
    "start_page": 59,
    "end_page": 67,
-   "summary": "January flour and food processing, pulp (down 2,230 tons), glass, optical, electrical goods, motor vehicles, rubber goods, leather (758,200 pounds), agricultural equipment and miscellaneous goods."
+   "summary": "January flour and food processing, pulp (down 2,230 tons), glass, optical and electrical goods, motor vehicles, leather (758,200 pounds), agricultural equipment and miscellaneous goods."
   },
   {
    "title": "Section 5. Textile Industries",
@@ -212,7 +212,7 @@
    "printed_page": "122",
    "start_page": 68,
    "end_page": 81,
-   "summary": "Cotton recovering from low levels, raw silk at its lowest in a year, rayon staple at lowest since May 1947, wool limited by fiber shortage."
+   "summary": "January cotton yarn gained about 2,700,000 pounds on eased power limits; first postwar Egyptian cotton arrived (1,000 bales); raw silk fell to 6,209 bales; rayon staple dropped about 25 percent for lack of pulp."
   },
   {
    "title": "Section 6. Transportation and Public Utilities",
@@ -220,7 +220,7 @@
    "printed_page": "157",
    "start_page": 82,
    "end_page": 87,
-   "summary": "108,231 motor vehicles registered, 291,629,562 railway passengers, 1,480,747 tons shipping cargo, electric generation of 2,233,000,000 kWh and gas production."
+   "summary": "108,231 motor vehicles registered, 291,629,562 railway passengers, 1,480,747 tons of shipping cargo, electric generation of 2,233,000,000 kWh, and gas production."
   },
   {
    "title": "Section 7. Communications",
@@ -228,7 +228,7 @@
    "printed_page": "169",
    "start_page": 88,
    "end_page": 94,
-   "summary": "Radiotelephone extended to Canada, Cuba and Mexico, radiotelegraph rates to U.S. revised, postal services, equipment production and December Ministry of Communications deficit of 1,208,818,199 yen."
+   "summary": "Radiotelephone extended to Canada, Cuba and Mexico, radiotelegraph rates to the U.S. revised, and a December Ministry of Communications deficit of 1,208,818,199 yen."
   },
   {
    "title": "Section 8. Labor",
@@ -244,7 +244,7 @@
    "printed_page": "201",
    "start_page": 104,
    "end_page": 107,
-   "summary": "Calendar 1947 trade: about $526,000,000 imports and $175,000,000 exports, trade deficit, patterns by country and commodity, with 92 percent of imports from the United States."
+   "summary": "Calendar 1947 trade was about $526,000,000 imports and $175,000,000 exports, with 92 percent of imports from the United States."
   },
   {
    "title": "Section 10. Rationing and Price Control",
@@ -252,7 +252,7 @@
    "printed_page": "205",
    "start_page": 108,
    "end_page": 115,
-   "summary": "Staple-food rations met in full, sugar incentive plan liberalized 19 February, price changes for explosives, rolling stock and cement, Tokyo water rates and urban family expenditures."
+   "summary": "Staple-food rations met in full, sugar incentive plan liberalized 19 February, price changes for explosives, rolling stock and cement, Tokyo water rates, and urban family expenditures."
   },
   {
    "title": "Section 11. Finance",
@@ -260,7 +260,7 @@
    "printed_page": "225",
    "start_page": 116,
    "end_page": 123,
-   "summary": "Bank of Japan notes at 215,219,000,000 yen, Reconstruction Finance Bank loans, securities liquidation, tax receipts, supplementary budgets approved 24 February and national debt."
+   "summary": "Bank of Japan notes at 215,219,000,000 yen, Reconstruction Finance Bank loans, securities liquidation, tax receipts, supplementary budgets approved 24 February, and national debt."
   },
   {
    "title": "Section 12. Property Control and Reparations",
@@ -268,7 +268,7 @@
    "printed_page": "241",
    "start_page": 124,
    "end_page": 129,
-   "summary": "943 looted ships recorded, restricted concerns, 267 industrial firms designated excessive concentrations, antitrust orders and 3,850 packages (7,294 tons) of advance reparations shipments."
+   "summary": "943 looted ships recorded, 267 industrial firms designated excessive concentrations, antitrust orders, and 3,850 packages (7,294 tons) of advance reparations shipments."
   },
   {
    "title": "Section 13. Science and Technology",
@@ -276,7 +276,7 @@
    "printed_page": "253",
    "start_page": 130,
    "end_page": 133,
-   "summary": "Science council's sixth meeting 30-31 January, 31 Japanese Standards promulgated, 103 patents granted, scientific organizations and Kyushu University research publications."
+   "summary": "Science council's sixth meeting 30-31 January, 31 Japanese Standards promulgated, 103 patents granted, and Kyushu University research publications."
   },
   {
    "title": "Part IV: Social",
@@ -284,7 +284,7 @@
    "printed_page": "261",
    "start_page": 134,
    "end_page": 161,
-   "summary": "Public health, nutrition, population, welfare, education, religion, cultural resources and information media for February 1948."
+   "summary": "Public health, nutrition, population, welfare, education, religion, cultural resources and information media for February 1948, including the 1947 census and textbook printing."
   },
   {
    "title": "Section 1. Public Health and Welfare",
@@ -292,7 +292,7 @@
    "printed_page": "261",
    "start_page": 135,
    "end_page": 149,
-   "summary": "Nutrition surveys, venereal disease campaign, medical supply production, narcotics, public assistance, Red Cross, repatriation and vital statistics including the 1947 census."
+   "summary": "Nutrition surveys, venereal disease campaign, medical supply production, narcotics, public assistance, Red Cross, repatriation, and vital statistics including the 1947 census."
   },
   {
    "title": "Section 2. Education, Religion, Cultural Resources and Media of Expression",
@@ -300,11 +300,13 @@
    "printed_page": "291",
    "start_page": 150,
    "end_page": 161,
-   "summary": "Teacher conferences, textbook printing of 147,214,307 copies authorized, Christian conferences, first postwar art exchange, press, radio and film reports, and map of Japan."
+   "summary": "Teacher conferences, authorization of 147,214,307 textbook copies, Christian conferences, first postwar art exchange, and press, radio and film reports."
   }
  ],
  "_model": "claude-sonnet (Claude Code subagent)",
  "_pages": 161,
  "_uncovered_pages": [],
- "_bad_ranges": []
+ "_bad_ranges": [],
+ "_needs_source": [],
+ "_polished": true
 }
