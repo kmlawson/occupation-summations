@@ -1,0 +1,165 @@
+{
+ "embedded_issues": [],
+ "highlights": [
+  "The Military Governor ordered Korean directors to assume full executive charge of all government departments on 13 September, reducing Americans to advisory roles.",
+  "A general railway strike began on 22 September, halting rail transit across South Korea and escalating into wider labor unrest and food distribution crises.",
+  "Military authorities ordered the arrest of Communist Party leaders Pak Heun Young, Lee Kang Kook, and Lee Chu Ha for activities prejudicial to order.",
+  "Dr. Syngman Rhee escaped unharmed when assassins fired bullets into his automobile en route to an independence rally in Seoul on 12 September.",
+  "Ordinance No. 112 established Korea's first comprehensive Child Labor Law, prohibiting industrial employment for children under fourteen and regulating maximum hours.",
+  "Government-to-government barter trade with Japan commenced with shipments of 24 million yen of minerals and fish in exchange for coal and industrial chemicals.",
+  "The cumulative cholera epidemic in South Korea reached 14,614 cases and 9,474 deaths by 30 September, prompting emergency medical flights during the transport strike.",
+  "A Women's Bureau was established within the Department of Public Health and Welfare to advance legal rights, working conditions, and social welfare for women."
+ ],
+ "keywords": [
+  "USAMGIK",
+  "September railway strike",
+  "Pak Heun Young",
+  "Syngman Rhee",
+  "Koreanization of administration",
+  "Child Labor Law",
+  "cholera epidemic",
+  "barter trade with Japan",
+  "grain collection program",
+  "Seoul National University",
+  "repatriation",
+  "Bank of Chosen notes"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 17,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Front matter containing the title page, table of contents, and list of charts, graphs, and maps for Report No. 12 (September 1946).",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 25,
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 18,
+   "summary": "A general summary of political, economic, and social activities in South Korea during September 1946.",
+   "title": "Part I: General"
+  },
+  {
+   "end_page": 21,
+   "level": 2,
+   "printed_page": "3",
+   "start_page": 20,
+   "summary": "Korean directors took full charge of government departments as American personnel shifted to advisory roles, while General Hodge condemned the illegal September railway strike. Police academy classes graduated, and arrest orders were issued for three Communist leaders.",
+   "title": "Political Activities"
+  },
+  {
+   "end_page": 23,
+   "level": 2,
+   "printed_page": "5",
+   "start_page": 22,
+   "summary": "The September railway strike paralyzed rail transport, disrupting coal movement and precipitating an urban food crisis. Government-to-government barter trade with Japan commenced with mineral exports, and Bank of Chosen note circulation expanded to over 11.3 billion yen.",
+   "title": "Economic Activities"
+  },
+  {
+   "end_page": 25,
+   "level": 2,
+   "printed_page": "7",
+   "start_page": 24,
+   "summary": "A Women's Bureau was established, UNRRA relief clothing arrived for distribution across Korea, and cholera incidence climbed. Seoul National University opened its colleges under unified reorganization, and three leftist newspapers were suspended for inflammatory articles.",
+   "title": "Social Activities"
+  },
+  {
+   "end_page": 39,
+   "level": 1,
+   "printed_page": "9",
+   "start_page": 26,
+   "summary": "Surveys political developments, government administration, civil service reforms, legal affairs, police reorganization, and public safety across South Korea.",
+   "title": "Part II: Political"
+  },
+  {
+   "end_page": 33,
+   "level": 2,
+   "printed_page": "11",
+   "start_page": 28,
+   "summary": "Korean directors assumed executive charge of Military Government departments, and plans advanced for a Korean legislative assembly. General Hodge addressed the political motivations behind the rail strike, and arrest orders were issued for top Communist leaders including Pak Heun Young.",
+   "title": "Government and Politics"
+  },
+  {
+   "end_page": 39,
+   "level": 2,
+   "printed_page": "17",
+   "start_page": 34,
+   "summary": "Provost courts sentenced editors of suspended leftist newspapers, while Dr. Syngman Rhee survived an assassination attempt in Seoul. Police forces were reorganized into three provincial zones, and U.S. Coast Guard advisers arrived to assist the expanding Korean Coast Guard.",
+   "title": "Legal and Public Safety"
+  },
+  {
+   "end_page": 73,
+   "level": 1,
+   "printed_page": "23",
+   "start_page": 40,
+   "summary": "Details agriculture, fisheries, forestry, mining, manufacturing, transportation, communications, labor strikes, foreign trade, rationing, prices, and financial institutions.",
+   "title": "Part III: Economic"
+  },
+  {
+   "end_page": 51,
+   "level": 2,
+   "printed_page": "25",
+   "start_page": 42,
+   "summary": "Summer grain collections suffered delays from the rail strike, while the Korea Land Development Company was dissolved and its assets transferred to government reclamation. Coal output fell due to strikes at the Hwasun mine, and mineral operations focused on copper smelting at Changhang.",
+   "title": "Natural Resources"
+  },
+  {
+   "end_page": 73,
+   "level": 2,
+   "printed_page": "33",
+   "start_page": 52,
+   "summary": "A massive railroad strike halted rail transport, interrupted mail services, and intensified an urban food shortage that pushed black-market rice prices upward. Government barter trade with Japan commenced, child labor regulations were promulgated, and currency circulation exceeded 11.3 billion yen.",
+   "title": "Commerce and Industry"
+  },
+  {
+   "end_page": 97,
+   "level": 1,
+   "printed_page": "55",
+   "start_page": 74,
+   "summary": "Reports on public health measures, refugee relief, educational system reorganization, text distributions, cultural events, religious missions, and public information campaigns.",
+   "title": "Part IV: Social"
+  },
+  {
+   "end_page": 85,
+   "level": 2,
+   "printed_page": "57",
+   "start_page": 76,
+   "summary": "A Women's Bureau was established, UNRRA relief supplies were received at Inchon, and over 812,000 Japanese nationals were repatriated to date. A severe cholera epidemic reached 14,614 cases with 9,474 deaths, requiring emergency air shipments of medical supplies during the rail strike.",
+   "title": "Public Health and Welfare"
+  },
+  {
+   "end_page": 91,
+   "level": 2,
+   "printed_page": "67",
+   "start_page": 86,
+   "summary": "Seoul National University inaugurated its colleges under a unified system despite student protests, and secondary schools adopted a new 6-6 curriculum. Kyonggi-do households voted democratically to establish 4-H clubs, and American and Australian Christian missionaries returned to Korea.",
+   "title": "Education, Culture and Religion"
+  },
+  {
+   "end_page": 97,
+   "level": 2,
+   "printed_page": "73",
+   "start_page": 92,
+   "summary": "Information campaigns publicized the new child labor law, rice collection, and cholera prevention, while 'The Culture Hour' debuted on the radio. The Military Governor suspended three leftist newspapers for inciting disorder, provoking widespread editorial debate on press freedom.",
+   "title": "Public Information"
+  },
+  {
+   "end_page": 105,
+   "level": 1,
+   "printed_page": "79",
+   "start_page": 98,
+   "summary": "Full-page reference map of Korea outlining provincial borders, provincial capitals, principal ports and cities, and the 38th parallel demarcation line.",
+   "title": "Map of Korea"
+  }
+ ],
+ "summary": "This September 1946 monthly report documents a pivotal period of administrative transition and escalating civil unrest in the United States Army Military Government in Korea (USAMGIK). Markedly, the Military Governor ordered Korean directors to assume full operational control of government departments, relegating American personnel to advisory roles, while preparations advanced for an interim Korean legislative assembly. However, governance was severely disrupted by the outbreak of the nationwide railroad strike on 22 September, which paralyzed ground transportation, stranded repatriates, hampered coal distribution, and precipitated an acute food crisis with skyrocketing black-market rice prices. Authorities responded with emergency airlifts of medical supplies, arrests of top Communist leaders including Pak Heun Young, and suspensions of leftist newspapers. Other significant developments include the promulgation of the Child Labor Law (Ordinance No. 112), commencement of government-to-government barter trade with Japan, structural reorganization of public education into a 6-6 system, opening of Seoul National University colleges, and ongoing efforts to control a lethal cholera epidemic that claimed over 9,400 lives. For historians, the report provides invaluable quantitative data on labor unrest, industrial stagnation, disease mortality, currency expansion, and the administrative mechanics of early South Korean state formation.",
+ "toolAction": "Finishing report analysis",
+ "toolSummary": "Complete analysis",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 105,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

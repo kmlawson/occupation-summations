@@ -1,0 +1,68 @@
+{
+ "embedded_issues": [],
+ "highlights": [
+  "Over 30,000 railroad workers staged a general strike on 22 September protesting living costs and food shortages, halting all rail traffic across South Korea.",
+  "Ordinance 112 (Child Labor Law) was signed on Labor Day, barring children under 14 from mercantile and industrial work and regulating youth working hours.",
+  "Government grain collections reached only 88,650 metric tons (52 percent of pre-flood estimates), leaving 6,500,000 citizens dependent on public rations.",
+  "Black-market rice prices spiked to 43 yen per pound in Seoul and 49 yen in Pusan despite emergency grain transport permits.",
+  "A government-to-government barter agreement with Japan commenced, trading 24,000,000 yen of Korean minerals and marine products for coal, parts, and industrial chemicals.",
+  "The Korea Land Development Company was formally dissolved on 6 September, transferring its assets to the Department of Agriculture's Reclamation and Irrigation Section.",
+  "Seoul established a joint Public Utilities Board composed of four Koreans and three Americans to oversee city transit and gas service."
+ ],
+ "keywords": [
+  "railroad strike",
+  "food rationing",
+  "black-market rice",
+  "Child Labor Law",
+  "Ordinance 112",
+  "barter trade",
+  "coal mining",
+  "Changhang Smelter",
+  "Korea Land Development Company",
+  "fisheries",
+  "Public Utilities Board",
+  "grain collections"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 3,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Includes the War Department cover sheet and publication details for this industrial report supplement.",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 35,
+   "level": 1,
+   "printed_page": "23",
+   "start_page": 4,
+   "summary": "Covers South Korean economic conditions in September 1946, comprising sections on natural resources and commerce and industry.",
+   "title": "Part III: Economic"
+  },
+  {
+   "end_page": 13,
+   "level": 2,
+   "printed_page": "25",
+   "start_page": 6,
+   "summary": "Reports grain collection delays, dissolution of the Korea Land Development Company, August fisheries production, and mining output constraints.",
+   "title": "Section 1: Natural Resources"
+  },
+  {
+   "end_page": 35,
+   "level": 2,
+   "printed_page": "33",
+   "start_page": 14,
+   "summary": "Details the September 22 general railroad strike, Child Labor Ordinance 112, critical food rationing shortages, and barter trade with Japan.",
+   "title": "Section 2: Commerce and Industry"
+  }
+ ],
+ "summary": "This September 1946 monthly report (Part III: Economic of Summation No. 12) documents the severe economic crisis confronting the United States Army Military Government in Korea (USAMGIK). Economic activity was paralyzed by the general railroad strike of 22 September, which involved over 30,000 railway employees protesting acute food shortages and runaway inflation, quickly spreading to telegraph, municipal, and newspaper workers. Transportation stoppages exacerbated a critical food supply emergency, leaving 6.5 million citizens dependent on official rations while summer grain collections attained only 52 percent of pre-flood goals and black-market rice hit record highs. The report details efforts to revive basic industry and mining, including copper smelting at Changhang, barter agreements exchanging Korean minerals for Japanese coal and chemicals, and the passage of Ordinance 112 (the Child Labor Law). For historians, this report is invaluable for understanding the explosive socio-economic conditions preceding the Autumn Uprising of 1946, illustrating the friction between military government policies, severe industrial bottlenecks, food distribution failures, and emerging Korean organized labor.",
+ "toolAction": "Finalizing analysis",
+ "toolSummary": "Finish report processing",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 35,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

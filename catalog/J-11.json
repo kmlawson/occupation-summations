@@ -1,0 +1,277 @@
+{
+ "embedded_issues": [],
+ "highlights": [
+  "The House of Representatives approved the amended draft constitution by a 421-to-8 vote on 24 August, transmitting it to the House of Peers.",
+  "House Speaker Senso Higai resigned following bipartisan criticism of his political intervention in the constitutional drafting process.",
+  "Former puppet Emperor Henry Pu Yi testified before the International Military Tribunal regarding the Kwantung Army's complete control over Manchukuo.",
+  "The Japanese Government submitted a second land reform bill to the Diet, limiting tenant holdings and enabling tenant farmer land purchases.",
+  "SCAP directives designated 505 industrial plants across eight categories, including 273 munitions facilities, for reparations custody.",
+  "Arrivals of imported American raw cotton stimulated a threefold increase in cotton yarn production over June levels.",
+  "The National Federation of Labor Unions and the National Congress of Industrial Unions held their inaugural national conventions in Tokyo.",
+  "A special first-anniversary appendix reviewed the occupation's achievements, demobilization, and economic recovery since MacArthur's landing at Atsugi on 30 August 1945."
+ ],
+ "keywords": [
+  "Constitution of Japan",
+  "Land reform",
+  "Reparations",
+  "International Military Tribunal for the Far East",
+  "Henry Pu Yi",
+  "Economic Stabilization Board",
+  "Price Board",
+  "Textile industry",
+  "Labor unions",
+  "Antarctic whaling",
+  "Food crisis",
+  "Review of the Occupation"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 5,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Title pages, table of contents, and list of charts, maps, and graphs.",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 13,
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 6,
+   "summary": "General monthly summary of political, economic, and social developments in Japan during August 1946.",
+   "title": "Part I: General"
+  },
+  {
+   "end_page": 7,
+   "level": 2,
+   "printed_page": "2",
+   "start_page": 7,
+   "summary": "Reports General Orders creating two executive offices under the Deputy Chief of Staff and re-establishing the Civil Intelligence Section as a Special Staff Section.",
+   "title": "Organization Under SCAP"
+  },
+  {
+   "end_page": 9,
+   "level": 2,
+   "printed_page": "3",
+   "start_page": 7,
+   "summary": "Summarizes the House of Representatives' approval of the new constitution, the resignation of House Speaker Senso Higai, police reforms, and war crimes trials.",
+   "title": "Political Activities"
+  },
+  {
+   "end_page": 11,
+   "level": 2,
+   "printed_page": "9",
+   "start_page": 10,
+   "summary": "Summarizes agricultural land reform proposals, peak daily coal output, textile expansion spurred by U.S. cotton, Price Board establishment, and reparations plant designations.",
+   "title": "Economic Activities"
+  },
+  {
+   "end_page": 13,
+   "level": 2,
+   "printed_page": "13",
+   "start_page": 12,
+   "summary": "Summarizes welfare relief, repatriation and cholera control, Cabinet-level Educational Reform Committee establishment, Shinto restrictions, and public information media programs.",
+   "title": "Social Activities"
+  },
+  {
+   "end_page": 34,
+   "level": 1,
+   "printed_page": "17",
+   "start_page": 14,
+   "summary": "Detailed reports on government administration, public safety, legal developments, and war crimes prosecutions.",
+   "title": "Part II: Political"
+  },
+  {
+   "end_page": 21,
+   "level": 2,
+   "printed_page": "19",
+   "start_page": 15,
+   "summary": "Details House passage (421-8) of the amended draft constitution, the resignation of Speaker Senso Higai, Diet attendance, purge screening, and the Economic Stabilization Board.",
+   "title": "Government and Civil Administration"
+  },
+  {
+   "end_page": 24,
+   "level": 2,
+   "printed_page": "33",
+   "start_page": 22,
+   "summary": "Reports on labor demonstrations in Tokyo, tighter controls against illegal Korean entry, black-market raids, proposed police reorganization, prison instructions, and fire and crime statistics.",
+   "title": "Public Safety and Intelligence"
+  },
+  {
+   "end_page": 34,
+   "level": 2,
+   "printed_page": "39",
+   "start_page": 25,
+   "summary": "Covers property rulings, family code revisions, provost court cases, war criminal apprehensions and trials, and IMTFE proceedings including Henry Pu Yi's testimony on Manchukuo.",
+   "title": "Legal and War Crimes"
+  },
+  {
+   "end_page": 117,
+   "level": 1,
+   "printed_page": "59",
+   "start_page": 35,
+   "summary": "Detailed reporting on natural resources, industry, utilities, communications, labor, commerce, finance, and reparations.",
+   "title": "Part III: Economic"
+  },
+  {
+   "end_page": 40,
+   "level": 2,
+   "printed_page": "61",
+   "start_page": 36,
+   "summary": "Details the second land reform bill submitted to the Diet, the five-year sericulture plan, chemical fertilizer allocations, fish catches, and SCAP authorization of Antarctic whaling.",
+   "title": "Agriculture and Fisheries"
+  },
+  {
+   "end_page": 46,
+   "level": 2,
+   "printed_page": "71",
+   "start_page": 41,
+   "summary": "Covers lumber and plywood production, wood pulp output, coal production reaching a daily postwar peak of 72,800 metric tons, mineral extraction, and oil exploration delays.",
+   "title": "Forestry and Mining"
+  },
+  {
+   "end_page": 55,
+   "level": 2,
+   "printed_page": "83",
+   "start_page": 47,
+   "summary": "Reports on coke production, fuel-constrained iron and steel output, nonferrous metals, petroleum refining, cement production, highway construction expenditures, and chemical and machinery manufacturing.",
+   "title": "Heavy Industries"
+  },
+  {
+   "end_page": 64,
+   "level": 2,
+   "printed_page": "101",
+   "start_page": 56,
+   "summary": "Covers food processing and brewing, paper production, optical and medical instruments, refractories, electrical manufacturing, motor vehicles, tractors, and agricultural equipment.",
+   "title": "Manufacturing"
+  },
+  {
+   "end_page": 76,
+   "level": 2,
+   "printed_page": "119",
+   "start_page": 65,
+   "summary": "Details a threefold increase in cotton yarn output following American cotton arrivals, raw silk and rayon production, and manufacture of knit goods, clothing, and fish netting.",
+   "title": "Textile Industries"
+  },
+  {
+   "end_page": 80,
+   "level": 2,
+   "printed_page": "143",
+   "start_page": 77,
+   "summary": "Covers motor vehicle operations, rail traffic and new rolling stock, shipping, electric power generation and hydroelectric construction, and coal-shortage impacts on the gas industry.",
+   "title": "Transportation and Public Utilities"
+  },
+  {
+   "end_page": 89,
+   "level": 2,
+   "printed_page": "151",
+   "start_page": 81,
+   "summary": "Reports Ministry of Communications reorganization and legislation, telephone and radiotelegraph expansion, radio station frequency assignments, postal services, and communications equipment manufacturing.",
+   "title": "Communications"
+  },
+  {
+   "end_page": 93,
+   "level": 2,
+   "printed_page": "169",
+   "start_page": 90,
+   "summary": "Reports inaugural conventions of the NFLU and NCIU federations, Diet consideration of the Labor Relations Adjustment Bill, disputes over impending mass dismissals, and U.S. Labor Advisory Committee recommendations.",
+   "title": "Labor"
+  },
+  {
+   "end_page": 95,
+   "level": 2,
+   "printed_page": "177",
+   "start_page": 94,
+   "summary": "Details incoming shipments of U.S. food, cotton, and phosphate rock, visits by Burma and Hong Kong trade missions, and exports of raw silk, tea, lead, and rubber.",
+   "title": "Imports and Exports"
+  },
+  {
+   "end_page": 105,
+   "level": 2,
+   "printed_page": "181",
+   "start_page": 96,
+   "summary": "Details critical food shortages requiring imported food releases across 23 prefectures, establishment of the Cabinet-level Price Board, produce price controls, fertilizer link-distribution, and recovered hoarded goods.",
+   "title": "Rationing and Price Control"
+  },
+  {
+   "end_page": 108,
+   "level": 2,
+   "printed_page": "201",
+   "start_page": 106,
+   "summary": "Reports currency circulation rising to ¥55.36 billion, commercial and savings bank statistics, liquidation of closed institutions, national budget and debt figures, and Imperial Household finances.",
+   "title": "Finance"
+  },
+  {
+   "end_page": 117,
+   "level": 2,
+   "printed_page": "207",
+   "start_page": 109,
+   "summary": "Reports administration of Allied and Axis property, custody of precious metals and gems, Schedule of Restricted Concerns revisions, dissolution of control associations, and 505 plants designated for reparations.",
+   "title": "Property Control and Reparations"
+  },
+  {
+   "end_page": 131,
+   "level": 1,
+   "printed_page": "223",
+   "start_page": 118,
+   "summary": "Detailed reporting on public health, welfare, education, religion, cultural preservation, and media.",
+   "title": "Part IV: Social"
+  },
+  {
+   "end_page": 125,
+   "level": 2,
+   "printed_page": "225",
+   "start_page": 119,
+   "summary": "Covers public relief grants, the Daily Life Security Bill, repatriation and cholera quarantine for illegal Korean entrants, hospital and veterinary affairs, supply distribution, and nutrition surveys.",
+   "title": "Public Health and Welfare"
+  },
+  {
+   "end_page": 131,
+   "level": 2,
+   "printed_page": "237",
+   "start_page": 126,
+   "summary": "Reports a Diet resolution on education, creation of the Cabinet Educational Reform Committee, Shinto financial restrictions, cultural property protection, and press, radio, motion picture, and theatrical activities.",
+   "title": "Education, Religion and Media of Expression"
+  },
+  {
+   "end_page": 149,
+   "level": 1,
+   "printed_page": "249",
+   "start_page": 132,
+   "summary": "Special comprehensive review of policies, organization, and achievements during the first full year of the Allied Occupation of Japan.",
+   "title": "Appendix: Review of the Occupation (30 August 1945 - 31 August 1946)"
+  },
+  {
+   "end_page": 134,
+   "level": 2,
+   "printed_page": "251",
+   "start_page": 133,
+   "summary": "Reviews General MacArthur's landing, the surrender signing, activation of 14 special staff sections, and indirect administration through the Japanese Government.",
+   "title": "Organization under SCAP"
+  },
+  {
+   "end_page": 142,
+   "level": 2,
+   "printed_page": "255",
+   "start_page": 135,
+   "summary": "Summarizes the first year's progress in demobilization, repatriation, food relief, economic controls, public health, democratization of family and political life, education, police reform, and war crimes prosecution.",
+   "title": "Actions and Accomplishments of the Occupation"
+  },
+  {
+   "end_page": 149,
+   "level": 2,
+   "printed_page": "271",
+   "start_page": 143,
+   "summary": "Surveys one year of economic recovery across coal and fuel production, heavy industries, manufacturing, textiles, transportation, labor, public works, communications, finance, and reparations.",
+   "title": "Economic Progress"
+  }
+ ],
+ "summary": "This eleventh monthly report covers August 1946 non-military activities of the Supreme Commander for the Allied Powers (SCAP) across occupied Japan, marking the close of the first full year of occupation. The month witnessed major constitutional and political milestones, notably the House of Representatives passing the amended draft constitution by 421 to 8 after intensive subcommittee debates, and the resignation of Speaker Senso Higai over political impartiality concerns. In the economic realm, acute food shortages prompted massive emergency distributions of imported American foodstuffs across 23 prefectures, while the Cabinet established the Price Board and submitted a second comprehensive land reform bill. U.S. cotton imports revitalized the textile industry, and SCAP placed 505 industrial facilities into reparations custody. At the International Military Tribunal for the Far East, prosecution presented evidence on aggression in China, featuring key testimony from Henry Pu Yi regarding Kwantung Army domination of Manchukuo. Historians will find especially valuable the special 33-page first-anniversary appendix reviewing occupation policies, administrative mechanisms, and statistical progress from August 1945 through August 1946.",
+ "toolAction": "Finalizing report analysis",
+ "toolSummary": "Finalize report analysis",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 149,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}
