@@ -69,7 +69,7 @@
    "printed_page": "1",
    "start_page": 16,
    "end_page": 16,
-   "summary": "Introduces the Office of Foreign Affairs record of repatriates and refugees entering South Korea."
+   "summary": "Repatriate and refugee inflow keeps creating problems for the South Korean Interim Government; the Office of Foreign Affairs keeps inflow records and attends to the individual problems of Koreans abroad."
   },
   {
    "title": "Repatriation",
@@ -125,7 +125,7 @@
    "printed_page": "11",
    "start_page": 26,
    "end_page": 26,
-   "summary": "Notes that reporting on Property Custody operations remains only partial pending completion of operations under way."
+   "summary": "This month's vested property report gives only limited information on the Office of Property Custody; fuller accounting awaits completion of current operations, with more to come in future issues."
   },
   {
    "title": "Operations",
@@ -453,7 +453,7 @@
    "printed_page": "53",
    "start_page": 68,
    "end_page": 68,
-   "summary": "Notes that industrial data remain inadequate, covering mainly major vested and Korean-owned factories receiving allocated raw materials."
+   "summary": "Industrial production data remain extremely inadequate, covering mainly major vested and Korean-owned factories receiving allocated raw materials; many vested plants send no reports, and numerous small Korean-owned plants add materially to local markets."
   },
   {
    "title": "Processed Food",
@@ -637,7 +637,7 @@
    "printed_page": "86",
    "start_page": 101,
    "end_page": 101,
-   "summary": "Department of Labor continued work in labor education, industrial health and union-management relations."
+   "summary": "In November the Department of Labor continued work in labor education, industrial health and union-management relations; the page also lists the section's contents: wages, union activities, education, health."
   },
   {
    "title": "Wages",
@@ -2089,11 +2089,6 @@
   495
  ],
  "_bad_ranges": [],
- "_needs_source": [
-  3,
-  10,
-  51,
-  74
- ],
+ "_needs_source": [],
  "_polished": true
 }

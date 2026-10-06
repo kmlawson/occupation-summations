@@ -1,0 +1,22 @@
+{"tables": [
+{"page": 14, "pages": [14], "title": "Rice shipment quotas established by the Korean Commodity Company for March", "units": "suk (1 suk equals 5.12 bushels)", "period": "March 1946", "source_note": "",
+ "header": [["From", "To", "Quantity (in suk) a/"]],
+ "rows": [["Cholla Pukto", "Seoul", "32,000"], ["", "Inchon", "6,000"], ["", "Mukko", "8,000"], ["", "Chechon", "2,000"], ["", "Wonju", "2,000"], ["", "Chunchon", "8,000"], ["", "", "58,000"], ["Cholla Namdo", "Mukko", "8,000"], ["Chung Chong Pukto", "Seoul", "4,500"], ["Chung Chong Namdo", "Seoul", "36,000"], ["", "Inchon", "6,000"], ["", "", "42,000"], ["Kyong Sang Pukto", "Chechon", "5,000"], ["", "Mukko", "7,000"], ["", "", "12,000"]],
+ "footnotes": ["a/ 1 suk equals 5.12 bushels"], "unreadable": [],
+ "totals_check": "Cholla Pukto: 32,000+6,000+8,000+2,000+2,000+8,000 = 58,000, printed 58,000, agrees. Chung Chong Namdo: 36,000+6,000 = 42,000, printed 42,000, agrees. Kyong Sang Pukto: 5,000+7,000 = 12,000, printed 12,000, agrees. No grand total printed.", "warnings": [], "ocr_check": "OCR matched the image."},
+{"page": 16, "pages": [16], "title": "Status of Koreans repatriated through 25 March 1946", "units": "persons", "period": "through 25 March 1946", "source_note": "",
+ "header": [["From", "March Total", "Total to Date"]],
+ "rows": [["Japan", "24,259", "831,387"], ["Other areas", "5,315", "30,858"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image."},
+{"page": 18, "pages": [18], "title": "Annual timber requirements, South Korea", "units": "koku (10 cubic feet)", "period": "annual requirements", "source_note": "",
+ "header": [["Item", "Annual requirement (koku)"]],
+ "rows": [["Logs", "2,930,000"], ["Charcoal", "2,126,000"], ["Firewood", "10,280,000"], ["Total", "15,336,000"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "2,930,000+2,126,000+10,280,000 = 15,336,000, printed 15,336,000, agrees.", "warnings": [], "ocr_check": "OCR matched the image. The table has no printed header; column headings are supplied from the text."},
+{"page": 21, "pages": [21], "title": "New plants opened in South Korea since 1 March", "units": "", "period": "since 1 March 1946", "source_note": "",
+ "header": [["Name", "Location", "Product", "Number of Employees"]],
+ "rows": [["Korea Sakura Joint Stock Co.", "Fusan", "crayon", "21"], ["Kyungnam Textile Industrial Co.", "Samchunpo, Sachun Gun, Kyong Sang Namdo", "cotton cloth", "7"], ["Asahi Silk Textile Co.", "Fusan", "silk", "370"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image."}
+]}

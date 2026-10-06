@@ -764,7 +764,7 @@
    "printed_page": "130",
    "start_page": 149,
    "end_page": 149,
-   "summary": "Cumulative overdraft of the Interim Government compared with revenue deposit balances."
+   "summary": "Table 3 compares cumulative Overdraft Account and Revenue Deposit Account balances of the South Korean Interim Government at the Bank of Chosun; Table 4 lists budgets, with total appropriations of 21,406,709 as of 31 March 1948."
   },
   {
    "title": "Expenditure Budget of the South Korean Interim Government",
@@ -1004,7 +1004,7 @@
    "printed_page": "161",
    "start_page": 180,
    "end_page": 180,
-   "summary": "Legal opinions were issued to departments."
+   "summary": "Department of Justice legal opinions for March 1948: law books vested under Ordinance No. 33 cannot be transferred free; KILA cannot raise pay or travel allowances without the Military Governor's consent; stolen Chosun Mining equipment recovery."
   },
   {
    "title": "Penal Institutions",
@@ -1764,9 +1764,6 @@
  "_uncovered_pages": [],
  "_bad_ranges": [],
  "_refined": "13 leaf summaries rewritten from full section text",
- "_needs_source": [
-  91,
-  121
- ],
+ "_needs_source": [],
  "_polished": true
 }

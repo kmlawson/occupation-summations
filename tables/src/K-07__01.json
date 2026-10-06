@@ -1,0 +1,37 @@
+{"tables": [
+  {"page": 20, "pages": [20], "title": "[Cases pending during April in the Korean Courts Division]", "units": "cases", "period": "April 1946", "source_note": "",
+   "header": [["Court", "Item", "Number"]],
+   "rows": [
+     ["Supreme Court", "Criminal cases pending", "21"],
+     ["Supreme Court", "Civil cases tried", "2"],
+     ["Supreme Court", "Civil cases pending", "30"],
+     ["Courts of Review", "Criminal cases tried", "16"],
+     ["Courts of Review", "Criminal cases pending", "104"],
+     ["Courts of Review", "Civil cases pending", "24"],
+     ["District and Branch Courts", "Criminal cases tried", "514"],
+     ["District and Branch Courts", "Criminal cases pending", "1,007"],
+     ["District and Branch Courts", "Civil cases tried", "142"],
+     ["District and Branch Courts", "Civil cases pending", "1,211"]
+   ],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed.", "warnings": [],
+   "notes": "Printed as an indented list: three court headings, each with its items and a figure on the right; the court name is repeated in column 1 here. Supreme Court civil cases pending is printed '30' (second digit slightly smudged but read as 0). Paragraph 11, printed page 8.",
+   "ocr_check": "No OCR text was inspected; the OCR file could not be cross-checked and the figures are read from the image."},
+  {"page": 28, "pages": [28], "title": "[Status of repatriated Koreans on 28 April 1946]", "units": "persons", "period": "1-28 April 1946 and to date (28 April 1946)", "source_note": "",
+   "header": [["Repatriated from", "Period 1-28 April", "To Date"]],
+   "rows": [
+     ["Japan", "40,974", "875,113"],
+     ["Pacific Ocean areas", "1", "13,986"],
+     ["Philippine Islands", "123", "1,295"],
+     ["Formosa", "1,777", "3,449"],
+     ["China", "1,715", "17,369"],
+     ["Ryukyus", "0", "1,753"],
+     ["Hongkong", "0", "287"],
+     ["Hawaii", "0", "2,531"],
+     ["Australian areas", "0", "2,513"]
+   ],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "No total printed.", "warnings": [],
+   "notes": "Paragraph 35, printed page 16. The units are not printed; 'persons' is inferred from the text (repatriated Koreans).",
+   "ocr_check": "No OCR text was inspected; the OCR file could not be cross-checked and the figures are read from the image."}
+]}

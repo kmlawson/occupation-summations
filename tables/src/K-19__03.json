@@ -1,0 +1,732 @@
+{
+ "tables": [
+  {
+   "page": 48,
+   "pages": [
+    48
+   ],
+   "title": "Spring cocoon crop, 1946",
+   "units": "pounds",
+   "period": "1946",
+   "source_note": "",
+   "header": [
+    [
+     "Province",
+     "Improved",
+     "Indigenous",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Kyonggi-do",
+     "529,157",
+     "26,050",
+     "555,207"
+    ],
+    [
+     "Kangwon-do",
+     "1,159,034",
+     "41,419",
+     "1,200,453"
+    ],
+    [
+     "Chungchong-pukto",
+     "495,641",
+     "20,230",
+     "515,871"
+    ],
+    [
+     "Chungchong-namdo",
+     "678,472",
+     "43,031",
+     "721,503"
+    ],
+    [
+     "Kyongsang-pukto",
+     "2,828,136",
+     "105,243",
+     "2,933,379"
+    ],
+    [
+     "Kyongsang-namdo",
+     "892,810",
+     "38,650",
+     "931,460"
+    ],
+    [
+     "Cholla-pukto",
+     "819,909",
+     "41,510",
+     "861,419"
+    ],
+    [
+     "Cholla-namdo",
+     "663,897",
+     "36,112",
+     "700,009"
+    ],
+    [
+     "Cheju-do",
+     "21,908",
+     "-",
+     "21,908"
+    ],
+    [
+     "Total",
+     "8,088,964",
+     "352,245",
+     "8,441,209"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Summed each column over the 9 provinces: Improved 8,088,964 (printed 8,088,964), Indigenous 352,245 (printed 352,245), Total 8,441,209 (printed 8,441,209); all agree. Improved+Indigenous equals Total in every row.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "Total row label is indented in the original."
+  },
+  {
+   "page": 48,
+   "pages": [
+    48
+   ],
+   "title": "Summer and autumn cocoon crop, 1946",
+   "units": "pounds",
+   "period": "1946",
+   "source_note": "",
+   "header": [
+    [
+     "Province",
+     "Improved",
+     "Indigenous",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Kyonggi-do",
+     "293,324",
+     "83",
+     "293,407"
+    ],
+    [
+     "Kangwon-do",
+     "403,576",
+     "-",
+     "403,576"
+    ],
+    [
+     "Chungchong-pukto",
+     "273,085",
+     "-",
+     "273,085"
+    ],
+    [
+     "Chungchong-namdo",
+     "597,974",
+     "13,815",
+     "611,789"
+    ],
+    [
+     "Kyongsang-pukto",
+     "1,221,485",
+     "-",
+     "1,221,485"
+    ],
+    [
+     "Kyongsang-namdo",
+     "405,833",
+     "-",
+     "405,833"
+    ],
+    [
+     "Cholla-pukto",
+     "600,032",
+     "-",
+     "600,032"
+    ],
+    [
+     "Cholla-namdo",
+     "630,109",
+     "-",
+     "630,109"
+    ],
+    [
+     "Cheju-do",
+     "19,015",
+     "-",
+     "19,015"
+    ],
+    [
+     "Total",
+     "4,444,433",
+     "13,898",
+     "4,458,331"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Summed each column over the 9 provinces: Improved 4,444,433 (printed 4,444,433), Indigenous 13,898 (printed 13,898), Total 4,458,331 (printed 4,458,331); all agree. Improved+Indigenous equals Total in every row.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 49,
+   "pages": [
+    49
+   ],
+   "title": "Production of mulberry saplings, 1946",
+   "units": "saplings",
+   "period": "1946",
+   "source_note": "",
+   "header": [
+    [
+     "Province",
+     "Seeded",
+     "Grafted"
+    ]
+   ],
+   "rows": [
+    [
+     "Kyonggi-do",
+     "4,671,800",
+     "361,400"
+    ],
+    [
+     "Kangwon-do",
+     "1,189,900",
+     "348,750"
+    ],
+    [
+     "Chungchong-pukto",
+     "3,000,000",
+     "350,000"
+    ],
+    [
+     "Chungchong-namdo",
+     "3,377,300",
+     "171,520"
+    ],
+    [
+     "Kyongsang-pukto",
+     "8,000,000",
+     "500,000"
+    ],
+    [
+     "Kyongsang-namdo",
+     "17,600,000",
+     "220,000"
+    ],
+    [
+     "Cholla-pukto",
+     "2,000,000",
+     "300,000"
+    ],
+    [
+     "Cholla-namdo",
+     "700,000",
+     "400,000"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total row printed. Sums are 40,539,000 seeded and 2,651,670 grafted (total 43,190,670), agreeing with the figures in paragraph 9 of the text.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 49,
+   "pages": [
+    49
+   ],
+   "title": "[Seoul Electric Company labor election, final tabulation]",
+   "units": "votes",
+   "period": "19 April 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Choice",
+     "Votes"
+    ]
+   ],
+   "rows": [
+    [
+     "Tai Han No Chong",
+     "3,260"
+    ],
+    [
+     "No Union",
+     "394"
+    ],
+    [
+     "Void Ballots",
+     "151"
+    ],
+    [
+     "Total",
+     "3,805"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Summed 3,260 + 394 + 151 = 3,805; printed total 3,805; agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "The table has no printed column headings; the header is supplied. Total row label is indented in the original."
+  },
+  {
+   "page": 54,
+   "pages": [
+    54
+   ],
+   "title": "Revenues collected, government departments or offices",
+   "units": "yen",
+   "period": "15 August 1945 to 31 March 1947; March 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Department or Office",
+     "Period of Collection: 15 August 1945 to 31 March 1947",
+     "Period of Collection: March 1947"
+    ]
+   ],
+   "rows": [
+    [
+     "Agriculture",
+     "2,822,944.07",
+     "139,998.26"
+    ],
+    [
+     "Commerce",
+     "770,032.68",
+     "164,052.91"
+    ],
+    [
+     "Communications",
+     "156,498,407.61",
+     "46,346,288.64"
+    ],
+    [
+     "Education",
+     "14,785,660.13",
+     "2,088,414.08"
+    ],
+    [
+     "Justice",
+     "180,632,777.63",
+     "39,410,143.54"
+    ],
+    [
+     "National Defense",
+     "3,000.00",
+     "0"
+    ],
+    [
+     "Police",
+     "277,137.27",
+     "0"
+    ],
+    [
+     "Public Health and Welfare",
+     "955,279.27",
+     "45,119.00"
+    ],
+    [
+     "Public Information",
+     "585,104.90",
+     "105,792.00"
+    ],
+    [
+     "Administration",
+     "1,331,533.01",
+     "20,006.00"
+    ],
+    [
+     "Transportation",
+     "84.14",
+     "0"
+    ],
+    [
+     "Finance - Monopoly",
+     "2,920,150,746.12",
+     "448,370,415.96"
+    ],
+    [
+     "Finance - Treasury",
+     "915,824,503.97",
+     "141,797,819.52"
+    ],
+    [
+     "Finance - Customs",
+     "13,140,352.76",
+     "475,922.13"
+    ],
+    [
+     "Total",
+     "4,207,777,563.56",
+     "678,963,972.04"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Summed the 14 department rows: 15 Aug 1945-31 Mar 1947 = 4,207,777,563.56 (printed 4,207,777,563.56); March 1947 = 678,963,972.04 (printed 678,963,972.04); both agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "Printed 'Finance - Customs' in the image; OCR also read Customs. Page 40 is printed page number; the table sits at the top of the page."
+  },
+  {
+   "page": 55,
+   "pages": [
+    55
+   ],
+   "title": "Textile imports from Japan",
+   "units": "as per Unit column",
+   "period": "February and March 1947",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Unit",
+     "February a/",
+     "March b/"
+    ]
+   ],
+   "rows": [
+    [
+     "Cotton, raw",
+     "metric ton",
+     "0",
+     "636"
+    ],
+    [
+     "Fabric, silk",
+     "linear yard",
+     "0",
+     "2,000"
+    ],
+    [
+     "Fabric, woolen",
+     "linear yard",
+     "0",
+     "44,000"
+    ],
+    [
+     "Felt, wool",
+     "pound",
+     "633",
+     "274"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Preliminary."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 55,
+   "pages": [
+    55
+   ],
+   "title": "Consumer goods imports from Japan",
+   "units": "as per Unit column",
+   "period": "February and March 1947",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Unit",
+     "February a/",
+     "March b/"
+    ]
+   ],
+   "rows": [
+    [
+     "Bulbs, electric light",
+     "each",
+     "0",
+     "360"
+    ],
+    [
+     "Lamps, miners'",
+     "piece",
+     "0",
+     "5,000"
+    ],
+    [
+     "Records, phonograph",
+     "each",
+     "0",
+     "7,520"
+    ],
+    [
+     "Recording discs",
+     "each",
+     "150",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Preliminary."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 56,
+   "pages": [
+    56
+   ],
+   "title": "Machinery and equipment imports from Japan",
+   "units": "as per Unit column",
+   "period": "February and March 1947",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Unit",
+     "February a/",
+     "March b/"
+    ]
+   ],
+   "rows": [
+    [
+     "Communications equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Cable, lead covered",
+     "meter",
+     "0",
+     "1,000"
+    ],
+    [
+     "  Subscriber-set parts",
+     "each",
+     "0",
+     "8,476"
+    ],
+    [
+     "  Switch-system parts",
+     "each",
+     "0",
+     "1,050"
+    ],
+    [
+     "  Telephone cord",
+     "each",
+     "0",
+     "7,510"
+    ],
+    [
+     "  Transmitter parts",
+     "each",
+     "0",
+     "200"
+    ],
+    [
+     "Diesel engine parts",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Air valves",
+     "set",
+     "1",
+     "0"
+    ],
+    [
+     "  Nozzles",
+     "each",
+     "1",
+     "0"
+    ],
+    [
+     "  Pumps",
+     "each",
+     "1",
+     "0"
+    ],
+    [
+     "Medical equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Gauges, X-ray",
+     "set",
+     "2",
+     "0"
+    ],
+    [
+     "  Plates, developing",
+     "each",
+     "150",
+     "0"
+    ],
+    [
+     "  Screens",
+     "set",
+     "0",
+     "100"
+    ],
+    [
+     "  Tubes",
+     "each",
+     "125",
+     "0"
+    ],
+    [
+     "  X-ray therapy cable",
+     "meter",
+     "100",
+     "0"
+    ],
+    [
+     "Railway locomotive boiler tubes",
+     "metric ton",
+     "142",
+     "65"
+    ],
+    [
+     "Textile machinery parts",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Bobbins, jute",
+     "each",
+     "0",
+     "8,400"
+    ],
+    [
+     "  Belting",
+     "linear yard",
+     "19,082",
+     "17,972"
+    ],
+    [
+     "  Cards, clothing",
+     "set",
+     "0",
+     "258"
+    ],
+    [
+     "  Draft aprons",
+     "square foot",
+     "13,658",
+     "13,658"
+    ],
+    [
+     "  Heddles",
+     "each",
+     "0",
+     "300,000"
+    ],
+    [
+     "  Healds, wire",
+     "piece",
+     "30,000",
+     "4,680,000"
+    ],
+    [
+     "  Needles, latch",
+     "gross",
+     "0",
+     "3,260"
+    ],
+    [
+     "  Needles, sewing machine",
+     "gross",
+     "500",
+     "0"
+    ],
+    [
+     "  Reeds",
+     "each",
+     "0",
+     "3,300"
+    ],
+    [
+     "  Roller covers",
+     "square foot",
+     "13,658",
+     "0"
+    ],
+    [
+     "  Shuttles",
+     "each",
+     "0",
+     "2,600"
+    ],
+    [
+     "  Sinkers",
+     "gross",
+     "0",
+     "1,000"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Preliminary."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "Group heading rows (Communications equipment, Diesel engine parts, Medical equipment, Textile machinery parts) have blank cells in the original. The text introduces the table as machinery imported from Japan 'in April' while the columns are February and March. 'Railway locomotive boiler tubes' wraps onto a second line in the original."
+  },
+  {
+   "page": 56,
+   "pages": [
+    56
+   ],
+   "title": "Coal imports from Japan",
+   "units": "metric tons",
+   "period": "January-April 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Month",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "January",
+     "35,797"
+    ],
+    [
+     "February",
+     "46,506"
+    ],
+    [
+     "March",
+     "54,910"
+    ],
+    [
+     "April",
+     "48,985"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "The table has no printed column headings; the header is supplied."
+  }
+ ]
+}

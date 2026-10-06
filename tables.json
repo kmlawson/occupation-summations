@@ -1,0 +1,9236 @@
+[
+{
+"r": "J-01-phw",
+"p": 5,
+"pp": [
+5
+],
+"t": "Number of animals in Japan (1944 census)",
+"u": "animals, to the nearest thousand",
+"pe": "1944 census",
+"src": "Ministry of Agriculture and Forestry",
+"h": [
+[
+"Animal",
+"Number"
+]
+],
+"rows": [
+[
+"Horses",
+"1,191,000"
+],
+[
+"Cattle",
+"2,403,000"
+],
+[
+"Swine",
+"310,000"
+],
+[
+"Sheep",
+"181,000"
+],
+[
+"Goats",
+"252,000"
+],
+[
+"Rabbits",
+"3,227,000"
+],
+[
+"Poultry",
+"22,879,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-01-phw-p5"
+},
+{
+"r": "J-01-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "Animal communicable diseases, 1 January to 31 October 1945",
+"u": "outbreaks and cases",
+"pe": "1 January to 31 October 1945",
+"src": "Ministry of Agriculture and Forestry",
+"h": [
+[
+"Disease",
+"Outbreaks",
+"Cases"
+]
+],
+"rows": [
+[
+"Blackleg",
+"3",
+"5"
+],
+[
+"Anthrax",
+"11",
+"25"
+],
+[
+"Texas Fever",
+"3",
+"61"
+],
+[
+"Swine Cholera",
+"9",
+"519"
+],
+[
+"Swine Erysipelas",
+"3",
+"25"
+],
+[
+"Swine Plague",
+"9",
+"352"
+],
+[
+"Scabies",
+"2",
+"9"
+],
+[
+"Bovine Inf. Abortion",
+"17",
+"937"
+],
+[
+"Fowl Pest",
+"1",
+"685"
+],
+[
+"White Diarrhea, chicks",
+"19",
+"13,109"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-01-phw-p6-1"
+},
+{
+"r": "J-01-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "Slaughter houses and animals slaughtered (1941 figures)",
+"u": "number",
+"pe": "1941",
+"src": "Ministry of Health and Welfare",
+"h": [
+[
+"Item",
+"Number"
+]
+],
+"rows": [
+[
+"Slaughter Houses",
+"712"
+],
+[
+"Cattle slaughtered",
+"382,340"
+],
+[
+"Calves slaughtered",
+"35,817"
+],
+[
+"Sheep slaughtered",
+"5,317"
+],
+[
+"Goats slaughtered",
+"12,035"
+],
+[
+"Swine slaughtered",
+"603,180"
+],
+[
+"Horses slaughtered",
+"36,415"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-01-phw-p6-2"
+},
+{
+"r": "J-01-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "Number cattle condemned (1941 figures)",
+"u": "number",
+"pe": "1941",
+"src": "Ministry of Health and Welfare",
+"h": [
+[
+"Item",
+"Number"
+]
+],
+"rows": [
+[
+"Ante Mortem",
+"51"
+],
+[
+"Post Mortem",
+""
+],
+[
+"  Total carcasses",
+"147"
+],
+[
+"  Partial carcass",
+"4,702"
+],
+[
+"  Viscera only",
+"73,667"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed; the Post Mortem line is a heading with no figure in the original.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-01-phw-p6-3"
+},
+{
+"r": "J-01-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "Number swine condemned (1941 figures)",
+"u": "number",
+"pe": "1941",
+"src": "Ministry of Health and Welfare",
+"h": [
+[
+"Item",
+"Number"
+]
+],
+"rows": [
+[
+"Ante Mortem",
+"127"
+],
+[
+"Post Mortem",
+""
+],
+[
+"  Total carcasses",
+"249"
+],
+[
+"  Partial carcass",
+"3,274"
+],
+[
+"  Viscera only",
+"203,673"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed; the Post Mortem line is a heading with no figure in the original.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-01-phw-p6-4"
+},
+{
+"r": "J-01-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "Number horses condemned (1941 figures)",
+"u": "number",
+"pe": "1941",
+"src": "Ministry of Health and Welfare",
+"h": [
+[
+"Item",
+"Number"
+]
+],
+"rows": [
+[
+"Ante Mortem",
+"42"
+],
+[
+"Post Mortem",
+""
+],
+[
+"  Total carcasses",
+"52"
+],
+[
+"  Partial carcass",
+"2,550"
+],
+[
+"  Viscera only",
+"4,720"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed; the Post Mortem line is a heading with no figure in the original.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-01-phw-p6-5"
+},
+{
+"r": "J-01-phw",
+"p": 12,
+"pp": [
+12
+],
+"t": "Summary report of notifiable diseases in 1945",
+"u": "cases",
+"pe": "1945, includes all reports through 13 October 1945",
+"src": "",
+"h": [
+[
+"Disease",
+"Jan-Jun (Inc)",
+"Jul",
+"Aug",
+"Sep",
+"1 Oct to 13 Oct",
+"Total"
+]
+],
+"rows": [
+[
+"Diphtheria",
+"41,263",
+"2,847",
+"2,539",
+"2,324",
+"1,904",
+"50,877"
+],
+[
+"Dysentery",
+"15,947",
+"7,849",
+"18,520",
+"10,778",
+"4,617",
+"57,729"
+],
+[
+"Meningitis (Spith, C-S)",
+"3,363",
+"126",
+"45",
+"72",
+"18",
+"3,624"
+],
+[
+"Para-typhoid",
+"2,417",
+"739",
+"971",
+"1,247",
+"581",
+"5,955"
+],
+[
+"Scarlet fever",
+"1,268",
+"146",
+"135",
+"142",
+"46",
+"1,737"
+],
+[
+"Smallpox",
+"791",
+"139",
+"343",
+"30",
+"15",
+"1,318"
+],
+[
+"Typhoid",
+"10,993",
+"3,822",
+"5,094",
+"5,742",
+"3,136",
+"28,787"
+],
+[
+"Typhus fever",
+"1,457",
+"238",
+"71",
+"122",
+"12",
+"1,900"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Row sums of the five period columns against the printed Total: Diphtheria 50,877 agrees; Dysentery sums to 57,711 but 57,729 printed (differs by 18); Meningitis 3,624 agrees; Para-typhoid 5,955 agrees; Scarlet fever 1,737 agrees; Smallpox 1,318 agrees; Typhoid 28,787 agrees; Typhus fever 1,900 agrees.",
+"w": [
+"Dysentery total as printed (57,729) does not equal the sum of its columns (57,711)."
+],
+"oc": "OCR matched the image.",
+"id": "J-01-phw-p12"
+},
+{
+"r": "J-03-phw",
+"p": 4,
+"pp": [
+4
+],
+"t": "Japanese civilian hospital weekly strength reports",
+"u": "hospitals, beds (capacity), patients",
+"pe": "weeks of 12 October to 30 November 1945",
+"src": "(See Chart No. 26)",
+"h": [
+[
+"Period",
+"No. of Hosp",
+"Capacity",
+"Number of Patients",
+"Number of Patients",
+"Number of Patients"
+],
+[
+"Period",
+"No. of Hosp",
+"Capacity",
+"In-Patients",
+"Out-Patients",
+"Total"
+]
+],
+"rows": [
+[
+"12 Oct",
+"2,504",
+"126,441",
+"77,463",
+"225,005",
+"302,468"
+],
+[
+"19 Oct",
+"2,504",
+"122,532",
+"76,754",
+"244,780",
+"321,534"
+],
+[
+"26 Oct",
+"2,598",
+"131,747",
+"77,091",
+"229,472",
+"306,563"
+],
+[
+"2 Nov",
+"2,595",
+"133,448",
+"76,078",
+"237,240",
+"313,318"
+],
+[
+"9 Nov",
+"2,598",
+"136,845",
+"75,956",
+"235,281",
+"311,237"
+],
+[
+"16 Nov",
+"2,614",
+"138,577",
+"74,728",
+"228,086",
+"302,814"
+],
+[
+"23 Nov",
+"2,634",
+"139,409",
+"73,369",
+"201,780",
+"275,419"
+],
+[
+"30 Nov",
+"2,630",
+"142,926",
+"72,869",
+"231,269",
+"304,138"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Checked In-Patients + Out-Patients = Total for each week. All agree except 23 Nov: 73,369 + 201,780 = 275,149, printed total 275,419 (digits transposed in print, as read from the image).",
+"w": [
+"23 Nov: printed Total 275,419 does not equal In-Patients 73,369 + Out-Patients 201,780 = 275,149."
+],
+"oc": "OCR matched the image on every cell.",
+"id": "J-03-phw-p4-1"
+},
+{
+"r": "J-03-phw",
+"p": 4,
+"pp": [
+4
+],
+"t": "Animal disease report for November (Ministry of Agriculture and Forestry)",
+"u": "outbreaks, cases",
+"pe": "November 1945",
+"src": "Ministry of Agriculture and Forestry summary of animal disease report",
+"h": [
+[
+"Disease",
+"Outbreaks",
+"Cases"
+]
+],
+"rows": [
+[
+"Blackleg",
+"1",
+"1"
+],
+[
+"Infectious abortion",
+"5",
+"21"
+],
+[
+"Texas Fever",
+"2",
+"23"
+],
+[
+"Anthrax",
+"1",
+"1"
+],
+[
+"Swine Plague",
+"1",
+"10"
+],
+[
+"White Diarrhea, chickens",
+"14",
+"3,660"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-03-phw-p4-2"
+},
+{
+"r": "J-03-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "New outbreaks of communicable animal diseases reported during December",
+"u": "cases",
+"pe": "December 1945",
+"src": "Ministry of Agriculture and Forestry",
+"h": [
+[
+"Prefecture",
+"Disease",
+"Cases"
+]
+],
+"rows": [
+[
+"Hyogo",
+"Anthrax (bovine)",
+"1"
+],
+[
+"Osaka",
+"Swine Cholera",
+"51"
+],
+[
+"Ehime",
+"Blackleg",
+"2"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-03-phw-p6-1"
+},
+{
+"r": "J-03-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "October slaughter house inspections, totals",
+"u": "animals",
+"pe": "October 1945",
+"src": "Veterinary Hygiene Section, Ministry of Health and Welfare",
+"h": [
+[
+"",
+"Cattle",
+"Calves",
+"Sheep and Goats",
+"Swine",
+"Horses"
+]
+],
+"rows": [
+[
+"Slaughtered",
+"5,030",
+"894",
+"24",
+"1,203",
+"6,343"
+],
+[
+"Totally condemned",
+"9",
+"4",
+"0",
+"1",
+"10"
+],
+[
+"Partially condemned",
+"191",
+"9",
+"0",
+"20",
+"447"
+],
+[
+"Viscera condemned",
+"858",
+"41",
+"0",
+"235",
+"491"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-03-phw-p6-2"
+},
+{
+"r": "J-03-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "November milk inspection report (except Hokkaido, which did not report)",
+"u": "as labelled (liters; pounds)",
+"pe": "November 1945",
+"src": "",
+"h": [
+[
+"Item",
+"Figure"
+]
+],
+"rows": [
+[
+"Total milk plants",
+"2,859"
+],
+[
+"Volume of milk produced (liters)",
+"6,188,098"
+],
+[
+"Results of laboratory examinations: Total examinations",
+"5,606"
+],
+[
+"Results of laboratory examinations: Over bacterial standard (2,000,000 per cc)",
+"747"
+],
+[
+"Results of laboratory examinations: Under butterfat standard (3%)",
+"870"
+],
+[
+"Total milk retailers",
+"1,419"
+],
+[
+"Total dairy products produced (pounds): Whole milk powder",
+"58,126"
+],
+[
+"Total dairy products produced (pounds): Skim milk powder",
+"566,213"
+],
+[
+"Total dairy products produced (pounds): Condensed milk",
+"1,516"
+],
+[
+"Total dairy products produced (pounds): Sweetened condensed milk",
+"88,477"
+],
+[
+"Total dairy products produced (pounds): Butter",
+"6,371,870"
+],
+[
+"Total dairy products produced (pounds): Cheese",
+"600,576"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image (printed as an indented list, not a ruled grid; sub-headings merged into row labels).",
+"id": "J-03-phw-p6-3"
+},
+{
+"r": "J-03-phw",
+"p": 11,
+"pp": [
+11
+],
+"t": "Production of biologicals, four important items",
+"u": "cc, or vaccinations as per the unit-of-measure row",
+"pe": "September to 30 November 1945",
+"src": "",
+"h": [
+[
+"Product",
+"Diphtheria Antitoxin",
+"Diphtheria Toxoid",
+"Smallpox Vaccine",
+"Triple Typhoid Vaccine"
+]
+],
+"rows": [
+[
+"Unit of measure",
+"cc",
+"cc",
+"Vaccination",
+"cc"
+],
+[
+"Production Sep 45",
+"166,507",
+"70,950",
+"290,000",
+"1,163,944"
+],
+[
+"Production Oct 45",
+"177,617",
+"229,115",
+"500,000",
+"885,874"
+],
+[
+"Production Nov 45",
+"211,888",
+"285,960",
+"753,000",
+"396,334"
+],
+[
+"On hand 30 Nov 45",
+"188,009",
+"700,000",
+"1,212,000",
+"812,542"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-03-phw-p11"
+},
+{
+"r": "J-03-phw",
+"p": 12,
+"pp": [
+12
+],
+"t": "Peak rates of communicable diseases per 10,000 population, 1944 and 1945",
+"u": "rate per 10,000 population (month of peak in parentheses)",
+"pe": "1944, 1945 and first two weeks of December 1945",
+"src": "Official Japanese reports",
+"h": [
+[
+"Disease",
+"1944",
+"1945",
+"Current Rate (First Two Weeks of Dec 45)"
+]
+],
+"rows": [
+[
+"Diphtheria",
+"22.6 (Nov)",
+"18.1 (Nov)",
+"14.00"
+],
+[
+"Dysentery",
+"25.6 (Aug)",
+"31.7 (Aug)",
+"4.00"
+],
+[
+"Epidemic Meningitis",
+"0.45 (Apr)",
+"1.80 (Mar)",
+"0.10"
+],
+[
+"Paratyphoid Fever",
+"4.60 (Aug)",
+"2.80 (Oct)",
+"1.50"
+],
+[
+"Smallpox",
+"0.13 (May)",
+"0.40 (Jun)",
+"0.24"
+],
+[
+"Typhoid Fever",
+"15.20 (Aug)",
+"16.90 (Sep)",
+"9.00"
+],
+[
+"Typhus Fever",
+"1.30 (May)",
+"0.87 (May)",
+"0.15"
+]
+],
+"fn": [
+"No cases of cholera and plague reported."
+],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "J-03-phw-p12"
+},
+{
+"r": "J-03-phw",
+"p": 16,
+"pp": [
+16,
+17
+],
+"t": "Population of Japan, 1945 and 1940 census",
+"u": "persons",
+"pe": "1 November 1945 and 1 October 1940",
+"src": "",
+"h": [
+[
+"Area",
+"1 Nov 1945",
+"1 Oct 1940"
+]
+],
+"rows": [
+[
+"HOKKAI DISTRICT",
+"3,518,389",
+"3,272,718"
+],
+[
+"  HOKKAIDO",
+"3,518,389 b/",
+"3,272,718"
+],
+[
+"TOHOKU DISTRICT",
+"8,268,023",
+"7,164,674"
+],
+[
+"  AKITA",
+"1,211,962",
+"1,052,275"
+],
+[
+"  AOMORI",
+"1,083,250",
+"1,000,509"
+],
+[
+"  FUKUSHIMA",
+"1,957,356",
+"1,625,521"
+],
+[
+"  IWATE",
+"1,227,789",
+"1,095,793"
+],
+[
+"  MIYAGE",
+"1,461,316",
+"1,271,238"
+],
+[
+"  YAMAGATA",
+"1,326,350",
+"1,119,338"
+],
+[
+"KANTO-SHINETSU DISTRICT",
+"19,754,583",
+"21,304,250"
+],
+[
+"  CHIBA",
+"1,066,873",
+"1,588,425"
+],
+[
+"  GUMMA",
+"1,546,081",
+"1,299,027"
+],
+[
+"  IBARAKI",
+"1,944,573",
+"1,620,000"
+],
+[
+"  KANAGAWA",
+"1,865,667",
+"2,188,974"
+],
+[
+"  NAGANO",
+"2,120,950",
+"1,710,729"
+],
+[
+"  NIIGATA",
+"2,389,653",
+"2,064,402"
+],
+[
+"  SAITAMA",
+"2,047,090",
+"1,608,039"
+],
+[
+"  TOCHIGI",
+"1,546,355",
+"1,206,657"
+],
+[
+"  TOKYO",
+"3,488,284",
+"7,354,971"
+],
+[
+"  YAMANASHI",
+"839,057",
+"663,026"
+],
+[
+"TOKAI-HOKURIKU DISTRICT",
+"9,831,975",
+"9,228,504"
+],
+[
+"  AICHI",
+"2,857,338",
+"3,166,592"
+],
+[
+"  GIFU",
+"1,518,649",
+"1,265,024"
+],
+[
+"  ISHIKAWA",
+"887,510",
+"757,676"
+],
+[
+"  MIE",
+"1,394,286",
+"1,198,783"
+],
+[
+"  SHIZUOKA",
+"2,220,358",
+"2,017,860"
+],
+[
+"  TOYAMA",
+"953,834",
+"822,569"
+],
+[
+"KINKI DISTRICT",
+"10,528,105",
+"12,577,357"
+],
+[
+"  FUKUI",
+"724,856",
+"643,904"
+],
+[
+"  HYOGO",
+"2,821,892",
+"3,221,232"
+],
+[
+"  KYOTO",
+"1,603,797",
+"1,729,993"
+],
+[
+"  NARA",
+"779,685",
+"620,509"
+],
+[
+"  OSAKA",
+"2,800,958",
+"4,792,966"
+],
+[
+"  SHIGA",
+"860,911",
+"703,679"
+],
+[
+"  WAKAYAMA",
+"936,006",
+"865,074"
+],
+[
+"CHUGOKU DISTRICT",
+"6,230,132",
+"5,718,434"
+],
+[
+"  HIROSHIMA",
+"1,885,471",
+"1,869,504"
+],
+[
+"  OKAYAMA",
+"1,564,626",
+"1,329,358"
+],
+[
+"  SHIMANE",
+"860,275",
+"740,940"
+],
+[
+"  TOTTORI",
+"563,220",
+"484,390"
+],
+[
+"  YAMAGUCHI",
+"1,356,540",
+"1,294,242"
+],
+[
+"SHIKOKU DISTRICT",
+"3,836,378",
+"3,337,102"
+],
+[
+"  EHIME",
+"1,361,484",
+"1,178,705"
+],
+[
+"  KAGAWA",
+"863,553",
+"730,394"
+],
+[
+"  KOCHI",
+"775,578",
+"709,286"
+],
+[
+"  TOKUSHIMA",
+"835,763",
+"718,717"
+],
+[
+"KYUSHU DISTRICT",
+"10,028,892",
+"9,751,631"
+],
+[
+"  FUKUOKA",
+"2,746,855",
+"3,094,132"
+],
+[
+"  KAGOSHIMA",
+"1,538,466 c/",
+"1,404,408 c/"
+],
+[
+"  KUMAMOTO",
+"1,556,351",
+"1,368,179"
+],
+[
+"  MIYAZAKI",
+"913,687",
+"840,357"
+],
+[
+"  NAGASAKI",
+"1,318,589",
+"1,370,063"
+],
+[
+"  OITA",
+"1,124,513",
+"972,975"
+],
+[
+"  SAGA",
+"830,431",
+"701,517"
+],
+[
+"JAPAN PROPER - TOTAL",
+"71,996,477 a/",
+"72,354,670 a/"
+],
+[
+"OKINAWA (not included in totals)",
+"574,579",
+""
+]
+],
+"fn": [
+"a/ Excludes Okinawa Ken and Oshima Gun of Kagoshima Ken",
+"b/ Excludes Kurile Islands",
+"c/ Excludes Oshima Gun",
+"Table title carries footnote marker a/. Footnotes and the Okinawa row are printed at the top of the next page (PDF p. 17, printed 167)."
+],
+"unr": [],
+"tot": "Summed prefectures against each district total, and districts against the Japan Proper total. 1945: Tohoku, Tokai-Hokuriku, Kinki, Chugoku, Shikoku, Kyushu agree; Hokkai agrees (single prefecture). Kanto-Shinetsu: prefectures as read sum to 18,854,583 against printed 19,754,583, a difference of 900,000 (if Chiba were 1,966,873 it would agree exactly). Districts sum to 71,996,477 using printed Kanto total, agreeing with the printed Japan total. 1940: all districts agree with their prefectures, and districts sum to 72,354,670, agreeing with the printed total. Okinawa blank in 1940 column is blank in the original.",
+"w": [
+"Kanto-Shinetsu 1945: prefectures as read sum to 18,854,583, printed district total 19,754,583 (difference 900,000). Chiba 1945 is read as 1,066,873 (OCR agrees); the first digit after the comma may be 9 in the print, but I transcribed what I read. Chiba 1940 is 1,588,425, so the figure is also oddly low."
+],
+"oc": "OCR matched the image except it read NIIGATA as IIIGATA and OITA as CITA; table values matched as read, and the OCR omitted the Okinawa row on page 17.",
+"id": "J-03-phw-p16"
+},
+{
+"r": "J-03-phw",
+"p": 17,
+"pp": [
+17
+],
+"t": "Population shift in large urban areas",
+"u": "persons",
+"pe": "1945 and 1940",
+"src": "",
+"h": [
+[
+"",
+"",
+"City Only",
+"City Only",
+"Prefecture Population (less city)",
+"Prefecture Population (less city)"
+],
+[
+"City",
+"(Prefecture)",
+"1945",
+"1940",
+"1945",
+"1940"
+]
+],
+"rows": [
+[
+"Tokyo",
+"(Tokyo-To)",
+"2,780,000",
+"6,790,000",
+"708,000",
+"565,000"
+],
+[
+"Osaka",
+"(Osaka)",
+"1,100,000",
+"3,250,000",
+"1,701,000",
+"1,543,000"
+],
+[
+"Nagoya",
+"(Aichi)",
+"600,000",
+"1,330,000",
+"2,257,000",
+"1,837,000"
+],
+[
+"Kyoto",
+"(Kyoto)",
+"870,000",
+"1,090,000",
+"734,000",
+"640,000"
+],
+[
+"Yokohama",
+"(Kanagawa)",
+"620,000",
+"970,000",
+"1,246,000",
+"1,219,000"
+],
+[
+"Kobe",
+"(Hyogo)",
+"380,000",
+"970,000",
+"2,442,000",
+"2,251,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image in every cell.",
+"id": "J-03-phw-p17-1"
+},
+{
+"r": "J-03-phw",
+"p": 17,
+"pp": [
+17
+],
+"t": "Distribution of population by sex",
+"u": "persons",
+"pe": "1 November 1945 and 1 October 1940",
+"src": "",
+"h": [
+[
+"",
+"1 Nov 1945",
+"1 Oct 1940"
+]
+],
+"rows": [
+[
+"Male",
+"33,894,643",
+"36,210,096"
+],
+[
+"Female",
+"38,101,834",
+"36,144,574"
+],
+[
+"Total",
+"71,996,477",
+"72,354,670"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Male + Female: 1945 33,894,643 + 38,101,834 = 71,996,477, printed 71,996,477, agree; 1940 36,210,096 + 36,144,574 = 72,354,670, printed 72,354,670, agree.",
+"w": [],
+"oc": "OCR matched the image in every cell.",
+"id": "J-03-phw-p17-2"
+},
+{
+"r": "J-04-phw",
+"p": 2,
+"pp": [
+2
+],
+"t": "[Categories of need for relief, Japan]",
+"u": "persons",
+"pe": "",
+"src": "",
+"h": [
+[
+"Category of Need",
+"Number"
+]
+],
+"rows": [
+[
+"Unemployable",
+"760,000"
+],
+[
+"Unemployed",
+"4,340,000"
+],
+[
+"Needy repatriates",
+"860,000"
+],
+[
+"Others",
+"2,040,000"
+],
+[
+"Total",
+"8,000,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Summed the four categories: 760,000 + 4,340,000 + 860,000 + 2,040,000 = 8,000,000; printed total 8,000,000; agrees.",
+"w": [],
+"oc": "OCR matched the image exactly.",
+"id": "J-04-phw-p2"
+},
+{
+"r": "J-04-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "Animal disease incidence, December 1945",
+"u": "outbreaks and cases",
+"pe": "December 1945",
+"src": "Ministry of Agriculture and Forestry summary",
+"h": [
+[
+"Disease",
+"Outbreaks",
+"Cases"
+]
+],
+"rows": [
+[
+"Blackleg",
+"2",
+"3"
+],
+[
+"Infectious abortion of cattle",
+"5",
+"16"
+],
+[
+"Texas fever",
+"1",
+"23"
+],
+[
+"Anthrax (cattle)",
+"1",
+"1"
+],
+[
+"Swine cholera",
+"1",
+"51"
+],
+[
+"Swine erysipelas",
+"1",
+"13"
+],
+[
+"White diarrhea of chickens",
+"6",
+"2,791"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image exactly.",
+"id": "J-04-phw-p6-1"
+},
+{
+"r": "J-04-phw",
+"p": 6,
+"pp": [
+6
+],
+"t": "Veterinary biological production: Anti-Sera",
+"u": "unit cc",
+"pe": "1944 and 1945 actual; 1946 estimate",
+"src": "Veterinary Laboratory Section, Ministry of Agriculture and Forestry",
+"h": [
+[
+"Anti-Sera",
+"Production (unit cc)",
+"Production (unit cc)",
+"Production (unit cc)"
+],
+[
+"Anti-Sera",
+"1944",
+"1945",
+"1946"
+]
+],
+"rows": [
+[
+"Anthrax",
+"138,380",
+"555,200",
+"800,000"
+],
+[
+"Blackleg",
+"10,500",
+"10,500",
+"10,000"
+],
+[
+"Swine cholera",
+"357,800",
+"43,850",
+"300,000"
+],
+[
+"Swine erysipelas",
+"78,700",
+"109,700",
+"80,000"
+],
+[
+"Tetanus",
+"240,800",
+"33,010",
+"1,000,000"
+],
+[
+"Fowl cholera",
+"53,200",
+"30,000",
+"50,000"
+],
+[
+"Canine distemper",
+"30,900",
+"24,000",
+"5,000"
+],
+[
+"Strangles",
+"1,041,950",
+"454,300",
+"1,200,000"
+],
+[
+"Fowl diphtheria",
+"354,950",
+"120,000",
+"400,000"
+],
+[
+"Equine infectious abortion",
+"---",
+"---",
+"300,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image exactly.",
+"id": "J-04-phw-p6-2"
+},
+{
+"r": "J-04-phw",
+"p": 7,
+"pp": [
+6,
+7
+],
+"t": "Veterinary biological production: Vaccines and Diagnostic Agents",
+"u": "unit cc",
+"pe": "1944 and 1945 actual; 1946 estimate",
+"src": "",
+"h": [
+[
+"Vaccines",
+"Production (unit cc)",
+"Production (unit cc)",
+"Production (unit cc)"
+],
+[
+"Vaccines",
+"1944",
+"1945",
+"1946"
+]
+],
+"rows": [
+[
+"Anthrax",
+"47,060",
+"20,700",
+"38,000"
+],
+[
+"Rabies",
+"190,350",
+"50,100",
+"50,000"
+],
+[
+"Blackleg",
+"680,600",
+"236,900",
+"700,000"
+],
+[
+"Swine cholera",
+"3,500,070",
+"821,650",
+"1,500,000"
+],
+[
+"Diagnostic Agents",
+"",
+"",
+""
+],
+[
+"Mallein",
+"300",
+"560",
+"1,000"
+],
+[
+"Tuberculin",
+"76,050",
+"17,330",
+"60,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image; it placed Diagnostic Agents as a row with blank cells, as here (blank cells are blank in the original).",
+"id": "J-04-phw-p7"
+},
+{
+"r": "J-04-phw",
+"p": 15,
+"pp": [
+15
+],
+"t": "Reportable communicable diseases, Japan, 1945: cases and rates",
+"u": "cases; rates per 100,000 per annum",
+"pe": "1945",
+"src": "",
+"h": [
+[
+"Disease",
+"Cases",
+"Rates/100,000/Annum"
+]
+],
+"rows": [
+[
+"Diphtheria",
+"77,256",
+"107.2"
+],
+[
+"Dysentery",
+"78,453",
+"108.9"
+],
+[
+"Epidemic Meningitis",
+"3,815",
+"5.3"
+],
+[
+"Paratyphoid",
+"9,278",
+"12.9"
+],
+[
+"Scarlet fever",
+"2,267",
+"3.1"
+],
+[
+"Smallpox",
+"1,719",
+"2.4"
+],
+[
+"Typhoid fever",
+"51,294",
+"71.2"
+],
+[
+"Epidemic typhus",
+"2,392",
+"3.3"
+],
+[
+"Plague",
+"0",
+"0"
+],
+[
+"Cholera",
+"0",
+"0"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image exactly.",
+"id": "J-04-phw-p15"
+},
+{
+"r": "J-05-phw",
+"p": 7,
+"pp": [
+7
+],
+"t": "November 1945 meat inspection report - 39 prefectures included",
+"u": "animals",
+"pe": "November 1945",
+"src": "",
+"h": [
+[
+"",
+"Cattle",
+"Calves",
+"Sheep",
+"Swine",
+"Horses"
+]
+],
+"rows": [
+[
+"Number slaughtered",
+"3,866",
+"563",
+"15",
+"1,076",
+"6,311"
+],
+[
+"Ante mortem",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Totally condemned",
+"0",
+"0",
+"0",
+"0",
+"1"
+],
+[
+"Post mortem",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Totally condemned",
+"5",
+"1",
+"0",
+"0",
+"8"
+],
+[
+"  Partially condemned",
+"169",
+"5",
+"0",
+"12",
+"309"
+],
+[
+"  Viscera condemned",
+"699",
+"43",
+"0",
+"177",
+"816"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "J-05-phw-p7-1"
+},
+{
+"r": "J-05-phw",
+"p": 7,
+"pp": [
+7
+],
+"t": "December 1945 meat inspection report - 39 prefectures included",
+"u": "animals",
+"pe": "December 1945",
+"src": "",
+"h": [
+[
+"",
+"Cattle",
+"Calves",
+"Sheep",
+"Swine",
+"Horses"
+]
+],
+"rows": [
+[
+"Number slaughtered",
+"11,461",
+"542",
+"64",
+"1,935",
+"4,567"
+],
+[
+"Ante mortem",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Totally condemned",
+"0",
+"0",
+"0",
+"0",
+"1"
+],
+[
+"Post mortem",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Totally condemned",
+"8",
+"3",
+"0",
+"0",
+"14"
+],
+[
+"  Partially condemned",
+"284",
+"9",
+"0",
+"12",
+"358"
+],
+[
+"  Viscera condemned",
+"1,601",
+"46",
+"0",
+"371",
+"474"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "J-05-phw-p7-2"
+},
+{
+"r": "J-05-phw",
+"p": 7,
+"pp": [
+7
+],
+"t": "November 1945 milk inspection report - results of laboratory examinations",
+"u": "",
+"pe": "November 1945",
+"src": "",
+"h": [
+[
+"",
+""
+]
+],
+"rows": [
+[
+"Milk samples examined",
+"958"
+],
+[
+"Bacterial counts not complying (over 2 million per cc)",
+"33"
+],
+[
+"Butterfat percentage not complying (less than 3)",
+"135"
+],
+[
+"Dairy Farm Inspections",
+"610"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "J-05-phw-p7-3"
+},
+{
+"r": "J-05-phw",
+"p": 8,
+"pp": [
+8
+],
+"t": "Animal disease incidence, January 1946",
+"u": "outbreaks and cases",
+"pe": "January 1946",
+"src": "Ministry of Agriculture and Forestry",
+"h": [
+[
+"DISEASE",
+"OUTBREAK",
+"CASES"
+]
+],
+"rows": [
+[
+"Anthrax (bovine)",
+"2",
+"3"
+],
+[
+"Anthrax (equine)",
+"1",
+"1"
+],
+[
+"Infectious abortion of cattle",
+"7",
+"92"
+],
+[
+"Texas fever",
+"1",
+"9"
+],
+[
+"Swine erysipelas",
+"1",
+"1"
+],
+[
+"Scabies",
+"1",
+"3"
+],
+[
+"Infectious anemia of horses",
+"1",
+"1"
+],
+[
+"Strangles",
+"2",
+"80"
+],
+[
+"White Diarrhea of Chickens",
+"14",
+"10,700"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "J-05-phw-p8-1"
+},
+{
+"r": "J-05-phw",
+"p": 8,
+"pp": [
+8
+],
+"t": "Annual 1945 animal disease report",
+"u": "cases",
+"pe": "1945",
+"src": "Compiled from Ministry of Agriculture and Forestry monthly summaries",
+"h": [
+[
+"DISEASE",
+"CASES"
+]
+],
+"rows": [
+[
+"Blackleg",
+"34"
+],
+[
+"Infectious abortion of cattle",
+"542"
+],
+[
+"Texas fever",
+"169"
+],
+[
+"Anthrax (equine)",
+"4"
+],
+[
+"Anthrax (bovine)",
+"35"
+],
+[
+"Rabies (bovine)",
+"8"
+],
+[
+"Scabies",
+"8"
+],
+[
+"Swine cholera",
+"574"
+],
+[
+"Swine plague",
+"466"
+],
+[
+"Swine erysipelas",
+"71"
+],
+[
+"Fowl pest",
+"933"
+],
+[
+"White diarrhea of chickens",
+"30,836"
+],
+[
+"Infectious anemia of horses (Hokkaido)",
+"793"
+],
+[
+"Osteomalacia of horses (Hokkaido)",
+"9,285"
+],
+[
+"Equine infectious abortion (Hokkaido, Aomori and Iwate - 1944-1945 breeding season)",
+"331"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "J-05-phw-p8-2"
+},
+{
+"r": "J-05-phw",
+"p": 13,
+"pp": [
+13
+],
+"t": "Expenditures for government schools, Japan",
+"u": "In yen",
+"pe": "1937, 1941, 1944, 1945-46, proposed 1946-47",
+"src": "SOURCE: Japanese Ministry of Education. Printed footer: FEBRUARY 46, GHQ-SCAP, NUMBER 58",
+"h": [
+[
+"Teachers' Salaries",
+"1937 (In Yen)",
+"1941 (In Yen)",
+"1944 (In Yen)",
+"1945-46 (In Yen)",
+"Proposed 1946-47 (In Yen)"
+]
+],
+"rows": [
+[
+"Imperial Universities",
+"7,482,582",
+"10,504,807",
+"12,449,102",
+"12,514,654",
+"14,483,051"
+],
+[
+"Other Government Universities and Colleges",
+"3,358,040",
+"4,526,072",
+"5,424,124",
+"4,819,468",
+"5,732,181"
+],
+[
+"Schools under Direct Control of Ministry",
+"8,073,714",
+"11,909,163",
+"25,058,613",
+"22,729,359",
+"25,582,937"
+],
+[
+"TOTAL",
+"18,914,336",
+"26,940,042",
+"42,931,839",
+"40,063,481",
+"45,798,169"
+],
+[
+"Equipment a/",
+"",
+"",
+"",
+"",
+""
+],
+[
+"Imperial Universities",
+"17,204,301",
+"26,780,341",
+"40,334,558",
+"56,379,035",
+"60,933,360"
+],
+[
+"Other Government Universities and Colleges",
+"7,481,563",
+"9,219,983",
+"13,789,980",
+"19,749,457",
+"21,085,747"
+],
+[
+"Schools under Direct Control of Ministry",
+"8,974,476",
+"13,598,915",
+"50,394,574",
+"69,566,433",
+"77,395,029"
+],
+[
+"TOTAL",
+"33,660,340",
+"49,599,239",
+"104,519,112",
+"145,694,925",
+"159,414,136"
+],
+[
+"Construction b/",
+"",
+"",
+"",
+"",
+""
+],
+[
+"Imperial Universities",
+"3,370,438",
+"2,275,020",
+"710,875",
+"6,522,722",
+"9,298,588"
+],
+[
+"Other Government Universities and Colleges",
+"1,170,459",
+"809,300",
+"733,500",
+"2,249,003",
+"6,747,781"
+],
+[
+"Schools under Direct Control of Ministry",
+"411,310",
+"3,201,013",
+"2,526,062",
+"10,682,174",
+"36,240,943"
+],
+[
+"TOTAL",
+"4,952,207",
+"6,235,333",
+"3,970,437",
+"19,453,899",
+"52,887,312"
+],
+[
+"Ministry of Education",
+"8,887,431",
+"33,631,403",
+"32,227,618",
+"41,437,374",
+"91,759,978"
+]
+],
+"fn": [
+"a/ Teaching materials; maintenance of schools.",
+"b/ Enlargements and New Construction."
+],
+"unr": [
+"row 'Schools under Direct Control of Ministry' (Construction), column '1945-46': second digit of the middle group is hard to tell (6 or 5); entered as 6, which is what the OCR read, and which is the only reading that makes the column sum to the printed total"
+],
+"tot": "Summed the three rows above each TOTAL, column by column. Teachers' Salaries: all five columns agree. Equipment: all five columns agree. Construction: 1937 agrees (4,952,207); 1941 sum 6,285,333 vs printed 6,235,333 (differs by 50,000); 1944 agrees (3,970,437); 1945-46 sum 19,453,899 agrees with printed 19,453,899 only if the uncertain cell reads 10,682,174; proposed 1946-47 sum 52,287,312 vs printed 52,887,312 (differs by 600,000). The 'Ministry of Education' row is not a sum of the totals above it.",
+"w": [
+"Construction TOTAL 1941: parts sum to 6,285,333 but printed total is 6,235,333",
+"Construction TOTAL proposed 1946-47: parts sum to 52,287,312 but printed total is 52,887,312",
+"Construction 1945-46 'Schools under Direct Control' cell is uncertain (6 vs 5); with 6 the total agrees"
+],
+"oc": "OCR matched my reading of every cell, including the uncertain 10,682,174.",
+"id": "J-05-phw-p13"
+},
+{
+"r": "J-05-phw",
+"p": 17,
+"pp": [
+17
+],
+"t": "Standard curriculum, public health nurses' training schools, for academic year beginning 1 April 1946",
+"u": "hours (months or years in parentheses where printed)",
+"pe": "Academic year beginning 1 April 1946",
+"src": "SOURCE: Ministry of Health and Welfare. Printed footer: JAPAN, FEBRUARY 46, GHQ-SCAP, NUMBER 54",
+"h": [
+[
+"Subjects",
+"Course a/ in Hours b/",
+"Course a/ in Hours b/",
+"Course a/ in Hours b/",
+"Course a/ in Hours b/",
+"Remarks"
+],
+[
+"Subjects",
+"A-I",
+"A-II",
+"B",
+"C",
+"Remarks"
+]
+],
+"rows": [
+[
+"Class Work",
+"",
+"",
+"",
+"",
+""
+],
+[
+"Biology",
+"20",
+"10",
+"10",
+"10",
+"Brief explanation"
+],
+[
+"Anatomy, Physiology & Pathology",
+"60",
+"50",
+"20",
+"30",
+"Pathology includes causes of illness, inflamation and tumor."
+],
+[
+"Bacteriology",
+"30",
+"30",
+"--",
+"30",
+"Laboratory work 10 hrs."
+],
+[
+"Materia Medica & Drugs",
+"20",
+"20",
+"--",
+"10",
+""
+],
+[
+"Sanitary Statistics",
+"40",
+"30",
+"30",
+"30",
+""
+],
+[
+"Nutrition & Dietetics",
+"100",
+"100",
+"70",
+"80",
+"Includes diet therapy. Cookery A-I & A-II 50; B & C 40"
+],
+[
+"X-Ray Therapy",
+"20",
+"10",
+"10",
+"10",
+""
+],
+[
+"Health Statistics for Nation",
+"30",
+"20",
+"20",
+"20",
+""
+],
+[
+"Mental Hygiene",
+"20",
+"10",
+"10",
+"10",
+""
+],
+[
+"Nursing--Principle & Practice",
+"200",
+"120",
+"--",
+"80",
+"Demonstration and practice: A-I 100; A-II 50; C 30"
+],
+[
+"Chief Diseases",
+"40",
+"30",
+"10",
+"20",
+""
+],
+[
+"Obstetrics",
+"50",
+"50",
+"30",
+"--",
+""
+],
+[
+"Environmental Hygiene",
+"20",
+"20",
+"20",
+"20",
+""
+],
+[
+"Preventive Medicine",
+"30",
+"20",
+"20",
+"20",
+""
+],
+[
+"Prevention of Acute Communicable Diseases",
+"20",
+"20",
+"10",
+"20",
+""
+],
+[
+"Prevention of Chronic Communicable Diseases",
+"20",
+"20",
+"10",
+"20",
+""
+],
+[
+"Anti-Tuberculosis Work",
+"30",
+"30",
+"20",
+"30",
+""
+],
+[
+"Health Supervision for Nation",
+"30",
+"30",
+"20",
+"20",
+"Includes body mechanics"
+],
+[
+"Maternal Hygiene",
+"30",
+"30",
+"30",
+"30",
+""
+],
+[
+"Infant & Child Hygiene",
+"80",
+"70",
+"40",
+"40",
+"Includes formulas, nutrition and parent education"
+],
+[
+"School Hygiene",
+"30",
+"20",
+"20",
+"20",
+""
+],
+[
+"Personal Hygiene",
+"30",
+"30",
+"20",
+"20",
+""
+],
+[
+"Industrial Hygiene",
+"30",
+"30",
+"20",
+"20",
+""
+],
+[
+"Social Work & Social Politics",
+"50",
+"30",
+"30",
+"30",
+""
+],
+[
+"Social Insurance",
+"20",
+"20",
+"20",
+"20",
+""
+],
+[
+"Laws & Regulations of Sanitation",
+"20",
+"20",
+"20",
+"20",
+""
+],
+[
+"Public Health Nursing--Principles & Practice",
+"150",
+"100",
+"50",
+"80",
+"Includes case work"
+],
+[
+"Physics & Chemistry",
+"20",
+"--",
+"--",
+"--",
+""
+],
+[
+"Sociology",
+"30",
+"",
+"",
+"",
+""
+],
+[
+"Economics",
+"30",
+"40",
+"40",
+"40",
+""
+],
+[
+"Pedagogy",
+"40",
+"30",
+"30",
+"30",
+"Includes teaching procedure"
+],
+[
+"Psychology",
+"30",
+"30",
+"30",
+"30",
+""
+],
+[
+"Ethics",
+"120",
+"30",
+"30",
+"30",
+""
+],
+[
+"Physical Training",
+"120",
+"50",
+"30",
+"40",
+""
+],
+[
+"Music",
+"100",
+"50",
+"30",
+"40",
+""
+],
+[
+"Special Lectures",
+"100",
+"50",
+"50",
+"50",
+"According to situation"
+],
+[
+"Japanese",
+"70",
+"--",
+"--",
+"--",
+""
+],
+[
+"English",
+"70",
+"--",
+"--",
+"--",
+""
+],
+[
+"Etiquette",
+"50",
+"--",
+"--",
+"--",
+""
+],
+[
+"Total Class Work",
+"2,000 (16 mo)",
+"1,250 (10 mo)",
+"800 (6 mo)",
+"1,000 (8 mo)",
+""
+],
+[
+"Practical Work",
+"",
+"",
+"",
+"",
+""
+],
+[
+"Clinical Nursing in General Hospital",
+"1,600 (8 mo)",
+"1,200 (6 mo)",
+"200 (1 mo)",
+"800 (4 mo)",
+"Bedside nursing including isolation beds"
+],
+[
+"Practical Training in Maternal Hospital",
+"400 (2 mo)",
+"200 (1 mo)",
+"200 (1 mo)",
+"200 (1 mo)",
+""
+],
+[
+"Field Practice for Public Health Nurses",
+"600 (3 mo)",
+"600 (3 mo)",
+"600 (3 mo)",
+"600 (3 mo)",
+"Includes 1 month training in Health Center and rural work"
+],
+[
+"Excursions",
+"200 (1 mo)",
+"--",
+"--",
+"--",
+"Field trips"
+],
+[
+"Total Practical Work",
+"2,800 (14 mo)",
+"2,000 (10 mo)",
+"1,000 (5 mo)",
+"1,600 (8 mo)",
+""
+],
+[
+"Total Work",
+"4,800 (30 mo) (3 yrs)",
+"3,250 (20 mo) (2 yrs)",
+"1,800 (11 mo) (1 yr)",
+"2,600 (16 mo) (1½ yr)",
+""
+]
+],
+"fn": [
+"a/ A-I: Three year course for high school graduates. A-II: Two year course for high school graduates. B: One year course for licensed clinical nurses. C: One and one-half year course for licensed midwives.",
+"b/ Class work is for 5 hours a day, 25 days a month, 10 months a year. Practical work is for 8 hours a day, 25 days a month, 10 months a year."
+],
+"unr": [],
+"tot": "Summed the class-work hours in each column: A-I 2,000 (printed 2,000, agree); A-II 1,250 (printed 1,250, agree); B 800 (printed 800, agree); C 1,000 (printed 1,000, agree). Practical work: A-I 1,600+400+600+200 = 2,800; A-II 1,200+200+600 = 2,000; B 200+200+600 = 1,000; C 800+200+600 = 1,600; all agree with Total Practical Work. Total Work: 2,000+2,800 = 4,800; 1,250+2,000 = 3,250; 800+1,000 = 1,800; 1,000+1,600 = 2,600; all agree. Months also agree (16+14 = 30; 10+10 = 20; 6+5 = 11; 8+8 = 16). For Sociology/Economics the single printed 40 in each of A-II, B and C was counted once.",
+"w": [],
+"oc": "OCR matched except it read the Nursing remark as 'Deconstruction and practice' (printed 'Demonstration and practice') and 'Stiquette' for Etiquette, and showed Sociology blank in A-II, B, C as I do.",
+"id": "J-05-phw-p17"
+},
+{
+"r": "K-06",
+"p": 14,
+"pp": [
+14
+],
+"t": "Rice shipment quotas established by the Korean Commodity Company for March",
+"u": "suk (1 suk equals 5.12 bushels)",
+"pe": "March 1946",
+"src": "",
+"h": [
+[
+"From",
+"To",
+"Quantity (in suk) a/"
+]
+],
+"rows": [
+[
+"Cholla Pukto",
+"Seoul",
+"32,000"
+],
+[
+"",
+"Inchon",
+"6,000"
+],
+[
+"",
+"Mukko",
+"8,000"
+],
+[
+"",
+"Chechon",
+"2,000"
+],
+[
+"",
+"Wonju",
+"2,000"
+],
+[
+"",
+"Chunchon",
+"8,000"
+],
+[
+"",
+"",
+"58,000"
+],
+[
+"Cholla Namdo",
+"Mukko",
+"8,000"
+],
+[
+"Chung Chong Pukto",
+"Seoul",
+"4,500"
+],
+[
+"Chung Chong Namdo",
+"Seoul",
+"36,000"
+],
+[
+"",
+"Inchon",
+"6,000"
+],
+[
+"",
+"",
+"42,000"
+],
+[
+"Kyong Sang Pukto",
+"Chechon",
+"5,000"
+],
+[
+"",
+"Mukko",
+"7,000"
+],
+[
+"",
+"",
+"12,000"
+]
+],
+"fn": [
+"a/ 1 suk equals 5.12 bushels"
+],
+"unr": [],
+"tot": "Cholla Pukto: 32,000+6,000+8,000+2,000+2,000+8,000 = 58,000, printed 58,000, agrees. Chung Chong Namdo: 36,000+6,000 = 42,000, printed 42,000, agrees. Kyong Sang Pukto: 5,000+7,000 = 12,000, printed 12,000, agrees. No grand total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-06-p14"
+},
+{
+"r": "K-06",
+"p": 16,
+"pp": [
+16
+],
+"t": "Status of Koreans repatriated through 25 March 1946",
+"u": "persons",
+"pe": "through 25 March 1946",
+"src": "",
+"h": [
+[
+"From",
+"March Total",
+"Total to Date"
+]
+],
+"rows": [
+[
+"Japan",
+"24,259",
+"831,387"
+],
+[
+"Other areas",
+"5,315",
+"30,858"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-06-p16"
+},
+{
+"r": "K-06",
+"p": 18,
+"pp": [
+18
+],
+"t": "Annual timber requirements, South Korea",
+"u": "koku (10 cubic feet)",
+"pe": "annual requirements",
+"src": "",
+"h": [
+[
+"Item",
+"Annual requirement (koku)"
+]
+],
+"rows": [
+[
+"Logs",
+"2,930,000"
+],
+[
+"Charcoal",
+"2,126,000"
+],
+[
+"Firewood",
+"10,280,000"
+],
+[
+"Total",
+"15,336,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "2,930,000+2,126,000+10,280,000 = 15,336,000, printed 15,336,000, agrees.",
+"w": [],
+"oc": "OCR matched the image. The table has no printed header; column headings are supplied from the text.",
+"id": "K-06-p18"
+},
+{
+"r": "K-06",
+"p": 21,
+"pp": [
+21
+],
+"t": "New plants opened in South Korea since 1 March",
+"u": "",
+"pe": "since 1 March 1946",
+"src": "",
+"h": [
+[
+"Name",
+"Location",
+"Product",
+"Number of Employees"
+]
+],
+"rows": [
+[
+"Korea Sakura Joint Stock Co.",
+"Fusan",
+"crayon",
+"21"
+],
+[
+"Kyungnam Textile Industrial Co.",
+"Samchunpo, Sachun Gun, Kyong Sang Namdo",
+"cotton cloth",
+"7"
+],
+[
+"Asahi Silk Textile Co.",
+"Fusan",
+"silk",
+"370"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-06-p21-1"
+},
+{
+"r": "K-06",
+"p": 21,
+"pp": [
+21,
+22
+],
+"t": "New plants opened in South Korea since 1 March",
+"u": "number of employees",
+"pe": "since 1 March 1946",
+"src": "",
+"h": [
+[
+"Name",
+"Location",
+"Product",
+"Number of Employees"
+]
+],
+"rows": [
+[
+"Korea Sakura Joint Stock Co.",
+"Fusan",
+"crayon",
+"21"
+],
+[
+"Kyungnam Textile Industrial Co.",
+"Samchunpo, Sachun Gun, Kyong Sang Namdo",
+"cotton cloth",
+"7"
+],
+[
+"Asahi Silk Textile Co.",
+"Fusan",
+"silk",
+"370"
+],
+[
+"Korea Net Mfg. Co.",
+"Tong Yung Up, Tong Yung Gun, Kyong Sang Namdo",
+"fishing net",
+"85"
+],
+[
+"Sam Nim Industrial Co., Ltd.",
+"Fusan",
+"cotton thread",
+"70"
+],
+[
+"Tong-A Spinning Co.",
+"San Chung Myun, San Chung Gun, Kyong Sang Namdo",
+"silk cloth",
+"42"
+],
+[
+"Osaki Casting Works",
+"Fusan",
+"farming tools",
+"25"
+],
+[
+"Pang-U-Jin Iron Works and Ship-building Co., Ltd.",
+"Pang-U-Jin Up, Ool San Gun, Kyong Sang Namdo",
+"shipbuilding and repair",
+"230"
+],
+[
+"Tesum Brewing Co., Ltd.",
+"Fusan",
+"synthetic wine, alcohol",
+"60"
+],
+[
+"Chosen Wooden Sta-tionary Mfg. Co.",
+"Fusan",
+"abacus",
+"6"
+],
+[
+"Inchon Casting Factory",
+"Inchon",
+"farming tools",
+"35"
+],
+[
+"Pal-Kok Airplane Co., Ltd.",
+"Taegu",
+"milling machinery",
+"150"
+],
+[
+"Wan-Ill Rice Cleaning Mill",
+"Inchon",
+"rice cleaning",
+"55"
+],
+[
+"Sam Hwa Wood Works",
+"Inchon",
+"shovel handles",
+"17"
+],
+[
+"Namsun Towel Industrial Co.",
+"Taegu",
+"towels",
+"50"
+],
+[
+"Taegu Silk Mill",
+"Taegu",
+"silk",
+"50"
+],
+[
+"Kyung-Book United Factory",
+"Taegu",
+"silk and cotton cloth",
+"35"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR of page 22 matched the image for all rows (names, locations, products, counts); the Tong-A Spinning Co. count (42) is in blurred type but read as 42; the first three rows are on page 21, which is not in the OCR file supplied.",
+"id": "K-06-p21-2"
+},
+{
+"r": "K-07",
+"p": 20,
+"pp": [
+20
+],
+"t": "[Cases pending during April in the Korean Courts Division]",
+"u": "cases",
+"pe": "April 1946",
+"src": "",
+"h": [
+[
+"Court",
+"Item",
+"Number"
+]
+],
+"rows": [
+[
+"Supreme Court",
+"Criminal cases pending",
+"21"
+],
+[
+"Supreme Court",
+"Civil cases tried",
+"2"
+],
+[
+"Supreme Court",
+"Civil cases pending",
+"30"
+],
+[
+"Courts of Review",
+"Criminal cases tried",
+"16"
+],
+[
+"Courts of Review",
+"Criminal cases pending",
+"104"
+],
+[
+"Courts of Review",
+"Civil cases pending",
+"24"
+],
+[
+"District and Branch Courts",
+"Criminal cases tried",
+"514"
+],
+[
+"District and Branch Courts",
+"Criminal cases pending",
+"1,007"
+],
+[
+"District and Branch Courts",
+"Civil cases tried",
+"142"
+],
+[
+"District and Branch Courts",
+"Civil cases pending",
+"1,211"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "No OCR text was inspected; the OCR file could not be cross-checked and the figures are read from the image.",
+"id": "K-07-p20"
+},
+{
+"r": "K-07",
+"p": 28,
+"pp": [
+28
+],
+"t": "[Status of repatriated Koreans on 28 April 1946]",
+"u": "persons",
+"pe": "1-28 April 1946 and to date (28 April 1946)",
+"src": "",
+"h": [
+[
+"Repatriated from",
+"Period 1-28 April",
+"To Date"
+]
+],
+"rows": [
+[
+"Japan",
+"40,974",
+"875,113"
+],
+[
+"Pacific Ocean areas",
+"1",
+"13,986"
+],
+[
+"Philippine Islands",
+"123",
+"1,295"
+],
+[
+"Formosa",
+"1,777",
+"3,449"
+],
+[
+"China",
+"1,715",
+"17,369"
+],
+[
+"Ryukyus",
+"0",
+"1,753"
+],
+[
+"Hongkong",
+"0",
+"287"
+],
+[
+"Hawaii",
+"0",
+"2,531"
+],
+[
+"Australian areas",
+"0",
+"2,513"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "No OCR text was inspected; the OCR file could not be cross-checked and the figures are read from the image.",
+"id": "K-07-p28"
+},
+{
+"r": "K-07",
+"p": 39,
+"pp": [
+39
+],
+"t": "Total standard gauge locomotives in South Korea",
+"u": "number of locomotives",
+"pe": "",
+"src": "",
+"h": [
+[
+"Locomotives",
+"Number"
+]
+],
+"rows": [
+[
+"Switch engines",
+"43"
+],
+[
+"Passenger engines",
+"262"
+],
+[
+"Freight engines",
+"167"
+],
+[
+"",
+"472"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "43 + 262 + 167 = 472; printed total 472 (unlabelled line); agrees.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-07-p39-1"
+},
+{
+"r": "K-07",
+"p": 39,
+"pp": [
+39
+],
+"t": "Total standard gauge rolling stock in South Korea",
+"u": "number of cars",
+"pe": "",
+"src": "",
+"h": [
+[
+"Rolling Stock",
+"Number"
+]
+],
+"rows": [
+[
+"Passenger cars",
+"1,060"
+],
+[
+"Freight cars",
+"8,466"
+],
+[
+"",
+"9,526"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "1,060 + 8,466 = 9,526; printed total 9,526 (unlabelled line); agrees. Freight cars figure is blurred in the scan but consistent with the printed total.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-07-p39-2"
+},
+{
+"r": "K-07",
+"p": 39,
+"pp": [
+39
+],
+"t": "Kilometers of trackage in South Korea",
+"u": "kilometers",
+"pe": "at present (April 1946)",
+"src": "",
+"h": [
+[
+"",
+"Government Owned",
+"Privately Owned",
+"Total"
+]
+],
+"rows": [
+[
+"Standard gauge",
+"2,074.0",
+"416.5",
+"2,490.5"
+],
+[
+"Narrow gauge",
+"86.7",
+"125.3",
+"212.0"
+],
+[
+"Total",
+"2,160.7",
+"541.8",
+"2,702.5"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Columns: 2,074.0+86.7=2,160.7; 416.5+125.3=541.8; 2,490.5+212.0=2,702.5, all agree. Rows: 2,074.0+416.5=2,490.5; 86.7+125.3=212.0; 2,160.7+541.8=2,702.5, all agree.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-07-p39-3"
+},
+{
+"r": "K-07",
+"p": 41,
+"pp": [
+41
+],
+"t": "Passenger train operations at Seoul, week ending 31 December 1945 and week ending 31 March 1946",
+"u": "trains; average lateness in hours and minutes",
+"pe": "weeks ending 31 Dec 1945 and 31 March 1946",
+"src": "",
+"h": [
+[
+"",
+"Week Ending 31 Dec 1945",
+"Week Ending 31 March 1946"
+]
+],
+"rows": [
+[
+"Passenger trains arriving in Seoul",
+"67",
+"77"
+],
+[
+"Trains arriving on time",
+"4",
+"20"
+],
+[
+"Average hours late",
+"3 hrs 24 min",
+"38 min"
+],
+[
+"Passenger trains departing Seoul",
+"71",
+"77"
+],
+[
+"Trains departing on time",
+"6",
+"53"
+],
+[
+"Average hours late",
+"2 hrs 2 min",
+"9 min"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-07-p41"
+},
+{
+"r": "K-07",
+"p": 45,
+"pp": [
+45
+],
+"t": "Typhus cases reported, February, March and 1-19 April, 1945 and 1946",
+"u": "cases",
+"pe": "February, March and 1-19 April, 1945 and 1946",
+"src": "",
+"h": [
+[
+"",
+"February",
+"March",
+"1-19 April"
+]
+],
+"rows": [
+[
+"1945",
+"153",
+"378",
+"136"
+],
+[
+"1946",
+"100",
+"191",
+"38"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-07-p45"
+},
+{
+"r": "K-09",
+"p": 59,
+"pp": [
+59
+],
+"t": "Official grain prices, 13 June",
+"u": "yen/kilogram",
+"pe": "13 June 1946 (effective date)",
+"src": "",
+"h": [
+[
+"Product",
+"Purchase Price Rough Grain (yen/kilogram)",
+"Selling Price Finished Product (yen/kilogram)"
+]
+],
+"rows": [
+[
+"Barley",
+"11.4",
+"11.3"
+],
+[
+"Barley (naked)",
+"12.4",
+"-"
+],
+[
+"Wheat",
+"15.0",
+"18.2 a/"
+],
+[
+"Rye",
+"12.7",
+"17.2 a/"
+]
+],
+"fn": [
+"a/ Flour"
+],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-09-p59"
+},
+{
+"r": "K-09",
+"p": 60,
+"pp": [
+60
+],
+"t": "Retail prices in 5 cities (medium prices used)",
+"u": "yen per unit shown (price in yen)",
+"pe": "June 1946 (Seoul 21 June, Pusan 26 June, Kwangju 14 June, Taegu 21 June, Taejon 8 June)",
+"src": "Commerce Bureau, Research Statistics Records Section.",
+"h": [
+[
+"Item",
+"Unit",
+"Seoul 21 June Price",
+"Pusan 26 June Price",
+"Kwangju 14 June Price",
+"Taegu 21 June Price",
+"Taejon 8 June Price"
+]
+],
+"rows": [
+[
+"Cleaned rice a/",
+"marl b/",
+"600.00",
+"1,025.00",
+"535.00",
+"677.50",
+"455.00"
+],
+[
+"Barley",
+"marl",
+"500.00",
+"675.00",
+"350.00",
+"470.00",
+"365.00"
+],
+[
+"Soy beans",
+"marl",
+"440.00",
+"550.00",
+"-",
+"490.00",
+"375.00"
+],
+[
+"Millet",
+"marl",
+"-",
+"650.00",
+"370.00",
+"-",
+"410.00"
+],
+[
+"Fresh fish",
+"100 mme c/",
+"9.00",
+"30.00",
+"-",
+"-",
+"42.50"
+],
+[
+"Salt",
+"doi d/",
+"45.00",
+"29.00",
+"-",
+"37.50",
+"32.50"
+],
+[
+"Potatoes",
+"keun e/",
+"5.00",
+"9.60",
+"4.25",
+"6.00",
+"5.50"
+],
+[
+"Sweet potatoes",
+"keun",
+"5.00",
+"10.40",
+"4.60",
+"-",
+"17.50"
+],
+[
+"Cotton cloth",
+"yd",
+"51.50",
+"50.00",
+"127.00",
+"62.50",
+"27.50"
+],
+[
+"Leather shoes",
+"pr",
+"550.00",
+"800.00",
+"735.00",
+"657.50",
+"775.00"
+],
+[
+"Rubber shoes",
+"pr",
+"85.00",
+"175.00",
+"97.50",
+"155.00",
+"95.00"
+],
+[
+"Charcoal",
+"bag",
+"45.00",
+"65.00",
+"45.00",
+"52.50",
+"32.50"
+],
+[
+"Laundry soap",
+"ea",
+"30.00",
+"20.00",
+"32.50",
+"34.00",
+"37.50"
+],
+[
+"Matches",
+"10 boxes",
+"80.00",
+"90.00",
+"100.00",
+"77.50",
+"90.00"
+],
+[
+"Electric light bulb, 40 watt",
+"ea",
+"60.00",
+"50.00",
+"67.50",
+"70.00",
+"90.00"
+]
+],
+"fn": [
+"a/ Black market prices of rice.",
+"b/ One marl equals 4.76 gallon.",
+"c/ 100 momme equals 0.375 kilogram.",
+"d/ One doi equals 0.476 gallon.",
+"e/ One keun equals 0.6 kilogram."
+],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image; dashes are printed dashes for no price.",
+"id": "K-09-p60"
+},
+{
+"r": "K-09",
+"p": 61,
+"pp": [
+61
+],
+"t": "Retail prices in 8 provinces (medium prices used)",
+"u": "yen per unit shown (price in yen)",
+"pe": "9-15 June 1946",
+"src": "Commerce Bureau, Research Statistics Records Section.",
+"h": [
+[
+"Item",
+"Unit",
+"Cholla-pukto Price 9-15 June",
+"Cholla-namdo Price 9-15 June",
+"Kyongsang-pukto Price 9-15 June",
+"Kyongsang-namdo Price 9-15 June",
+"Kyonggi-do Price 9-15 June",
+"Kangwon-do Price 9-15 June",
+"Chungchong-pukto Price 9-15 June",
+"Chungchong-namdo Price 9-15 June"
+]
+],
+"rows": [
+[
+"Cleaned rice a/",
+"marl b/",
+"425.00",
+"440.00",
+"",
+"",
+"525.00",
+"655.00",
+"570.00",
+"457.50"
+],
+[
+"Barley",
+"marl",
+"",
+"",
+"",
+"485.00",
+"",
+"",
+"480.00",
+""
+],
+[
+"Soy beans",
+"marl",
+"",
+"360.00",
+"",
+"510.00",
+"",
+"480.00",
+"",
+"375.00"
+],
+[
+"Millet",
+"marl",
+"",
+"370.00",
+"480.00",
+"",
+"390.00",
+"",
+"470.00",
+""
+],
+[
+"Fresh fish",
+"100 mms c/",
+"15.00",
+"25.00",
+"",
+"20.00",
+"18.50",
+"",
+"",
+""
+],
+[
+"Salt",
+"doi d/",
+"55.00",
+"35.00",
+"35.00",
+"",
+"",
+"",
+"25.00",
+"17.50"
+],
+[
+"Potatoes",
+"keun e/",
+"",
+"3.50",
+"11.00",
+"5.50",
+"",
+"15.00",
+"6.00",
+"7.50"
+],
+[
+"Sweet potatoes",
+"keun",
+"",
+"",
+"",
+"",
+"",
+"",
+"10.50",
+""
+],
+[
+"Cotton cloth",
+"yd",
+"75.00",
+"",
+"",
+"",
+"75.00",
+"75.00",
+"80.00",
+"60.00"
+],
+[
+"Leather shoes",
+"pr",
+"",
+"",
+"690.00",
+"700.00",
+"690.00",
+"740.00",
+"650.00",
+"650.00"
+],
+[
+"Rubber shoes",
+"pr",
+"100.00",
+"",
+"130.00",
+"105.00",
+"90.00",
+"90.00",
+"",
+""
+],
+[
+"Charcoal",
+"bag",
+"37.00",
+"45.00",
+"",
+"",
+"40.00",
+"35.00",
+"35.00",
+"35.00"
+],
+[
+"Laundry soap",
+"each",
+"30.00",
+"36.25",
+"30.00",
+"32.50",
+"25.00",
+"27.50",
+"30.00",
+"26.75"
+],
+[
+"Matches",
+"10 boxes",
+"85.00",
+"70.00",
+"70.00",
+"65.00",
+"60.00",
+"75.00",
+"50.00",
+"72.50"
+],
+[
+"Electric light bulb, 40 watt",
+"each",
+"85.00",
+"67.50",
+"55.00",
+"60.00",
+"77.50",
+"110.00",
+"65.00",
+"77.50"
+]
+],
+"fn": [
+"a/ Black market prices of rice.",
+"b/ One marl equals 4.76 gallons.",
+"c/ 100 momme equal 0.375 kilograms.",
+"d/ One doi equals 0.476 gallons.",
+"e/ One keun equals 0.6 kilograms."
+],
+"unr": [
+"Page 61 image is very low resolution; every cell left blank below is either too blurred to read or my reading disagreed with the OCR. Cells not listed here but blank (Potatoes Cholla-pukto aside) are blank in the original: Barley Cholla-pukto; Potatoes Kyonggi-do; Sweet potatoes Kyonggi-do and Kangwon-do.",
+"Cleaned rice: Kyongsang-pukto, Kyongsang-namdo",
+"Barley: Cholla-namdo, Kyongsang-pukto, Kyonggi-do, Kangwon-do, Chungchong-namdo",
+"Soy beans: Cholla-pukto, Kyongsang-pukto, Kyonggi-do, Chungchong-pukto",
+"Millet: Cholla-namdo/Kyongsang-namdo/Kangwon-do/Chungchong-namdo (Kyongsang-namdo, Kangwon-do and Chungchong-namdo illegible)",
+"Fresh fish: Kyongsang-pukto, Kangwon-do, Chungchong-pukto, Chungchong-namdo",
+"Salt: Kyongsang-namdo, Kyonggi-do, Kangwon-do",
+"Potatoes: Cholla-pukto",
+"Sweet potatoes: Cholla-pukto, Cholla-namdo, Kyongsang-pukto, Kyongsang-namdo, Chungchong-namdo",
+"Cotton cloth: Cholla-namdo, Kyongsang-pukto, Kyongsang-namdo",
+"Leather shoes: Cholla-pukto, Cholla-namdo",
+"Rubber shoes: Cholla-namdo, Chungchong-pukto, Chungchong-namdo",
+"Charcoal: Kyongsang-pukto, Kyongsang-namdo"
+],
+"tot": "No total printed.",
+"w": [
+"Page 61 scan is very low resolution; many cells left blank rather than guessed. Millet Cholla-namdo (370.00) and Kyongsang-pukto (480.00) entered as read, but the row is uncertain in parts."
+],
+"oc": "OCR was garbled (item names, headers misread) and its digits disagreed with the image in many cells (e.g. Cleaned rice Kyongsang-namdo 385.50 vs 587.50, Salt Kangwon 20.00 vs 29.00); only cells where image and OCR agreed or the image was clear were kept.",
+"id": "K-09-p61"
+},
+{
+"r": "K-09",
+"p": 63,
+"pp": [
+63
+],
+"t": "Increases in living costs",
+"u": "yen per month (average family expenditures); percent",
+"pe": "Korea 1937; Chungchong-namdo April 1946; Seoul May 1946",
+"src": "Department of Public Health and Welfare, Bureau of Research and Analysis.",
+"h": [
+[
+"",
+"Average family expenditures (yen/month)",
+"Average family expenditures (yen/month)",
+"Average family expenditures (yen/month)",
+"Percent of total expenditures",
+"Percent of total expenditures",
+"Percent of total expenditures",
+"Increase over 1937 (percent)",
+"Increase over 1937 (percent)"
+],
+[
+"",
+"Korea 1937 a/",
+"Chungchong-namdo Apr 46",
+"Seoul May 46",
+"Korea 1937 a/",
+"Chungchong-namdo Apr 46",
+"Seoul May 46",
+"Chungchong-namdo Apr 46",
+"Seoul May 46"
+]
+],
+"rows": [
+[
+"Food",
+"21",
+"2,362",
+"3,763",
+"52.5",
+"71.9",
+"66.4",
+"11,147",
+"17,819"
+],
+[
+"Fuel",
+"4",
+"216",
+"467",
+"10.0",
+"6.6",
+"8.2",
+"5,300",
+"11,575"
+],
+[
+"Rent",
+"6",
+"38",
+"99",
+"15.0",
+"1.2",
+"1.8",
+"533",
+"1,550"
+],
+[
+"Clothing",
+"4",
+"207",
+"418",
+"10.0",
+"6.3",
+"7.4",
+"5,075",
+"10,350"
+],
+[
+"Other",
+"5",
+"461",
+"919",
+"12.5",
+"14.0",
+"16.2",
+"9,130",
+"18,280"
+],
+[
+"Total",
+"40",
+"3,284",
+"5,666",
+"100.0",
+"100.0",
+"100.0",
+"8,110",
+"14,065"
+]
+],
+"fn": [
+"a/ Based on a report of cost of living by the United States Consulate in Seoul, 1937. Assumes an average worker's family of five."
+],
+"unr": [],
+"tot": "Column sums vs printed Total row: Korea 1937 21+4+6+4+5=40 (printed 40, agree); Chungchong-namdo yen 2,362+216+38+207+461=3,284 (agree); Seoul yen 3,763+467+99+418+919=5,666 (agree); percent columns 52.5+10.0+15.0+10.0+12.5=100.0, 71.9+6.6+1.2+6.3+14.0=100.0, 66.4+8.2+1.8+7.4+16.2=100.0 (all agree). The two 'Increase over 1937' columns are ratios and not summable; the Total row is not a sum of the rows.",
+"w": [
+"Other, Chungchong-namdo increase: read as 9,130 on the image (OCR read 9,120); recomputing (461-5)/5 would give 9,120, but transcribed as printed/seen."
+],
+"oc": "OCR matched except Other/Chungchong-namdo increase (OCR read 9,120; image appears to read 9,130).",
+"id": "K-09-p63"
+},
+{
+"r": "K-09",
+"p": 70,
+"pp": [
+70
+],
+"t": "Annual purchases",
+"u": "keun (one keun equals 1.32 pounds)",
+"pe": "1941-1945",
+"src": "Monopoly Bureau.",
+"h": [
+[
+"Year",
+"Amount harvested",
+"Government purchase",
+"Association purchase b/"
+]
+],
+"rows": [
+[
+"1941",
+"568,793",
+"157,220",
+"411,573"
+],
+[
+"1942",
+"575,688",
+"156,504",
+"419,184"
+],
+[
+"1943",
+"613,821",
+"182,799",
+"431,022"
+],
+[
+"1944",
+"553,055",
+"188,196",
+"364,859"
+],
+[
+"1945",
+"594,804",
+"177,674",
+"417,130"
+]
+],
+"fn": [
+"a/ One keun equals 1.32 pounds.",
+"b/ Purchased by Kaesong Ginseng Cultivators' Association."
+],
+"unr": [],
+"tot": "No total row printed. Check Government + Association vs Amount harvested: 1941 157,220+411,573=568,793 (agree); 1942 156,504+419,184=575,688 (agree); 1943 182,799+431,022=613,821 (agree); 1944 188,196+364,859=553,055 (agree); 1945 177,674+417,130=594,804 (agree).",
+"w": [],
+"oc": "OCR matched except 1944 Amount harvested (OCR read 653,055; image reads 553,055, which agrees with the sum).",
+"id": "K-09-p70"
+},
+{
+"r": "K-09",
+"p": 79,
+"pp": [
+78,
+79
+],
+"t": "[Midwives who passed the Midwife Qualification Examinations, by province]",
+"u": "number of midwives",
+"pe": "",
+"src": "",
+"h": [
+[
+"Province",
+"Number passed"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"41"
+],
+[
+"Kyongsang-namdo",
+"7"
+],
+[
+"Kyongsang-pukto",
+"8"
+],
+[
+"Kangwon-do",
+"5"
+],
+[
+"Cholla-namdo",
+"2"
+],
+[
+"Cholla-pukto",
+"14"
+],
+[
+"Total",
+"77"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "41+7+8+5+2+14=77; printed total 77; agree (also matches '77 passed' in paragraph 25). Table has no printed column headings; it is introduced at the foot of page 78 ('Their representation by provinces follows'). Blank lines between rows are spacing only.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-09-p79"
+},
+{
+"r": "K-09",
+"p": 80,
+"pp": [
+80
+],
+"t": "[Dentist licenses issued up to 25 May, by province]",
+"u": "licenses",
+"pe": "up to 25 May 1946",
+"src": "",
+"h": [
+[
+"Province",
+"Licenses"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"255 a/"
+],
+[
+"Kyongsang-pukto",
+"35"
+],
+[
+"Kyongsang-namdo",
+"33"
+],
+[
+"Cholla-pukto",
+"21"
+],
+[
+"Chungchong-namdo",
+"19"
+],
+[
+"Kangwon-do",
+"16"
+],
+[
+"Chungchong-pukto",
+"9"
+],
+[
+"Hwanghae-do",
+"5"
+],
+[
+"Cholla-namdo",
+"5"
+],
+[
+"Total",
+"398"
+]
+],
+"fn": [
+"a/ 204 of these are located in Seoul."
+],
+"unr": [],
+"tot": "255+35+33+21+19+16+9+5+5=398; printed total 398; agree.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-09-p80"
+},
+{
+"r": "K-10",
+"p": 41,
+"pp": [
+41
+],
+"t": "June coal production in Kyongsang-pukto",
+"u": "metric tons",
+"pe": "June 1946",
+"src": "",
+"h": [
+[
+"Mine",
+"Production (metric tons)"
+]
+],
+"rows": [
+[
+"Bung Sung",
+"2,254"
+],
+[
+"Kyong Ju",
+"1,002"
+],
+[
+"Ulsan",
+"1,128"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [
+"First letter of 'Bung Sung' is smudged in the scan (could be Sung Sung); read as Bung."
+],
+"oc": "OCR matched except first mine name (OCR read 'Sung Sung').",
+"id": "K-10-p41"
+},
+{
+"r": "K-10",
+"p": 49,
+"pp": [
+49,
+50
+],
+"t": "Imports (principal items, January-September 1939 and 1940)",
+"u": "thousands of yen",
+"pe": "January-September 1939 and 1940",
+"src": "",
+"h": [
+[
+"Item",
+"1939",
+"1940"
+]
+],
+"rows": [
+[
+"Barley and rye",
+"1,288",
+"20,988"
+],
+[
+"German millet",
+"17,351",
+"15,114"
+],
+[
+"Millet",
+"2,025",
+"5,679"
+],
+[
+"Soya beans",
+"7,828",
+"22,528"
+],
+[
+"Sugar",
+"10,197",
+"9,321"
+],
+[
+"Vegetables",
+"9,389",
+"16,119"
+],
+[
+"Fruits",
+"7,610",
+"15,172"
+],
+[
+"Fresh and dried fish",
+"6,093",
+"7,868"
+],
+[
+"Ginned cotton",
+"7,879",
+"6,440"
+],
+[
+"Raw silk",
+"12,509",
+"6,849"
+],
+[
+"Woolen tissues",
+"17,144",
+"11,671"
+],
+[
+"Silk tissues",
+"25,435",
+"44,288"
+],
+[
+"Carried forward",
+"124,748",
+"182,037"
+],
+[
+"Rayon tissues",
+"22,280",
+"8,060"
+],
+[
+"Staple fiber tissues",
+"24,650",
+"15,967"
+],
+[
+"Clothes",
+"16,251",
+"16,910"
+],
+[
+"Papers",
+"17,244",
+"20,213"
+],
+[
+"Coal",
+"27,570",
+"38,311"
+],
+[
+"Coke",
+"6,447",
+"7,930"
+],
+[
+"Ceramics",
+"8,666",
+"10,358"
+],
+[
+"Nails",
+"7,249",
+"7,119"
+],
+[
+"Electric wire",
+"6,085",
+"7,570"
+],
+[
+"Machinery",
+"101,721",
+"129,276"
+],
+[
+"Fertilizer",
+"21,279",
+"19,737"
+],
+[
+"Others",
+"623,298",
+"712,633"
+],
+[
+"Total",
+"1,007,488",
+"1,176,121"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Carried forward: sum of the 12 items on page 49 = 124,748 (1939) and 182,037 (1940); both agree with printed. Total: carried forward plus the 13 items on page 50 = 1,007,488 (1939) and 1,176,121 (1940); both agree with printed totals.",
+"w": [],
+"oc": "OCR text for page 49 not checked against page 50 (not in OCR file); page 49 figures read directly from image.",
+"id": "K-10-p49-1"
+},
+{
+"r": "K-10",
+"p": 49,
+"pp": [
+49,
+50
+],
+"t": "Exports (principal items, January-September 1939 and 1940)",
+"u": "thousands of yen",
+"pe": "January-September 1939 and 1940",
+"src": "",
+"h": [
+[
+"Item",
+"1939",
+"1940"
+]
+],
+"rows": [
+[
+"Beef",
+"7,697",
+"8,449"
+],
+[
+"Rice",
+"139,765",
+"9,079"
+],
+[
+"Beans",
+"16,653",
+"29,793"
+],
+[
+"Fresh fish",
+"7,471",
+"10,715"
+],
+[
+"Dried fish",
+"5,340",
+"9,444"
+],
+[
+"Dried laver",
+"8,976",
+"15,849"
+],
+[
+"Other marine products",
+"7,226",
+"11,594"
+],
+[
+"Soap",
+"6,645",
+"5,709"
+],
+[
+"Carbide",
+"2,446",
+"6,251"
+],
+[
+"Glycerine",
+"2,465",
+"6,251"
+],
+[
+"Ginned cotton",
+"9,145",
+"15,078"
+],
+[
+"Raw milk",
+"13,217",
+"21,201"
+],
+[
+"Cotton tissues",
+"10,482",
+"5,523"
+],
+[
+"Rayon tissues",
+"9,393",
+"5,217"
+],
+[
+"Pulp",
+"7,030",
+"6,891"
+],
+[
+"Coal",
+"9,000",
+"17,067"
+],
+[
+"Fish powder",
+"7,202",
+"14,157"
+],
+[
+"Fertilizer",
+"35,966",
+"38,393"
+],
+[
+"Others",
+"443,588",
+"464,187"
+],
+[
+"Total",
+"749,707",
+"700,848"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Sum of the 19 items = 749,707 (1939) and 700,848 (1940); both agree with printed totals.",
+"w": [
+"'Raw milk' is as it appears in the scan; probably 'Raw silk' misprinted or smudged. Not corrected."
+],
+"oc": "Page 50 not in the OCR file; read from image only.",
+"id": "K-10-p49-2"
+},
+{
+"r": "K-10",
+"p": 49,
+"pp": [
+49,
+50
+],
+"t": "Imports (principal items, January-September 1939 and 1940)",
+"u": "thousands of yen",
+"pe": "January-September 1939 and 1940",
+"src": "",
+"h": [
+[
+"Item",
+"1939",
+"1940"
+]
+],
+"rows": [
+[
+"Barley and rye",
+"1,288",
+"20,988"
+],
+[
+"German millet",
+"17,351",
+"15,114"
+],
+[
+"Millet",
+"2,025",
+"5,679"
+],
+[
+"Soya beans",
+"7,828",
+"22,528"
+],
+[
+"Sugar",
+"10,197",
+"9,321"
+],
+[
+"Vegetables",
+"9,389",
+"16,119"
+],
+[
+"Fruits",
+"7,610",
+"15,172"
+],
+[
+"Fresh and dried fish",
+"6,093",
+"7,868"
+],
+[
+"Ginned cotton",
+"7,879",
+"6,440"
+],
+[
+"Raw silk",
+"12,509",
+"6,849"
+],
+[
+"Woolen tissues",
+"17,144",
+"11,671"
+],
+[
+"Silk tissues",
+"25,435",
+"44,288"
+],
+[
+"Carried forward",
+"124,748",
+"182,037"
+],
+[
+"Rayon tissues",
+"22,280",
+"8,060"
+],
+[
+"Staple fiber tissues",
+"24,650",
+"15,967"
+],
+[
+"Clothes",
+"16,251",
+"16,910"
+],
+[
+"Papers",
+"17,244",
+"20,213"
+],
+[
+"Coal",
+"27,570",
+"38,311"
+],
+[
+"Coke",
+"6,447",
+"7,930"
+],
+[
+"Ceramics",
+"8,666",
+"10,358"
+],
+[
+"Nails",
+"7,249",
+"7,119"
+],
+[
+"Electric wire",
+"6,085",
+"7,570"
+],
+[
+"Machinery",
+"101,721",
+"129,276"
+],
+[
+"Fertilizer",
+"21,279",
+"19,737"
+],
+[
+"Others",
+"623,298",
+"712,633"
+],
+[
+"Total",
+"1,007,488",
+"1,176,121"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Items above 'Carried forward' sum to 124,748 (1939) and 182,037 (1940), agreeing with the printed figures. Carried forward plus the items below it sum to 1,007,488 (1939) and 1,176,121 (1940), agreeing with the printed totals.",
+"w": [],
+"oc": "OCR (page 50 only; page 49 portion absent from the OCR file) matched the image for page 50 rows. Table is split across pages 49 and 50 with 'Carried forward' as a printed subtotal row; the table has no printed title (the heading 'IMPORTS' is on page 49).",
+"id": "K-10-p49-3"
+},
+{
+"r": "K-10",
+"p": 50,
+"pp": [
+50
+],
+"t": "Exports (principal items, January-September 1939 and 1940)",
+"u": "thousands of yen",
+"pe": "January-September 1939 and 1940",
+"src": "",
+"h": [
+[
+"Item",
+"1939",
+"1940"
+]
+],
+"rows": [
+[
+"Beef",
+"7,697",
+"8,449"
+],
+[
+"Rice",
+"139,765",
+"9,079"
+],
+[
+"Beans",
+"16,653",
+"29,793"
+],
+[
+"Fresh fish",
+"7,471",
+"10,715"
+],
+[
+"Dried fish",
+"5,340",
+"9,444"
+],
+[
+"Dried laver",
+"8,976",
+"15,849"
+],
+[
+"Other marine products",
+"7,226",
+"11,594"
+],
+[
+"Soap",
+"6,645",
+"5,709"
+],
+[
+"Carbide",
+"2,446",
+"6,251"
+],
+[
+"Glycerine",
+"2,465",
+"6,251"
+],
+[
+"Ginned cotton",
+"9,145",
+"15,078"
+],
+[
+"Raw milk",
+"13,217",
+"21,201"
+],
+[
+"Cotton tissues",
+"10,482",
+"5,523"
+],
+[
+"Rayon tissues",
+"9,393",
+"5,217"
+],
+[
+"Pulp",
+"7,030",
+"6,891"
+],
+[
+"Coal",
+"9,000",
+"17,067"
+],
+[
+"Fish powder",
+"7,202",
+"14,157"
+],
+[
+"Fertilizer",
+"35,966",
+"38,393"
+],
+[
+"Others",
+"443,588",
+"464,187"
+],
+[
+"Total",
+"749,707",
+"700,848"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Sum of the 19 items: 749,707 (1939) and 700,848 (1940); both agree with the printed totals.",
+"w": [],
+"oc": "OCR matched except it read 'Haw milk' for 'Raw milk'.",
+"id": "K-10-p50-1"
+},
+{
+"r": "K-10",
+"p": 50,
+"pp": [
+50,
+51
+],
+"t": "Imports from Japan",
+"u": "as given in Unit column",
+"pe": "June 1946, 1-15 July 1946, and January-15 July 1946",
+"src": "",
+"h": [
+[
+"Commodity",
+"Unit",
+"Shipments 1946",
+"Shipments 1946",
+"Shipments 1946"
+],
+[
+"Commodity",
+"Unit",
+"June",
+"1-15 July",
+"Jan-15 July"
+]
+],
+"rows": [
+[
+"Alcohol, industrial",
+"drum",
+"10",
+"",
+"10"
+],
+[
+"Aluminum sulfate",
+"MT",
+"634",
+"126",
+"1,269"
+],
+[
+"Apparatus, electrical",
+"MT",
+"",
+"10",
+"10"
+],
+[
+"Bamboo",
+"bdl",
+"42,846",
+"",
+"63,634"
+],
+[
+"Bicycle parts",
+"cs",
+"",
+"937",
+"937"
+],
+[
+"Calcium carbonate",
+"Meas T",
+"130",
+"",
+"130"
+],
+[
+"Cars, motor",
+"ea",
+"2",
+"",
+"2"
+],
+[
+"Chlorine liquid",
+"MT",
+"",
+"",
+"12"
+],
+[
+"Cloth",
+"",
+"",
+"",
+""
+],
+[
+"  Cotton",
+"sq yd",
+"",
+"981,795",
+"981,795"
+],
+[
+"  Silk",
+"sq yd",
+"",
+"148,715",
+"148,715"
+],
+[
+"  Wool",
+"lin yd",
+"",
+"26,000",
+"26,000"
+],
+[
+"Coal",
+"MT",
+"70,000",
+"17,500",
+"408,869"
+],
+[
+"Cutouts, outdoor",
+"ea",
+"50",
+"",
+"50"
+],
+[
+"Cutters, cloth",
+"set",
+"3",
+"",
+"3"
+],
+[
+"Film, X-ray",
+"sheet",
+"8,016",
+"",
+"8,016"
+],
+[
+"Headlights",
+"cs",
+"",
+"16",
+"16"
+],
+[
+"Ink, printing",
+"lb",
+"800",
+"",
+"800"
+],
+[
+"Lamp, electric",
+"cs",
+"",
+"37",
+"37"
+],
+[
+"Magnesium carbonate",
+"MT",
+"",
+"",
+"30"
+],
+[
+"Needles, cutting",
+"pc",
+"",
+"",
+"500"
+],
+[
+"Paper, cigarette",
+"lb",
+"130,134",
+"",
+"395,818"
+],
+[
+"Pitch",
+"MT",
+"",
+"",
+"18,426"
+],
+[
+"Poles, telephone",
+"pc",
+"",
+"3,000",
+"3,000"
+],
+[
+"Pyrethrum flowers",
+"MT",
+"",
+"",
+"85"
+],
+[
+"Salt",
+"MT",
+"",
+"",
+"4,000"
+],
+[
+"Seeds, vegetable",
+"kg",
+"32,750",
+"",
+"32,750"
+],
+[
+"Seeds, mulberry",
+"lb",
+"",
+"",
+"3,000"
+],
+[
+"Seedlings, mulberry",
+"pc",
+"",
+"",
+"910,000"
+],
+[
+"Soda ash (sodium carbonate)",
+"MT",
+"",
+"",
+"60"
+],
+[
+"Soda sulfate (Glauber salt)",
+"Meas T",
+"5.6",
+"",
+"5.6"
+],
+[
+"Sodium amide",
+"kg",
+"",
+"",
+"100"
+],
+[
+"Sodium bicarbonate",
+"MT",
+"",
+"",
+"5"
+],
+[
+"Sulfur",
+"MT",
+"510",
+"",
+"510"
+],
+[
+"Transportation equipment",
+"",
+"",
+"",
+""
+],
+[
+"  Locomotives",
+"",
+"",
+"",
+""
+],
+[
+"    Electric",
+"ea",
+"",
+"",
+"1"
+],
+[
+"    Gasoline",
+"ea",
+"",
+"",
+"5"
+],
+[
+"    Steam",
+"ea",
+"",
+"2",
+"3"
+],
+[
+"  Locomotive tender",
+"ea",
+"",
+"",
+"2"
+],
+[
+"  Locomotive parts",
+"",
+"",
+"",
+""
+],
+[
+"    Frame, main",
+"set",
+"",
+"",
+"6"
+],
+[
+"    Motor, electric",
+"ea",
+"6",
+"",
+"6"
+],
+[
+"    Motor accessories",
+"ea",
+"1",
+"",
+"1"
+],
+[
+"  Tender",
+"ea",
+"2",
+"",
+"2"
+],
+[
+"  Tender frame",
+"ea",
+"2",
+"",
+"2"
+],
+[
+"  Tender truck",
+"ea",
+"1",
+"",
+"1"
+],
+[
+"  Tires, locomotive",
+"pr",
+"292",
+"",
+"292"
+],
+[
+"  Truck, leading",
+"ea",
+"1",
+"",
+"1"
+],
+[
+"  Tubes, boiler",
+"lb",
+"",
+"",
+"10,897"
+],
+[
+"  Wheel and axle",
+"pr",
+"80",
+"",
+"80"
+],
+[
+"  Switch system parts",
+"box",
+"",
+"",
+"28"
+]
+],
+"fn": [
+"The salt listed above was actually shipped from China, but as it was diverted from quantities originally scheduled for Japan it is considered an import from Japan."
+],
+"unr": [],
+"tot": "No totals printed. Spot check: Jan-15 July for rows with both June and 1-15 July entries (Aluminum sulfate 634+126=760 vs 1,269; Coal 70,000+17,500=87,500 vs 408,869) is cumulative from January so not expected to equal the sum.",
+"w": [],
+"oc": "OCR matched the image; blank cells are blank in the original. Nesting indentation of the Transportation equipment rows is inferred from the printed indentation (the 'Locomotive parts' and 'Tender' sub-levels are slightly ambiguous). Pitch Jan-15 July first digit has a small stray mark in the image; read as 18,426.",
+"id": "K-10-p50-2"
+},
+{
+"r": "K-10",
+"p": 54,
+"pp": [
+54,
+55
+],
+"t": "Price ceilings on consumer goods, effective 15 July",
+"u": "yen",
+"pe": "effective 15 July 1946",
+"src": "National Price Administration.",
+"h": [
+[
+"Article",
+"Ceiling Price (yen)"
+]
+],
+"rows": [
+[
+"Tennis shoes and rubber shoes",
+""
+],
+[
+"  Men's",
+"45"
+],
+[
+"  Women's",
+"35"
+],
+[
+"  Children's",
+"30"
+],
+[
+"Zikatabi shoes",
+""
+],
+[
+"  White",
+"55"
+],
+[
+"  Black",
+"60"
+],
+[
+"Cotton cloth (yard)",
+""
+],
+[
+"  Shirting",
+"30"
+],
+[
+"  Sheeting",
+"33"
+],
+[
+"Light twill",
+"38"
+],
+[
+"Heavy twill",
+"40"
+],
+[
+"Mixed cotton and hemp cloth",
+"28"
+],
+[
+"Cotton socks (pair)",
+""
+],
+[
+"  White",
+"9"
+],
+[
+"  Colored",
+"10"
+],
+[
+"Soap",
+""
+],
+[
+"  Laundry (13 ounce bar)",
+"12"
+],
+[
+"  Toilet (4 ounce bar)",
+"9"
+],
+[
+"Electric light bulbs",
+""
+],
+[
+"  30 watts and smaller",
+"30"
+],
+[
+"  40-60 watts",
+"40"
+],
+[
+"  Over 60 watts",
+"- a/"
+],
+[
+"Matches",
+""
+],
+[
+"  Small box",
+"2"
+],
+[
+"  Large box",
+"15"
+],
+[
+"Bicycles tires",
+""
+],
+[
+"  26 inch",
+"160"
+],
+[
+"  28 inch",
+"175"
+],
+[
+"Bicycles tubes",
+""
+],
+[
+"  26 inch",
+"50"
+],
+[
+"  28 inch",
+"60"
+]
+],
+"fn": [
+"a/ Electric light bulbs of more than 60 watts will sell for ¥ 1 per watt."
+],
+"unr": [],
+"tot": "No totals printed.",
+"w": [],
+"oc": "OCR matched. Light twill, Heavy twill and Mixed cotton and hemp cloth are printed at the same indent as 'Cotton cloth (yard)', so are not indented here; blank cells on group heading rows are blank in the original. Table continues from page 54 to page 55 with the header repeated.",
+"id": "K-10-p54"
+},
+{
+"r": "K-10",
+"p": 56,
+"pp": [
+56
+],
+"t": "Retail prices on 5 cities (medium prices used)",
+"u": "yen",
+"pe": "22-26 July 1946 (dates per city in header)",
+"src": "Commerce Bureau, Research Statistics Records Section.",
+"h": [
+[
+"Item",
+"Unit",
+"Seoul 26 July",
+"Pusan 24 July",
+"Taejon 22 July",
+"Kwangju 25 July",
+"Taegu 26 July"
+]
+],
+"rows": [
+[
+"Cleaned rice a/",
+"marl b/",
+"950.00",
+"1,250.00",
+"740.00",
+"845.00",
+"800.00"
+],
+[
+"Barley",
+"marl",
+"700.00",
+"775.00",
+"520.00",
+"365.00",
+"580.00"
+],
+[
+"Soy beans",
+"marl",
+"600.00",
+"625.00",
+"400.00",
+"840.00",
+"450.00 c/"
+],
+[
+"Millet",
+"marl",
+"-",
+"700.00",
+"-",
+"-",
+"-"
+],
+[
+"Fresh fish",
+"100 momme d/",
+"-",
+"22.50",
+"-",
+"90.00 e/",
+"-"
+],
+[
+"Salt",
+"doi f/",
+"55.00",
+"32.50",
+"15.00",
+"52.50",
+"30.00"
+],
+[
+"Potatoes",
+"keun g/",
+"6.00",
+"13.60",
+"4.50",
+"2.75",
+"7.20"
+],
+[
+"Sweet potatoes",
+"keun",
+"7.00",
+"13.60",
+"-",
+"-",
+"-"
+],
+[
+"Cotton cloth",
+"yd",
+"70.00 h/",
+"60.00",
+"72.50 h/",
+"117.00",
+"45.00"
+],
+[
+"Leather shoes",
+"pr",
+"500.00",
+"750.00",
+"575.00",
+"750.00",
+"750.00"
+],
+[
+"Rubber shoes",
+"pr",
+"85.00 h/",
+"140.00",
+"92.00 h/",
+"102.70",
+"140.00"
+],
+[
+"Charcoal",
+"bag",
+"75.00",
+"70.00",
+"60.00",
+"-",
+"75.00"
+],
+[
+"Laundry soap",
+"ea",
+"-",
+"22.50",
+"32.50 h/",
+"30.00",
+"35.00"
+],
+[
+"Matches",
+"10 boxes",
+"90.00 h/",
+"90.00",
+"100.00 h/",
+"110.00",
+"95.00"
+],
+[
+"Electric light bulb, 40 watt",
+"ea",
+"40.00",
+"100.00",
+"135.00 h/",
+"87.50",
+""
+]
+],
+"fn": [
+"a/ Black market prices of rice.",
+"b/ One marl equals 4.76 gallons.",
+"c/ Price on 19 July.",
+"d/ 100 momme equals 0.375 kilogram.",
+"e/ Price on 29 June.",
+"f/ One doi equals 0.476 gallon.",
+"g/ One keun equals 0.6 kilogram.",
+"h/ Price on 12 July."
+],
+"unr": [],
+"tot": "No totals printed.",
+"w": [],
+"oc": "OCR matched the figures but misread the footnote letters (e/, f/, g/, h/ in the OCR mapped to the wrong notes) and wrote 'mme' for 'momme' in the unit; Taegu electric light bulb is blank in the original. Seoul bulb price '40.00' has a small blot in the image but reads 40.00.",
+"id": "K-10-p56-1"
+},
+{
+"r": "K-10",
+"p": 56,
+"pp": [
+56
+],
+"t": "Retail prices in 5 provinces (medium price used), 14-20 July",
+"u": "yen",
+"pe": "14-20 July 1946",
+"src": "Commerce Bureau, Research Statistics Records Section.",
+"h": [
+[
+"Item",
+"Unit",
+"Kyonggi-do",
+"Kangwon-do",
+"Chungchon-pukto",
+"Chungchong-namdo",
+"Cholla-pukto",
+"Cholla-namdo f/",
+"Kyongsang-pukto",
+"Kyongsang-namdo"
+]
+],
+"rows": [
+[
+"Cleaned rice a/",
+"marl b/",
+"860.00",
+"780.00",
+"800.00",
+"680.00",
+"555.00",
+"400.00",
+"532.50",
+"790.00"
+],
+[
+"Barley",
+"marl",
+"645.00",
+"460.00",
+"490.00",
+"365.00",
+"340.00",
+"280.00",
+"312.50",
+"500.00"
+],
+[
+"Soy beans",
+"marl",
+"500.00",
+"532.00",
+"455.00",
+"400.00",
+"450.00",
+"300.00",
+"337.50",
+"560.00"
+],
+[
+"Millet",
+"marl",
+"-",
+"500.00",
+"390.00",
+"350.00",
+"-",
+"300.00",
+"250.00",
+"380.00"
+],
+[
+"Fresh fish",
+"100 momme c/",
+"12.00",
+"65.00",
+"15.50",
+"35.00",
+"-",
+"20.00",
+"10.00",
+"40.00"
+],
+[
+"Salt",
+"doi d/",
+"32.50",
+"16.00",
+"31.00",
+"21.00",
+"55.00",
+"17.00",
+"35.00",
+""
+],
+[
+"Potatoes",
+"keun e/",
+"6.00",
+"6.80",
+"4.65",
+"4.00",
+"6.00",
+"6.40",
+"6.00",
+"6.70"
+],
+[
+"Sweet potatoes",
+"keun",
+"6.15",
+"14.00",
+"7.05",
+"5.00",
+"-",
+"-",
+"-",
+"-"
+],
+[
+"Cotton cloth",
+"yard",
+"67.50",
+"80.00",
+"64.00",
+"62.50",
+"75.50",
+"60.00",
+"60.00",
+"65.00"
+],
+[
+"Leather shoes",
+"pair",
+"612.50",
+"700.00",
+"600.00",
+"700.00",
+"850.00",
+"825.00",
+"700.00",
+"775.00"
+],
+[
+"Rubber shoes",
+"pair",
+"80.00",
+"97.50",
+"95.00",
+"115.00",
+"92.50",
+"100.00",
+"119.00",
+"107.50"
+],
+[
+"Charcoal",
+"bag",
+"60.00",
+"30.00",
+"32.50",
+"50.00",
+"57.50",
+"75.00",
+"52.50",
+"34.00"
+],
+[
+"Laundry soap",
+"each",
+"30.00",
+"30.00",
+"25.00",
+"30.00",
+"30.00",
+"32.00",
+"35.00",
+"30.00"
+],
+[
+"Matches",
+"10 boxes",
+"70.00",
+"85.00",
+"100.00",
+"90.00",
+"110.00",
+"120.00",
+"110.00",
+"70.00"
+],
+[
+"Electric light bulb, 40 watt",
+"each",
+"80.00",
+"100.00",
+"60.00",
+"85.00",
+"100.00",
+"190.00",
+"95.00",
+"60.00"
+]
+],
+"fn": [
+"a/ Black market prices of rice.",
+"b/ One marl equals 4.76 gallons.",
+"c/ 100 momme equals 0.375 kilogram.",
+"d/ One doi equals 0.476 gallon.",
+"e/ One keun equals 0.6 kilogram.",
+"f/ 30 June - 6 July."
+],
+"unr": [
+"row 'Salt', column 'Kyongsang-namdo': print is blotted and the digits are not clearly legible (OCR read 55.00)",
+"row 'Fresh fish', column 'Kyongsang-namdo': print blotted; read as 40.00 with low confidence",
+"row 'Cleaned rice', column 'Kyongsang-namdo': small print; read as 790.00 with moderate confidence"
+],
+"tot": "No totals printed.",
+"w": [],
+"oc": "OCR matched the image except for blotted Kyongsang-namdo column cells, and it spelled 'Chungcheon' and 'Kyongsang' differently; the image is small-print and a few cells in the last column are smudged. The title is printed '5 PROVINCES' although eight province columns appear (the report text speaks of eight provinces).",
+"id": "K-10-p56-2"
+},
+{
+"r": "K-10",
+"p": 65,
+"pp": [
+65
+],
+"t": "Number of Japanese repatriated to Japan by weeks",
+"u": "number of Japanese",
+"pe": "weeks ending 26 May to 28 July 1946",
+"src": "",
+"h": [
+[
+"Week Ending",
+"Number of Japanese Refugees from the North",
+"Number of Japanese from the South"
+]
+],
+"rows": [
+[
+"26 May",
+"10,771",
+"0"
+],
+[
+"2 June",
+"11,738",
+"168"
+],
+[
+"9 June",
+"11,252",
+"0"
+],
+[
+"16 June",
+"8,646",
+"158"
+],
+[
+"23 June",
+"12,437",
+"0"
+],
+[
+"30 June",
+"7,336",
+"85"
+],
+[
+"7 July",
+"1,273",
+"0"
+],
+[
+"14 July",
+"1,239",
+"34"
+],
+[
+"21 July",
+"2,287",
+"0"
+],
+[
+"28 July",
+"1,998",
+"68"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image in every cell.",
+"id": "K-10-p65"
+},
+{
+"r": "K-10",
+"p": 70,
+"pp": [
+70
+],
+"t": "School attendance in South Korea at the end of May",
+"u": "",
+"pe": "end of May 1946",
+"src": "",
+"h": [
+[
+"Type of School",
+"Attendance"
+]
+],
+"rows": [
+[
+"Elementary",
+"1,613,826"
+],
+[
+"Secondary",
+"99,308"
+],
+[
+"Higher schools",
+"10,315"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image in every cell.",
+"id": "K-10-p70"
+},
+{
+"r": "K-12-econ",
+"p": 7,
+"pp": [
+7
+],
+"t": "Fisheries production",
+"u": "metric tons",
+"pe": "July and August 1946",
+"src": "",
+"h": [
+[
+"Province",
+"July",
+"August"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"198",
+"380"
+],
+[
+"Chungchong-namdo",
+"-",
+"-"
+],
+[
+"Kangwon-do",
+"836",
+"118"
+],
+[
+"Kyongsang-pukto",
+"160",
+"342"
+],
+[
+"Kyongsang-namdo",
+"-",
+"-"
+],
+[
+"Cholla-pukto",
+"210",
+"128"
+],
+[
+"Cholla-namdo",
+"2,197",
+"-"
+],
+[
+"Total",
+"3,601",
+"968"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "July: 198+836+160+210+2,197 = 3,601, printed 3,601, agrees. August: 380+118+342+128 = 968, printed 968, agrees.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-12-econ-p7-1"
+},
+{
+"r": "K-12-econ",
+"p": 7,
+"pp": [
+7
+],
+"t": "Export of fisheries products to China",
+"u": "kilograms",
+"pe": "April through August 1946",
+"src": "",
+"h": [
+[
+"Product",
+"April",
+"May",
+"June",
+"July",
+"August",
+"Total"
+]
+],
+"rows": [
+[
+"Sea slug",
+"300",
+"3,400",
+"2,900",
+"-",
+"1,200",
+"7,800"
+],
+[
+"Shark fins",
+"100",
+"7,400",
+"-",
+"1,400",
+"-",
+"8,900"
+],
+[
+"Agar-agar",
+"-",
+"2,200",
+"7,500",
+"-",
+"3,100",
+"12,800"
+],
+[
+"Dried laver",
+"-",
+"300",
+"-",
+"-",
+"-",
+"300"
+],
+[
+"Abalone",
+"-",
+"100",
+"2,400",
+"-",
+"-",
+"2,500"
+],
+[
+"Shrimp",
+"-",
+"900",
+"100",
+"2,400",
+"-",
+"3,400"
+],
+[
+"Dried fish",
+"-",
+"200",
+"-",
+"-",
+"-",
+"200"
+],
+[
+"Trepang",
+"-",
+"-",
+"-",
+"8,500",
+"-",
+"8,500"
+],
+[
+"Herring roe",
+"-",
+"-",
+"-",
+"300",
+"-",
+"300"
+],
+[
+"Total",
+"400",
+"14,500",
+"12,900",
+"12,600",
+"4,300",
+"44,700"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Row totals: all nine products sum correctly to their printed totals (e.g. sea slug 300+3,400+2,900+1,200 = 7,800). Column totals: April 400, May 14,500, June 12,900, July 12,600, August 4,300 all agree with the sums of the rows. Grand total 7,800+8,900+12,800+300+2,500+3,400+200+8,500+300 = 44,700, printed 44,700, agrees (also matches 44,700 kg in the text).",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-12-econ-p7-2"
+},
+{
+"r": "K-12-econ",
+"p": 9,
+"pp": [
+9
+],
+"t": "Yearly agar-agar production capacity",
+"u": "kilograms (Factories column is a count)",
+"pe": "",
+"src": "",
+"h": [
+[
+"Province",
+"Fine",
+"Angle",
+"Drugs",
+"Deposited",
+"Factories"
+]
+],
+"rows": [
+[
+"Kyongsang-pukto",
+"44,436",
+"1,350",
+"-",
+"-",
+"5"
+],
+[
+"Kyongsang-namdo",
+"221,866",
+"210",
+"180",
+"1,440",
+"18"
+],
+[
+"Cholla-pukto",
+"9,960",
+"-",
+"72",
+"-",
+"1"
+],
+[
+"Cholla-namdo",
+"82,800",
+"3,600",
+"-",
+"-",
+"3"
+],
+[
+"Total",
+"359,062",
+"5,160",
+"252",
+"1,440",
+"27"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Fine 44,436+221,866+9,960+82,800 = 359,062, agrees. Angle 1,350+210+3,600 = 5,160, agrees. Drugs 180+72 = 252, agrees. Deposited 1,440, agrees. Factories 5+18+1+3 = 27, agrees.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-12-econ-p9-1"
+},
+{
+"r": "K-12-econ",
+"p": 9,
+"pp": [
+9
+],
+"t": "Fishing vessels in South Korea",
+"u": "number of vessels",
+"pe": "August 1946",
+"src": "",
+"h": [
+[
+"Province",
+"Sail boats",
+"Fishing",
+"Transport"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"974",
+"56",
+"64"
+],
+[
+"Chungchong-namdo",
+"264",
+"38",
+"22"
+],
+[
+"Cholla-namdo",
+"17,145",
+"267",
+"73"
+],
+[
+"Kyongsang-pukto",
+"2,391",
+"305",
+"36"
+],
+[
+"Kyongsang-namdo",
+"9,647",
+"966",
+"218"
+],
+[
+"Kangwon-do",
+"1,531",
+"99",
+"23"
+],
+[
+"Hwanghae-do",
+"1,275",
+"17",
+"81"
+],
+[
+"Total",
+"33,227",
+"1,748",
+"517"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Sail boats 974+264+17,145+2,391+9,647+1,531+1,275 = 33,227, agrees. Fishing 56+38+267+305+966+99+17 = 1,748, agrees. Transport 64+22+73+36+218+23+81 = 517, agrees.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-12-econ-p9-2"
+},
+{
+"r": "K-12-econ",
+"p": 9,
+"pp": [
+9
+],
+"t": "[Fishing licenses issued and disposed of by the Bureau of Fisheries, April to August]",
+"u": "licenses",
+"pe": "April to August 1946",
+"src": "",
+"h": [
+[
+"Type of license",
+"Number"
+]
+],
+"rows": [
+[
+"Dragnet",
+"168"
+],
+[
+"Diving",
+"204"
+],
+[
+"Whaling",
+"4"
+],
+[
+"Purse, seine mackerel",
+"27"
+],
+[
+"Total",
+"403"
+],
+[
+"Japanese licenses disposed of",
+"218"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "168+204+4+27 = 403, printed 403, agrees. The 218 Japanese licenses line is printed separately below the total and is not part of it.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-12-econ-p9-3"
+},
+{
+"r": "K-12-econ",
+"p": 11,
+"pp": [
+11,
+12
+],
+"t": "Estimated annual mineral needs",
+"u": "metric tons",
+"pe": "",
+"src": "",
+"h": [
+[
+"Mineral",
+"Metric tons"
+]
+],
+"rows": [
+[
+"Copper",
+"2,000"
+],
+[
+"Lead",
+"2,000"
+],
+[
+"Zinc",
+"2,000"
+],
+[
+"Tungsten",
+"30"
+],
+[
+"Molybdenum",
+"-"
+],
+[
+"Nickel",
+"60"
+],
+[
+"Cobalt",
+"5"
+],
+[
+"Pyrite",
+"12,000"
+],
+[
+"Arratite",
+"20,000"
+],
+[
+"Alumite",
+"20,000"
+],
+[
+"Refractory clay",
+"10,000"
+],
+[
+"Barite",
+"200"
+],
+[
+"Antimony",
+"60"
+],
+[
+"Manganese",
+"500"
+],
+[
+"Asbestos",
+"2,000"
+],
+[
+"Fluorite",
+"200"
+],
+[
+"Graphite",
+""
+],
+[
+"  Crystalline",
+"500"
+],
+[
+"  Amorphous",
+"7,000"
+],
+[
+"Mica",
+"120"
+],
+[
+"Kaolin",
+"3,000"
+],
+[
+"Talc",
+"200"
+],
+[
+"Arsenic",
+"10"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched the image; table splits across pages 11 and 12. The Graphite heading row has a blank figure in the original.",
+"id": "K-12-econ-p11"
+},
+{
+"r": "K-12-econ",
+"p": 16,
+"pp": [
+16
+],
+"t": "Additions to railway facilities",
+"u": "yen",
+"pe": "",
+"src": "SOURCE: USAMGIK.",
+"h": [
+[
+"",
+"Labor Cost",
+"Material Cost",
+"Total"
+]
+],
+"rows": [
+[
+"Track construction (1,500 feet)",
+"10,000",
+"48,000",
+"58,000"
+],
+[
+"Platform extensions",
+"20,000",
+"5,000",
+"25,000"
+],
+[
+"Electrification (75,440 feet)",
+"204,000",
+"430,000",
+"634,000"
+],
+[
+"Total",
+"234,000",
+"483,000",
+"717,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Labor 10,000+20,000+204,000 = 234,000, agrees. Material 48,000+5,000+430,000 = 483,000, agrees. Total 58,000+25,000+634,000 = 717,000, agrees; each row's labor+material equals its printed total.",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-12-econ-p16"
+},
+{
+"r": "K-12-econ",
+"p": 22,
+"pp": [
+22
+],
+"t": "Labor unions and membership",
+"u": "number of unions and members",
+"pe": "May",
+"src": "",
+"h": [
+[
+"Industry",
+"Unions",
+"Office Workers",
+"Office Workers",
+"Laborers",
+"Laborers",
+"Total Membership"
+],
+[
+"",
+"",
+"Male",
+"Female",
+"Male",
+"Female",
+""
+]
+],
+"rows": [
+[
+"Metallurgy",
+"17",
+"112",
+"4",
+"823",
+"41",
+"980"
+],
+[
+"Machine and tools",
+"65",
+"435",
+"18",
+"8,040",
+"120",
+"8,613"
+],
+[
+"Chemicals",
+"27",
+"276",
+"30",
+"3,323",
+"1,618",
+"5,247"
+],
+[
+"Public Utilities",
+"1",
+"50",
+"-",
+"280",
+"-",
+"330"
+],
+[
+"Ceramics",
+"6",
+"20",
+"-",
+"223",
+"38",
+"281"
+],
+[
+"Textiles",
+"38",
+"202",
+"16",
+"1,971",
+"4,396",
+"6,585"
+],
+[
+"Lumber and woodworking",
+"6",
+"20",
+"1",
+"441",
+"46",
+"508"
+],
+[
+"Food processing",
+"6",
+"24",
+"-",
+"584",
+"39",
+"647"
+],
+[
+"Printing and binding",
+"19",
+"7",
+"-",
+"378",
+"23",
+"408"
+],
+[
+"Other manufacturing",
+"3",
+"9",
+"-",
+"109",
+"106",
+"224"
+],
+[
+"Mining",
+"3",
+"67",
+"4",
+"2,008",
+"-",
+"2,079"
+],
+[
+"Fisheries",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-"
+],
+[
+"Transportation",
+"20",
+"130",
+"21",
+"2,849",
+"39",
+"3,039"
+],
+[
+"Communication",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-"
+],
+[
+"Public works",
+"8",
+"71",
+"-",
+"2,429",
+"43",
+"2,543"
+],
+[
+"Medical and hygienic",
+"1",
+"-",
+"-",
+"98",
+"2",
+"100"
+],
+[
+"Commercial",
+"-",
+"-",
+"-",
+"-",
+"-",
+"-"
+],
+[
+"General Labor",
+"12",
+"94",
+"-",
+"7,392",
+"15",
+"7,501"
+],
+[
+"United labor union",
+"7",
+"9",
+"-",
+"2,906",
+"265",
+"3,180"
+],
+[
+"Total",
+"239",
+"1,526",
+"94",
+"33,854",
+"6,791",
+"42,265"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Each row's Total Membership equals office male + office female + laborers male + laborers female for all 19 industries (agree). Column sums of the 19 industry rows: Unions 239, office male 1,526, office female 94, laborers male 33,854, laborers female 6,791, total membership 42,265; all agree with the printed Total row.",
+"w": [],
+"oc": "OCR matched the image on every cell.",
+"id": "K-12-econ-p22"
+},
+{
+"r": "K-12-econ",
+"p": 23,
+"pp": [
+23
+],
+"t": "Industrial employment statistics",
+"u": "factories and employees",
+"pe": "June",
+"src": "",
+"h": [
+[
+"Number of Employees",
+"Operating",
+"Idle",
+"Total"
+]
+],
+"rows": [
+[
+"5 - 50",
+"",
+"",
+""
+],
+[
+"  Factories",
+"452",
+"143",
+"595"
+],
+[
+"  Employees",
+"8,532",
+"1,770",
+"10,302"
+],
+[
+"51 - 100",
+"",
+"",
+""
+],
+[
+"  Factories",
+"72",
+"4",
+"76"
+],
+[
+"  Employees",
+"4,996",
+"285",
+"5,281"
+],
+[
+"101 - 150",
+"",
+"",
+""
+],
+[
+"  Factories",
+"22",
+"2",
+"24"
+],
+[
+"  Employees",
+"2,721",
+"209",
+"2,930"
+],
+[
+"151 - 200",
+"",
+"",
+""
+],
+[
+"  Factories",
+"22",
+"1",
+"23"
+],
+[
+"  Employees",
+"3,838",
+"188",
+"4,026"
+],
+[
+"201 - 250",
+"",
+"",
+""
+],
+[
+"  Factories",
+"6",
+"-",
+"6"
+],
+[
+"  Employees",
+"1,373",
+"-",
+"1,373"
+],
+[
+"251 - over",
+"",
+"",
+""
+],
+[
+"  Factories",
+"21",
+"1",
+"22"
+],
+[
+"  Employees",
+"13,826",
+"500",
+"14,326"
+],
+[
+"Total",
+"",
+"",
+""
+],
+[
+"  Factories",
+"595",
+"151",
+"746"
+],
+[
+"  Employees",
+"35,286",
+"2,952",
+"38,238"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Factories: operating 452+72+22+22+6+21=595, idle 143+4+2+1+0+1=151, total 595+76+24+23+6+22=746; all agree with printed Total. Employees: operating 35,286, idle 2,952, total 38,238 by summing the size classes; all agree. Operating + idle equals total in every row. Blank cells in the size-class heading rows are blank in the original.",
+"w": [],
+"oc": "OCR matched the image on every cell.",
+"id": "K-12-econ-p23-1"
+},
+{
+"r": "K-12-econ",
+"p": 23,
+"pp": [
+23
+],
+"t": "Reported average daily wage by industries",
+"u": "yen (average wage); number of factories and workers",
+"pe": "May",
+"src": "",
+"h": [
+[
+"",
+"Chemical",
+"Textile",
+"Food",
+"Machinery and Electrical",
+"Lumber",
+"Total"
+]
+],
+"rows": [
+[
+"Number of factories",
+"133",
+"235",
+"273",
+"178",
+"75",
+"894"
+],
+[
+"Skilled workers",
+"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Number",
+"2,382",
+"6,215",
+"1,967",
+"2,917",
+"470",
+"13,951"
+],
+[
+"  Average wage",
+"93",
+"49",
+"52",
+"69",
+"59",
+"61.4"
+],
+[
+"Unskilled workers",
+"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Number",
+"3,734",
+"17,458",
+"2,916",
+"4,064",
+"727",
+"28,899"
+],
+[
+"  Average wage",
+"51",
+"31",
+"34",
+"41",
+"38",
+"35.5"
+],
+[
+"Office workers",
+"",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Number",
+"854",
+"1,414",
+"940",
+"1,075",
+"236",
+"4,519"
+],
+[
+"  Average wage",
+"61",
+"47",
+"41",
+"50",
+"51",
+"49.3"
+],
+[
+"Total workers",
+"6,970",
+"25,087",
+"5,823",
+"8,056",
+"1,433",
+"47,369"
+],
+[
+"Average wage",
+"66.6",
+"36.4",
+"41.2",
+"52.3",
+"47.0",
+"44.4"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Factories 133+235+273+178+75=894 (agrees). Skilled 13,951, unskilled 28,899, office 4,519 each agree with the sum of the five industries. Total workers per industry (skilled+unskilled+office) agree for all five columns (6,970; 25,087; 5,823; 8,056; 1,433) and sum to 47,369 (agrees). Average wages not re-derived except Chemical total-worker average (weighted, about 66.6, agrees). Blank cells in group heading rows are blank in the original.",
+"w": [],
+"oc": "OCR matched the image on every cell.",
+"id": "K-12-econ-p23-2"
+},
+{
+"r": "K-12-econ",
+"p": 24,
+"pp": [
+24
+],
+"t": "Exports to Japan",
+"u": "as given in the Unit column (lb = pounds; MT = metric tons)",
+"pe": "January-July, August, September and January-September 1946",
+"src": "",
+"h": [
+[
+"",
+"Unit",
+"January-July",
+"August a/",
+"September",
+"January-September"
+]
+],
+"rows": [
+[
+"Fish, fresh",
+"lb",
+"421,696",
+"72,189",
+"84,321",
+"578,206"
+],
+[
+"Fluorite",
+"MT",
+"-",
+"-",
+"386",
+"386"
+],
+[
+"Graphite",
+"MT",
+"-",
+"1,800",
+"-",
+"1,800"
+],
+[
+"Talc",
+"MT",
+"-",
+"-",
+"593",
+"593"
+]
+],
+"fn": [
+"a/ Revised."
+],
+"unr": [],
+"tot": "Row check January-July + August + September = January-September: fish 421,696+72,189+84,321=578,206 (agrees); fluorite, graphite, talc agree.",
+"w": [],
+"oc": "OCR matched the image on every cell.",
+"id": "K-12-econ-p24-1"
+},
+{
+"r": "K-12-econ",
+"p": 24,
+"pp": [
+24,
+25,
+26
+],
+"t": "Imports from Japan",
+"u": "as given in the Unit column (gal, MT = metric tons, lb, cc, kg, piece, case, sheet, meas tons, each, km, pkg, set/pc, sq yd, pr, set, pair)",
+"pe": "January-July, August, September and January-September 1946",
+"src": "",
+"h": [
+[
+"",
+"Unit",
+"January-July",
+"August a/",
+"September b/",
+"January-September"
+]
+],
+"rows": [
+[
+"Alcohol, industrial",
+"gal",
+"528",
+"-",
+"-",
+"528"
+],
+[
+"Aluminum sulfate",
+"MT",
+"907",
+"445",
+"33",
+"1,385"
+],
+[
+"Arsenic acid",
+"MT",
+"-",
+"-",
+"1",
+"1"
+],
+[
+"Asphalt",
+"MT",
+"-",
+"10",
+"-",
+"10"
+],
+[
+"Bromine",
+"MT",
+"-",
+"-",
+"10",
+"10"
+],
+[
+"Butyl acetate",
+"MT",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"Calcium carbonate",
+"MT",
+"254",
+"175",
+"20",
+"449"
+],
+[
+"Chlorine, liquid",
+"MT",
+"12",
+"-",
+"-",
+"12"
+],
+[
+"Cholera vaccine",
+"cc",
+"10,000,000",
+"-",
+"-",
+"10,000,000"
+],
+[
+"Gypsum",
+"MT",
+"579",
+"-",
+"-",
+"579"
+],
+[
+"Hydrochloric acid",
+"lb",
+"26,455",
+"661",
+"30,038",
+"57,154"
+],
+[
+"Ink, printing",
+"lb",
+"800",
+"-",
+"-",
+"800"
+],
+[
+"Magnesium carbonate",
+"MT",
+"30",
+"-",
+"-",
+"30"
+],
+[
+"Mercury",
+"MT",
+"-",
+"5",
+"-",
+"5"
+],
+[
+"Methanol",
+"MT",
+"-",
+"-",
+"4",
+"4"
+],
+[
+"Oil, peppermint",
+"gal",
+"-",
+"45",
+"-",
+"45"
+],
+[
+"Phosphorus pentachloride",
+"MT",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"Pyrethrum flowers",
+"MT",
+"85",
+"-",
+"-",
+"85"
+],
+[
+"Sodium amide",
+"kg",
+"100",
+"-",
+"-",
+"100"
+],
+[
+"Sodium bicarbonate",
+"MT",
+"5",
+"-",
+"-",
+"5"
+],
+[
+"Sodium, carbonate",
+"MT",
+"75",
+"-",
+"-",
+"75"
+],
+[
+"Sodium sulfate (glauber salt)",
+"MT",
+"3",
+"-",
+"-",
+"3"
+],
+[
+"Sulfur",
+"MT",
+"548",
+"1,928",
+"-",
+"2,476"
+],
+[
+"Urea",
+"MT",
+"-",
+"-",
+"1",
+"1"
+],
+[
+"Bamboo",
+"MT",
+"2,018",
+"973",
+"-",
+"2,991"
+],
+[
+"Coal",
+"MT",
+"403,460",
+"57,951",
+"50,093",
+"511,504"
+],
+[
+"Iron pyrite",
+"MT",
+"-",
+"5,910",
+"4,019",
+"9,929"
+],
+[
+"Paper, cigarette",
+"lb",
+"396,879",
+"196,770",
+"-",
+"593,649"
+],
+[
+"Pitch",
+"MT",
+"8,426",
+"-",
+"301",
+"8,727"
+],
+[
+"Salt",
+"MT",
+"4,000",
+"-",
+"-",
+"4,000"
+],
+[
+"Seedlings, mulberry",
+"piece",
+"910,000",
+"-",
+"-",
+"910,000"
+],
+[
+"Seeds, mulberry",
+"lb",
+"3,000",
+"-",
+"-",
+"3,000"
+],
+[
+"Seeds, vegetable",
+"lb",
+"72,200",
+"-",
+"-",
+"72,200"
+],
+[
+"Apparatus, electric",
+"MT",
+"10",
+"-",
+"-",
+"10"
+],
+[
+"Bicycle parts",
+"case",
+"938",
+"-",
+"-",
+"938"
+],
+[
+"Blanket, rubber",
+"sheet",
+"-",
+"-",
+"5",
+"5"
+],
+[
+"Communications equipment",
+"meas tons",
+"95",
+"136",
+"12",
+"243"
+],
+[
+"Cutter, cloth",
+"each",
+"3",
+"-",
+"-",
+"3"
+],
+[
+"Filaments, tungsten",
+"piece",
+"-",
+"200,084",
+"-",
+"200,084"
+],
+[
+"Film, X-ray",
+"sheet",
+"8,016",
+"-",
+"-",
+"8,016"
+],
+[
+"Fuses, blasting",
+"km",
+"2,000",
+"-",
+"-",
+"2,000"
+],
+[
+"Instruments, meteorological",
+"kg",
+"4,341",
+"-",
+"-",
+"4,341"
+],
+[
+"Knife blades, paper cutting",
+"each",
+"-",
+"10",
+"-",
+"10"
+],
+[
+"Needles, record cutting",
+"piece",
+"500",
+"-",
+"-",
+"500"
+],
+[
+"Phonograph recording discs",
+"piece",
+"-",
+"-",
+"300",
+"300"
+],
+[
+"Photograph supplies",
+"pkg",
+"12",
+"-",
+"-",
+"12"
+],
+[
+"Spare parts, automotive",
+"pkg",
+"-",
+"6,499",
+"1,433",
+"7,932"
+],
+[
+"Tools, hand and machine",
+"lb",
+"3,440",
+"189",
+"-",
+"3,629"
+],
+[
+"Clothing, navy uniforms and clothing accessories",
+"set/pc",
+"71,100",
+"8,460",
+"-",
+"79,560"
+],
+[
+"Cloth, cotton",
+"sq yd",
+"981,796",
+"-",
+"-",
+"981,796"
+],
+[
+"Cloth, silk",
+"sq yd",
+"148,716",
+"-",
+"-",
+"148,716"
+],
+[
+"Serge, wool",
+"sq yd",
+"190,854",
+"59,473",
+"-",
+"250,327"
+],
+[
+"Yarn, cotton",
+"lb",
+"-",
+"20,000",
+"39,000",
+"59,000"
+],
+[
+"Car, motor",
+"each",
+"2",
+"-",
+"-",
+"2"
+],
+[
+"Locomotive, electric",
+"each",
+"1",
+"1",
+"1",
+"3"
+],
+[
+"Locomotive, gasoline",
+"each",
+"5",
+"-",
+"-",
+"5"
+],
+[
+"Locomotive, steam",
+"each",
+"3",
+"-",
+"3",
+"6"
+],
+[
+"Locomotive and tender",
+"each",
+"2",
+"-",
+"-",
+"2"
+],
+[
+"Locomotive parts and accessories:",
+"",
+"",
+"",
+"",
+""
+],
+[
+"  Air brakes",
+"piece",
+"-",
+"264",
+"-",
+"264"
+],
+[
+"  Boiler for steam locomotive",
+"set",
+"-",
+"4",
+"-",
+"4"
+],
+[
+"  Frame, main",
+"each",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"  Motor, electric, and accessories",
+"set of 6 motors",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"  Supplementary accessories",
+"set",
+"-",
+"2",
+"-",
+"2"
+],
+[
+"  Tender, frame",
+"set",
+"2",
+"-",
+"-",
+"2"
+],
+[
+"  Tender truck",
+"set",
+"2",
+"-",
+"-",
+"2"
+],
+[
+"  Tires, steel locomotive",
+"pr",
+"292",
+"-",
+"-",
+"292"
+],
+[
+"  Truck, leading",
+"each",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"  Truck, trailing",
+"each",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"  Tubes, boiler",
+"lb",
+"19,019",
+"10,461",
+"-",
+"29,480"
+],
+[
+"  Valves",
+"piece",
+"-",
+"15",
+"-",
+"15"
+],
+[
+"  Water tank",
+"set",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"  Wheels, driving",
+"set",
+"1",
+"-",
+"-",
+"1"
+],
+[
+"  Wheels and axles",
+"pair",
+"80",
+"-",
+"-",
+"80"
+]
+],
+"fn": [
+"a/ Revised.",
+"b/ Preliminary figures."
+],
+"unr": [],
+"tot": "No column totals printed (mixed units). Row check January-July + August + September = January-September holds for every row, including aluminum sulfate 907+445+33=1,385; calcium carbonate 254+175+20=449; hydrochloric acid 26,455+661+30,038=57,154; coal 403,460+57,951+50,093=511,504; paper 396,879+196,770=593,649; communications equipment 95+136+12=243; spare parts 6,499+1,433=7,932; clothing 71,100+8,460=79,560; serge 190,854+59,473=250,327; yarn 20,000+39,000=59,000; steam locomotive 3+3=6; boiler tubes 19,019+10,461=29,480.",
+"w": [],
+"oc": "OCR matched the image except that it omitted the printed 'Locomotive parts and accessories:' sub-heading position nuance; all figures matched. The table is printed across three pages (24, 25, 26) with the column header repeated on each, merged here into one table. On page 25 the August figure for communications equipment (136) has a small ink blot over it but is legible and agrees with the row total.",
+"id": "K-12-econ-p24-2"
+},
+{
+"r": "K-12-econ",
+"p": 31,
+"pp": [
+31
+],
+"t": "Distribution of controlled commodities",
+"u": "as given in the Unit column (yard, pair, box, each, ton, pyong, keun, pound)",
+"pe": "September 1946; July-September 1946 (third quarter)",
+"src": "USAMGIK.",
+"h": [
+[
+"Item",
+"Unit",
+"September",
+"July-September Total"
+]
+],
+"rows": [
+[
+"Cotton cloth",
+"yard",
+"931,895",
+"3,182,046"
+],
+[
+"Silk cloth",
+"yard",
+"364,905",
+"364,905"
+],
+[
+"Mixed cloth",
+"yard",
+"127,537",
+"127,537"
+],
+[
+"Rayon cloth",
+"yard",
+"52,387",
+"52,387"
+],
+[
+"Socks, cotton, men's",
+"pair",
+"-",
+"1,114,244"
+],
+[
+"Rubber shoes",
+"",
+"",
+""
+],
+[
+"  Men's",
+"pair",
+"-",
+"182,876"
+],
+[
+"  Women's",
+"pair",
+"-",
+"1,245,649"
+],
+[
+"  Children's",
+"pair",
+"-",
+"69,906"
+],
+[
+"Sport shoes, rubber and canvas",
+"",
+"",
+""
+],
+[
+"  Large",
+"pair",
+"-",
+"89,486"
+],
+[
+"  Medium",
+"pair",
+"-",
+"31,564"
+],
+[
+"  Small",
+"pair",
+"-",
+"12,269"
+],
+[
+"Work shoes, rubber and canvas",
+"pair",
+"-",
+"50,845"
+],
+[
+"Matches, large box",
+"box",
+"198,400",
+"539,200"
+],
+[
+"Matches, small box",
+"box",
+"6,940,800",
+"8,046,520"
+],
+[
+"Soap, toilet",
+"each",
+"12,600",
+"74,008"
+],
+[
+"Soap, laundry",
+"each",
+"1,339,926",
+"2,983,166"
+],
+[
+"Cement",
+"ton",
+"2,165",
+"2,165"
+],
+[
+"Upper leather",
+"pyong a/",
+"48,000",
+"66,000"
+],
+[
+"Inner leather",
+"pyong",
+"20,000",
+"20,000"
+],
+[
+"Sole leather",
+"keun b/",
+"57,000",
+"69,000"
+],
+[
+"Paper, machine-made",
+"pound",
+"600,000",
+"600,000"
+]
+],
+"fn": [
+"a/ One pyong is about 4 square yards.",
+"b/ One keun is 1.3 pounds."
+],
+"unr": [],
+"tot": "No totals printed; the July-September Total column is a printed quarterly figure per item, not a sum of rows (units differ).",
+"w": [],
+"oc": "OCR matched the image in every cell.",
+"id": "K-12-econ-p31"
+},
+{
+"r": "K-19",
+"p": 44,
+"pp": [
+44
+],
+"t": "Provincial livestock population, April 1946",
+"u": "head",
+"pe": "April 1946",
+"src": "",
+"h": [
+[
+"Province",
+"Cattle",
+"Pigs",
+"Horses",
+"Goats",
+"Sheep",
+"Mules",
+"Poultry"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"88,382",
+"14,952",
+"4,610",
+"194",
+"921",
+"14",
+"267,818"
+],
+[
+"Kangwon-do",
+"62,027",
+"3,655",
+"186",
+"196",
+"311",
+"7",
+"181,551"
+],
+[
+"Chungchong-pukto",
+"40,018",
+"10,892",
+"365",
+"1,643",
+"222",
+"4",
+"61,180"
+],
+[
+"Chungchong-namdo",
+"43,324",
+"9,841",
+"2,221",
+"4,071",
+"355",
+"2",
+"130,900"
+],
+[
+"Kyongsang-pukto",
+"176,829",
+"43,602",
+"3,122",
+"8,810",
+"1,404",
+"17",
+"239,033"
+],
+[
+"Kyongsang-namdo",
+"111,002",
+"30,701",
+"1,337",
+"7,097",
+"243",
+"5",
+"141,950"
+],
+[
+"Cholla-pukto",
+"32,625",
+"18,616",
+"3,794",
+"3,951",
+"282",
+"-",
+"140,768"
+],
+[
+"Cholla-namdo",
+"57,772",
+"29,707",
+"5,803",
+"3,236",
+"180",
+"-",
+"212,811"
+],
+[
+"Cheju-do",
+"25,106",
+"33,305",
+"12,695",
+"63",
+"183",
+"-",
+"40,378"
+],
+[
+"Total",
+"637,085",
+"195,271",
+"34,142",
+"29,261",
+"4,101",
+"49",
+"1,516,389"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Summed each column over the nine provinces. Cattle 637,085 = printed 637,085 (agree). Pigs 195,271 = 195,271 (agree). Horses 34,133 vs printed 34,142 (disagree by 9). Goats 29,261 = 29,261 (agree). Sheep 4,101 = 4,101 (agree). Mules 49 = 49 (agree). Poultry 1,416,389 vs printed 1,516,389 (disagree by 100,000).",
+"w": [
+"Horses column: sum of provinces 34,133 but printed total 34,142.",
+"Poultry column: sum of provinces 1,416,389 but printed total 1,516,389 (the text of paragraph 7 also gives 1,516,389)."
+],
+"oc": "OCR matched every cell I read in the image.",
+"id": "K-19-p44-1"
+},
+{
+"r": "K-19",
+"p": 44,
+"pp": [
+44
+],
+"t": "Processed marine products, February",
+"u": "pounds (laver in bundles; mackerel and miscellaneous seafood in cans)",
+"pe": "February",
+"src": "Bureau of Fisheries.",
+"h": [
+[
+"Product",
+"Quantity"
+]
+],
+"rows": [
+[
+"Dried sardines",
+"8,712"
+],
+[
+"Shrimp",
+"6,354"
+],
+[
+"Dried sea slugs",
+"4,514"
+],
+[
+"Dried cuttlefish",
+"3,718"
+],
+[
+"Shark fins",
+"2,390"
+],
+[
+"Dried seaweed",
+"1,062"
+],
+[
+"Total",
+"26,750"
+],
+[
+"Dried laver (bundles) a/",
+"39,960"
+],
+[
+"Mackerel (cans)",
+"1,104"
+],
+[
+"Miscellaneous seafood (cans)",
+"23,808"
+]
+],
+"fn": [
+"a/ One bundle equals 100 sheets."
+],
+"unr": [],
+"tot": "Summed the six items above the total (8,712 + 6,354 + 4,514 + 3,718 + 2,390 + 1,062) = 26,750; printed total 26,750 (agree). The last three rows are not included in the total.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p44-2"
+},
+{
+"r": "K-19",
+"p": 45,
+"pp": [
+45
+],
+"t": "Forest areas in South Korea",
+"u": "hectares",
+"pe": "January 1947",
+"src": "Bureau of Forestry.",
+"h": [
+[
+"Province",
+"Hectares"
+]
+],
+"rows": [
+[
+"Kangwon-do",
+"2,153,549.898"
+],
+[
+"Kyongsang-pukto",
+"1,367,332.041"
+],
+[
+"Cholla-namdo",
+"873,227.931"
+],
+[
+"Kyongsang-namdo",
+"835,409.147"
+],
+[
+"Kyonggi-do",
+"762,377.239"
+],
+[
+"Cholla-pukto",
+"541,442.286"
+],
+[
+"Chungchong-pukto",
+"532,910.429"
+],
+[
+"Chungchong-namdo",
+"493,509.210"
+],
+[
+"Total",
+"7,559,758.181"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Summed the eight provinces = 7,559,758.181; printed total 7,559,758.181 (agree).",
+"w": [],
+"oc": "OCR matched. The period (January) is taken from the text line 'Forest area in January totaled 7,559,758 hectares'.",
+"id": "K-19-p45-1"
+},
+{
+"r": "K-19",
+"p": 45,
+"pp": [
+45
+],
+"t": "March coal production",
+"u": "metric tons",
+"pe": "March (1947)",
+"src": "Bureau of Mining.",
+"h": [
+[
+"Mine",
+"Quota",
+"Mined",
+"Stockpiles"
+]
+],
+"rows": [
+[
+"Samchok",
+"15,000",
+"13,219",
+"235,225"
+],
+[
+"Whasun",
+"8,000",
+"7,593",
+"48,038"
+],
+[
+"Eunsung",
+"3,000",
+"3,046",
+"35,849"
+],
+[
+"Tanyang",
+"3,000",
+"2,411",
+"24,462"
+],
+[
+"Munkyung",
+"500",
+"607",
+"3,080"
+],
+[
+"Total",
+"29,500",
+"26,876",
+"346,654"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Quota 15,000+8,000+3,000+3,000+500 = 29,500 (agree). Mined 13,219+7,593+3,046+2,411+607 = 26,876 (agree). Stockpiles 235,225+48,038+35,849+24,462+3,080 = 346,654 (agree).",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p45-2"
+},
+{
+"r": "K-19",
+"p": 46,
+"pp": [
+46
+],
+"t": "Mineral and metal mine production and stocks (March)",
+"u": "as given in the Unit column",
+"pe": "March (1947)",
+"src": "Bureau of Mining.",
+"h": [
+[
+"Mineral",
+"Unit",
+"Production",
+"Stockpiles"
+]
+],
+"rows": [
+[
+"Tungsten",
+"metric ton",
+"77.1",
+"36"
+],
+[
+"Copper (crude)",
+"metric ton",
+"40",
+"1,335"
+],
+[
+"Graphite (crystalline)",
+"metric ton",
+"34",
+"98"
+],
+[
+"Gold",
+"kilogram",
+"5.6",
+"32"
+],
+[
+"Silver",
+"kilogram",
+"176",
+"912"
+],
+[
+"Cobalt",
+"metric ton",
+"-",
+"8"
+],
+[
+"Talc",
+"metric ton",
+"100",
+"-"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed (mixed units).",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p46"
+},
+{
+"r": "K-19",
+"p": 48,
+"pp": [
+48
+],
+"t": "Spring cocoon crop, 1946",
+"u": "pounds",
+"pe": "1946",
+"src": "",
+"h": [
+[
+"Province",
+"Improved",
+"Indigenous",
+"Total"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"529,157",
+"26,050",
+"555,207"
+],
+[
+"Kangwon-do",
+"1,159,034",
+"41,419",
+"1,200,453"
+],
+[
+"Chungchong-pukto",
+"495,641",
+"20,230",
+"515,871"
+],
+[
+"Chungchong-namdo",
+"678,472",
+"43,031",
+"721,503"
+],
+[
+"Kyongsang-pukto",
+"2,828,136",
+"105,243",
+"2,933,379"
+],
+[
+"Kyongsang-namdo",
+"892,810",
+"38,650",
+"931,460"
+],
+[
+"Cholla-pukto",
+"819,909",
+"41,510",
+"861,419"
+],
+[
+"Cholla-namdo",
+"663,897",
+"36,112",
+"700,009"
+],
+[
+"Cheju-do",
+"21,908",
+"-",
+"21,908"
+],
+[
+"Total",
+"8,088,964",
+"352,245",
+"8,441,209"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Summed each column over the 9 provinces: Improved 8,088,964 (printed 8,088,964), Indigenous 352,245 (printed 352,245), Total 8,441,209 (printed 8,441,209); all agree. Improved+Indigenous equals Total in every row.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p48-1"
+},
+{
+"r": "K-19",
+"p": 48,
+"pp": [
+48
+],
+"t": "Summer and autumn cocoon crop, 1946",
+"u": "pounds",
+"pe": "1946",
+"src": "",
+"h": [
+[
+"Province",
+"Improved",
+"Indigenous",
+"Total"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"293,324",
+"83",
+"293,407"
+],
+[
+"Kangwon-do",
+"403,576",
+"-",
+"403,576"
+],
+[
+"Chungchong-pukto",
+"273,085",
+"-",
+"273,085"
+],
+[
+"Chungchong-namdo",
+"597,974",
+"13,815",
+"611,789"
+],
+[
+"Kyongsang-pukto",
+"1,221,485",
+"-",
+"1,221,485"
+],
+[
+"Kyongsang-namdo",
+"405,833",
+"-",
+"405,833"
+],
+[
+"Cholla-pukto",
+"600,032",
+"-",
+"600,032"
+],
+[
+"Cholla-namdo",
+"630,109",
+"-",
+"630,109"
+],
+[
+"Cheju-do",
+"19,015",
+"-",
+"19,015"
+],
+[
+"Total",
+"4,444,433",
+"13,898",
+"4,458,331"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Summed each column over the 9 provinces: Improved 4,444,433 (printed 4,444,433), Indigenous 13,898 (printed 13,898), Total 4,458,331 (printed 4,458,331); all agree. Improved+Indigenous equals Total in every row.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p48-2"
+},
+{
+"r": "K-19",
+"p": 49,
+"pp": [
+49
+],
+"t": "Production of mulberry saplings, 1946",
+"u": "saplings",
+"pe": "1946",
+"src": "",
+"h": [
+[
+"Province",
+"Seeded",
+"Grafted"
+]
+],
+"rows": [
+[
+"Kyonggi-do",
+"4,671,800",
+"361,400"
+],
+[
+"Kangwon-do",
+"1,189,900",
+"348,750"
+],
+[
+"Chungchong-pukto",
+"3,000,000",
+"350,000"
+],
+[
+"Chungchong-namdo",
+"3,377,300",
+"171,520"
+],
+[
+"Kyongsang-pukto",
+"8,000,000",
+"500,000"
+],
+[
+"Kyongsang-namdo",
+"17,600,000",
+"220,000"
+],
+[
+"Cholla-pukto",
+"2,000,000",
+"300,000"
+],
+[
+"Cholla-namdo",
+"700,000",
+"400,000"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total row printed. Sums are 40,539,000 seeded and 2,651,670 grafted (total 43,190,670), agreeing with the figures in paragraph 9 of the text.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p49-1"
+},
+{
+"r": "K-19",
+"p": 49,
+"pp": [
+49
+],
+"t": "[Seoul Electric Company labor election, final tabulation]",
+"u": "votes",
+"pe": "19 April 1947",
+"src": "",
+"h": [
+[
+"Choice",
+"Votes"
+]
+],
+"rows": [
+[
+"Tai Han No Chong",
+"3,260"
+],
+[
+"No Union",
+"394"
+],
+[
+"Void Ballots",
+"151"
+],
+[
+"Total",
+"3,805"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Summed 3,260 + 394 + 151 = 3,805; printed total 3,805; agree.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p49-2"
+},
+{
+"r": "K-19",
+"p": 54,
+"pp": [
+54
+],
+"t": "Revenues collected, government departments or offices",
+"u": "yen",
+"pe": "15 August 1945 to 31 March 1947; March 1947",
+"src": "",
+"h": [
+[
+"Department or Office",
+"Period of Collection: 15 August 1945 to 31 March 1947",
+"Period of Collection: March 1947"
+]
+],
+"rows": [
+[
+"Agriculture",
+"2,822,944.07",
+"139,998.26"
+],
+[
+"Commerce",
+"770,032.68",
+"164,052.91"
+],
+[
+"Communications",
+"156,498,407.61",
+"46,346,288.64"
+],
+[
+"Education",
+"14,785,660.13",
+"2,088,414.08"
+],
+[
+"Justice",
+"180,632,777.63",
+"39,410,143.54"
+],
+[
+"National Defense",
+"3,000.00",
+"0"
+],
+[
+"Police",
+"277,137.27",
+"0"
+],
+[
+"Public Health and Welfare",
+"955,279.27",
+"45,119.00"
+],
+[
+"Public Information",
+"585,104.90",
+"105,792.00"
+],
+[
+"Administration",
+"1,331,533.01",
+"20,006.00"
+],
+[
+"Transportation",
+"84.14",
+"0"
+],
+[
+"Finance - Monopoly",
+"2,920,150,746.12",
+"448,370,415.96"
+],
+[
+"Finance - Treasury",
+"915,824,503.97",
+"141,797,819.52"
+],
+[
+"Finance - Customs",
+"13,140,352.76",
+"475,922.13"
+],
+[
+"Total",
+"4,207,777,563.56",
+"678,963,972.04"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Summed the 14 department rows: 15 Aug 1945-31 Mar 1947 = 4,207,777,563.56 (printed 4,207,777,563.56); March 1947 = 678,963,972.04 (printed 678,963,972.04); both agree.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p54"
+},
+{
+"r": "K-19",
+"p": 55,
+"pp": [
+55
+],
+"t": "Textile imports from Japan",
+"u": "as per Unit column",
+"pe": "February and March 1947",
+"src": "",
+"h": [
+[
+"",
+"Unit",
+"February a/",
+"March b/"
+]
+],
+"rows": [
+[
+"Cotton, raw",
+"metric ton",
+"0",
+"636"
+],
+[
+"Fabric, silk",
+"linear yard",
+"0",
+"2,000"
+],
+[
+"Fabric, woolen",
+"linear yard",
+"0",
+"44,000"
+],
+[
+"Felt, wool",
+"pound",
+"633",
+"274"
+]
+],
+"fn": [
+"a/ Revised.",
+"b/ Preliminary."
+],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p55-1"
+},
+{
+"r": "K-19",
+"p": 55,
+"pp": [
+55
+],
+"t": "Consumer goods imports from Japan",
+"u": "as per Unit column",
+"pe": "February and March 1947",
+"src": "",
+"h": [
+[
+"",
+"Unit",
+"February a/",
+"March b/"
+]
+],
+"rows": [
+[
+"Bulbs, electric light",
+"each",
+"0",
+"360"
+],
+[
+"Lamps, miners'",
+"piece",
+"0",
+"5,000"
+],
+[
+"Records, phonograph",
+"each",
+"0",
+"7,520"
+],
+[
+"Recording discs",
+"each",
+"150",
+"0"
+]
+],
+"fn": [
+"a/ Revised.",
+"b/ Preliminary."
+],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p55-2"
+},
+{
+"r": "K-19",
+"p": 56,
+"pp": [
+56
+],
+"t": "Machinery and equipment imports from Japan",
+"u": "as per Unit column",
+"pe": "February and March 1947",
+"src": "",
+"h": [
+[
+"",
+"Unit",
+"February a/",
+"March b/"
+]
+],
+"rows": [
+[
+"Communications equipment",
+"",
+"",
+""
+],
+[
+"  Cable, lead covered",
+"meter",
+"0",
+"1,000"
+],
+[
+"  Subscriber-set parts",
+"each",
+"0",
+"8,476"
+],
+[
+"  Switch-system parts",
+"each",
+"0",
+"1,050"
+],
+[
+"  Telephone cord",
+"each",
+"0",
+"7,510"
+],
+[
+"  Transmitter parts",
+"each",
+"0",
+"200"
+],
+[
+"Diesel engine parts",
+"",
+"",
+""
+],
+[
+"  Air valves",
+"set",
+"1",
+"0"
+],
+[
+"  Nozzles",
+"each",
+"1",
+"0"
+],
+[
+"  Pumps",
+"each",
+"1",
+"0"
+],
+[
+"Medical equipment",
+"",
+"",
+""
+],
+[
+"  Gauges, X-ray",
+"set",
+"2",
+"0"
+],
+[
+"  Plates, developing",
+"each",
+"150",
+"0"
+],
+[
+"  Screens",
+"set",
+"0",
+"100"
+],
+[
+"  Tubes",
+"each",
+"125",
+"0"
+],
+[
+"  X-ray therapy cable",
+"meter",
+"100",
+"0"
+],
+[
+"Railway locomotive boiler tubes",
+"metric ton",
+"142",
+"65"
+],
+[
+"Textile machinery parts",
+"",
+"",
+""
+],
+[
+"  Bobbins, jute",
+"each",
+"0",
+"8,400"
+],
+[
+"  Belting",
+"linear yard",
+"19,082",
+"17,972"
+],
+[
+"  Cards, clothing",
+"set",
+"0",
+"258"
+],
+[
+"  Draft aprons",
+"square foot",
+"13,658",
+"13,658"
+],
+[
+"  Heddles",
+"each",
+"0",
+"300,000"
+],
+[
+"  Healds, wire",
+"piece",
+"30,000",
+"4,680,000"
+],
+[
+"  Needles, latch",
+"gross",
+"0",
+"3,260"
+],
+[
+"  Needles, sewing machine",
+"gross",
+"500",
+"0"
+],
+[
+"  Reeds",
+"each",
+"0",
+"3,300"
+],
+[
+"  Roller covers",
+"square foot",
+"13,658",
+"0"
+],
+[
+"  Shuttles",
+"each",
+"0",
+"2,600"
+],
+[
+"  Sinkers",
+"gross",
+"0",
+"1,000"
+]
+],
+"fn": [
+"a/ Revised.",
+"b/ Preliminary."
+],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p56-1"
+},
+{
+"r": "K-19",
+"p": 56,
+"pp": [
+56
+],
+"t": "Coal imports from Japan",
+"u": "metric tons",
+"pe": "January-April 1947",
+"src": "",
+"h": [
+[
+"Month",
+"Metric tons"
+]
+],
+"rows": [
+[
+"January",
+"35,797"
+],
+[
+"February",
+"46,506"
+],
+[
+"March",
+"54,910"
+],
+[
+"April",
+"48,985"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [],
+"oc": "OCR matched.",
+"id": "K-19-p56-2"
+},
+{
+"r": "K-19",
+"p": 57,
+"pp": [
+57
+],
+"t": "Wood and paper imports from Japan",
+"u": "as given in the Unit column",
+"pe": "February (revised) and March (preliminary) 1947",
+"src": "",
+"h": [
+[
+"Item",
+"Unit",
+"February a/",
+"March b/"
+]
+],
+"rows": [
+[
+"Bamboo",
+"metric ton",
+"167",
+"472"
+],
+[
+"Dunnage lumber",
+"piece",
+"0",
+"857"
+],
+[
+"Firewood",
+"metric ton",
+"0",
+"114"
+],
+[
+"Newsprint",
+"metric ton",
+"45",
+"46"
+],
+[
+"Paper, bank note",
+"ream",
+"10,364",
+"13,397"
+],
+[
+"Paper, postage stamp",
+"sheet",
+"352,000",
+"384,000"
+],
+[
+"Ties, railroad",
+"piece",
+"23,976",
+"61,684"
+]
+],
+"fn": [
+"a/ Revised.",
+"b/ Preliminary."
+],
+"unr": [],
+"tot": "No total printed (rows have different units).",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-19-p57"
+},
+{
+"r": "K-19",
+"p": 69,
+"pp": [
+69
+],
+"t": "Communicable diseases",
+"u": "cases",
+"pe": "March and April 1947",
+"src": "",
+"h": [
+[
+"Disease",
+"Cases",
+"Cases"
+],
+[
+"",
+"March",
+"April"
+]
+],
+"rows": [
+[
+"Relapsing fever",
+"17",
+"32"
+],
+[
+"Malaria",
+"4",
+"12"
+],
+[
+"Diphtheria",
+"115",
+"49"
+],
+[
+"Smallpox",
+"34",
+"16"
+],
+[
+"Typhus fever",
+"208",
+"216"
+],
+[
+"Typhoid fever",
+"1,409",
+"707"
+],
+[
+"Paratyphoid fever",
+"15",
+"9"
+],
+[
+"Bacillary dysentery",
+"1",
+"7"
+],
+[
+"Epidemic meningitis",
+"10",
+"10"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "No total printed.",
+"w": [
+"Printed gaps between row groups (after Diphtheria and after Typhoid fever) are not rows."
+],
+"oc": "OCR matched the image.",
+"id": "K-19-p69"
+},
+{
+"r": "K-19",
+"p": 70,
+"pp": [
+70
+],
+"t": "Nurses and midwives, February",
+"u": "persons registered",
+"pe": "February 1947 (as of 28 February)",
+"src": "",
+"h": [
+[
+"Area",
+"Nurses",
+"Midwives"
+]
+],
+"rows": [
+[
+"Seoul",
+"575",
+"604"
+],
+[
+"Kyonggi-do",
+"93",
+"104"
+],
+[
+"Kangwon-do",
+"70",
+"58"
+],
+[
+"Chungchong-pukto",
+"27",
+"23"
+],
+[
+"Chungchong-namdo",
+"34",
+"32"
+],
+[
+"Kyongsang-pukto",
+"45",
+"50"
+],
+[
+"Kyongsang-namdo",
+"53",
+"61"
+],
+[
+"Cholla-pukto",
+"32",
+"35"
+],
+[
+"Cholla-namdo",
+"37",
+"49"
+],
+[
+"Cheju-do",
+"9",
+"13"
+],
+[
+"",
+"975",
+"1,029"
+]
+],
+"fn": [],
+"unr": [],
+"tot": "Nurses: sum of ten areas = 975, printed total 975, agree. Midwives: sum of ten areas = 1,029, printed total 1,029, agree. The final row is an unlabelled printed total (label blank in the original).",
+"w": [],
+"oc": "OCR matched the image.",
+"id": "K-19-p70"
+},
+{
+"r": "K-19",
+"p": 78,
+"pp": [
+78
+],
+"t": "Radio programs, March 1947: typical daily program",
+"u": "",
+"pe": "Thursday 27 March 1947",
+"src": "SOURCE: USAMGIK. GHQ-FEC, South Korea, Apr 47, Number 16",
+"h": [
+[
+"TIME",
+"PROGRAM"
+]
+],
+"rows": [
+[
+"06 30",
+"MUSIC"
+],
+[
+"06 45",
+"SYMPHONIC MUSIC"
+],
+[
+"07 00",
+"TIME SIGNAL AND NEWS"
+],
+[
+"07 15",
+"TODAY'S MEMO"
+],
+[
+"07 30",
+"WEATHER FORECAST; PUBLIC NOTICES"
+],
+[
+"07 45",
+"RELIGIOUS HOUR"
+],
+[
+"08 00",
+"OFF THE AIR"
+],
+[
+"11 00",
+"INFANT'S HOUR"
+],
+[
+"11 15",
+"CHAMBER MUSIC"
+],
+[
+"11 30",
+"CULTURE HOUR"
+],
+[
+"11 45",
+"HOME HOUR"
+],
+[
+"12 00",
+"TIME SIGNAL AND LIGHT MUSIC"
+],
+[
+"12 15",
+"MUSIC"
+],
+[
+"12 30",
+"NEWS"
+],
+[
+"12 45",
+"KYONGGI-DO HOUR"
+],
+[
+"13 00",
+"MUSIC"
+],
+[
+"13 15",
+"POPULAR MUSIC"
+],
+[
+"13 30",
+"MILITARY GOVERNMENT NEWS, DICTATION SPEED"
+],
+[
+"14 00",
+"KOREAN SYMPHONY ORCHESTRA"
+],
+[
+"15 00",
+"OFF THE AIR"
+],
+[
+"17 00",
+"TIME SIGNAL AND NEWS"
+],
+[
+"17 15",
+"MUSIC FROM SOUTH AMERICA"
+],
+[
+"17 30",
+"CHILDREN'S HOUR"
+],
+[
+"17 45",
+"DOL DOL RI (CHILDREN'S SERIAL)"
+],
+[
+"18 00",
+"KOREAN LANGUAGE LESSON"
+],
+[
+"18 15",
+"MUSIC"
+],
+[
+"18 30",
+"SHORT WAVE FROM NEW YORK"
+],
+[
+"19 00",
+"TIME SIGNAL AND NEWS"
+],
+[
+"19 15",
+"POLITICAL SPEECH"
+],
+[
+"19 30",
+"LESSON IN DEMOCRACY"
+],
+[
+"19 45",
+"QUESTIONS AND ANSWERS"
+],
+[
+"20 00",
+"RADIO SCHOOL OF THE AIR"
+],
+[
+"20 30",
+"NATIONAL YOUTH ASSOCIATION HOUR"
+],
+[
+"21 00",
+"TIME SIGNAL AND NEWS"
+],
+[
+"21 15",
+"SPORTS ROUND-UP"
+],
+[
+"21 30",
+"KOREAN MUSIC APPRECIATION"
+],
+[
+"22 00",
+"MUSIC"
+],
+[
+"22 30",
+"SIGN OFF"
+]
+],
+"fn": [
+"* Thursday 27 March 1947."
+],
+"unr": [],
+"tot": "No total printed for this table. (The adjacent bar chart of March broadcasting hours by program type has no printed figures except the stated total of 341 hours; not transcribed.)",
+"w": [],
+"oc": "OCR matched the entries but dropped the printed asterisk on the heading, rendered the source as USAMSIR, and misread the page number as 54 (printed 64).",
+"id": "K-19-p78"
+}
+]

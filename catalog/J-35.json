@@ -315,7 +315,7 @@
    "printed_page": "",
    "start_page": 67,
    "end_page": 70,
-   "summary": "Raw silk production and stocks, testing, reeling mills, cocoon supplies, spun silk yarn and silk fabrics."
+   "summary": "July raw silk output reached a postwar peak of 11,531 bales, mostly 20/22 denier; tested silk fell to 2,124 bales, and silk fabric output dropped 316,000 square yards amid yarn shortages and earthquake-area mill losses."
   },
   {
    "title": "Artificial fibers and wool",
@@ -331,7 +331,7 @@
    "printed_page": "",
    "start_page": 74,
    "end_page": 79,
-   "summary": "Rope and cordage, jute and flax, thrown-spun and reprocessed yarns, knit goods, fish nets and fabrics processed."
+   "summary": "Hard and bast fiber stocks rose to 20,520,000 pounds with Indian jute arrivals; rope output rose 1,841,000 pounds, jute yarn jumped to 522,000 pounds, and knit underwear for export fell to 181,319 dozen."
   },
   {
    "title": "Section 7. Transportation and Public Utilities",
@@ -355,7 +355,7 @@
    "printed_page": "",
    "start_page": 84,
    "end_page": 86,
-   "summary": "Generation, consumption, coal allocations, plant construction and public gas production and distribution."
+   "summary": "July electric power generation was about 2.94 billion kWh, 8.5 percent below July 1947; hydroelectric supplied 2,775 million kWh while thermal fell 65.5 percent to 71 million; stream flow ran 21 percent above June."
   },
   {
    "title": "Section 8. Communications",
@@ -554,10 +554,6 @@
  "_pages": 173,
  "_uncovered_pages": [],
  "_bad_ranges": [],
- "_needs_source": [
-  35,
-  37,
-  40
- ],
+ "_needs_source": [],
  "_polished": true
 }

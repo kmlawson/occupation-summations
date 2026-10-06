@@ -1,0 +1,27 @@
+{"tables": [
+{"page": 21, "pages": [21, 22], "title": "New plants opened in South Korea since 1 March",
+ "units": "number of employees", "period": "since 1 March 1946", "source_note": "",
+ "header": [["Name", "Location", "Product", "Number of Employees"]],
+ "rows": [
+ ["Korea Sakura Joint Stock Co.", "Fusan", "crayon", "21"],
+ ["Kyungnam Textile Industrial Co.", "Samchunpo, Sachun Gun, Kyong Sang Namdo", "cotton cloth", "7"],
+ ["Asahi Silk Textile Co.", "Fusan", "silk", "370"],
+ ["Korea Net Mfg. Co.", "Tong Yung Up, Tong Yung Gun, Kyong Sang Namdo", "fishing net", "85"],
+ ["Sam Nim Industrial Co., Ltd.", "Fusan", "cotton thread", "70"],
+ ["Tong-A Spinning Co.", "San Chung Myun, San Chung Gun, Kyong Sang Namdo", "silk cloth", "42"],
+ ["Osaki Casting Works", "Fusan", "farming tools", "25"],
+ ["Pang-U-Jin Iron Works and Ship-building Co., Ltd.", "Pang-U-Jin Up, Ool San Gun, Kyong Sang Namdo", "shipbuilding and repair", "230"],
+ ["Tesum Brewing Co., Ltd.", "Fusan", "synthetic wine, alcohol", "60"],
+ ["Chosen Wooden Sta-tionary Mfg. Co.", "Fusan", "abacus", "6"],
+ ["Inchon Casting Factory", "Inchon", "farming tools", "35"],
+ ["Pal-Kok Airplane Co., Ltd.", "Taegu", "milling machinery", "150"],
+ ["Wan-Ill Rice Cleaning Mill", "Inchon", "rice cleaning", "55"],
+ ["Sam Hwa Wood Works", "Inchon", "shovel handles", "17"],
+ ["Namsun Towel Industrial Co.", "Taegu", "towels", "50"],
+ ["Taegu Silk Mill", "Taegu", "silk", "50"],
+ ["Kyung-Book United Factory", "Taegu", "silk and cotton cloth", "35"]
+ ],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [],
+ "ocr_check": "OCR of page 22 matched the image for all rows (names, locations, products, counts); the Tong-A Spinning Co. count (42) is in blurred type but read as 42; the first three rows are on page 21, which is not in the OCR file supplied."}
+]}

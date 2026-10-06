@@ -1,0 +1,10 @@
+{"tables": [
+  {"page": 65, "pages": [65], "title": "Number of Japanese repatriated to Japan by weeks", "units": "number of Japanese", "period": "weeks ending 26 May to 28 July 1946", "source_note": "",
+   "header": [["Week Ending", "Number of Japanese Refugees from the North", "Number of Japanese from the South"]],
+   "rows": [["26 May", "10,771", "0"], ["2 June", "11,738", "168"], ["9 June", "11,252", "0"], ["16 June", "8,646", "158"], ["23 June", "12,437", "0"], ["30 June", "7,336", "85"], ["7 July", "1,273", "0"], ["14 July", "1,239", "34"], ["21 July", "2,287", "0"], ["28 July", "1,998", "68"]],
+   "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image in every cell."},
+  {"page": 70, "pages": [70], "title": "School attendance in South Korea at the end of May", "units": "", "period": "end of May 1946", "source_note": "",
+   "header": [["Type of School", "Attendance"]],
+   "rows": [["Elementary", "1,613,826"], ["Secondary", "99,308"], ["Higher schools", "10,315"]],
+   "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image in every cell."}
+]}

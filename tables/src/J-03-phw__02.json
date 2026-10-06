@@ -1,0 +1,15 @@
+{"tables": [
+{"page": 17, "pages": [17], "title": "Population shift in large urban areas", "units": "persons", "period": "1945 and 1940", "source_note": "",
+ "header": [["", "", "City Only", "City Only", "Prefecture Population (less city)", "Prefecture Population (less city)"], ["City", "(Prefecture)", "1945", "1940", "1945", "1940"]],
+ "rows": [["Tokyo", "(Tokyo-To)", "2,780,000", "6,790,000", "708,000", "565,000"],
+  ["Osaka", "(Osaka)", "1,100,000", "3,250,000", "1,701,000", "1,543,000"],
+  ["Nagoya", "(Aichi)", "600,000", "1,330,000", "2,257,000", "1,837,000"],
+  ["Kyoto", "(Kyoto)", "870,000", "1,090,000", "734,000", "640,000"],
+  ["Yokohama", "(Kanagawa)", "620,000", "970,000", "1,246,000", "1,219,000"],
+  ["Kobe", "(Hyogo)", "380,000", "970,000", "2,442,000", "2,251,000"]],
+ "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image in every cell."},
+{"page": 17, "pages": [17], "title": "Distribution of population by sex", "units": "persons", "period": "1 November 1945 and 1 October 1940", "source_note": "",
+ "header": [["", "1 Nov 1945", "1 Oct 1940"]],
+ "rows": [["Male", "33,894,643", "36,210,096"], ["Female", "38,101,834", "36,144,574"], ["Total", "71,996,477", "72,354,670"]],
+ "footnotes": [], "unreadable": [], "totals_check": "Male + Female: 1945 33,894,643 + 38,101,834 = 71,996,477, printed 71,996,477, agree; 1940 36,210,096 + 36,144,574 = 72,354,670, printed 72,354,670, agree.", "warnings": [], "ocr_check": "OCR matched the image in every cell."}
+]}

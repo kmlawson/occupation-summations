@@ -581,7 +581,7 @@
    "printed_page": "79",
    "start_page": 92,
    "end_page": 97,
-   "summary": "Postal savings and insurance statistics from the Department of Communications."
+   "summary": "Postal depositors held near 6.99 million since January; deposits were 838.5 million won in August 1947. Insurance policies fell to 5,357,113 while premiums and insurance in force rose, probably reflecting inflation."
   },
   {
    "title": "Activities",
@@ -653,7 +653,7 @@
    "printed_page": "96",
    "start_page": 109,
    "end_page": 109,
-   "summary": "Monthly government receipts and payments tables."
+   "summary": "Interim Government revenue fell from July to August 1947, with Monopoly Bureau income down nearly 51 percent; tobacco was below estimates and salt sales were low. Tax collection kept declining."
   },
   {
    "title": "Taxation",
@@ -669,7 +669,7 @@
    "printed_page": "98",
    "start_page": 111,
    "end_page": 111,
-   "summary": "Funds and goods of the civilian supply program."
+   "summary": "Office of Civilian Supply receipts, mostly from sales of goods imported from the U.S., left a balance of 2,901 million won at end-September 1947, with 71 million won on fixed deposit in Seoul."
   },
   {
    "title": "Office of Controller of Commodities",
@@ -677,7 +677,7 @@
    "printed_page": "99",
    "start_page": 112,
    "end_page": 112,
-   "summary": "Functions of the Office of Controller of Commodities."
+   "summary": "On 18 September, advisers reported to the National Economic Board that receipts and expenditures of the Controller of Commodities were nearly equal, with a slight deficit likely; rice and summer grain losses were about 2 percent, imported grain about 10 percent."
   },
   {
    "title": "Section 2. Non-Government Finance",
@@ -701,7 +701,7 @@
    "printed_page": "101",
    "start_page": 114,
    "end_page": 115,
-   "summary": "Tables of deposits by type and institution."
+   "summary": "Monthly deposits and withdrawals in South Korean financial institutions rose about 275 and 290 percent over July 1946; government funds were 52 percent of deposits, banks 10, public 38. Public deposits grew steadily."
   },
   {
    "title": "Loans by Financial Institutions",
@@ -717,7 +717,7 @@
    "printed_page": "105",
    "start_page": 118,
    "end_page": 118,
-   "summary": "Life and damage insurance statistics."
+   "summary": "In August 1947 life insurance policy-holders and insurance in force rose slightly over July, premiums collected fell, and claims paid rose 277 percent. Damage insurance claims paid rose to 160 percent of July's."
   },
   {
    "title": "Activities of the Financial Institutions",
@@ -725,7 +725,7 @@
    "printed_page": "106",
    "start_page": 119,
    "end_page": 121,
-   "summary": "Activities of banks and financial associations during the month."
+   "summary": "September loans approved included 410 million won to Nambak Cotton and 1,157,500,000 won to the Korea Agricultural Association. Bankers debated dividends and long-term credit; 90 percent of 5,000 registered Japanese-company policyholders wished to keep policies."
   },
   {
    "title": "Part V: Government and Politics",
@@ -805,7 +805,7 @@
    "printed_page": "126",
    "start_page": 139,
    "end_page": 139,
-   "summary": "Press comment on taking the Korean problem to the United Nations."
+   "summary": "Right-wing papers welcomed Marshall's presentation of the Korean problem to the UN General Assembly. Cha Yoo Shin Mun was pessimistic about a UN solution, and Chosun Ilbo saw an opportunity for U.S.-Soviet accommodation."
   },
   {
    "title": "Soviet Proposal for Withdrawal from Korea",
@@ -1027,15 +1027,6 @@
   333
  ],
  "_bad_ranges": [],
- "_needs_source": [
-  67,
-  76,
-  78,
-  79,
-  82,
-  84,
-  85,
-  95
- ],
+ "_needs_source": [],
  "_polished": true
 }
