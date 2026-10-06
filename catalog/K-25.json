@@ -1,0 +1,791 @@
+{
+ "summary": "Issue No. 25 of South Korean Interim Government Activities covers October 1947 and is the second monthly report produced wholly in Korea, prepared by the National Economic Board. It reports on population movements, vested property, food and rice collection, prices, agriculture, mining, industry, trade, labor, transport, communications, finance, administration, the Legislative Assembly, politics, security, police, legal affairs, health, education, information and Korean National Youth. The month was dominated by the start of the 1947 rice collection, with quotas, Executive Order No. 8 banning private rice transport, and a dispute over the purchase price. Other notable items are the appointment of Major General William F. Dean as Military Governor, record note issue and budget deficits, power talks with the North in Pyongyang, and the political debate over the Russian withdrawal proposal, a general election and a Korean delegate to the United Nations. The extensive statistical tables make it a rich source for South Korean economic history.",
+ "highlights": [
+  "On 30 October 1947 Lieutenant General John R. Hodge announced the appointment of Major General William F. Dean as Military Governor of Korea.",
+  "The 1947 rice collection quota was set at 5,156,000 polished suk; by 5 November only 174,291 suk (3.2 percent) had been collected, while the summer grain collection ended at 1,237,576 hectoliters, 97.1 percent of quota.",
+  "Executive Order No. 8 (20 October) banned unauthorized rice transportation; the Assembly voted 45 to 1 to ask for its rescission and amended the KILA Rice Collection Law to permit carrying one mal of rice for family use.",
+  "The final 1947 rice estimate was 24,930,000 hectoliters of brown rice, about 15 percent above 1946, while cotton fell to 42,125,574 kilograms from 59,945,165.",
+  "Bank of Chosun note issue rose almost 1.4 billion won to 21,803,700 thousand won, with cumulative government overdrafts of 29.4 billion won; the approved FY 1947/48 budget reached 18.79 billion won against a revenue budget of 15.43 billion.",
+  "The population on rations reached 9,476,856 in October, while polished rice stocks fell to 434,955 hectoliters from 1,851,049 in June.",
+  "US and Soviet delegates met in Pyongyang on 21-24 October on payment for North Korean electric power; South Korea had received 537,678,737 KWH from 16 August 1945 to 31 May 1947.",
+  "Korean National Youth celebrated its first anniversary on 7-11 October, and membership grew from 199,014 to 290,333 in one month, amid attacks by rightist Taedong youth groups.",
+  "The Assembly passed parts of the Temporary Administrative Organizational Law, approved Lee Choon Ho as president of Seoul National University by 45 to 4, and took up a bill to close night clubs and dance halls."
+ ],
+ "keywords": [
+  "South Korean Interim Government",
+  "USAMGIK",
+  "October 1947",
+  "rice collection",
+  "Executive Order No. 8",
+  "Korean Interim Legislative Assembly",
+  "National Economic Board",
+  "vested property",
+  "inflation and note issue",
+  "Civilian Supply Program",
+  "North Korean electric power",
+  "Korean National Youth",
+  "Military Governor Dean",
+  "refugees from North Korea",
+  "price control"
+ ],
+ "printed_toc_found": true,
+ "embedded_issues": [],
+ "sections": [
+  {
+   "title": "Front matter",
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "end_page": 7,
+   "summary": "Cover of No. 25, October 1947, prepared by the National Economic Board, a blank page, and the five-page table of contents."
+  },
+  {
+   "title": "Explanations and Implications",
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 8,
+   "end_page": 9,
+   "summary": "Editorial note that this second Korea-produced issue lacks charts, and that SKIG departments compete for scarce power, coal and food with little integration, shaped by non-economic social controls."
+  },
+  {
+   "title": "Part I: Basic Aspects",
+   "level": 1,
+   "printed_page": "3",
+   "start_page": 10,
+   "end_page": 21,
+   "summary": "Population movement figures, including 2,342,852 inbound against 885,667 outbound since 1945, and the status and finances of vested property under the Office of Property Custody."
+  },
+  {
+   "title": "Section 1. Population",
+   "level": 2,
+   "printed_page": "3",
+   "start_page": 10,
+   "end_page": 15,
+   "summary": "Cumulative inbound and outbound movements, 147,739 refugees from the North in 1947, county population estimates for Kyonggi-do and Chungchong-pukto, and Korean affairs in China and Japan."
+  },
+  {
+   "title": "Section 2. Vested Property",
+   "level": 2,
+   "printed_page": "9",
+   "start_page": 16,
+   "end_page": 21,
+   "summary": "Kangwon-do inventory of 56,730 pieces of vested property, 361,850,000 won of guaranteed textile loans, rental income of 14,043,744 won and Operations Division work on 161 cases."
+  },
+  {
+   "title": "Part II: Production and Supply",
+   "level": 1,
+   "printed_page": "15",
+   "start_page": 22,
+   "end_page": 85,
+   "summary": "Food collection and rationing, official prices, 1947 crop estimates, coal and metal output, industrial production, controlled commodity allocation, foreign trade and labor conditions."
+  },
+  {
+   "title": "Section 1. Food Supply",
+   "level": 2,
+   "printed_page": "15",
+   "start_page": 22,
+   "end_page": 26,
+   "summary": "Rice stocks fell to 434,955 hectoliters, summer grain collection reached 97.1 percent of quota, the rice quota was 5,156,000 suk, and rationed population reached 9,476,856."
+  },
+  {
+   "title": "The Problem and the Supply",
+   "level": 3,
+   "printed_page": "15",
+   "start_page": 22,
+   "end_page": 23,
+   "summary": "Grain and pulse stocks rose in October, but polished rice stocks declined steadily from 1,851,049 hectoliters in June to 434,955 at 31 October."
+  },
+  {
+   "title": "Summer Grain Collection",
+   "level": 3,
+   "printed_page": "16",
+   "start_page": 23,
+   "end_page": 23,
+   "summary": "Final summer collection of 1,237,576 hectoliters, 97.1 percent of quota; Cheju-do reached only 16.4 percent because of floods, while Kyonggi-do collected 106.2 percent."
+  },
+  {
+   "title": "Rice Collection",
+   "level": 3,
+   "printed_page": "17",
+   "start_page": 24,
+   "end_page": 25,
+   "summary": "Three-category provincial rice policy, Executive Order No. 8 of 20 October regulating transport, quotas totaling 5,156,000 suk, and only 3.2 percent collected by 5 November."
+  },
+  {
+   "title": "Imports",
+   "level": 3,
+   "printed_page": "18",
+   "start_page": 25,
+   "end_page": 25,
+   "summary": "Grain imports of 39,259 metric tons in October, mostly 35,659 tons of barley, bringing totals since May 1946 to 559,515 tons."
+  },
+  {
+   "title": "Rationing",
+   "level": 3,
+   "printed_page": "19",
+   "start_page": 26,
+   "end_page": 26,
+   "summary": "Population on general rations rose to 9,343,890 in October from 7,622,478 in March, possibly reflecting a ghost population in cities and refugee inflow."
+  },
+  {
+   "title": "Section 2. Prices",
+   "level": 2,
+   "printed_page": "20",
+   "start_page": 27,
+   "end_page": 37,
+   "summary": "Official rice prices of 16.10 won per kilogram polished, National Economic Board price-policy minutes, Seoul price indices to August 1947, gold prices and routine price adjustments."
+  },
+  {
+   "title": "Official Price of Rice and Other Grains",
+   "level": 3,
+   "printed_page": "20",
+   "start_page": 27,
+   "end_page": 29,
+   "summary": "Prices set 15 September but published in October, with a controlled rice price of 120 won per small mal against 579 on the open market, and 30 October Board minutes defending it."
+  },
+  {
+   "title": "Price Trends",
+   "level": 3,
+   "printed_page": "23",
+   "start_page": 30,
+   "end_page": 36,
+   "summary": "Seoul retail and wholesale price indices (August 1945 = 100) through August 1947, plus ten-day average prices in nine cities, with firewood, pepper powder and charcoal rising."
+  },
+  {
+   "title": "Gold",
+   "level": 3,
+   "printed_page": "29",
+   "start_page": 36,
+   "end_page": 36,
+   "summary": "Open market wholesale gold price rose to 2,578 won per don in September 1947 even as illegal mining declined under the Military Government control plan."
+  },
+  {
+   "title": "Activities, National Price Administration",
+   "level": 3,
+   "printed_page": "29",
+   "start_page": 36,
+   "end_page": 37,
+   "summary": "Railroad coal fixed at 736.20 won per ton, tobacco purchase prices doubled to 120 and 200 won per kilogram, and tire prices raised 20 percent to 14,500 won for truck tires."
+  },
+  {
+   "title": "Section 3. Agriculture, Forestry and Fisheries",
+   "level": 2,
+   "printed_page": "31",
+   "start_page": 38,
+   "end_page": 44,
+   "summary": "Rice estimated at 24,930,000 hectoliters, cotton down to 42,125,574 kilograms, livestock programs, irrigation, fertilizer distribution of 124,890 tons, forestry data and weak fishery statistics."
+  },
+  {
+   "title": "Section 4. Mining and Minerals",
+   "level": 2,
+   "printed_page": "38",
+   "start_page": 45,
+   "end_page": 53,
+   "summary": "September anthracite output of 32,395 tons, 64,588 tons of Japanese bituminous coal received in October, coal sub-allocations, the Yong Wol mine and metal production tables."
+  },
+  {
+   "title": "Coal",
+   "level": 3,
+   "printed_page": "38",
+   "start_page": 45,
+   "end_page": 50,
+   "summary": "Anthracite and lignite output, falling stockpiles, Samchuk as leading mine, Yong Wol deposits of 300,000,000 tons, and October allocation of 5,000 tons bituminous and 10,000 anthracite to Commerce."
+  },
+  {
+   "title": "Pitch",
+   "level": 3,
+   "printed_page": "43",
+   "start_page": 50,
+   "end_page": 50,
+   "summary": "Pitch shortage for briquettes led the Coal Committee to test road asphalt as a substitute until pitch can be imported."
+  },
+  {
+   "title": "Metals",
+   "level": 3,
+   "printed_page": "43",
+   "start_page": 50,
+   "end_page": 53,
+   "summary": "Kobayashi Mining's 32,000,000 won Daisung wolframite rehabilitation, gold at 400 won per gram, 100 tons of Sam Sung copper sold, and May-September metal output tables."
+  },
+  {
+   "title": "Section 5. Industrial Production",
+   "level": 2,
+   "printed_page": "47",
+   "start_page": 54,
+   "end_page": 62,
+   "summary": "September output for flour (430 tons), cotton yarn, paper (375.1 tons), nails, bulbs, cement (3,546 tons), rubber, ginseng, salt and tobacco from mostly vested plants."
+  },
+  {
+   "title": "Section 6. Allocation and Distribution",
+   "level": 2,
+   "printed_page": "56",
+   "start_page": 63,
+   "end_page": 73,
+   "summary": "Allocations of cloth, shoes, soap, tires and civilian supplies, distribution by FFA (66,697,000 won in October) and FDA, drum deposits for petroleum, and a cut in the salt ration."
+  },
+  {
+   "title": "Allocations, Korean Produced Commodities",
+   "level": 3,
+   "printed_page": "56",
+   "start_page": 63,
+   "end_page": 66,
+   "summary": "Commerce Department allocation tables July 1946 to October 1947 for cotton and other cloth, socks, shoes, soap, matches, cement, tires and beer."
+  },
+  {
+   "title": "Allocations, Civilian Supplies",
+   "level": 3,
+   "printed_page": "59",
+   "start_page": 66,
+   "end_page": 68,
+   "summary": "837 allocations in October, trucks to the New Korea Company and National Food Administration, 400,000 clothing units, 44,658 bags of cement and 26,500 drums of asphalt pitch."
+  },
+  {
+   "title": "Distribution, Korean Produced Commodities",
+   "level": 3,
+   "printed_page": "61",
+   "start_page": 68,
+   "end_page": 71,
+   "summary": "FFA and FDA handle distribution; a 13-week lag from production report to consumer, FFA sales of 985,700,000 won in a year, and FDA province-by-province tables."
+  },
+  {
+   "title": "Petroleum",
+   "level": 3,
+   "printed_page": "65",
+   "start_page": 72,
+   "end_page": 72,
+   "summary": "Drum deposit raised from 150 to 1,000 won to recover empties; sales table shows September gasoline sales of 5,900 thousand liters."
+  },
+  {
+   "title": "Salt",
+   "level": 3,
+   "printed_page": "65",
+   "start_page": 72,
+   "end_page": 73,
+   "summary": "Basic ration of salt dropped for lack of supply and the kimchi ration cut from 3.9 to 2.7 kilograms per capita; distribution so far ranges 0.9 to 2.7 kilograms."
+  },
+  {
+   "title": "Section 7. Import and Export",
+   "level": 2,
+   "printed_page": "67",
+   "start_page": 74,
+   "end_page": 81,
+   "summary": "October private trade nearly balanced at 270,293,966 won imports and 283,207,975 won exports, barter with Hong Kong and Egypt, shipments to Japan, and Civilian Supply Program IV."
+  },
+  {
+   "title": "Private Trade",
+   "level": 3,
+   "printed_page": "67",
+   "start_page": 74,
+   "end_page": 75,
+   "summary": "September imports rose 8.45 times over August (215.8 million won), including 371 tons of raw rubber; exports included ginseng, graphite, tungsten and molybdenum."
+  },
+  {
+   "title": "Trade with United States",
+   "level": 3,
+   "printed_page": "69",
+   "start_page": 76,
+   "end_page": 76,
+   "summary": "A Frazer and Hansen representative arrived without completing barter deals; earlier government exports to the US Commercial Company included 1,000 tons of copper ingots and 700 tons of scheelite."
+  },
+  {
+   "title": "Trade with Japan",
+   "level": 3,
+   "printed_page": "69",
+   "start_page": 76,
+   "end_page": 77,
+   "summary": "September and October shipments of graphite, copper, lead and zinc were credited to SCAP's special account for Korea, and SCAP accepted 3,000,000 bundles of laver."
+  },
+  {
+   "title": "Trade with Hong Kong",
+   "level": 3,
+   "printed_page": "70",
+   "start_page": 77,
+   "end_page": 77,
+   "summary": "Red ginseng sold for HK$1,800,000, 25 tons of ferro-tungsten sold, and 300 tons of smoked rubber sheets bartered for about 45,000 pounds of raw silk."
+  },
+  {
+   "title": "Trade with Egypt",
+   "level": 3,
+   "printed_page": "70",
+   "start_page": 77,
+   "end_page": 77,
+   "summary": "Barter of 3,000 bales of Egyptian cotton for 730 tons of tungsten advanced, with 1,000 bales to ship first and 2,000 bales on the SS Manchuria in November."
+  },
+  {
+   "title": "Korean Items for Americans in Korea",
+   "level": 3,
+   "printed_page": "70",
+   "start_page": 77,
+   "end_page": 77,
+   "summary": "Souvenirs sold to the Army Post Exchange were worth $5,733 in September and $9,139 in October, totaling $18,278 credited over four months."
+  },
+  {
+   "title": "Commercial Shipping Agency",
+   "level": 3,
+   "printed_page": "70",
+   "start_page": 77,
+   "end_page": 78,
+   "summary": "A shipping agency of two American firms and one British firm was set up in September; the M/S Turk's Head left Pusan 13 October with 9,957 cases of apples."
+  },
+  {
+   "title": "Imports, Civilian Supply",
+   "level": 3,
+   "printed_page": "71",
+   "start_page": 78,
+   "end_page": 81,
+   "summary": "Price data requested from the War Department, Program IV Part 2 released 20 October ($19,910,739 for other supplies, including 900,000 tons of coal), and coal, salt, fertilizer and food import tables."
+  },
+  {
+   "title": "Section 8. Labor",
+   "level": 2,
+   "printed_page": "75",
+   "start_page": 82,
+   "end_page": 85,
+   "summary": "National Labor Week from 20 October, Tai Han No Chong labor college in Inchon, union contests in Pusan, a Seoul employment census of 59,009 workers and industrial health work."
+  },
+  {
+   "title": "Part III: Public Services",
+   "level": 1,
+   "printed_page": "79",
+   "start_page": 86,
+   "end_page": 109,
+   "summary": "Railroads, shipping, communications, power, public works and housing, with transport revenue, a first Korean-crewed voyage to Shanghai, postal rates doubled and a 400-house project completed."
+  },
+  {
+   "title": "Section 1. Transportation",
+   "level": 2,
+   "printed_page": "79",
+   "start_page": 86,
+   "end_page": 94,
+   "summary": "September rail receipts of 324,460 thousand won, 7,106 thousand passengers, 643 locomotives of which 55 percent were inoperative, and a stevedore strike in Pusan."
+  },
+  {
+   "title": "General and Revenue and Expenditures",
+   "level": 3,
+   "printed_page": "79",
+   "start_page": 86,
+   "end_page": 87,
+   "summary": "Railroads carry over 90 percent of freight; Transportation revenue rose 7 percent in September after a 50 percent freight rate rise, while expenditures rose 18 percent."
+  },
+  {
+   "title": "Railroads",
+   "level": 3,
+   "printed_page": "79",
+   "start_page": 87,
+   "end_page": 93,
+   "summary": "Receipts, record passenger traffic, freight tonnage of 391,151 tons, locomotive census, back-shop repairs of 161 freight cars, wages and coal consumption of 57,331 tons."
+  },
+  {
+   "title": "Marine Transport",
+   "level": 3,
+   "printed_page": "86",
+   "start_page": 93,
+   "end_page": 93,
+   "summary": "LST 002 sailed from Pusan to Shanghai on 12 October, the first Korean-flag, Korean-crewed ship in China in 40 years, carrying 400 tons of hospital equipment."
+  },
+  {
+   "title": "Highway Transport",
+   "level": 3,
+   "printed_page": "87",
+   "start_page": 94,
+   "end_page": 94,
+   "summary": "The Bureau of Highway Transportation operates without an American adviser, and a critical tire shortage looms before the rice collection."
+  },
+  {
+   "title": "Rates and Regulation Committee",
+   "level": 3,
+   "printed_page": "87",
+   "start_page": 94,
+   "end_page": 94,
+   "summary": "After a three-day stevedore strike at Pusan the committee granted a 29 percent increase in handling charges for coal ships."
+  },
+  {
+   "title": "Section 2. Communications",
+   "level": 2,
+   "printed_page": "88",
+   "start_page": 95,
+   "end_page": 103,
+   "summary": "Revenue of 35.8 million won in September, expenditures up 72 percent to 74 million, staff cut by 4,466, postal rates doubled on 1 October, and postal savings and insurance data."
+  },
+  {
+   "title": "Section 3. Public Utilities",
+   "level": 2,
+   "printed_page": "97",
+   "start_page": 104,
+   "end_page": 105,
+   "summary": "October power deliveries of 80 million KWH (55 from the North), 130 streetcars running in Seoul, 54 busses, and power plants hit by water shortages."
+  },
+  {
+   "title": "Section 4. Public Works",
+   "level": 2,
+   "printed_page": "99",
+   "start_page": 106,
+   "end_page": 107,
+   "summary": "150,839 man-days and 26,750 thousand won in wages in October, Yong Dong Po highway repaving, the Han River to Ascom City pipeline with 290 leaks, and a Cheju water survey."
+  },
+  {
+   "title": "Section 5. Housing",
+   "level": 2,
+   "printed_page": "101",
+   "start_page": 108,
+   "end_page": 109,
+   "summary": "Eleven experimental 8-pyung prefabricated houses finished at Yong Dong Po, design changed to 7 pyung, a 40-house project planned, and the 400-house Seoul project completed."
+  },
+  {
+   "title": "Part IV: Finance",
+   "level": 1,
+   "printed_page": "103",
+   "start_page": 110,
+   "end_page": 129,
+   "summary": "Government finance, with note issue at 21.8 billion won and an 18.79 billion won budget, and non-government finance covering banks, deposits, loans and insurance."
+  },
+  {
+   "title": "Section 1. Government Finance",
+   "level": 2,
+   "printed_page": "103",
+   "start_page": 110,
+   "end_page": 117,
+   "summary": "Note issue up 1.4 billion won in October, overdrafts of 29.4 billion, revenue at 72-75 percent of projection, approved budget of 18,785,864,050 won, and civilian supply surplus of 3.996 billion."
+  },
+  {
+   "title": "Note Issue of the Bank of Chosun",
+   "level": 3,
+   "printed_page": "103",
+   "start_page": 110,
+   "end_page": 111,
+   "summary": "Note issue rose to 21,803,700 thousand won, the largest monthly rise since August 1946 apart from the 1946 rice collection months."
+  },
+  {
+   "title": "National Depository of the South Korean Interim Government",
+   "level": 3,
+   "printed_page": "104",
+   "start_page": 111,
+   "end_page": 113,
+   "summary": "Government overdrafts reached 29,425,434 thousand won against 9,566,386 thousand revenue deposits; cumulative excess withdrawals stood at 19,859 million won, with 3 percent interest."
+  },
+  {
+   "title": "Revenue Budget of the South Korean Interim Government",
+   "level": 3,
+   "printed_page": "106",
+   "start_page": 113,
+   "end_page": 114,
+   "summary": "Revenue budget of 15,434,854,856 won passed 2 July; first and second quarter collections were only 75 and 72 percent of projections, with taxes at 66 and 49 percent."
+  },
+  {
+   "title": "Expenditure Budget of SKIG",
+   "level": 3,
+   "printed_page": "107",
+   "start_page": 114,
+   "end_page": 115,
+   "summary": "Budget of 17,720,227,310 won approved 2 July grew to 18,785,864,050 won by 31 October, with 15 pending requests of nearly 3.3 billion won under National Economic Board review."
+  },
+  {
+   "title": "Monthly Receipts and Payments",
+   "level": 3,
+   "printed_page": "108",
+   "start_page": 115,
+   "end_page": 116,
+   "summary": "September expenditures fell 433 million won while revenue rose 461 million; revenue covered 64 percent of spending in 1947/48 against 37 percent in 1946/47."
+  },
+  {
+   "title": "Comparison of Expenditure Budget with Revenue Collections",
+   "level": 3,
+   "printed_page": "110",
+   "start_page": 117,
+   "end_page": 117,
+   "summary": "Approved expenditures exceed projected revenues by 3,351 million won; semi-annual collections were 5,687,898 thousand won, 61 percent of the budget average."
+  },
+  {
+   "title": "Civilian Supply Program",
+   "level": 3,
+   "printed_page": "110",
+   "start_page": 117,
+   "end_page": 117,
+   "summary": "October receipts of 1,224,752,160 won exceeded disbursements of 130,216,169, leaving a balance of 3,995,730,267 won, with 75 million won on fixed deposit."
+  },
+  {
+   "title": "Section 2. Non-Government Finance",
+   "level": 2,
+   "printed_page": "111",
+   "start_page": 118,
+   "end_page": 129,
+   "summary": "Seven banks and 142 financial associations, September deposits up 3.6 billion won to 34,441 million, loan balances of 14,310 million, and credit lines of 12 billion won for rice collection."
+  },
+  {
+   "title": "Financial Institutions and Cash Balances",
+   "level": 3,
+   "printed_page": "111",
+   "start_page": 118,
+   "end_page": 119,
+   "summary": "Financial associations reorganized from 401 offices to 142 with 409 branches; cash balances rose 427 million won to 1,861,983 thousand in September for rice purchases."
+  },
+  {
+   "title": "Deposits in Financial Institutions",
+   "level": 3,
+   "printed_page": "112",
+   "start_page": 119,
+   "end_page": 122,
+   "summary": "Deposit balances rose over 3.6 billion won in September, 55 percent of them government; the Bank of Chosun held 53 percent of all deposits."
+  },
+  {
+   "title": "Loans by Financial Institutions",
+   "level": 3,
+   "printed_page": "116",
+   "start_page": 123,
+   "end_page": 124,
+   "summary": "New loans of 7,842 million won in September; balances rose to 14,310 million, with government-guaranteed loans up 324 million and Chosun Industrial Bank holding 30 percent."
+  },
+  {
+   "title": "Life Insurance",
+   "level": 3,
+   "printed_page": "118",
+   "start_page": 125,
+   "end_page": 125,
+   "summary": "September insurance in force rose 16 percent to 393,277 thousand won; policyholders were down about 48 percent from September 1946 after large lapses."
+  },
+  {
+   "title": "Damage Insurance",
+   "level": 3,
+   "printed_page": "119",
+   "start_page": 126,
+   "end_page": 126,
+   "summary": "Five damage insurers wrote 7,260 policies in September with 1,339,870 thousand won in liabilities; claims paid fell to 31 thousand won."
+  },
+  {
+   "title": "Activities of the Financial Institutions",
+   "level": 3,
+   "printed_page": "120",
+   "start_page": 127,
+   "end_page": 128,
+   "summary": "Loans of 642 million won to cotton gins, 12 billion won of credit lines for rice collection, a bankers' deposit drive for November-December, and gold registration under Ordinance No. 150."
+  },
+  {
+   "title": "Activities of Life and Damage Insurance Companies",
+   "level": 3,
+   "printed_page": "121",
+   "start_page": 128,
+   "end_page": 128,
+   "summary": "Seoul Fire and Marine seeks to buy its vested stock and raise capital from 12.5 to 20 million won; life insurers' reinsurance placed 2,475,000 won."
+  },
+  {
+   "title": "Part V: Government and Politics",
+   "level": 1,
+   "printed_page": "123",
+   "start_page": 130,
+   "end_page": 152,
+   "summary": "Appointment of Dean as Military Governor, Assembly debates on organization and rice, political reactions to election and UN questions, security, police, interzone power talks and legal affairs."
+  },
+  {
+   "title": "Section 1. Administration",
+   "level": 2,
+   "printed_page": "123",
+   "start_page": 130,
+   "end_page": 135,
+   "summary": "Hodge appointed Major General Dean Military Governor on 30 October, KNY anniversary speeches, civil service training, Executive Orders Nos. 6 and 7, and a 30 October Economic Board session on the rice price."
+  },
+  {
+   "title": "Appointment of Military Governor",
+   "level": 3,
+   "printed_page": "123",
+   "start_page": 130,
+   "end_page": 130,
+   "summary": "Lieutenant General John R. Hodge announced on 30 October 1947 that Major General William F. Dean was appointed Military Governor of Korea."
+  },
+  {
+   "title": "Speeches to Korean National Youth, Inc.",
+   "level": 3,
+   "printed_page": "123",
+   "start_page": 130,
+   "end_page": 131,
+   "summary": "Speeches by General Hodge and Brigadier General Helmick on 9 October at the first anniversary, urging non-partisan citizenship and praising the late General Lerch."
+  },
+  {
+   "title": "Korean Civil Service",
+   "level": 3,
+   "printed_page": "125",
+   "start_page": 133,
+   "end_page": 133,
+   "summary": "Weekly work of the seven civil service divisions, a language course for Japanese-educated employees, and classification actions for the National Food Administration."
+  },
+  {
+   "title": "Executive Orders",
+   "level": 3,
+   "printed_page": "125",
+   "start_page": 133,
+   "end_page": 133,
+   "summary": "Executive Order No. 6 (6 October) required notice before police impound vested-business books; No. 7 (22 October) closed the Haibang News Agency under Proclamation No. 2."
+  },
+  {
+   "title": "National Economic Board",
+   "level": 3,
+   "printed_page": "126",
+   "start_page": 134,
+   "end_page": 135,
+   "summary": "Approved 547,440,000 won for Internal Security and 17,000,000 for grain inspectors; on 30 October defended the 640 won per bag rice price before Assembly members."
+  },
+  {
+   "title": "Section 2. Korean Interim Legislative Assembly",
+   "level": 2,
+   "printed_page": "128",
+   "start_page": 136,
+   "end_page": 139,
+   "summary": "Sixteen sessions averaging 66 members, the Temporary Administrative Organizational Law, recommendation of Rhee as UN delegate, rice law amendment, and approval of Lee Choon Ho for Seoul National University."
+  },
+  {
+   "title": "General",
+   "level": 3,
+   "printed_page": "128",
+   "start_page": 136,
+   "end_page": 136,
+   "summary": "Sixteen sessions (Nos. 149-164) held in October with average attendance of 66 of 90 members; vice-speakers Yun Ki Sop and Choe Tong O presided."
+  },
+  {
+   "title": "Korean Interim Administrative Organizational Law",
+   "level": 3,
+   "printed_page": "129",
+   "start_page": 137,
+   "end_page": 138,
+   "summary": "On 14 and 16 October the Assembly renamed it the Temporary Administrative Organizational Law, kept a Department of Police by 44 to 4, and deadlocked on splitting Agriculture and Forestry."
+  },
+  {
+   "title": "Delegate to the United Nations",
+   "level": 3,
+   "printed_page": "130",
+   "start_page": 138,
+   "end_page": 138,
+   "summary": "A petition from 72 groups for Syngman Rhee as UN delegate was forwarded to the administrative branch by 34 to 7 after leftists argued for troop withdrawal instead."
+  },
+  {
+   "title": "Ordinance No. 118",
+   "level": 3,
+   "printed_page": "130",
+   "start_page": 138,
+   "end_page": 139,
+   "summary": "A 40 to 1 vote amended Section V so the Military Governor must promulgate or return ordinances within fifteen days."
+  },
+  {
+   "title": "Rice Collection Program",
+   "level": 3,
+   "printed_page": "131",
+   "start_page": 139,
+   "end_page": 139,
+   "summary": "Confusion between National Food Regulation No. 6 and KILA Public Act No. 6, a 45 to 1 vote to rescind Executive Order No. 8, and a family-use exemption of one mal."
+  },
+  {
+   "title": "President of Seoul National University",
+   "level": 3,
+   "printed_page": "131",
+   "start_page": 139,
+   "end_page": 139,
+   "summary": "Lee Choon Ho was approved on 10 October as president of Seoul National University by a vote of 45 to 4."
+  },
+  {
+   "title": "Temporary Law for the Cessation of Professional Entertainment Activities",
+   "level": 3,
+   "printed_page": "131",
+   "start_page": 139,
+   "end_page": 139,
+   "summary": "First reading completed 28 October of a bill to temporarily close restaurants, night clubs and dance halls as demoralizing."
+  },
+  {
+   "title": "Section 3. Political Developments",
+   "level": 2,
+   "printed_page": "132",
+   "start_page": 140,
+   "end_page": 142,
+   "summary": "Rhee's call for an immediate election, formation of the moderate National Independence Federation under Kimm Kiu Sic, and uproar over the police report of the South Korea Labor Party's 15 August riot plan."
+  },
+  {
+   "title": "Section 4. Internal Security",
+   "level": 2,
+   "printed_page": "135",
+   "start_page": 143,
+   "end_page": 143,
+   "summary": "Coast Guard harbor block at Pusan boarded 672 vessels in one week, Constabulary guarded Pusan coal, and conferences addressed police friction with Constabulary and terroristic youth groups."
+  },
+  {
+   "title": "Section 5. Police",
+   "level": 2,
+   "printed_page": "136",
+   "start_page": 144,
+   "end_page": 146,
+   "summary": "Second police anniversary, rules limiting rice-quota abuses, Executive Order No. 6 on inspections, curbs on forced fund solicitation, venereal disease clinics, and arrests of 84 Labor Party members in Cholla-namdo."
+  },
+  {
+   "title": "Section 6. Interzone Activities",
+   "level": 2,
+   "printed_page": "139",
+   "start_page": 147,
+   "end_page": 148,
+   "summary": "Pyongyang talks of 21-24 October on payment for 537,678,737 KWH of North Korean power, and a 18 October mail exchange of 6,348 South Korean letters."
+  },
+  {
+   "title": "Section 7. Legal Affairs",
+   "level": 2,
+   "printed_page": "141",
+   "start_page": 149,
+   "end_page": 152,
+   "summary": "Ordinance No. 150 on gold, Executive Order No. 8 on rice transport, three Justice Department opinions, 20,652 prisoners, and 54 of 700 applicants admitted to the bar."
+  },
+  {
+   "title": "Part VI: Social",
+   "level": 1,
+   "printed_page": "145",
+   "start_page": 153,
+   "end_page": 174,
+   "summary": "Public health, education, public information, press opinion and Korean National Youth, including a Sanchong cholera outbreak, 3,122,140 pupils, and youth membership of 290,333."
+  },
+  {
+   "title": "Section 1. Public Health and Welfare",
+   "level": 2,
+   "printed_page": "145",
+   "start_page": 153,
+   "end_page": 160,
+   "summary": "Cholera outbreak with 14 proven cases in Sanchong, vaccine stocks, typhus control plan, 1,764 narcotic licenses, refugee camp winterization, 19,707 refugee dwellings, and Women's Bureau work."
+  },
+  {
+   "title": "Section 2. Education",
+   "level": 2,
+   "printed_page": "153",
+   "start_page": 161,
+   "end_page": 167,
+   "summary": "Korean Alphabet Day on 9 October, 12,452 schools with 3,122,140 pupils, textbook output of 339,754, scholarships to the US, Technological Training Board projects, and a Cheju-do teacher shortage."
+  },
+  {
+   "title": "Cheju-do Education",
+   "level": 3,
+   "printed_page": "157",
+   "start_page": 165,
+   "end_page": 167,
+   "summary": "Eight accredited middle schools with 2,921 students and 60 teacher vacancies, 96 elementary schools short by 471 teachers, and a school dispute with the 9th Constabulary."
+  },
+  {
+   "title": "Section 3. Public Information",
+   "level": 2,
+   "printed_page": "160",
+   "start_page": 168,
+   "end_page": 170,
+   "summary": "95 news releases, 1,060,000 pamphlets with Hodge's UN letter air-dropped on villages, seven information centers, 11 radio stations, and 21 US films licensed."
+  },
+  {
+   "title": "Section 4. Press and Public Opinion",
+   "level": 2,
+   "printed_page": "163",
+   "start_page": 171,
+   "end_page": 172,
+   "summary": "Moderate, leftist and rightist papers split over the Russian withdrawal proposal, Rhee's election call, and the ban on rice transportation, blamed for sudden price rises."
+  },
+  {
+   "title": "Section 5. Korean National Youth, Inc.",
+   "level": 2,
+   "printed_page": "165",
+   "start_page": 173,
+   "end_page": 174,
+   "summary": "Helmick's statement of aims, membership up to 290,333 by 31 October, first anniversary celebrations of 7-11 October with 10,000 in the Seoul parade, and terrorism by Taedong groups."
+  }
+ ],
+ "_model": "claude-sonnet (Claude Code subagent)",
+ "_pages": 174,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

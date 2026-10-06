@@ -79,12 +79,16 @@ def inside(sec, ranges):
     return any(a <= sec["p"][0] and sec["p"][1] <= b for a, b in ranges)
 
 
+OVERRIDES = json.load(open(os.path.join(HERE, "catalog", "overrides.json"), encoding="utf-8"))
+
+
 def main():
     recs = []
     for f in files():
         pages = ocr_pages(f["ocr"])
         rec = {k: f[k] for k in ("id", "ia", "s", "no", "d", "d2", "t", "v")}
         rec["pg"] = max(pages) if pages else 0
+        rec.update(OVERRIDES.get(f["id"], {}))   # corrections, e.g. a PDF filed under the wrong series
         cat = os.path.join(HERE, "catalog", f["id"] + ".json")
         if os.path.exists(cat):
             c = json.load(open(cat, encoding="utf-8"))

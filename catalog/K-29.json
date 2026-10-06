@@ -1,0 +1,559 @@
+{
+ "summary": "Report No. 29 of South Korean Interim Government Activities covers February 1948, prepared by the National Economic Board for USAMGIK. The month was dominated by the cold-war split over elections: leftist sabotage and the attempted general strike of 7-10 February, the UN Interim Committee's 27 February decision to observe elections in South Korea alone, and the collapse of KILA after Speaker Kimm Kiu-sic and about 30 members resigned. Economically it records record bituminous coal imports (83,330 tons), a completed rice collection at 97.6 percent of quota, cuts in urban rations, falling wholesale prices, the first month in which government revenue deposits exceeded Bank of Chosun withdrawals, and the Military Governor's directive to balance the 1948/49 budget. It also reports vested property disposal and land-sale planning, new railroad and bus rate increases, police and civil-liberties reforms, public health, education, culture, press opinion, Korean National Youth, women's activities, a Seoul 1947 census analysis, and North Korean broadcasts and draft constitution. Historians will find dense statistical tables alongside political narrative.",
+ "highlights": [
+  "A leftist revolt and attempted general strike on 7-10 February damaged 52 locomotives, cut telephone and telegraph lines and attacked police boxes; a police report for 6-12 February listed 6 police and 29 rioters killed, with 1,489 arrests reported by the press.",
+  "On 27 February the UN Interim Committee voted 31 to 2, with 11 abstentions, to carry out Resolution II by observing elections in South Korea alone; Rhee Syngman welcomed it while Kimm Kiu-sic and Kim Koo expressed disappointment.",
+  "KILA collapsed after rightists pushed an 'Urgent Proposal' to the UN Commission; Speaker Kimm Kiu-sic and Vice-Speaker Choe Tong-O resigned on 27 February, and about 29 moderate and leftist members signed a protest.",
+  "The 1947/48 rice collection ended 15 February at 97.6 percent of the 773,477-ton quota, but import shortfalls forced urban rations down to about 2 hop (290 grams) in some cities; 225,000 tons of grain imports are projected for 1948/49.",
+  "Bituminous coal imports from Japan reached 83,330 metric tons, the best month since October 1945, and anthracite output hit 41,357 tons, yet coal-tar pitch and rail transport shortages kept briquettes and industry depressed.",
+  "For the first time Bank of Chosun revenue deposits (1,391 million won) exceeded withdrawals (1,005 million), cutting cumulative excess withdrawals by 386 million won, while note issue fell 722 million won in the month.",
+  "On 25 February the Military Governor directed the National Economic Board to balance the 1948/49 budget; the Board judged 22,000 million won the realistic revenue figure, and Maj.-Gen. Helmick reported on his Washington trip for GARIOA funds.",
+  "The New Korea Company drafted a land valuation system for its 324,604 chungbo, priced at three times annual crop and payable over 15 years, and a Land Reform Committee drafted an ordinance for disposing of vested farmland."
+ ],
+ "keywords": [
+  "South Korean Interim Government",
+  "USAMGIK",
+  "UN Temporary Commission on Korea",
+  "7 February 1948 strike and sabotage",
+  "Korean Interim Legislative Assembly",
+  "Kimm Kiu-sic",
+  "Kim Koo",
+  "Rhee Syngman",
+  "rice collection",
+  "vested property",
+  "bituminous coal imports",
+  "inflation and prices",
+  "budget 1948/49",
+  "National Police reform",
+  "Korean National Youth",
+  "Radio Pyongyang"
+ ],
+ "printed_toc_found": true,
+ "embedded_issues": [],
+ "sections": [
+  {
+   "title": "Front matter",
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "end_page": 7,
+   "summary": "Cover of No. 29, February 1948, prepared by the National Economic Board, a blank page, and the six-page table of contents of Parts I-VI."
+  },
+  {
+   "title": "Introduction",
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 8,
+   "end_page": 9,
+   "summary": "Overview of February: the 7 February revolt, the 27 February UN decision on elections, KILA's near-collapse, a 58 percent rise in northern refugees, and an industrial picture still bleak despite better coal supplies."
+  },
+  {
+   "title": "Part I: Basic Aspects",
+   "level": 1,
+   "printed_page": "3",
+   "start_page": 10,
+   "end_page": 24,
+   "summary": "Population movements, a 1947 Seoul census analysis, Korean schools and officials in Japan, and vested property disposal, textile rehabilitation and guaranteed loans."
+  },
+  {
+   "title": "Section 1. Population and Foreign Affairs",
+   "level": 2,
+   "printed_page": "3",
+   "start_page": 10,
+   "end_page": 19,
+   "summary": "Refugee inflow rose 58 percent to 4,074 in February; Seoul's 779,890 adults were profiled; Osaka planned to close a quarter of its Korean schools; 192 Koreans were interned for illegal entry to Japan."
+  },
+  {
+   "title": "Population Migration",
+   "level": 3,
+   "printed_page": "3",
+   "start_page": 10,
+   "end_page": 12,
+   "summary": "Refugees from north of the 38th parallel numbered 4,074 in February against 2,541 in January; cumulative inbound movement since 1945 reached 2,360,527 against 885,995 outbound."
+  },
+  {
+   "title": "Seoul Census for 1947",
+   "level": 3,
+   "printed_page": "6",
+   "start_page": 13,
+   "end_page": 14,
+   "summary": "March 1947 census tables: housewives 29.2 percent of adults, 40.9 percent with no education, 60.9 percent married, and a total Seoul population of 1,178,951."
+  },
+  {
+   "title": "Koreans in Manchuria",
+   "level": 3,
+   "printed_page": "8",
+   "start_page": 15,
+   "end_page": 16,
+   "summary": "About 800,000 Koreans live in Manchuria, half in the Chientao area, down from a 1945 peak of 1,548,368 recorded in Table 8."
+  },
+  {
+   "title": "Osaka School Activities",
+   "level": 3,
+   "printed_page": "10",
+   "start_page": 17,
+   "end_page": 17,
+   "summary": "The Osaka team planned to consolidate 56 elementary and five middle Korean schools into about 10 accredited schools, taking them from Korean League control before the 1 April school year."
+  },
+  {
+   "title": "Korean Affairs in Japan",
+   "level": 3,
+   "printed_page": "11",
+   "start_page": 18,
+   "end_page": 18,
+   "summary": "SKIG Liaison staff in Tokyo faced billeting and food-payment problems, per diem rose from 300 to 400 yen, and Nagoya Korean groups were investigated over 1,130,000 yen of charity funds."
+  },
+  {
+   "title": "Miscellaneous",
+   "level": 3,
+   "printed_page": "12",
+   "start_page": 19,
+   "end_page": 19,
+   "summary": "192 Koreans were interned for illegal entry to Japan; draft immigration regulations were prepared, and the SS Pung Chu Whan was detained in Shanghai."
+  },
+  {
+   "title": "Section 2. Vested Property",
+   "level": 2,
+   "printed_page": "13",
+   "start_page": 20,
+   "end_page": 24,
+   "summary": "Thirty-five sales totaled 4,600,800 won; 409 companies were screened for reorganization; 299 plants were leased; textile loans above 200,000,000 won were guaranteed; theatres and the Tong Dai Mon factory were priced for sale."
+  },
+  {
+   "title": "Part II: Production and Supply",
+   "level": 1,
+   "printed_page": "19",
+   "start_page": 25,
+   "end_page": 106,
+   "summary": "Food supply, agriculture, prices, industrial output, mining, allocations, trade and labor, marked by completed rice collection, coal imports, shortages of power, pitch and wheat, and rising prices."
+  },
+  {
+   "title": "Section 1. Food Supply",
+   "level": 2,
+   "printed_page": "19",
+   "start_page": 26,
+   "end_page": 34,
+   "summary": "Rice collection closed 15 February at 97.6 percent of quota; urban rations were cut to about 2 hop; 225,000 tons of grain imports are projected for 1948/49."
+  },
+  {
+   "title": "Section 2. Agriculture, Forestry and Fisheries",
+   "level": 2,
+   "printed_page": "28",
+   "start_page": 35,
+   "end_page": 40,
+   "summary": "New Korea Company land valuation plan for 324,604 chungbo, 13,898,000 straw bags distributed, 1947 sericulture figures, laver exports to Japan, Ordinance No. 165 on the Agricultural Association, and Kyonggi 4-H clubs rising to 1,072."
+  },
+  {
+   "title": "Section 3. Prices",
+   "level": 2,
+   "printed_page": "34",
+   "start_page": 41,
+   "end_page": 51,
+   "summary": "Seoul retail index reached 2,310 (August 1945 = 100), up four percent, while the wholesale index fell six percent to 6,910, its first decline since April 1947."
+  },
+  {
+   "title": "Section 4. Industrial Production",
+   "level": 2,
+   "printed_page": "45",
+   "start_page": 52,
+   "end_page": 64,
+   "summary": "January 1948 output of flour, cotton, paper, cement, rubber and tobacco, hampered by pulp, pitch and power shortages; Puksan Paper Mill resumed; full 1947 annual production table."
+  },
+  {
+   "title": "Section 5. Mining and Minerals",
+   "level": 2,
+   "printed_page": "58",
+   "start_page": 65,
+   "end_page": 76,
+   "summary": "Anthracite output 41,357 tons in January; bituminous imports 83,330 tons in February; pitch scarce; gold, silver, tungsten, zinc and lead production up, copper down."
+  },
+  {
+   "title": "Section 6. Allocations and Distribution",
+   "level": 2,
+   "printed_page": "70",
+   "start_page": 77,
+   "end_page": 90,
+   "summary": "Consumer Goods Allocation Board still organizing; petroleum prices raised effective 1 April; 223,000,000 won of year-end bonus goods allocated and distributed through the Federation of Financial Associations."
+  },
+  {
+   "title": "Section 7. Imports and Exports",
+   "level": 2,
+   "printed_page": "84",
+   "start_page": 91,
+   "end_page": 102,
+   "summary": "January private imports 352,286,000 won and exports 348,095,000 won; trustee-shipment and foreign-trade loan rules; laver exports to Japan worth $2,430,576; Egyptian cotton warehouse fire."
+  },
+  {
+   "title": "Section 8. Labor",
+   "level": 2,
+   "printed_page": "96",
+   "start_page": 103,
+   "end_page": 106,
+   "summary": "Seoul Electric contract extended; a Marine Bureau union election set for 5-7 March; 84,363 union members in 277 unions at end 1947; child labor inspections at Yong Dong Po mills."
+  },
+  {
+   "title": "Part III: Public Services",
+   "level": 1,
+   "printed_page": "101",
+   "start_page": 107,
+   "end_page": 136,
+   "summary": "Transportation, communications, public utilities and public works, with rate increases, 7 February rail sabotage, improved power delivery and flood-control planning."
+  },
+  {
+   "title": "Section 1. Transportation",
+   "level": 2,
+   "printed_page": "101",
+   "start_page": 108,
+   "end_page": 118,
+   "summary": "Rail fares rose 25 to 50 percent; sabotage damaged 52 locomotives on 7 February; January railroad income and passengers (2,181,000) fell sharply; a Pusan pier warehouse burned."
+  },
+  {
+   "title": "Section 2. Communications",
+   "level": 2,
+   "printed_page": "112",
+   "start_page": 119,
+   "end_page": 126,
+   "summary": "January revenue and expenditure of the Department of Communications, postal deposits of 864,895,000 won, 172,970 telephone messages, and a 500-watt emergency transmitter installed 4 February."
+  },
+  {
+   "title": "Section 3. Public Utilities",
+   "level": 2,
+   "printed_page": "120",
+   "start_page": 127,
+   "end_page": 130,
+   "summary": "72,000,000 KWH delivered in February; the Emergency Power Board extended the curfew to 2300; Seoul tram fares approved to rise from two to five won on 5 March."
+  },
+  {
+   "title": "Section 4. Public Works",
+   "level": 2,
+   "printed_page": "124",
+   "start_page": 131,
+   "end_page": 136,
+   "summary": "The Seoul-Pusan highway cost 236,753,124 won to date; a Seoul-East Coast road planned at 100,000,000 won; 50,000,000 won flood-control allocation; 149 fires caused 219,143,550 won of loss."
+  },
+  {
+   "title": "Part IV: Finance",
+   "level": 1,
+   "printed_page": "131",
+   "start_page": 137,
+   "end_page": 162,
+   "summary": "Government finance turned a corner in February with revenue deposits exceeding withdrawals, while non-government finance showed January deposit growth of 15 percent."
+  },
+  {
+   "title": "Section 1. Government Finance",
+   "level": 2,
+   "printed_page": "131",
+   "start_page": 138,
+   "end_page": 150,
+   "summary": "Note issue fell 722 million won; supplementary appropriations of 627,299,553 won approved; the Military Governor's 25 February directive and 22,000-million-won revenue estimate for 1948/49; guaranteed loans of 12,420,275,259 won."
+  },
+  {
+   "title": "Section 2. Non-Government Finance",
+   "level": 2,
+   "printed_page": "144",
+   "start_page": 151,
+   "end_page": 162,
+   "summary": "January deposits rose 6,882 million won to 52,208 million; loans fell 1,062 million; insurance activity; Foreign Exchange Bank's first trade loan on the SS Carrick Bend; new borrower registration rules."
+  },
+  {
+   "title": "Part V: Government and Politics",
+   "level": 1,
+   "printed_page": "157",
+   "start_page": 163,
+   "end_page": 194,
+   "summary": "Administration, the collapse of KILA, the election dispute, legal reform, the police and the February disturbances, and North Korean interzone propaganda."
+  },
+  {
+   "title": "Section 1. Administration",
+   "level": 2,
+   "printed_page": "157",
+   "start_page": 164,
+   "end_page": 167,
+   "summary": "General Helmick's Washington mission for GARIOA funds, silk decontrolled, coal price increases recommended, reorganization to cut 40 percent of bureaus, a vested farmland sale ordinance drafted, and MG personnel at 2,583."
+  },
+  {
+   "title": "Section 2. Korean Interim Legislative Assembly",
+   "level": 2,
+   "printed_page": "161",
+   "start_page": 168,
+   "end_page": 176,
+   "summary": "The Assembly approved the 1947 budget 38 to one, then split over the rightists' 'Urgent Proposal' to the UN; Speaker Kimm Kiu-sic and Vice-Speaker Choe Tong-O resigned on 27 February."
+  },
+  {
+   "title": "General",
+   "level": 3,
+   "printed_page": "161",
+   "start_page": 168,
+   "end_page": 168,
+   "summary": "Sessions 200-207 in February, with the 1947 budget passed on 2 February and quorum failures, ending in resignations of the Speaker and Vice-Speaker."
+  },
+  {
+   "title": "Regular Business",
+   "level": 3,
+   "printed_page": "162",
+   "start_page": 169,
+   "end_page": 170,
+   "summary": "Kukmin College eviction dispute, the Koje Island fishing petition, nationality law provisions, absent members, rice rationing complaints and the 7,000,000 won prostitution bribery inquiry."
+  },
+  {
+   "title": "Rightist Proposal to UN Commission",
+   "level": 3,
+   "printed_page": "164",
+   "start_page": 171,
+   "end_page": 176,
+   "summary": "The 19 February Urgent Proposal signed by 43 members, the walkout of moderates and leftists, Yu Nae-wan's modified text passed 40 to 0, and the 27 February resignations."
+  },
+  {
+   "title": "Section 3. Political Developments",
+   "level": 2,
+   "printed_page": "170",
+   "start_page": 177,
+   "end_page": 180,
+   "summary": "Menon's 19 February speech surveying parties, Kim Koo's six principles, his agreement with Kimm Kiu-sic, and the UN Interim Committee's 31-2 vote for elections in South Korea."
+  },
+  {
+   "title": "General",
+   "level": 3,
+   "printed_page": "170",
+   "start_page": 177,
+   "end_page": 177,
+   "summary": "Division between Rhee's South-only election camp and Kimm Kiu-sic's supporters of nationwide elections; Dr. Menon's description of rightist, moderate and leftist parties."
+  },
+  {
+   "title": "Kim Koo's Statement",
+   "level": 3,
+   "printed_page": "171",
+   "start_page": 178,
+   "end_page": 178,
+   "summary": "Kim Koo's six principles to UN Sub-Committee No. 2, including nationwide elections, release of political prisoners and a North-South leaders' conference, drew extreme rightist censure."
+  },
+  {
+   "title": "Agreement Between Kim Koo and Kimm Kiu-sic",
+   "level": 3,
+   "printed_page": "172",
+   "start_page": 179,
+   "end_page": 179,
+   "summary": "Announced 7 February; the two backed a leaders' conference, and on 10 February met Rhee, whose brief compromise collapsed over the conference proposal."
+  },
+  {
+   "title": "UN Interim Committee Decision",
+   "level": 3,
+   "printed_page": "172",
+   "start_page": 179,
+   "end_page": 180,
+   "summary": "Menon's three alternatives and the 27 February 31-2 vote approving elections in South Korea, welcomed by Rhee and regretted by Kimm Kiu-sic and Kim Koo."
+  },
+  {
+   "title": "Section 4. Legal Affairs",
+   "level": 2,
+   "printed_page": "174",
+   "start_page": 181,
+   "end_page": 184,
+   "summary": "Executive Orders Nos. 10, 11 and 13 (Sam Il Day ceremonies restricted), Justice opinions Nos. 1415-1438, 191 prison guards graduated, a prosecutor beating case, and a draft warrant and right-to-counsel ordinance."
+  },
+  {
+   "title": "Section 5. National Police",
+   "level": 2,
+   "printed_page": "178",
+   "start_page": 185,
+   "end_page": 189,
+   "summary": "Civil-liberties reform proposals, Military Governor Dean's letter placing provincial police chiefs under governors, the 7-10 February strike and riots with casualty counts, and a commendation for catching 12 counterfeiters."
+  },
+  {
+   "title": "Civil Liberties",
+   "level": 3,
+   "printed_page": "178",
+   "start_page": 185,
+   "end_page": 185,
+   "summary": "Police Department recommendations to cap detention at three days without charge, inspect jails, allow counsel, and curb graft and brutality."
+  },
+  {
+   "title": "Police Under Civil Administration",
+   "level": 3,
+   "printed_page": "179",
+   "start_page": 186,
+   "end_page": 186,
+   "summary": "General Dean's 26 January letter, released 2 February, made provincial police chiefs answerable to governors for law and order, but not for organization, finance or personnel."
+  },
+  {
+   "title": "Strikes and Disturbances",
+   "level": 3,
+   "printed_page": "180",
+   "start_page": 187,
+   "end_page": 188,
+   "summary": "The 7-10 February attempted general strike, locomotive sabotage in Taejon and Pusan, police-box attacks, a police casualty table, and a feeble second attempt on 26-28 February."
+  },
+  {
+   "title": "Commendation by Military Governor",
+   "level": 3,
+   "printed_page": "182",
+   "start_page": 189,
+   "end_page": 189,
+   "summary": "General Dean commended four patrolmen who raided a Seoul basement counterfeiting operation on 8 February and arrested 12 suspects."
+  },
+  {
+   "title": "Section 6. Interzone Activities",
+   "level": 2,
+   "printed_page": "183",
+   "start_page": 190,
+   "end_page": 194,
+   "summary": "Over 45,000 mail items exchanged at Tosong, Radio Pyongyang's attacks on General Hodge and the UN, the 8 February Korean People's Army, a draft North Korean constitution, and a reported 12 February border clash."
+  },
+  {
+   "title": "Mail Exchange",
+   "level": 3,
+   "printed_page": "183",
+   "start_page": 190,
+   "end_page": 190,
+   "summary": "Mail swapped at Tosong on 7 and 21 February, with 13,465 letters sent south-to-north on the first date."
+  },
+  {
+   "title": "Intercepts",
+   "level": 3,
+   "printed_page": "183",
+   "start_page": 190,
+   "end_page": 192,
+   "summary": "Radio Pyongyang propaganda, the 8 February inauguration of the Korean People's Army, Kim Il-sung's 1948 production quotas, and the 16 February draft constitution of the Democratic People's Republic."
+  },
+  {
+   "title": "Border Incident",
+   "level": 3,
+   "printed_page": "187",
+   "start_page": 193,
+   "end_page": 194,
+   "summary": "Dae Han Ilbo claimed 50 North Korean police attacked a police box near Chungdae, Kyonggi-do, on 12 February and were routed by 20 mechanized South Korean police."
+  },
+  {
+   "title": "Part VI: Social",
+   "level": 1,
+   "printed_page": "189",
+   "start_page": 195,
+   "end_page": 235,
+   "summary": "Health, education, culture, press opinion, Korean National Youth and women's activities, including the abolition of licensed prostitution on 14 February and a bribery scandal."
+  },
+  {
+   "title": "Section 1. Public Health and Welfare",
+   "level": 2,
+   "printed_page": "189",
+   "start_page": 196,
+   "end_page": 202,
+   "summary": "Infant mortality study (62,198 deaths of children under five in 1946), typhus outbreak in Kyongsang-pukto, Public Act No. 7 ending licensed prostitution on 14 February, and 296,000 vials of penicillin received."
+  },
+  {
+   "title": "Section 2. Education",
+   "level": 2,
+   "printed_page": "196",
+   "start_page": 203,
+   "end_page": 208,
+   "summary": "Middle school tuition to rise from 600 to 1,800 won on 1 April; elementary budget cut to 1,600 million won; teacher certification; Teachers' Training Center planned; 95,615 textbooks distributed in February."
+  },
+  {
+   "title": "Section 3. Culture",
+   "level": 2,
+   "printed_page": "202",
+   "start_page": 209,
+   "end_page": 214,
+   "summary": "The Tai Guk flag symbolism, Lunar New Year 4281 on 10 February, museum fellowships for Kim Che-won, a Mozart concert, the first volume of the New Korean Dictionary and HLKA's 21st anniversary."
+  },
+  {
+   "title": "Section 4. Press and Public Opinion",
+   "level": 2,
+   "printed_page": "208",
+   "start_page": 215,
+   "end_page": 224,
+   "summary": "Newspaper reactions to the UN Commission, the strikes, police reform, the prostitution-law bribery case and inflation; a poll of 938 Seoulites found 84.5 percent opposed the City Hall house sale."
+  },
+  {
+   "title": "Introduction",
+   "level": 3,
+   "printed_page": "208",
+   "start_page": 215,
+   "end_page": 215,
+   "summary": "The UN Commission dominated press coverage; world affairs got more space and a bribery scandal emerged late in the month."
+  },
+  {
+   "title": "Appeals to Reason",
+   "level": 3,
+   "printed_page": "208",
+   "start_page": 215,
+   "end_page": 215,
+   "summary": "Editorials on Gandhi's murder, Korean disunity, militarism, narcotics and the plight of scholars, from papers such as Cha Yoo Shin Mun."
+  },
+  {
+   "title": "UN Commission Activities",
+   "level": 3,
+   "printed_page": "209",
+   "start_page": 216,
+   "end_page": 217,
+   "summary": "Press coverage of Sub-Committee No. 2 interviews, the Political Affairs Council's view, Menon's 19 February speech, and the North Korean People's Republic announcement."
+  },
+  {
+   "title": "Strikes",
+   "level": 3,
+   "printed_page": "211",
+   "start_page": 218,
+   "end_page": 218,
+   "summary": "Press accounts of the 7-10 February strike, Hodge's 10 February statement, and totals of 1,489 arrests (later 8,479 by 26 February) and 39 locomotives damaged."
+  },
+  {
+   "title": "Police",
+   "level": 3,
+   "printed_page": "211",
+   "start_page": 218,
+   "end_page": 220,
+   "summary": "Newspaper debate over subordinating police to governors, UN criticism, rightist defense of Chough Pyong-ok's force, and trial of Kim Doo-han for two murders."
+  },
+  {
+   "title": "Bribery Case",
+   "level": 3,
+   "printed_page": "214",
+   "start_page": 221,
+   "end_page": 221,
+   "summary": "Eviction of 568 to 670 prostitutes on 14 February and their claim to have paid 7,000,000 won to legislators; General Dean's 27 February statement on press discussion."
+  },
+  {
+   "title": "Economics",
+   "level": 3,
+   "printed_page": "215",
+   "start_page": 222,
+   "end_page": 222,
+   "summary": "Editorials on inflation, railroad rate increases, falling cloth prices, budget balancing and a petition to postpone land reform."
+  },
+  {
+   "title": "Bureau of Public Opinion Polls",
+   "level": 3,
+   "printed_page": "216",
+   "start_page": 223,
+   "end_page": 223,
+   "summary": "Poll of 938 Seoul residents on 23-26 February: 84.5 percent of those aware opposed the sale of City Hall employee houses; a report on forced police contributions."
+  },
+  {
+   "title": "Department of Public Information",
+   "level": 3,
+   "printed_page": "217",
+   "start_page": 224,
+   "end_page": 224,
+   "summary": "94 press releases issued, 16,000 Korean Pictorial copies printed, nightly monitoring of Radio Pyongyang begun, and a list of political parties given to the UN Commission."
+  },
+  {
+   "title": "Section 5. Korean National Youth, Inc.",
+   "level": 2,
+   "printed_page": "218",
+   "start_page": 225,
+   "end_page": 231,
+   "summary": "Membership audited at 519,938; 227 delegates re-elected Lee Bum-suk on 22-23 February; leftist infiltration foiled during the 7 February riots; 55 training centers operating."
+  },
+  {
+   "title": "Section 6. Women's Activities",
+   "level": 2,
+   "printed_page": "225",
+   "start_page": 232,
+   "end_page": 235,
+   "summary": "Korean women hosted the UN Commission as equals; the Women's Bureau (founded 1946) moved to Hokuksa Temple; the Altrusa Club and YWCA ran English and sewing classes."
+  }
+ ],
+ "_model": "claude-sonnet (Claude Code subagent)",
+ "_pages": 235,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}
