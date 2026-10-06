@@ -1,0 +1,742 @@
+{
+ "summary": "Final issue of South Korean Interim Government Activities, covering July-August 1948 and prepared by the National Economic Board's Statistics Division. It records the 15 August 1948 establishment of the Republic of Korea, the end of USAMGIK (succeeded by the Civil Affairs Section, USAFIK) and the continuing SKIG wind-down. The Summary and the retrospective passages review three years of occupation: population movement, vested property, agriculture and fertilizer, industry under the loss of northern electric power (cut 14 May), trade, labor, transport, finance, law, police, health, education, press, youth and women. Political chapters cover the Constitution, Government Organization Law, National Assembly, Rhee's cabinet and party history. Historians will find extensive statistics (refugees, prices, production, trade, deposits, budgets), the vested-property handover, the Torture Case against the police, the floods, and candid official assessments of occupation achievements and limits.",
+ "highlights": [
+  "Republic of Korea proclaimed 15 August 1948; USAMGIK replaced by the Civil Affairs Section, USAFIK; Rhee Syngman president, Lee Bum-suk premier.",
+  "Northern electric power cut 14 May; local generation reached 55.6 million KWH in August versus 33 million in April.",
+  "About 950,000 refugees counted from the north since 1945; 1.2 million Koreans repatriated; roughly 900,000 Japanese left.",
+  "Vested property worth 85,000 million won under custody; 35 companies transferred to elected boards; 481,957 acres of Japanese farmland sold to farmers.",
+  "SKIG overdraft exceeded 22,000 million won at August close; F/Y 1948/49 budget about 30,000 million won.",
+  "Fertilizer imports passed 548,000 metric tons since October 1946; a bumper 1948 rice crop expected.",
+  "Torture Case in Seoul police Division M led to resignations of top National Police Detective Bureau officials in August.",
+  "Korean National Youth donated over 12.6 million eight-hour work days of labor from January 1947 to 15 August 1948."
+ ],
+ "keywords": [
+  "Republic of Korea",
+  "end of USAMGIK",
+  "National Economic Board",
+  "refugees",
+  "repatriation",
+  "vested property",
+  "fertilizer",
+  "electric power shortage",
+  "foreign trade",
+  "inflation",
+  "Constitution",
+  "National Assembly",
+  "National Police",
+  "Korean National Youth",
+  "floods"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "title": "Front matter",
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "end_page": 10,
+   "summary": "Front matter of the final SKIG Activities report (No. 34, July-August 1948): list of National Economic Board members under Chairman Wilhelm Anderson, Statistics Division contributors, and a foreword by Arthur G. Peterson. The foreword notes the Republic's establishment on 15 August, the series' history since 1946, poor Korean statistics and staff losses, followed by the table of contents."
+  },
+  {
+   "title": "Summary",
+   "level": 1,
+   "printed_page": "1",
+   "start_page": 11,
+   "end_page": 14,
+   "summary": "Chairman Anderson reviews the three-year occupation ending 15 August 1948 with the Republic's founding. He covers refugee and repatriate population growth, near food self-sufficiency from fertilizer imports, trade deficit falling from 400 to 25 per cent, the northern power cutoff of 14 May, vested property and farmland sales, price inflation, the overdraft above 22,000 million won, and continuing ECA aid."
+  },
+  {
+   "title": "Part I. Basic Aspects",
+   "level": 1,
+   "printed_page": "5",
+   "start_page": 15,
+   "end_page": 40,
+   "summary": "Population and foreign affairs; vested property."
+  },
+  {
+   "title": "Section 1. Population and Foreign Affairs",
+   "level": 2,
+   "printed_page": "5",
+   "start_page": 15,
+   "end_page": 29,
+   "summary": "Refugee, repatriation and population statistics through August 1948, the Turk-Tartar emigration to Turkey, demographic estimates and the Population and Census Committee."
+  },
+  {
+   "title": "Refugees",
+   "level": 3,
+   "printed_page": "6",
+   "start_page": 16,
+   "end_page": 17,
+   "summary": "The National Refugee Board was created on 12 May 1947 to plan refugee rehabilitation and distribution to provinces. The text traces 1945 to 1947 migration from North Korea, China and Manchuria, with seasonal peaks tied to food shortage. Table 1 counts 185,441 in 1946, 163,235 in 1947 and 86,036 to mid-August 1948. Seoul entry was barred from 1 July 1947; bypassing camps fueled crime."
+  },
+  {
+   "title": "Repatriation",
+   "level": 3,
+   "printed_page": "8",
+   "start_page": 18,
+   "end_page": 20,
+   "summary": "Table 2 gives cumulative movement since October 1945: 886,618 outbound, mostly Japanese civilians and military, against 2,454,480 inbound, including 1,115,550 Koreans from Japan and 622,044 from North Korea. Net repatriation equals about seven per cent of population. Japan's Home Affairs Bureau reports 596,780 Koreans remain there, and 21,916 stragglers were apprehended and returned by December 1947."
+  },
+  {
+   "title": "Emigration of Stateless Turk-Tartars",
+   "level": 3,
+   "printed_page": "10",
+   "start_page": 20,
+   "end_page": 22,
+   "summary": "Turkey issued visas in August 1948 to 151 stateless Turk-Tartars (97 adults, 54 children) living in Seoul, Pusan and Inchon, handled by Lt. J. F. Guilfoyle. The text gives their history and fears of Soviet return, Turkish conditions, and the Office of Foreign Affairs' won-dollar exchange recommendations. The project passed to the Republic's Foreign Ministry; sailing was expected by end of October."
+  },
+  {
+   "title": "Statistical Analysis of Population in South Korea",
+   "level": 3,
+   "printed_page": "12",
+   "start_page": 22,
+   "end_page": 28,
+   "summary": "George Deihl's analysis compares 1947 Seoul and national vital registrations to estimate under-reporting, deriving about 887,000 births (44.35 per thousand), 260,000 deaths and 3.1 per cent natural increase, or 627,000. Tables give age and sex distribution from food-ration registers, the estimated 1 July 1948 population of 20.3 million, rural-urban contrasts, death rates, a mortality table, and life expectancy at birth of 45 to 49 years."
+  },
+  {
+   "title": "Population and Census Committee",
+   "level": 3,
+   "printed_page": "19",
+   "start_page": 29,
+   "end_page": 29,
+   "summary": "The Committee on Population and Census Statistics was set up on 4 March 1948 to coordinate SKIG agencies' population data and devised monthly tabulations of births by sex and deaths by province. It issued quarterly projections of South Korea's population from 20,100,000 on 31 March 1948 to 21,000,000 by 31 December 1949."
+  },
+  {
+   "title": "Section 2. Vested Property",
+   "level": 2,
+   "printed_page": "20",
+   "start_page": 30,
+   "end_page": 40,
+   "summary": "Office of Property Custody activities, reorganization, plant inspections, disposal and real estate transfers, claims, loan guarantees and corporate affairs as the office was handed to Koreans."
+  },
+  {
+   "title": "Operations",
+   "level": 3,
+   "printed_page": "21",
+   "start_page": 31,
+   "end_page": 33,
+   "summary": "The Office of Property Custody prepared the handover to the Republic: Administrative Division reorganized with seven sections, a Purchase and Contract Board for transactions over 200,000 won, and gasoline use cut 50 per cent. Corporate Affairs and Records moved to the Comptroller Division, and some firms changed supervising departments. Table 1 totals vested holdings at 256,019,630 thousand won gross, net worth 85,849,975 thousand."
+  },
+  {
+   "title": "Property Disposal",
+   "level": 3,
+   "printed_page": "24",
+   "start_page": 34,
+   "end_page": 35,
+   "summary": "Property disposal accelerated in July: residence sales tripled and MCC sales rose tenfold over June. Table 2 shows 199 sales worth 217,870 thousand won in July and 957 sales worth 1,918,888 thousand won since August 1947. The section also reports inspections of Taegu and Pusan textile mills, 355 vested vessels at Mokpo and Kunsan, two paper mills, and cork-substitute experiments."
+  },
+  {
+   "title": "Real Estate Transfers",
+   "level": 3,
+   "printed_page": "25",
+   "start_page": 35,
+   "end_page": 35,
+   "summary": "Occupancy of five USAFIK properties, including OCI offices, CIC Headquarters in Inchon and the Sugar Bowl Building, was regularized. The largest release of army property yet undertaken followed: 149 dependent houses, 80 buildings in Area W at Camp Ascom, 117 buildings at Camp Taejon, a 19-building Pusan Navy Compound, billets, airstrips, islands and ranges."
+  },
+  {
+   "title": "Policy Decisions and Claims Section",
+   "level": 3,
+   "printed_page": "26",
+   "start_page": 36,
+   "end_page": 36,
+   "summary": "OPC Policies and Precedents Memorandum No. 32 of 12 August declared property of Allied-owned companies organized in Japan to be Allied, not vested under Ordinance No. 10, and prepared it for release. The streamlined Claims Section title hearings were extended nationwide; table 3 lists 1,119 cases, 453 allowed, 233 disallowed and 531 pending at 31 August, with three provinces completed."
+  },
+  {
+   "title": "Comptroller Activities and Corporate Affairs",
+   "level": 3,
+   "printed_page": "27",
+   "start_page": 37,
+   "end_page": 40,
+   "summary": "The Property Custodian guaranteed loans of 7,000,000 won to Chosun Tanning and 5,000,000 won to Korean Fisheries Development, and completed five provincial audits. Statements for 1,812 companies show net sales of 37,062,145 thousand won and net profit of 1,021,121 thousand. Corporate Affairs investigated 5,358 companies; 35 transferred to elected boards, starting with South Korea Electric Co. on 10 July."
+  },
+  {
+   "title": "Part II. Production and Supply",
+   "level": 1,
+   "printed_page": "31",
+   "start_page": 41,
+   "end_page": 142,
+   "summary": "Agriculture, prices, industry, mining, allocations, trade and labor."
+  },
+  {
+   "title": "Section 1. Food and Agriculture",
+   "level": 2,
+   "printed_page": "31",
+   "start_page": 41,
+   "end_page": 58,
+   "summary": "Rice and summer grain crops, rationing, stocks, floods, agricultural bureaus, fertilizer imports, land administration and the sale of vested farmland."
+  },
+  {
+   "title": "Food",
+   "level": 3,
+   "printed_page": "31",
+   "start_page": 41,
+   "end_page": 46,
+   "summary": "South Korea's 1948 crop estimate of almost 6,000,000 metric tons is the highest since 1941, with larger planted area, and self-sufficiency is expected from January 1949. The summer grain collection reached 95.8 per cent of quota by 31 August. Tables cover ration populations (9,489,600 in June), rice and grain releases, stocks of 244,169 tons at end of August, and imports."
+  },
+  {
+   "title": "Floods",
+   "level": 3,
+   "printed_page": "37",
+   "start_page": 47,
+   "end_page": 48,
+   "summary": "The 7 July typhoon and heavy rains damaged Cholla tidal reclamation works: 801 levees broken, 28,219 acres damaged, 75 killed, and 387 boats lost. Small irrigation works lost 21,728 acres. Iri reported 68,431 acres flooded and Taegu hailstorms hit fruit land. Table 8 lists 504,541 acres flooded, mostly in Cholla-pukto; crops were replanted and forecasts stayed above 1947."
+  },
+  {
+   "title": "Agricultural Bureaus and Forestry and Fisheries",
+   "level": 3,
+   "printed_page": "39",
+   "start_page": 49,
+   "end_page": 52,
+   "summary": "Rice transplanting finished two weeks early. Farm supply items include a 27,500 won copper sulphate price, vetch seed and salt for hides. Raw silk output fell to 121.5 tons for lack of coal, power and cocoons, and chick hatching reached 605,470 of 2,000,000 goal. Reports cover July rainfall, apple losses, seed self-sufficiency, North China cement tests, new irrigation, timber sales and fishing landings at 67 per cent of 1947."
+  },
+  {
+   "title": "Korea Agricultural Association",
+   "level": 3,
+   "printed_page": "43",
+   "start_page": 53,
+   "end_page": 54,
+   "summary": "In July the Korea Agricultural Association distributed imported fertilizer and shipped 5,200,000 straw grain bags to Pusan, Inchon, Mokpo and Yosu for export to Japan despite floods. Military Government directives of 10 and 28 July set plant-food prices, such as 370 won per bag of ammonium sulphate, dropped straw-bag payments, and allowed a 270 won handling fee. Table 12 shows 424,970 tons sold to farmers."
+  },
+  {
+   "title": "Agricultural Improvement Service",
+   "level": 3,
+   "printed_page": "45",
+   "start_page": 55,
+   "end_page": 56,
+   "summary": "Fertilizer imports since October 1946 exceeded 548,000 metric tons by end of August 1948 (table 13). Extension work included training over 1,000 myun agents in non-compulsory methods, a drive on disease-free potatoes and second-crop planting, and adult education planning with the Department of Education. Experimental stations reported forage self-sufficiency at Sang Whan and tomato disease; Suwon added a soils course."
+  },
+  {
+   "title": "National Land Administration",
+   "level": 3,
+   "printed_page": "47",
+   "start_page": 57,
+   "end_page": 58,
+   "summary": "Ordinance No. 215 of 10 August amended the National Land Administration's founding ordinance, providing damages or return where courts favor claimants. By 31 July 85 per cent of available farms were sold: 502,224 farms and 481,957 acres. Summer grain collection for land payments reached 41 per cent and rent collection 25 per cent; OCC was to pay NLA from verified records."
+  },
+  {
+   "title": "Section 2. Prices",
+   "level": 2,
+   "printed_page": "49",
+   "start_page": 59,
+   "end_page": 68,
+   "summary": "Wholesale, retail and controlled prices resumed rising after five months of stability; new weighted index of retail prices paid by urban workers."
+  },
+  {
+   "title": "Index Numbers of Retail Prices Paid by Urban Workers",
+   "level": 3,
+   "printed_page": "56",
+   "start_page": 66,
+   "end_page": 68,
+   "summary": "A new weighted index of retail prices paid by urban workers (1947 = 100) replaced unweighted Bank of Chosun series, with foods weighted 57.5, utilities 21.9 and clothing 15.1. Total rose from 86 in January 1947 to 179 in August 1948. It uses 32 price series from nine cities, 63 per cent of urban population, with weights from nutrition and cost-of-living surveys covering 18 foods and other items."
+  },
+  {
+   "title": "Section 3. Industrial Production",
+   "level": 2,
+   "printed_page": "59",
+   "start_page": 69,
+   "end_page": 81,
+   "summary": "Output under the restricted power supply; processed food, textiles, paper, hardware, chemicals, miscellaneous goods and Monopoly Bureau products."
+  },
+  {
+   "title": "Processed Food and Textiles",
+   "level": 3,
+   "printed_page": "62",
+   "start_page": 72,
+   "end_page": 73,
+   "summary": "Only one of two large vested flour mills had power in July-August; with small plants, flour output was 707 tons in July and 1,782 in August versus 1,653 in June. Noodles edged up from June despite rains. Cotton yarn rose 22 per cent in July and cotton cloth 34 per cent, both limited by power shortage; Suwon silk training progressed."
+  },
+  {
+   "title": "Paper, Hardware and Chemicals",
+   "level": 3,
+   "printed_page": "64",
+   "start_page": 74,
+   "end_page": 78,
+   "summary": "Power shortage depressed paper, chemicals and building materials. The best paper mill stayed idle for lack of sulphite pulp, and 150 Army blankets served as felts. Nail output rose 46 per cent in July. Briquettes recovered slightly as US pitch arrived; coke hit a postliberation low. No cement was made in July; brick fell; rubber shoes, oxygen, carbide and matches were reported."
+  },
+  {
+   "title": "Miscellaneous and Monopoly Bureau",
+   "level": 3,
+   "printed_page": "69",
+   "start_page": 79,
+   "end_page": 81,
+   "summary": "Electric insulators fell to 4,800 pieces in July and 1,500 in early August because of power shortage, while pencils rose 22 per cent in July to 4,400 gross. The Monopoly Bureau, chief government revenue source, runs four tobacco plants and six salterns; salt fell to 4,808 tons in July, and cigarettes to 108.3 tons before August recovery."
+  },
+  {
+   "title": "Section 4. Mining and Minerals",
+   "level": 2,
+   "printed_page": "72",
+   "start_page": 82,
+   "end_page": 90,
+   "summary": "Mining output followed electric power: after the Soviets cut power on 14 May 1948, anthracite fell from 68,612 tons in April to 38,887 in July, and Hwasun mine was nearly out. August anthracite allocations totalled 28,844 tons to Commerce, 26,000 to Army and 9,656 to railroads. Bituminous imports from Japan reached 104,055 tons in July and 97,864 in August. Pitch stockpiled; gold, copper, tungsten, graphite, zinc and lead output tabulated."
+  },
+  {
+   "title": "Section 5. Allocations and Distribution",
+   "level": 2,
+   "printed_page": "81",
+   "start_page": 91,
+   "end_page": 106,
+   "summary": "National Consumer Goods Office operations since January 1948, controlled commodity distribution, petroleum, salt supply and barter trade with North Korea."
+  },
+  {
+   "title": "National Consumer Goods Office",
+   "level": 3,
+   "printed_page": "81",
+   "start_page": 91,
+   "end_page": 94,
+   "summary": "The National Consumer Goods Office, created by Executive Order No. 12 of 12 January 1948 under Dr. Chyung Yil-heung, allocates domestic vested-factory goods and civilian supply imports. By 31 August it had processed 1,095 allocations worth 2,184,468,531 won, 88.7 per cent for special groups, and 28.2 per cent went to farmers as rice and grain collection incentives."
+  },
+  {
+   "title": "Distribution of Controlled Commodities",
+   "level": 3,
+   "printed_page": "85",
+   "start_page": 95,
+   "end_page": 99,
+   "summary": "The Federation of Financial Associations, a cooperative of over 600 branches and nearly 2,000,000 members, distributes goods to government and vested-industry employees on a 15 per cent commission, with distributing agents serving the public. Eligible employees numbered 480,273, up 43,630 since June. Tables give FFA purchases and distributions of cloth, shoes, soap, matches and other goods for July and August."
+  },
+  {
+   "title": "Petroleum",
+   "level": 3,
+   "printed_page": "90",
+   "start_page": 100,
+   "end_page": 100,
+   "summary": "Petroleum Distribution Agency allocations and deliveries to provincial agencies are listed for July and August: gasoline deliveries 4,901,333 and 6,079,399 liters against allocations above 7,000,000. Gasoline and kerosene fell short mainly because Pusan terminal could not fill drums; diesel and marine fuel shortfalls reflected Fisheries taking less. National-level deliveries and sales through August are tabulated."
+  },
+  {
+   "title": "Salt Distribution",
+   "level": 3,
+   "printed_page": "91",
+   "start_page": 101,
+   "end_page": 103,
+   "summary": "In F/Y 1947 government salterns produced 65,323 tons and total supply reached 182,336 tons, forcing ration cuts. For F/Y 1948 the goal was 134,631 tons; 68,774 tons (58.6 per cent) were made by 15 August despite the power cutoff and heavy rain. Stocks were 184,170 tons, allowing full rations. Purchase prices rose 15 August; Sosan saltern is under construction."
+  },
+  {
+   "title": "Barter Trade with North Korea",
+   "level": 3,
+   "printed_page": "94",
+   "start_page": 104,
+   "end_page": 106,
+   "summary": "Private barter with North Korea, running since mid-1946, was hampered by slow communications, rivalry over confiscated cargo and absconding shipowners, pushing small traders overland. Department of Commerce Order No. 4 (2 August 1948) legalized overland trade. Imports from the north totalled 950,861,250 won from January to 15 August, notably dried fish; contracts worth 382,499,000 won were pending, and policy changes were feared under the new Republic."
+  },
+  {
+   "title": "Section 6. Imports and Exports",
+   "level": 2,
+   "printed_page": "97",
+   "start_page": 107,
+   "end_page": 131,
+   "summary": "Private trade (imports 3,600 million won, exports 2,700 million in seven months of 1948), government-to-government transactions, items sold to Americans and civilian supply imports."
+  },
+  {
+   "title": "Private Trade Statistics",
+   "level": 3,
+   "printed_page": "101",
+   "start_page": 111,
+   "end_page": 116,
+   "summary": "August licenses (215 imports, 97 exports) imply imports near 722,000,000 won and exports near 361,000,000. June imports were 436,652,000 won and exports 286,673,000; July imports 431,060,000 and exports 345,916,000, led by paper products and straw hats. Inchon handled over 59 per cent of January-July trade; Hong Kong took most exports, with import origins listed by country."
+  },
+  {
+   "title": "Private Trade Activities",
+   "level": 3,
+   "printed_page": "107",
+   "start_page": 117,
+   "end_page": 118,
+   "summary": "By August 1948 six commercial shipping companies, three American, two British and one Dutch, had regular runs; Hong Kong-Pusan freight was HK$65 per measurement ton. Fifteen businessmen were cleared to investigate trade in August. The text logs July-August voyages of Butterfield and Swire and Everett vessels carrying paper, rubber, medicines and newsprint in and sea products out."
+  },
+  {
+   "title": "Government-to-Government Transactions",
+   "level": 3,
+   "printed_page": "109",
+   "start_page": 119,
+   "end_page": 124,
+   "summary": "The Bureau of Foreign Commerce is sole negotiator for government trade. Exports to Japan totalled $8,377,383 since 1945, with $828,457 in July-15 August, chiefly 3,329,070 straw bags and graphite; laver was the top earner. US shipments by USCC and directly (tungsten, copper, zinc) are detailed. Agar agar and ginseng went to Hong Kong; China allowed none; Pusan exported 15,141 tons."
+  },
+  {
+   "title": "Korean Items for Americans in Korea",
+   "level": 3,
+   "printed_page": "115",
+   "start_page": 125,
+   "end_page": 125,
+   "summary": "Since 1 August 1947 the Army Exchange Service has bought Korean merchandise through the Bureau of Foreign Commerce, totalling 160,789 units worth $223,063 to 15 August 1948, mainly jewelry, brassware, lacquerware and silk. Scarce materials, costly inputs and untrained management limited volume. July sales were only $4,857, the lowest since August 1947, and early August $3,609."
+  },
+  {
+   "title": "Civilian Supply Imports",
+   "level": 3,
+   "printed_page": "116",
+   "start_page": 126,
+   "end_page": 131,
+   "summary": "Imports since September 1945 totalled $328,117,607, including $24,935,669 through the Foreign Liquidation Commission in eight contracts. Coal from Japan reached a record 104,055 tons in July; GARIOA foodstuffs came to $110,446,030 by June. July imports included 19,609 tons of salt, fertilizer (8,816 tons superphosphate), pitch and gypsum; petroleum imports were 364,236 tons through June."
+  },
+  {
+   "title": "Section 7. Labor",
+   "level": 2,
+   "printed_page": "122",
+   "start_page": 132,
+   "end_page": 142,
+   "summary": "Labor laws and Department of Labor activity, strikes, wage stabilization, labor relations disputes, union elections, standards, health and education."
+  },
+  {
+   "title": "Wage Problems",
+   "level": 3,
+   "printed_page": "124",
+   "start_page": 134,
+   "end_page": 137,
+   "summary": "Traces the National Economic Board's wage policy from its 25 June 1946 hold-the-line stance through the March 1947 reversal to the Wage Stabilization Division, set up 25 March 1948. The Division surveyed living costs, recommended a 25 per cent staff cut, and drafted incentive plans. A 3 July 1948 directive restricted general raises. A critical appraisal found policy without enforcement, and occupation-force wage coordination failed."
+  },
+  {
+   "title": "General Current Activities and Labor Relations",
+   "level": 3,
+   "printed_page": "128",
+   "start_page": 138,
+   "end_page": 139,
+   "summary": "Covers labor relations in the 45 days to 15 August. At Pusan, stevedores threatened a strike over a 500-won daily wage demand. Talks on 22 July set a 350-won minimum and dropped the 80-20 split, but a coal pier stoppage followed on 7 August. Tai Han railway workers' wage grievance was sent to the Department of Transportation. The Marine Bureau contract for about 1,500 workers was agreed except for wage schedules."
+  },
+  {
+   "title": "Unions, Standards, Health and Education",
+   "level": 3,
+   "printed_page": "130",
+   "start_page": 140,
+   "end_page": 142,
+   "summary": "Reports a Yongwol Mines election (8 July) won by Tai Han with 2,099 votes, and a Tong Wha Department Store election with intimidation charges. Tai Han's executive committee resigned after the Chun Jin-han motion failed 44 to 22. Bank overtime violations left 15,654 won owing to 158 employees. Also covered: a labor-law abstract, an industrial health tour of Seoul, a southwest labor education tour and a new labor library."
+  },
+  {
+   "title": "Part III. Public Services",
+   "level": 1,
+   "printed_page": "133",
+   "start_page": 143,
+   "end_page": 177,
+   "summary": "Transportation, communications, utilities, public works."
+  },
+  {
+   "title": "Section 1. Transportation",
+   "level": 2,
+   "printed_page": "133",
+   "start_page": 143,
+   "end_page": 155,
+   "summary": "Department of Transportation income and expenditures, railroad operations and equipment, marine bureau history and highway and air transport."
+  },
+  {
+   "title": "Railroads",
+   "level": 3,
+   "printed_page": "135",
+   "start_page": 145,
+   "end_page": 151,
+   "summary": "Describes the Japanese-built, north-south rail system taken over in September 1945 (2,145 operating miles) and its chronic shortages of equipment and fuel. Operable engines fell from 300 to 268 by August 1948. The text gives August receipts of 578 million won against 737 million won expenditures, passenger and freight tonnage, back-shop repairs, employment of 31,894, engine kilometers and coal use of 44,888 tons."
+  },
+  {
+   "title": "Marine Transportation",
+   "level": 3,
+   "printed_page": "142",
+   "start_page": 152,
+   "end_page": 152,
+   "summary": "Traces the Marine Bureau from Japanese days, when it moved between several departments, through its merger into the Bureau of Transportation in 1942. After liberation, abandoned ships were disputed and sham sales to Koreans voided. Navigational aids were restored, 12 LSTs and 11 Freight Supply vessels were bought, and Rainbow service began in 1948. July and August expenses rose sharply."
+  },
+  {
+   "title": "Highway and Air Transportation",
+   "level": 3,
+   "printed_page": "143",
+   "start_page": 153,
+   "end_page": 155,
+   "summary": "Reviews highway transport from the 1944 Pan-Korean Trucking Union, 80 per cent Japanese-owned, to the Korean Truck Co. of December 1945. It was disbanded in July 1946 and provincial governors took over its facilities after the June 1946 floods. Table 11 shows highway and air expenditures rising sharply in July, with air still rising in August. Highway employment had fallen to 46 and air to 27."
+  },
+  {
+   "title": "Section 2. Communications",
+   "level": 2,
+   "printed_page": "145",
+   "start_page": 156,
+   "end_page": 165,
+   "summary": "Describes the Department of Communications: a deteriorated plant at liberation, rehabilitation of telephone exchanges and 20,000 poles, and Korean training. July revenue of 88.9 million won was a post-liberation high, and expenditures doubled. It also covers tax collection, postal savings and insurance, 37,183 telephones and 10,000 unserved applications, 623 post offices, and 11 radio stations with a 100-won monthly fee from 1 August."
+  },
+  {
+   "title": "Section 3. Public Utilities",
+   "level": 2,
+   "printed_page": "155",
+   "start_page": 166,
+   "end_page": 171,
+   "summary": "Reviews power from Japanese neglect through Military Government rehabilitation, the Yong Wol subsidy and the 14 May 1948 northern cutoff. Deliveries were 56.2 million KWH in July and 55.7 million in August. Chung Pyung's transformer was repaired 10 July, and Yong Wol was separated from the Korea Electric Power Company on 26 July. The Giroux mission report of 23 July is quoted, and streetcar and bus figures are given."
+  },
+  {
+   "title": "Section 4. Public Works",
+   "level": 2,
+   "printed_page": "161",
+   "start_page": 172,
+   "end_page": 177,
+   "summary": "Reviews public works from the Japanese era through the 1946 Department and Koreanization, citing 517 bridges, 1,422 km of road and 162 km of levees rebuilt. The department prepared the transfer in July and August. Floods caused over 2,000 million won damage; 800 million won of road and bridge funds were sought, and an Emergency Water Conservation Board was set up 26 July. First-half fires totaled 1,006."
+  },
+  {
+   "title": "Part IV. Finance",
+   "level": 1,
+   "printed_page": "167",
+   "start_page": 178,
+   "end_page": 193,
+   "summary": "Government and non-government finance."
+  },
+  {
+   "title": "Section 1. Government Finance",
+   "level": 2,
+   "printed_page": "167",
+   "start_page": 178,
+   "end_page": 184,
+   "summary": "Examines the Bank of Chosun note issue, 30,000 million won at end-August 1948 against a 33,400 million peak, and the Interim Government's overdraft of 22,506 million won. Revenues were 2,157 million won in August against 1,924 million expenditures. Appropriations totaled 35,264 million won, including 6,260 million for civilian supply. Civilian Supply assets were 38,465 million won, with sales of 7,676 million in August."
+  },
+  {
+   "title": "Section 2. Non-Government Finance",
+   "level": 2,
+   "printed_page": "174",
+   "start_page": 185,
+   "end_page": 193,
+   "summary": "Covers financial institutions through July 1948, since August data was unavailable. Cash balances were 2,244 million won; deposits reached 43,335 million, 57 per cent from the public; loans outstanding were 30,038 million, a 70 per cent ratio to deposits. Life insurance in force was 1,067 million won with record claims of 672,000 won paid in July, and damage insurers wrote 9,243 policies in July."
+  },
+  {
+   "title": "Part V. Government and Politics",
+   "level": 1,
+   "printed_page": "183",
+   "start_page": 194,
+   "end_page": 231,
+   "summary": "Administration, politics, legal affairs, police, inter-zone."
+  },
+  {
+   "title": "Section 1. Administration",
+   "level": 2,
+   "printed_page": "183",
+   "start_page": 194,
+   "end_page": 198,
+   "summary": "Records the proclamation of the Republic (Tai Han Min Kook) on 15 August 1948 and the end of Military Government. It reviews the 10 May election, the 24 July inauguration of President Rhee, and USAMGIK achievements in industry, land sales, health and prisons. The 11-man National Economic Board's July-August actions are listed, with Military Government personnel falling to 2,870 by 15 August."
+  },
+  {
+   "title": "Section 2. Political Developments",
+   "level": 2,
+   "printed_page": "188",
+   "start_page": 199,
+   "end_page": 213,
+   "summary": "Constitution and Government Organization Law, National Assembly actions, Rhee's cabinet, moderate groups and a review of political party development."
+  },
+  {
+   "title": "Constitution and Government Organization Law",
+   "level": 3,
+   "printed_page": "188",
+   "start_page": 199,
+   "end_page": 203,
+   "summary": "Reviews the Constitution passed unanimously on 12 July (preamble, ten chapters, strong presidency, four-year Assembly, state ownership of mines and key industries, farmland to tillers, profit-sharing for laborers) and the Government Organization Law of 16 July, which creates eleven departments, four offices under the Prime Minister, an Economic Board, and Civil Service and Inspection Committees."
+  },
+  {
+   "title": "National Assembly",
+   "level": 3,
+   "printed_page": "193",
+   "start_page": 204,
+   "end_page": 206,
+   "summary": "Covers July-August Assembly actions: Rhee elected President 180 votes of 196 on 20 July and Lee Si-young Vice-President on the second ballot; inaugurated 24 July. The Assembly rejected Lee Yun-yung 132-59 but approved Lee Bum-suk as Prime Minister 110-84, elected Shin Ik-hi Speaker, confirmed Kim Byung-no as Chief Justice 117-31, and took up amnesty and pro-Japanese traitor legislation."
+  },
+  {
+   "title": "Republic of Korea",
+   "level": 3,
+   "printed_page": "196",
+   "start_page": 207,
+   "end_page": 208,
+   "summary": "Reports Rhee's cabinet, completed by 6 August, and the 15 August proclamation of the Republic ending Military Government; General Hodge said Americans would only advise, and transfers began 16 August. Gives biographies of the eleven ministers, including Chang Taik-sang, Lee Bum-suk, Cho Bong-am and Louise Yim, and the press verdict that the cabinet was mediocre and partisan."
+  },
+  {
+   "title": "Moderate Activities",
+   "level": 3,
+   "printed_page": "198",
+   "start_page": 209,
+   "end_page": 210,
+   "summary": "Lists vice-ministers and other appointments, notably Chough Pyung-ok as ambassador-at-large and Chang Myun as chief delegate to the UN in Paris. Moderates split three ways over the new government: one faction joined the North Korean election, some backed the South, and Kim Koo and Kimm Kiu-sic held to unified independence, with Kimm wavering after meeting Lee Bum-suk on 10 August."
+  },
+  {
+   "title": "Summary (political parties)",
+   "level": 3,
+   "printed_page": "200",
+   "start_page": 211,
+   "end_page": 213,
+   "summary": "Retrospective on party politics since liberation. Three blocs emerged: communists (Hu Hun's South Korea Labor Party, Park Heun-yung's Democratic People's Front), extreme rightists (Hankook Democratic Party, Rhee's National Society, Kim Koo's Korean Independence Party, Dai Dong youth) and moderates under Kimm Kiu-sic. Ordinance No. 55 of February 1946 produced over 400 Seoul parties; Rhee gained power as Kim Koo defected."
+  },
+  {
+   "title": "Section 3. Legal Affairs",
+   "level": 2,
+   "printed_page": "203",
+   "start_page": 214,
+   "end_page": 221,
+   "summary": "Ordinances and orders, legal opinions of the Department of Justice, court caseloads and new branch courts, and penal institutions."
+  },
+  {
+   "title": "Ordinances and Orders",
+   "level": 3,
+   "printed_page": "203",
+   "start_page": 214,
+   "end_page": 216,
+   "summary": "Lists ordinances drafted 1 July-31 August 1948, Nos. 203-219: litigation fees, taxicabs, the legal profession and bar associations, release of seized property, rice and fall grain collection for 1948-49, prosecution reorganization, travel controls, National Land Administration suits, and school districts, boards and funding. Also lists executive and departmental orders on water conservation, interzonal barter, postal rates, and Korean court jurisdiction; 26 American lawyers admitted to the Korean bar."
+  },
+  {
+   "title": "Legal Opinions",
+   "level": 3,
+   "printed_page": "206",
+   "start_page": 217,
+   "end_page": 217,
+   "summary": "Gives four Department of Justice opinions: pension deposits of Japanese repatriates (No. 1627, 16 July) may be paid in Japan only if not physically in Korea before 25 September 1945; the Chosun Mining Development Corporation should not be dissolved pending the new government (No. 1612); narcotics informer awards require amending Ordinance No. 119 (No. 1650); and the metric system is official but not exclusive (No. 1633)."
+  },
+  {
+   "title": "Korean Courts",
+   "level": 3,
+   "printed_page": "207",
+   "start_page": 218,
+   "end_page": 218,
+   "summary": "Cheju-do riot trials continued; a judicial team reported the island unsuitable for trials, fearing violence from leftists or rightists, with about 250 held, and the Military Governor allowed transfer of cases to Mokpo or Kwangju. Courts heard 157,293 cases in 1946-47; table gives 67,181 in 1946 and 90,112 in 1947. Kangnung branch court became three-judge; a Kunsan branch opened."
+  },
+  {
+   "title": "Penal Institutions",
+   "level": 3,
+   "printed_page": "208",
+   "start_page": 219,
+   "end_page": 221,
+   "summary": "Prison population: 22,141 in April, 22,331 in May, 22,033 in June and 22,321 in July, about 45 per cent for theft or burglary and 11 per cent under Proclamation No. 2. Tables give figures by prison and juvenile house of correction (541 in June, 664 in July). Conditions were reported sanitary; 174 guards graduated in June and 161 enrolled, with about four per cent turnover."
+  },
+  {
+   "title": "Section 4. National Police",
+   "level": 2,
+   "printed_page": "211",
+   "start_page": 222,
+   "end_page": 227,
+   "summary": "Police operations, arrests of political suspects, Seoul crime statistics, the Torture Case, attack on Chief Chang and an overview summary."
+  },
+  {
+   "title": "Torture Case",
+   "level": 3,
+   "printed_page": "213",
+   "start_page": 224,
+   "end_page": 224,
+   "summary": "Torture death of suspect Lim Wha (an alias) at Metropolitan Police Division M in January, allegedly by water treatment, with the body thrown in the Han River. The Detective Bureau leaked it in July; Chief Detective Ro Duk-sul was reported to have confessed and escaped on 27 July, and acting chief Kim Tai-il was briefly suspended. Politically motivated against Chang Taik-sang; no prosecutor decision by August."
+  },
+  {
+   "title": "Attack on Chief Chang",
+   "level": 3,
+   "printed_page": "214",
+   "start_page": 225,
+   "end_page": 225,
+   "summary": "A fourth attempt on Metropolitan Police Chief Chang Taik-sang's life came on 24 July, when three men fired on his car in Yongdungpo, Seoul; a bodyguard was wounded and Chang unhurt. Separately, Detective Bureau chiefs Lee Man-chong and Cho Byung-sul resigned on 12 August citing interference, and Chough Pyung-ok apologized to Rhee on 13 August and warned critics of the government transfer."
+  },
+  {
+   "title": "Summary (National Police)",
+   "level": 3,
+   "printed_page": "215",
+   "start_page": 226,
+   "end_page": 227,
+   "summary": "Retrospective on the National Police: the effort to build a democratic force and shed Japanese methods, with Economic and Sanitation Bureaus eliminated. It recounts separation from National Defense in April 1946, riots from the January 1946 Moscow protests to Taegu in October 1946 (over 120 policemen killed), and sabotage guarding by Railroad Police. Headquarters bureaus and ten divisions listed, plus a special Inspection Command on Cheju-do."
+  },
+  {
+   "title": "Section 5. Inter-Zone Activities",
+   "level": 2,
+   "printed_page": "217",
+   "start_page": 228,
+   "end_page": 231,
+   "summary": "Covers mail exchange across the 38th parallel (tabulated March 1946-August 1948; 9 trips in July-August 1948) and Commerce Order No. 4 of 2 August requiring permits and bonds for barter, with June imports such as 516 tons of fertilizer. An American soldier was killed on 19 July at the parallel. Radio Pyongyang attacked Rhee and promoted the 25 August election."
+  },
+  {
+   "title": "Part VI. Social",
+   "level": 1,
+   "printed_page": "221",
+   "start_page": 232,
+   "end_page": 271,
+   "summary": "Health, education, press, youth, women, culture."
+  },
+  {
+   "title": "Section 1. Public Health and Welfare",
+   "level": 2,
+   "printed_page": "221",
+   "start_page": 232,
+   "end_page": 243,
+   "summary": "Preventive medicine, nursing, veterinary, pharmaceutical and narcotics work, laboratories, public assistance for flood victims and refugees, and a retrospective summary."
+  },
+  {
+   "title": "Public Assistance",
+   "level": 3,
+   "printed_page": "228",
+   "start_page": 239,
+   "end_page": 241,
+   "summary": "Flood relief: ten carloads of supplies sent to provinces; damage tables report 3,604 houses washed away, 14,881 crushed and 254,664 persons made needy. Five of 19 applicants chosen for welfare scholarships abroad; 8,616 Manchurian repatriates in total; 1,149 tents allocated to refugees; new orphanages licensed; UNRRA grants of 2,700,000 won (July) and 6,135,000 won (August) funded institutions; Seoul asylum transferred."
+  },
+  {
+   "title": "Summary (Public Health and Welfare)",
+   "level": 3,
+   "printed_page": "231",
+   "start_page": 242,
+   "end_page": 243,
+   "summary": "Concludes that the Department of Public Health and Welfare achieved much in three years despite shortages and untrained staff. Cholera deaths fell from over 15,000 in 1946 to 10 in 1947 through mass immunization. Credited also: sanitation, refugee quarantine, new clinics including the first venereal disease clinic, nurse and doctor training, orphanages, vaccine laboratories and veterinary and slaughterhouse improvements. The 1 July transfer of the Chung Nyang Ni asylum to medical supervision is also noted."
+  },
+  {
+   "title": "Section 2. Education",
+   "level": 2,
+   "printed_page": "233",
+   "start_page": 244,
+   "end_page": 249,
+   "summary": "Education: three ordinances effective 12 August created school districts, nine-member school boards and local school taxation. Also reported: 500 teachers in the Kwanju workshop among 7,500 trained, normal school graduations, a Teacher Training Center of 400 with 20 American educators, scholarship screening, 14,989,286 textbooks published since liberation, an achievement test, American Language Institute enrollments, vocational committees and adult education conferences."
+  },
+  {
+   "title": "Section 3. Press and Public Opinion",
+   "level": 2,
+   "printed_page": "239",
+   "start_page": 250,
+   "end_page": 257,
+   "summary": "58 dailies, 67 weeklies and 125 monthlies in July; press reaction to the new government, North Korean election, floods, Cheju-do riots and Dok Do incident; editorials and miscellany."
+  },
+  {
+   "title": "Formation of New Government",
+   "level": 3,
+   "printed_page": "240",
+   "start_page": 251,
+   "end_page": 252,
+   "summary": "Press coverage of forming the government: papers followed the Constitution debate, including profit-sharing in Article 17, and feared a separate Police Department, which was defeated 108 to 88. They welcomed Assembly rejection of Lee Yun-yung and approval of Lee Bum-suk. Context given on 58 dailies, with a table of eleven leading papers and circulations, led by Seoul Shin Mun at 76,000."
+  },
+  {
+   "title": "Floods, Cheju-do Riots and Dok Do Incident",
+   "level": 3,
+   "printed_page": "242",
+   "start_page": 253,
+   "end_page": 253,
+   "summary": "The press protested the North Korean election of 25 August, with underground voting organized in the South and Hu Hun and Park Heun-yung as candidates. July floods and a typhoon were estimated to cost 2,000,000,000 won, with 169 killed in Cholla-namdo. Papers blamed Cheju-do unrest on police and mainland officials, and demanded more after 2,480,000 won reparations for the accidental bombing of Dok Do."
+  },
+  {
+   "title": "Foreign News and Editorials",
+   "level": 3,
+   "printed_page": "243",
+   "start_page": 254,
+   "end_page": 256,
+   "summary": "Foreign news covered the Berlin crisis, with Cha Yoo Shin Mun ruling out immediate war, and the North Korean Labor Party's endorsement of the Cominform's Yugoslav condemnation. Editorials blamed SKIG's failure on military officials and Korean corruption, praised Lee Bum-suk, criticized the Constitution as too socialistic, attacked Rhee's cabinet, police terrorism, and urged national defense and cooperation with the US and UN."
+  },
+  {
+   "title": "Miscellany",
+   "level": 3,
+   "printed_page": "245",
+   "start_page": 256,
+   "end_page": 257,
+   "summary": "Miscellany: the torture row between the Detective Bureau and the Metropolitan Police ended with Maj.-Gen. Dean limiting police press statements to the police director. Papers exposed exorbitant school entrance fees in Seoul, exaggerated sentences for Koreans in the Kobe and Osaka riots, and Korean nurses refusing US hospital training over physical examinations, and criticized drinking and profiteering."
+  },
+  {
+   "title": "Section 4. Korean National Youth, Inc.",
+   "level": 2,
+   "printed_page": "247",
+   "start_page": 258,
+   "end_page": 262,
+   "summary": "Korean National Youth, Inc., chartered 9 October 1945, reached 1,154,821 audited members by 15 August 1948. Members donated over 12,600,000 eight-hour work days to community projects, planted 6,770,397 trees, trained more than 100,000 group leaders, and withstood terror and police hostility. Lee Bum-suk resigned as president on becoming Prime Minister; Lee Jun-sic succeeded him, with Lt.-Col. Ernest Voss as adviser."
+  },
+  {
+   "title": "Section 5. Women's Activities",
+   "level": 2,
+   "printed_page": "252",
+   "start_page": 263,
+   "end_page": 266,
+   "summary": "Women gained constitutional and legal equality, and now work in professions, business, education and the 500-strong policewoman force. Louise Yim became Minister of Commerce and Industry. Ordinances Nos. 70 and 112 and Executive Order No. 16 protect women and outlaw prostitution. The Women's Bureau (Ordinance No. 107, 1946) ran a magazine, English classes, provincial meetings, a Travelers' Aid and the Federation of Women's Clubs."
+  },
+  {
+   "title": "Section 6. Culture",
+   "level": 2,
+   "printed_page": "256",
+   "start_page": 267,
+   "end_page": 271,
+   "summary": "Hangul was reintroduced in schools from October 1945, but Chinese characters persist, and obstacles include orthography, technical vocabulary and typewriters. The American Language Institute, with about 500 students, teaches English and wrote a short history of Korea. Korea competed under its own flag at the London Olympics (67-man team, 24th place, 15 points) after a 1946-48 preparation effort."
+  }
+ ],
+ "_model": "claude-sonnet (Claude Code subagent)",
+ "_pages": 271,
+ "_uncovered_pages": [],
+ "_bad_ranges": [],
+ "_refined": "68 leaf summaries rewritten from full section text"
+}

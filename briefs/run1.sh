@@ -5,6 +5,7 @@
 cd "${0:A:h}/.." || exit 1
 id=$1; mkdir -p logs catalog
 [ -s "catalog/$id.json" ] && exit 0
+grep -qx "$id" logs/claimed.txt 2>/dev/null && exit 0   # being catalogued elsewhere
 python3 - "$id" >| "logs/$id.prompt" <<'PY'
 import json, sys, re
 f = next(x for x in json.load(open("files.json")) if x["id"] == sys.argv[1])
