@@ -28,8 +28,11 @@ def leaves(secs):
 
 
 def split(fid):
-    f = next(x for x in json.load(open(os.path.join(HERE, "files.json"))) if x["id"] == fid)
+    host = fid.split("-in-")[-1]   # a buried issue's pages are in its host PDF
+    f = next(x for x in json.load(open(os.path.join(HERE, "files.json"))) if x["id"] == host)
     pages = ocr_pages(f["ocr"])
+    if host != fid:
+        f = dict(f, t=next(e["t"] for e in json.load(open(os.path.join(HERE, "catalog", "embedded.json"))) if f"-in-{e['host']}" in fid and f"-{e['no']:02d}-" in fid))
     c = json.load(open(os.path.join(HERE, "catalog", fid + ".json")))
     secs = c["sections"]
     size = lambda a, b: sum(len(pages.get(p, "")) for p in range(a, b + 1))

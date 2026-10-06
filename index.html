@@ -174,9 +174,8 @@ function cover() {
     const gap = s === 'K' && d < '1946-03' ? 'reported in the Japan Summation' : 'not in this collection';
     return `<div class="toc-c empty" data-s="${SER[s]}">${gap}</div>`; };
   const years = [...new Set(all.map(d => d.slice(0, 4)))];
-  const pages = D.filter(x => !x.host).reduce((a, x) => a + x.pg, 0), done = D.filter(x => !x.sk).length;
+  const pages = D.filter(x => !x.host).reduce((a, x) => a + x.pg, 0);
   main.innerHTML = `<p class="intro">Every month from September 1945, General Headquarters of the Supreme Commander for the Allied Powers (SCAP) issued a <i>Summation of Non-Military Activities</i> on the Occupation of Japan: government, the economy, labour, health, education, religion and the press. Southern Korea was covered in the same report until February 1946, and from March 1946 in a separate monthly summation of U.S. Army Military Government activities, renamed <i>South Korean Interim Government Activities</i> in July 1947. This guide sets the two series side by side, with each report's table of contents linked to its page images on the Internet Archive and full-text search of the OCR text.</p>
-  <div class="stats"><div class="stat"><b>${D.filter(x => !x.host).length}</b>PDFs</div><div class="stat"><b>${D.filter(x => x.host).length}</b>buried issues</div><div class="stat"><b>${pages.toLocaleString()}</b>pages</div><div class="stat"><b>${D.filter(x => x.s === 'J').length} · ${D.filter(x => x.s === 'K').length}</b>Japan · Korea issues</div><div class="stat"><b>${done}/${D.length}</b>catalogued</div></div>
   <div class="searchbar" style="margin-top:14px"><input type="search" id="cq" placeholder="Search the full text of all ${pages.toLocaleString()} pages…"><button id="cgo">Search</button></div>
   ${years.map(y => `<div class="toc-year">${y}<span>${D.filter(x => x.d.startsWith(y)).length} PDFs</span></div>
    <div class="toc"><div class="toc-h"><div>Month</div><div>${ser('J')} SCAP</div><div>${ser('K')} USAMGIK</div></div>
