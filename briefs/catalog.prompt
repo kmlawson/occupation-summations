@@ -1,0 +1,23 @@
+You are helping build a research guide to a series of U.S. Occupation monthly reports: the "Summation of Non-Military Activities in Japan" (GHQ/SCAP, 1945-1948) and the "Summation of United States Army Military Government Activities in Korea" / "South Korean Interim Government Activities" (USAMGIK, 1946-1948).
+
+Read this file, which is the OCR text of ONE monthly report:
+  {OCR}
+Report: {TITLE}  ({PAGES} PDF pages)
+
+The text has a marker "<!-- page N -->" before each PDF page. N is the PDF page number. The report's own printed page numbers are DIFFERENT (often larger: blank or unnumbered pages are missing from the scan). Use ONLY the <!-- page N --> numbers for start_page and end_page.
+
+Read the whole file, in parts if it is long, and produce:
+1. sections: the report's structure, in page order, as a table of contents.
+   - If the report has a printed table of contents, follow it: its parts (level 1) and sections (level 2). Add level-3 subsections only for large sections where they help a reader find things.
+   - For every entry, find the page where that heading actually appears in the text and give that PDF page as start_page. Do not compute it from the printed page number; locate the heading. Record the printed page number from the TOC in printed_page.
+   - If there is no printed table of contents, build the structure from the headings in the text.
+   - Put the cover, table of contents and lists of charts together as a first entry titled "Front matter". Include appendices, annexes, charts sections and maps as entries if present.
+   - Every page from 1 to {PAGES} should fall inside some level-1 or level-2 entry. end_page of an entry is the page before the next entry at the same or higher level starts (the last entry ends at {PAGES}).
+   - Give each section a 1-2 sentence summary of what it reports THIS month (specific facts, not generic descriptions).
+2. summary: 120-200 words on the report as a whole: the period, the main developments reported, and what a historian would find useful.
+3. highlights: 4-8 notable events, decisions or figures.
+4. keywords: 8-15.
+
+Correct obvious OCR misreadings in headings. Never invent a page number: if you cannot find a heading in the text, use the nearest page where its content begins and keep going.
+
+Do NOT run any shell commands. Do not create, edit or delete any files. Only read the file named above, then reply with the JSON object and nothing else.

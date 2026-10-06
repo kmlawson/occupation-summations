@@ -1,0 +1,107 @@
+{
+ "highlights": [
+  "On 6 September, approximately 12 tons of emergency medical supplies were dispatched through the International Red Cross for relief of victims in Hiroshima.",
+  "A SCAP directive issued on 12 October prohibited narcotic plant cultivation, banned narcotics export, and froze all existing opium, cocaine, heroin, and marijuana stocks.",
+  "SCAP ordered the Japanese government to inventory and transfer all military medical and dental stockpiles to the Home Ministry for civilian distribution.",
+  "Approximately 150,000 of an estimated 2,000,000 Koreans residing in Japan were repatriated through Fusan by 31 October using returning Japanese shipping.",
+  "Allied air raids destroyed or damaged 1,083 civilian hospitals with 53,007 beds across 46 prefectures, representing about 25 percent of Japan's civilian hospitals.",
+  "Communicable disease reports through 13 October recorded 57,729 cases of dysentery, 50,877 cases of diphtheria, 28,787 cases of typhoid, and 1,900 cases of typhus.",
+  "A standard prefectural Venereal Disease Control Ordinance was mandated, instituting compulsory weekly examinations and introducing penicillin therapy for high-risk groups."
+ ],
+ "keywords": [
+  "Public Health and Welfare",
+  "Hiroshima relief",
+  "narcotics control",
+  "repatriation of Koreans",
+  "communicable diseases",
+  "typhus control",
+  "hospital administration",
+  "Japanese Red Cross",
+  "social insurance",
+  "medical supplies",
+  "venereal disease control",
+  "sanitary engineering"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 1,
+   "level": 1,
+   "printed_page": "133",
+   "start_page": 1,
+   "summary": "Reports the wartime neglect of health and welfare, return of military medical stockpiles to civilian use, implementation of narcotics control, and new directives for disease reporting and hospital bed tracking.",
+   "title": "General"
+  },
+  {
+   "end_page": 3,
+   "level": 1,
+   "printed_page": "134",
+   "start_page": 2,
+   "summary": "Covers disorganized welfare administration, 83,502 persons receiving relief, coverage data for five social insurance programs, demilitarization of the Japanese Red Cross, and repatriation of approximately 150,000 Koreans.",
+   "title": "Public Welfare"
+  },
+  {
+   "end_page": 4,
+   "level": 1,
+   "printed_page": "136",
+   "start_page": 4,
+   "summary": "Details air raid damage to 1,083 civilian hospitals, treatment of 78,000 veterans in military facilities, and nationwide capacity of 3,335 hospitals with 356,143 beds operating at two-thirds capacity with sufficient medical personnel.",
+   "title": "Administration of Hospitals"
+  },
+  {
+   "end_page": 6,
+   "level": 1,
+   "printed_page": "137",
+   "start_page": 5,
+   "summary": "Surveys collapsed veterinary services, reports 1944 livestock census figures and 1945 animal disease outbreaks, and notes that commercial animal slaughter is operating at only 10 percent of normal with substandard dairy sanitation.",
+   "title": "Veterinary Affairs"
+  },
+  {
+   "end_page": 7,
+   "level": 1,
+   "printed_page": "139",
+   "start_page": 7,
+   "summary": "Assesses war devastation to dental practice and equipment manufacture, noting that 75 percent of pre-adolescent children suffer severe dental problems and 7,000 of Japan's 23,000 dentists were displaced by air raids.",
+   "title": "Dental Affairs"
+  },
+  {
+   "end_page": 8,
+   "level": 1,
+   "printed_page": "140",
+   "start_page": 8,
+   "summary": "Reports substandard nursing education and midwife licensing, the absorption of 34,000 nurses into wartime military service, and the complete lack of female professional representation in nursing associations and licensing boards.",
+   "title": "Nursing Affairs"
+  },
+  {
+   "end_page": 9,
+   "level": 1,
+   "printed_page": "141",
+   "start_page": 9,
+   "summary": "Covers paralyzed medical supply manufacturing, dispatch of 12 tons of emergency supplies to Hiroshima, transfer of Japanese military medical stockpiles to civilian channels, and the 12 October directive freezing and controlling narcotics.",
+   "title": "Medical Supply"
+  },
+  {
+   "end_page": 10,
+   "level": 1,
+   "printed_page": "142",
+   "start_page": 10,
+   "summary": "Reviews public health laws, institutes mandatory weekly examinations and penicillin therapy under a standard prefectural venereal disease ordinance, and studies civil service reforms to elevate technical specialists over administrative bureaucrats.",
+   "title": "Legal"
+  },
+  {
+   "end_page": 14,
+   "level": 1,
+   "printed_page": "143",
+   "start_page": 11,
+   "summary": "Reports communicable disease totals including over 50,000 cases each of diphtheria and dysentery, epidemic typhus among Korean laborers, inadequate water chlorination, port quarantine protocols, and nutritional targets of 1,800 calories per day.",
+   "title": "Preventive Medicine"
+  }
+ ],
+ "summary": "This initial monthly summation covers non-military activities in public health and welfare across Japan during September and October 1945, representing the earliest comprehensive SCAP assessment of Japan's domestic medical and social conditions following surrender. The report documents the acute deterioration caused by wartime neglect and air raids, including damage to over 1,000 civilian hospitals, paralyzed medical manufacturing, substandard nursing and dental training, and the disruption of municipal sanitation and water treatment. Occupation authorities moved quickly to establish administrative control by issuing directives for communicable disease reporting, narcotics prohibition, weekly hospital bed censuses, and the demilitarization of the Japanese Red Cross. Key public health concerns included widespread outbreaks of diphtheria and dysentery, epidemic typhus among Korean coal miners and repatriates, and severe shortages of food, clothing, and housing, though per capita nutrition was targeted at 1,800 calories daily. For historians, this report is invaluable as a baseline inventory of Japan's devastated postwar welfare infrastructure, the early mechanics of SCAP indirect rule, the repatriation of roughly 150,000 Koreans, and emergency medical relief delivered to atomic bomb victims in Hiroshima.",
+ "toolAction": "Submitting research guide data",
+ "toolSummary": "Submit report metadata",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 14,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

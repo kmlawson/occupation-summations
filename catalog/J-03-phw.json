@@ -1,0 +1,114 @@
+{
+ "highlights": [
+  "SCAP ordered the transfer of 292 Japanese Army and Navy hospitals with 156,725 beds to the Ministry of Health and Welfare for civilian use.",
+  "By 30 December 1945, 924,584 Japanese nationals returned to Japan, while 654,523 Koreans, Chinese, Formosans, and Ryukyuans were repatriated from the Home Islands.",
+  "The 1 November 1945 census recorded Japan's population at 71,996,477, showing major urban populations like Tokyo falling by up to 60 percent due to wartime dispersal.",
+  "A large-scale nutrition survey across Tokyo examined 33,000 residents and 2,777 households, finding no evidence supporting rumors of widespread civilian starvation deaths.",
+  "Emergency DDT dusting and quarantine procedures reduced weekly typhus cases among Hokkaido coal miners from 151 in early November to 44 in December.",
+  "SCAP intervened in Japanese Cabinet civil service retrenchment plans to prevent indiscriminate 50 percent personnel cuts among technical public health staff."
+ ],
+ "keywords": [
+  "public health",
+  "repatriation",
+  "typhus control",
+  "DDT delousing",
+  "hospital administration",
+  "medical supplies",
+  "nutrition survey",
+  "1945 population census",
+  "venereal disease control",
+  "veterinary hygiene",
+  "public welfare relief",
+  "nursing education"
+ ],
+ "printed_toc_found": true,
+ "sections": [
+  {
+   "end_page": 1,
+   "level": 1,
+   "printed_page": "",
+   "start_page": 1,
+   "summary": "Contains the report title, table of contents, and organizational overview for the Public Health and Welfare section.",
+   "title": "Front matter"
+  },
+  {
+   "end_page": 1,
+   "level": 1,
+   "printed_page": "151",
+   "start_page": 1,
+   "summary": "Reports disease incidence including typhus and smallpox control, post-mortem findings showing no starvation deaths, relief directives, and the ordered transfer of military hospitals to civilian use.",
+   "title": "General"
+  },
+  {
+   "end_page": 2,
+   "level": 1,
+   "printed_page": "152",
+   "start_page": 2,
+   "summary": "Directs the Japanese government to administer destitution relief and distribute military reserve stocks, while reporting the repatriation of 654,523 non-Japanese from Japan and 924,584 Japanese nationals to the home islands.",
+   "title": "Public Welfare"
+  },
+  {
+   "end_page": 3,
+   "level": 1,
+   "printed_page": "153",
+   "start_page": 3,
+   "summary": "Civilian hospital capacity reached 142,926 beds with declining in-patient numbers, while SCAP ordered the transfer of 292 military hospitals with 156,725 beds to the Health Ministry for civilian use.",
+   "title": "Administration of Hospitals"
+  },
+  {
+   "end_page": 7,
+   "level": 1,
+   "printed_page": "154",
+   "start_page": 4,
+   "summary": "Reports the 1945 livestock census showing declines in cattle and poultry, horse breeding operations, animal disease outbreaks including swine cholera in Osaka, and slaughterhouse and dairy inspection statistics.",
+   "title": "Veterinary Affairs"
+  },
+  {
+   "end_page": 8,
+   "level": 1,
+   "printed_page": "158",
+   "start_page": 8,
+   "summary": "Shortages of equipment, supplies, and housing hampered dental practices, though manufacturing facilities were deemed adequate if fuel and materials are provided; 295 dentists resumed practice in November.",
+   "title": "Dental Affairs"
+  },
+  {
+   "end_page": 8,
+   "level": 1,
+   "printed_page": "158",
+   "start_page": 8,
+   "summary": "Efforts began to standardize nursing education and prefectural licensing, a national refresher course trained 250 public health nurses from 46 prefectures, and the Nurses Association petitioned for self-governing status.",
+   "title": "Nursing Affairs"
+  },
+  {
+   "end_page": 10,
+   "level": 1,
+   "printed_page": "158",
+   "start_page": 8,
+   "summary": "Details the distribution of returned military medical stocks and controlled drugs, emergency airlift of DDT for typhus control, production bottlenecks in biologicals and penicillin, and the impounding of raw opium stocks.",
+   "title": "Supply"
+  },
+  {
+   "end_page": 11,
+   "level": 1,
+   "printed_page": "161",
+   "start_page": 11,
+   "summary": "Covers the new venereal disease control ordinance, SCAP intervention to prevent indiscriminate 50 percent personnel cuts of technical staff in the Health Ministry, and deficient drug standards legislation.",
+   "title": "Legal"
+  },
+  {
+   "end_page": 18,
+   "level": 1,
+   "printed_page": "162",
+   "start_page": 12,
+   "summary": "Covers communicable disease control including DDT dusting, water supply chlorination, Tokyo nutrition surveys refuting starvation rumors, port quarantine operations, and the November 1945 census revealing dramatic wartime urban-to-rural population shifts.",
+   "title": "Preventive Medicine"
+  }
+ ],
+ "summary": "This December 1945 monthly report details early U.S. Occupation efforts to stabilize public health, welfare, and sanitation across Japan amidst severe post-surrender dislocation. Major developments include the containment of typhus outbreaks in Hokkaido using DDT dusting, the introduction of quarantine protocols at repatriation ports, and the directed transfer of 292 Imperial Army and Navy hospitals to the Ministry of Health and Welfare to nearly double civilian bed capacity. SCAP established civilian relief responsibilities, initiated comprehensive urban nutrition surveys in Tokyo to evaluate starvation rumors, and distributed surrendered military medical reserves while combating severe shortages of penicillin, vaccines, and raw materials. Legally, SCAP enacted venereal disease control measures, protected technical health personnel from indiscriminate government layoffs, and received petitions for self-governance from the national nurses’ association. For historians, the report provides invaluable baseline data on early postwar conditions, including the complete November 1945 population census showing extensive wartime urban-to-rural displacement, detailed livestock and disease statistics, repatriation volumes of Koreans and Japanese nationals, and the initial institutional rebuilding of Japan’s public welfare administration.",
+ "toolAction": "Submitting report analysis",
+ "toolSummary": "Finalize report guide data",
+ "_model": "gemini-3.8-flash-high",
+ "_pages": 18,
+ "_uncovered_pages": [],
+ "_bad_ranges": []
+}

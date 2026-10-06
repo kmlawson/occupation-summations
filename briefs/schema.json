@@ -1,0 +1,18 @@
+{
+ "type": "object",
+ "properties": {
+  "summary": {"type": "string", "description": "120-200 word overview of what this monthly report covers and what is notable in it"},
+  "highlights": {"type": "array", "items": {"type": "string"}, "description": "4-8 notable events, decisions or figures reported this month, each at most 25 words"},
+  "keywords": {"type": "array", "items": {"type": "string"}, "description": "8-15 keywords"},
+  "printed_toc_found": {"type": "boolean", "description": "true if the report has its own printed table of contents"},
+  "sections": {"type": "array", "items": {"type": "object", "properties": {
+     "title": {"type": "string", "description": "Heading as printed, in normal title case, e.g. 'Part II: Political' or 'Public Safety'"},
+     "level": {"type": "integer", "description": "1 = part or top-level division, 2 = section within a part, 3 = subsection (use sparingly)"},
+     "printed_page": {"type": "string", "description": "Page number printed in the report's own table of contents or on the page, if any; empty otherwise"},
+     "start_page": {"type": "integer", "description": "PDF page number (from the <!-- page N --> marker) where this heading actually appears"},
+     "end_page": {"type": "integer", "description": "Last PDF page of this section"},
+     "summary": {"type": "string", "description": "1-2 sentences on what this section reports this month (at most 45 words); for a level-1 part that only contains sections, a few words suffice"}},
+     "required": ["title", "level", "printed_page", "start_page", "end_page", "summary"]}}
+ },
+ "required": ["summary", "highlights", "keywords", "printed_toc_found", "sections"]
+}

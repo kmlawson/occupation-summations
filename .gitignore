@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+fulltext-build/node_modules/
+fulltext-build/records.jsonl
+data.js.tmp
+logs/
