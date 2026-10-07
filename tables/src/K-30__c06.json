@@ -1,0 +1,1113 @@
+{
+ "tables": [
+  {
+   "page": 76,
+   "pages": [
+    76
+   ],
+   "title": "Gold, Refined: Production in South Korea, May 1947 - February 1948 (Grade - pure)",
+   "units": "Kilograms, metal content",
+   "period": "May 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Kilograms Metal content"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "4.925"
+    ],
+    [
+     "Jun",
+     "3.350"
+    ],
+    [
+     "Jul",
+     "0.802"
+    ],
+    [
+     "Aug",
+     "17.587"
+    ],
+    [
+     "Sep",
+     "9.557"
+    ],
+    [
+     "Oct",
+     "6.526"
+    ],
+    [
+     "Nov",
+     "8.238"
+    ],
+    [
+     "Dec",
+     "7.733"
+    ],
+    [
+     "1948",
+     ""
+    ],
+    [
+     "Jan",
+     "22.288"
+    ],
+    [
+     "Feb",
+     "14.400"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "Year rows (1947, 1948) have blank value cells in the original."
+  },
+  {
+   "page": 77,
+   "pages": [
+    77
+   ],
+   "title": "Silver, Refined: Production in South Korea, May 1947 - February 1948 (Grade - pure)",
+   "units": "Kilograms, metal content",
+   "period": "May 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Kilograms Metal content"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "166.15"
+    ],
+    [
+     "Jun",
+     "3.02"
+    ],
+    [
+     "Jul",
+     "12.17"
+    ],
+    [
+     "Aug",
+     "205.34"
+    ],
+    [
+     "Sep",
+     "137.05"
+    ],
+    [
+     "Oct",
+     "86.34"
+    ],
+    [
+     "Nov",
+     "57.19"
+    ],
+    [
+     "Dec",
+     "58.18"
+    ],
+    [
+     "1948",
+     ""
+    ],
+    [
+     "Jan",
+     "194.78"
+    ],
+    [
+     "Feb",
+     "109.50"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 77,
+   "pages": [
+    77
+   ],
+   "title": "Copper: Production in South Korea, May 1947 - February 1948 (Grade - mixed)",
+   "units": "Metric tons",
+   "period": "May 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Metric tons",
+     "Metric tons"
+    ],
+    [
+     "",
+     "Concentrate",
+     "Metal content"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     "",
+     ""
+    ],
+    [
+     "May",
+     "100",
+     "7.0"
+    ],
+    [
+     "Jun",
+     "NA",
+     "16.3"
+    ],
+    [
+     "Jul",
+     "NA",
+     "19.9"
+    ],
+    [
+     "Aug",
+     "360",
+     "20.4"
+    ],
+    [
+     "Sep",
+     "417",
+     "20.7"
+    ],
+    [
+     "Oct",
+     "403",
+     "17.9"
+    ],
+    [
+     "Nov",
+     "356",
+     "12.3"
+    ],
+    [
+     "Dec",
+     "179",
+     "13.2"
+    ],
+    [
+     "1948",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "139",
+     "9.9"
+    ],
+    [
+     "Feb",
+     "128",
+     "8.0"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 78,
+   "pages": [
+    78
+   ],
+   "title": "Copper, Electrolytic: Production in South Korea, May 1947 - February 1948 (Grade - pure)",
+   "units": "Metric tons, metal content",
+   "period": "May 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Metric tons Metal content"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "48.0"
+    ],
+    [
+     "Jun",
+     "29.0"
+    ],
+    [
+     "Jul",
+     "21.9"
+    ],
+    [
+     "Aug",
+     "22.1"
+    ],
+    [
+     "Sep",
+     "35.3"
+    ],
+    [
+     "Oct",
+     "40.1"
+    ],
+    [
+     "Nov",
+     "45.9"
+    ],
+    [
+     "Dec",
+     "36.4"
+    ],
+    [
+     "1948",
+     ""
+    ],
+    [
+     "Jan",
+     "35.9"
+    ],
+    [
+     "Feb",
+     "49.5"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 78,
+   "pages": [
+    78
+   ],
+   "title": "Tungsten Concentrate: Production in South Korea, May 1947 - February 1948",
+   "units": "Metric tons",
+   "period": "May 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Grade a/",
+     "Metric tons",
+     "Metric tons"
+    ],
+    [
+     "",
+     "",
+     "Ore",
+     "Metal Content b/"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     "",
+     "",
+     ""
+    ],
+    [
+     "May",
+     "66.0 % WO3",
+     "95.3",
+     "49.7 W"
+    ],
+    [
+     "Jun",
+     "66.4 % WO3",
+     "112.4",
+     "59.2 W"
+    ],
+    [
+     "Jul",
+     "65.0 % WO3",
+     "123.2",
+     "63.2 W"
+    ],
+    [
+     "Aug",
+     "64.4 % WO3",
+     "84.7",
+     "44.4 W"
+    ],
+    [
+     "Sep",
+     "65.0 % WO3",
+     "105.3",
+     "54.1 W"
+    ],
+    [
+     "Oct",
+     "63.32% WO3",
+     "110.2",
+     "55.1 W"
+    ],
+    [
+     "Nov",
+     "63.32% WO3",
+     "35.3",
+     "17.7 W"
+    ],
+    [
+     "Dec",
+     "Mixed",
+     "47.7",
+     "29.7 W"
+    ],
+    [
+     "1948",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "60.0 % WO3",
+     "79.1",
+     "47.4 W"
+    ],
+    [
+     "Feb",
+     "63.0 % WO3",
+     "48.1",
+     "30.3 W"
+    ]
+   ],
+   "footnotes": [
+    "a/ WO3 = Tungstic acid (tungsten trioxide).",
+    "b/ W = Tungsten."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 79,
+   "pages": [
+    79
+   ],
+   "title": "Graphite, Crystalline: Production in South Korea, May 1947 - February 1948 (metric tons)",
+   "units": "Metric tons",
+   "period": "May 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Grade (est)",
+     "Ore"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     "",
+     ""
+    ],
+    [
+     "May",
+     "A (83%)",
+     "5.3"
+    ],
+    [
+     "",
+     "B (80%)",
+     "13.1"
+    ],
+    [
+     "",
+     "C (77%)",
+     "31.9"
+    ],
+    [
+     "Jun",
+     "A (83%)",
+     "7.8"
+    ],
+    [
+     "",
+     "B (80%)",
+     "16.7"
+    ],
+    [
+     "",
+     "C (77%)",
+     "44.1"
+    ],
+    [
+     "Jul",
+     "",
+     "57.7"
+    ],
+    [
+     "Aug",
+     "A (83%)",
+     "8.4"
+    ],
+    [
+     "",
+     "B (80%)",
+     "13.4"
+    ],
+    [
+     "",
+     "C (77%)",
+     "45.8"
+    ],
+    [
+     "Sep",
+     "A (83%)",
+     "11.9"
+    ],
+    [
+     "",
+     "B (80%)",
+     "16.0"
+    ],
+    [
+     "",
+     "C (77%)",
+     "52.5"
+    ],
+    [
+     "Oct",
+     "A (83%)",
+     "9.2"
+    ],
+    [
+     "",
+     "B (80%)",
+     "15.2"
+    ],
+    [
+     "",
+     "C (77%)",
+     "43.8"
+    ],
+    [
+     "Nov",
+     "A (83%)",
+     "5.6"
+    ],
+    [
+     "",
+     "B (80%)",
+     "20.6"
+    ],
+    [
+     "",
+     "C (77%)",
+     "48.8"
+    ],
+    [
+     "Dec",
+     "A (83%)",
+     "5.1"
+    ],
+    [
+     "",
+     "B (81%)",
+     "15.8"
+    ],
+    [
+     "",
+     "C (78%)",
+     "47.0"
+    ],
+    [
+     "1948",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "A (83%)",
+     "9.4"
+    ],
+    [
+     "",
+     "B (80%)",
+     "20.5"
+    ],
+    [
+     "",
+     "C (75%)",
+     "62.1"
+    ],
+    [
+     "Feb",
+     "A (83%)",
+     "6.3"
+    ],
+    [
+     "",
+     "B (80%)",
+     "10.8"
+    ],
+    [
+     "",
+     "C (77%)",
+     "41.3"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "Each month (except Jul) has three lines, grades A, B, C, each with its own ore figure; shown as three rows with the month in the first. July has no grade and one figure (57.7)."
+  },
+  {
+   "page": 80,
+   "pages": [
+    80
+   ],
+   "title": "Zinc Concentrate: Production in South Korea, June 1947 - February 1948",
+   "units": "Metric tons",
+   "period": "June 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Grade",
+     "Metric tons",
+     "Metric tons"
+    ],
+    [
+     "",
+     "",
+     "Ore",
+     "Metal content"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jun",
+     "41.0%",
+     "30.0",
+     "12.3"
+    ],
+    [
+     "Jul",
+     "40.8%",
+     "41.5",
+     "16.9"
+    ],
+    [
+     "Aug",
+     "40.0%",
+     "45.0",
+     "18.0"
+    ],
+    [
+     "Sep",
+     "46.0%",
+     "32.1",
+     "14.7"
+    ],
+    [
+     "Oct",
+     "28.0%",
+     "64.1",
+     "17.7"
+    ],
+    [
+     "Nov",
+     "32.0%",
+     "69.4",
+     "22.0"
+    ],
+    [
+     "Dec",
+     "Mixed",
+     "77.5",
+     "24.1"
+    ],
+    [
+     "1948",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "Mixed",
+     "90.6",
+     "44.3"
+    ],
+    [
+     "Feb",
+     "Mixed",
+     "91.0",
+     "51.6"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 80,
+   "pages": [
+    80
+   ],
+   "title": "Lead Concentrate: Production in South Korea, June 1947 - February 1948",
+   "units": "Metric tons",
+   "period": "June 1947 - February 1948",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Grade",
+     "Metric tons",
+     "Metric tons"
+    ],
+    [
+     "",
+     "",
+     "Ore",
+     "Metal content"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jun",
+     "47.0% est",
+     "103.0",
+     "48.4"
+    ],
+    [
+     "Jul",
+     "Mixed",
+     "71.0",
+     "34.6"
+    ],
+    [
+     "Aug",
+     "49.3%",
+     "75.0",
+     "37.0"
+    ],
+    [
+     "Sep",
+     "55.3%",
+     "65.7",
+     "36.3"
+    ],
+    [
+     "Oct",
+     "43.3%",
+     "71.4",
+     "30.9"
+    ],
+    [
+     "Nov",
+     "37.0%",
+     "74.4",
+     "27.5"
+    ],
+    [
+     "Dec",
+     "Mixed",
+     "87.5",
+     "24.9"
+    ],
+    [
+     "1948",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "Mixed",
+     "97.3",
+     "49.2"
+    ],
+    [
+     "Feb",
+     "Mixed",
+     "77.7",
+     "43.0"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 85,
+   "pages": [
+    85
+   ],
+   "title": "[Petroleum products: quantity by commodity]",
+   "units": "liters",
+   "period": "",
+   "source_note": "",
+   "header": [
+    [
+     "Commodity",
+     "Quantity (liters)"
+    ]
+   ],
+   "rows": [
+    [
+     "Gasoline",
+     "6,115,443"
+    ],
+    [
+     "Kerosene",
+     "3,815,507"
+    ],
+    [
+     "Diesel Oil",
+     "2,633,944"
+    ],
+    [
+     "Navy Special Fuel Oil",
+     "3,941,888"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "Untitled table at top of page; its introductory text is on the previous page."
+  },
+  {
+   "page": 85,
+   "pages": [
+    85
+   ],
+   "title": "[Departmental requirements fulfilled]",
+   "units": "liters (grease in kg)",
+   "period": "",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Gasoline (liters)",
+     "Kerosene (liters)",
+     "Diesel oil (liters)",
+     "Fuel oil (liters)",
+     "Lub. oil (liters)",
+     "Grease (kg)"
+    ]
+   ],
+   "rows": [
+    [
+     "Department of Transportation",
+     "138,819",
+     "78,236",
+     "50,151",
+     "176,309",
+     "178,338",
+     "16,027"
+    ],
+    [
+     "Korean Coast Guard",
+     "37,714",
+     "401",
+     "248,330",
+     "0",
+     "7,623",
+     "0"
+    ],
+    [
+     "Services of Civilian Supply",
+     "57,373",
+     "201",
+     "401",
+     "0",
+     "4,012",
+     "113"
+    ],
+    [
+     "Marine Transportation",
+     "0",
+     "0",
+     "1,869,393",
+     "1,896,050",
+     "0",
+     "0"
+    ],
+    [
+     "11th Med. Port",
+     "0",
+     "0",
+     "0",
+     "2,095,251",
+     "0",
+     "0"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 85,
+   "pages": [
+    85
+   ],
+   "title": "Petroleum Products: Sales in South Korea, 1946 - 1947, and January - March 1948 a/",
+   "units": "thousands of units (gasoline, kerosene, diesel oil, lub. oil, fuel oil in liters; grease in kg)",
+   "period": "1946 - 1947, and January - March 1948",
+   "source_note": "Petroleum Distributing Agency, Department of Commerce.",
+   "header": [
+    [
+     "Period",
+     "Gasoline (liters)",
+     "Kerosene (liters)",
+     "Diesel oil (liters)",
+     "Lub. oil (liters)",
+     "Fuel oil b/ (liters)",
+     "Grease (kg)"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Total c/",
+     "39,528",
+     "20,912",
+     "15,588",
+     "7,399",
+     "35,641",
+     "74"
+    ],
+    [
+     "Mo. average",
+     "3,249",
+     "1,743",
+     "1,299",
+     "617",
+     "2,970",
+     "6"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Total c/",
+     "60,977",
+     "24,538",
+     "28,898",
+     "11,352",
+     "51,164",
+     "258"
+    ],
+    [
+     "Mo. average",
+     "5,081",
+     "2,045",
+     "2,392",
+     "946",
+     "4,264",
+     "22"
+    ],
+    [
+     "1948",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "7,694",
+     "2,967",
+     "3,175",
+     "822",
+     "3,561",
+     "17"
+    ],
+    [
+     "Feb",
+     "3,426",
+     "2,984",
+     "1,874",
+     "1,530",
+     "3,069",
+     "5"
+    ],
+    [
+     "Mar",
+     "7,917",
+     "3,459",
+     "5,554",
+     "1,086",
+     "8,313",
+     "23"
+    ]
+   ],
+   "footnotes": [
+    "a/ All petroleum products are imported from United States or transshipped from Japan.",
+    "b/ During 1946 and through April 1947, includes some issued to overseas ships not included in the Korean economy.",
+    "c/ For monthly data, see figure 1, this section."
+   ],
+   "unreadable": [],
+   "totals_check": "No grand totals printed. Cross-check of annual total / 12 against printed monthly average: all agree (to rounding) except 1946 gasoline (39,528/12 = 3,294; printed 3,249) and 1947 diesel oil (28,898/12 = 2,408; printed 2,392).",
+   "warnings": [
+    "1946 gasoline monthly average printed 3,249 but total/12 = 3,294.",
+    "1947 diesel oil monthly average printed 2,392 but total/12 = 2,408."
+   ],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 86,
+   "pages": [
+    86
+   ],
+   "title": "Salt: Distribution for Agricultural, Industrial and Miscellaneous Uses, South Korea, 1 April 1947 - 31 March 1948 (kilograms)",
+   "units": "kilograms",
+   "period": "1 April 1947 - 31 March 1948",
+   "source_note": "Monopoly Bureau, Department of Finance.",
+   "header": [
+    [
+     "Use",
+     "Quantity"
+    ]
+   ],
+   "rows": [
+    [
+     "Agricultural uses",
+     ""
+    ],
+    [
+     "Hide curing",
+     "322,442"
+    ],
+    [
+     "Livestock uses",
+     "189,180"
+    ],
+    [
+     "Seed separation",
+     "1,000,980"
+    ],
+    [
+     "Fishmeal manufacture",
+     "6,000"
+    ],
+    [
+     "Fisheries (curing)",
+     "14,949,435"
+    ],
+    [
+     "Total",
+     "16,468,037"
+    ],
+    [
+     "Industrial uses",
+     ""
+    ],
+    [
+     "Soya sauce manufacture",
+     "6,542,770"
+    ],
+    [
+     "Pickling of foods",
+     "1,179,170"
+    ],
+    [
+     "Noodle manufacture",
+     "574,927"
+    ],
+    [
+     "Ceramic manufacture",
+     "11,940"
+    ],
+    [
+     "Chemical plant",
+     "706,837"
+    ],
+    [
+     "Soap manufacture",
+     "80,640"
+    ],
+    [
+     "Total",
+     "9,096,284"
+    ],
+    [
+     "Miscellaneous uses a/",
+     "3,952,019"
+    ],
+    [
+     "Grand total",
+     "29,516,340"
+    ]
+   ],
+   "footnotes": [
+    "a/ Miscellaneous uses include small, other than home consumption users, such as hotels, restaurants, schools, lunchrooms, business and government kitchens, constabulary and police mess halls, railroad and street-car \"non-freeze\" uses, boiler water purification, etc."
+   ],
+   "unreadable": [],
+   "totals_check": "Agricultural: 322,442+189,180+1,000,980+6,000+14,949,435 = 16,468,037, printed 16,468,037, agree. Industrial: 6,542,770+1,179,170+574,927+11,940+706,837+80,640 = 9,096,284, printed 9,096,284, agree. Grand total: 16,468,037+9,096,284+3,952,019 = 29,516,340, printed 29,516,340, agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it read 'Ride curing' for 'Hide curing'."
+  }
+ ]
+}

@@ -19,7 +19,7 @@ A grid of figures or entries with rows and columns, printed as a table in the re
 - Keep printed totals and subtotals as ordinary rows.
 - **Totals:** wherever a total, subtotal or percentage column is printed, add up the parts yourself and say so in `totals_check`: what you summed, the printed total, your sum, and whether they agree. Do not correct the source; a disagreement goes in `warnings` too.
 - Units ("in thousands of yen", "metric tons"), the date or period of the figures, and the source line printed under the table go in `units`, `period` and `source_note`. Footnotes go in `footnotes`.
-- Title: the table's printed title, in normal capitalisation. If it has none, write a short descriptive title in [square brackets].
+- Title: the table's printed title, word for word, in normal capitalisation. Do not add words or qualifiers to it. If it has none, write a short descriptive title in [square brackets].
 - In `ocr_check`, say in one sentence how the OCR compared: for example "OCR matched except row 4, where it read 1,836 for 1,886", or "OCR missed the table".
 
 ## Output

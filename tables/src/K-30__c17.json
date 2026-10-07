@@ -1,0 +1,14 @@
+{"tables": [
+  {"page": 215, "pages": [215], "title": "[Discussion groups, sessions held and attendance, KNY]", "units": "", "period": "Jan-Dec 1947 and Jan-Mar 1948", "source_note": "",
+   "header": [["Jan-Dec 1947", "Jan-Dec 1947", "Jan-Dec 1947", "Jan-Mar 1948", "Jan-Mar 1948", "Jan-Mar 1948"], ["Groups", "Sessions", "Attendance", "Groups", "Sessions", "Attendance"]],
+   "rows": [["15,471", "757,008", "10,872,200", "15,814", "2,571,396", "37,315,785"]],
+   "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image; some typewritten commas print like periods (e.g. 757.008) and were read as commas.", "notes": "Table introduced by paragraph 11 of the text; no printed title."},
+  {"page": 215, "pages": [215], "title": "[Illiteracy classes, sessions and attendance, KNY]", "units": "", "period": "Jan-Dec 1947 and Jan-Mar 1948", "source_note": "",
+   "header": [["Jan-Dec 1947", "Jan-Dec 1947", "Jan-Dec 1947", "Jan-Mar 1948", "Jan-Mar 1948", "Jan-Mar 1948"], ["Classes", "Sessions", "Attendance", "Classes", "Sessions", "Attendance"]],
+   "rows": [["124", "146", "15,280", "154", "429", "52,770"]],
+   "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image.", "notes": "Table introduced by paragraph 12 of the text; no printed title."},
+  {"page": 215, "pages": [215], "title": "[Playgrounds, KNY members supplying leadership and children in attendance]", "units": "", "period": "Jan-Dec 1947 and Jan-Mar 1948", "source_note": "",
+   "header": [["Jan-Dec 1947", "Jan-Dec 1947", "Jan-Dec 1947", "Jan-Mar 1948", "Jan-Mar 1948", "Jan-Mar 1948"], ["Playgrounds", "Members", "Children", "Playgrounds", "Members", "Children"]],
+   "rows": [["700", "1,005", "420,000", "723", "2,100", "829,710"]],
+   "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched the image; 420,000 prints with a period-like mark, read as a comma.", "notes": "Table introduced by paragraph 13 of the text; no printed title."}
+]}
