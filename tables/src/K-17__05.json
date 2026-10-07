@@ -1,0 +1,42 @@
+{"tables": [
+  {"page": 88, "pages": [88], "title": "Biologicals, 1 to 21 February: Pusan Institute of Veterinary Research (continued)",
+   "units": "cc unless otherwise shown in the Unit column (dose for smallpox vaccine)", "period": "1 to 21 February 1947", "source_note": "",
+   "header": [["Item", "Unit", "New", "Dispensed"]],
+   "rows": [
+     ["Contagious pneumonia of cattle antigen", "cc", "600", "0"],
+     ["Fowlpest vaccine", "cc", "80,200", "33,200"],
+     ["Hemolysin antisheep blood", "cc", "80", "0"],
+     ["Hemorrhagic septicemia vaccine", "cc", "0", "3,000"],
+     ["Mallein", "cc", "300", "40"],
+     ["Mixed serum of third virus and swine influenza", "cc", "0", "200"],
+     ["Pullorum antigen", "cc", "1,110", "0"],
+     ["Rinderpest serum", "cc", "0", "810,500 b/"],
+     ["Rinderpest vaccine", "cc", "0", "1,137,000"],
+     ["Smallpox vaccine", "dose", "0", "2,000"],
+     ["Tuberculin", "cc", "0", "60"]
+   ],
+   "footnotes": ["a/ American.", "b/ Destroyed."],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it misspelled Fowlpeet/Rinderpeet (printed Fowlpest/Rinderpest); figures agreed. The heading and first rows of this table (Pusan Institute of Veterinary Research) are on page 87; only the continuation on page 88 is transcribed here. The a/ marker is not used on this page's rows (it applies to rows on page 87). Wrapped row labels were joined into one cell. Page printed number 74."},
+  {"page": 89, "pages": [89], "title": "Communicable diseases",
+   "units": "cases", "period": "January and February 1947", "source_note": "",
+   "header": [["Disease", "Cases", "Cases"], ["", "January", "February a/"]],
+   "rows": [
+     ["Relapsing fever", "15", "24"],
+     ["Meningitis", "4", "5"],
+     ["Malaria", "6", "0"],
+     ["Diphtheria", "97", "88"],
+     ["Smallpox", "74", "31"],
+     ["Typhus fever", "147 b/", "271"],
+     ["Typhoid fever", "457", "659"],
+     ["Paratyphoid fever", "3", "1"],
+     ["Bacillary dysentery", "9", "6"]
+   ],
+   "footnotes": ["a/ Includes some cases occurring 26 January to 1 February which were not reported for January.", "b/ Revised."],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": ["Text on page 88 says typhoid incidence 'increased to 159, 48 percent over the 457 cases in January', but the table prints 659 for February (the text figure 159 appears to be a misprint for 659 or similar; 659 is 44 percent over 457). Source not corrected."],
+   "ocr_check": "OCR matched the image on all figures."}
+]}

@@ -1,0 +1,14 @@
+{"tables": [
+{"page": 66, "pages": [66], "title": "Price of coal to dealers", "units": "yen/metric ton", "period": "March and April (1947)", "source_note": "",
+ "header": [["Item", "March", "April"]],
+ "rows": [["Anthracite", "", ""], ["  Powder", "700", "1,000"], ["  Lump", "900", "1,200"], ["Lignite", "400", "600"]],
+ "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": ["Blank cells in the 'Anthracite' row are blank in the original (heading row). The small 'March Total' box inside the March Coal Allocations chart was not transcribed (part of a chart, figures too small to read reliably)."], "ocr_check": "OCR matched."},
+{"page": 71, "pages": [71, 72], "title": "Communicable diseases", "units": "cases", "period": "February and March (1947)", "source_note": "",
+ "header": [["Disease", "Cases (February)", "Cases (March)"]],
+ "rows": [["Relapsing fever", "24", "17"], ["Malaria", "0", "4"], ["Diphtheria", "88", "115"], ["Smallpox", "31", "34"], ["Typhus fever", "271", "208"], ["Typhoid fever", "659", "1,409"], ["Paratyphoid fever", "1", "15"], ["Bacillary dysentery", "6", "1"]],
+ "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": ["Table continues from page 59 (PDF p. 71) to page 60 (PDF p. 72), where the 'Cases / February / March' header is repeated."], "ocr_check": "OCR matched."},
+{"page": 73, "pages": [73], "title": "Sanatoriums and leprosariums, 1 March", "units": "", "period": "1 March (1947)", "source_note": "",
+ "header": [["Institution", "Capacity", "In-patients"]],
+ "rows": [["Masan Tuberculosis Sanatorium", "200", "130"], ["Seoul Wonchong Songmo Branch Hospital", "30", "25"], ["Inchon Red Cross Branch Hospital", "60", "60"], ["Sorokdo Leprosarium", "6,000", "5,700"], ["Pusan Leprosarium", "500", "500"], ["Taegu Leprosarium", "700", "700"], ["Yosu Leprosarium", "700", "700"]],
+ "footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched."}
+]}

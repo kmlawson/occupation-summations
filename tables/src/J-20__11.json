@@ -1,0 +1,1125 @@
+{
+ "tables": [
+  {
+   "page": 87,
+   "pages": [
+    87
+   ],
+   "title": "Recruitment and employment in textiles, raw silk and coal industries",
+   "units": "persons (workers)",
+   "period": "28 March to 30 April 1947 (recruitment goals April-June)",
+   "source_note": "Federation of Japanese Textile Associations, Raw Silk Association and Coal Board.",
+   "header": [
+    [
+     "Industry",
+     "Employed 28 Mar",
+     "Recruitment Goals Apr-Jun",
+     "Number Recruited April",
+     "Number Leaving Jobs",
+     "Net Change",
+     "Employed 30 Apr"
+    ]
+   ],
+   "rows": [
+    [
+     "Textile a/",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Cotton spinning and weaving",
+     "88,376",
+     "30,730",
+     "12,534",
+     "6,593",
+     "5,941",
+     "94,317"
+    ],
+    [
+     "  Silk spinning and weaving",
+     "14,106",
+     "6,460",
+     "1,966",
+     "703",
+     "1,263",
+     "15,369"
+    ],
+    [
+     "  Woolen and worsted",
+     "26,540",
+     "9,080",
+     "2,876",
+     "1,361",
+     "1,515",
+     "28,055"
+    ],
+    [
+     "  Hard fiber",
+     "11,390",
+     "2,164",
+     "1,274",
+     "675",
+     "599",
+     "11,989"
+    ],
+    [
+     "  Rayon yarn and rayon staple",
+     "21,235",
+     "7,391",
+     "1,945",
+     "1,825",
+     "120",
+     "21,355"
+    ],
+    [
+     "  Rayon pulp",
+     "3,160",
+     "55",
+     "3",
+     "1",
+     "2",
+     "3,162"
+    ],
+    [
+     "Total",
+     "164,807",
+     "55,880",
+     "20,598",
+     "11,158",
+     "9,440",
+     "174,247"
+    ],
+    [
+     "Raw silk",
+     "72,081",
+     "28,843",
+     "12,091",
+     "3,587",
+     "8,504",
+     "80,585"
+    ],
+    [
+     "Coal",
+     "379,385",
+     "40,000",
+     "21,697",
+     "12,988",
+     "8,709",
+     "388,094"
+    ]
+   ],
+   "footnotes": [
+    "a/ Excluding 366,753 workers in small-scale mills."
+   ],
+   "unreadable": [],
+   "totals_check": "Textile Total row: summed the six textile lines for each column. Employed 28 Mar 164,807 (sum 164,807); Goals 55,880 (55,880); Recruited 20,598 (20,598); Leaving 11,158 (11,158); Net change 9,440 (9,440); Employed 30 Apr 174,247 (174,247). All agree. Also checked recruited minus leaving = net change, and employed 28 Mar plus net change = employed 30 Apr, for each line: all agree.",
+   "warnings": [],
+   "ocr_check": "OCR differed on rayon yarn and staple employed 28 Mar (read 21,335 for 21,235) and rayon pulp net change and 30 Apr (read 3 and 3,163 for 2 and 3,162); otherwise matched."
+  },
+  {
+   "page": 89,
+   "pages": [
+    89,
+    90
+   ],
+   "title": "Food",
+   "units": "metric tons",
+   "period": "March 1947 (revised) and April 1947 (preliminary)",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "March a/",
+     "April b/"
+    ]
+   ],
+   "rows": [
+    [
+     "IMPORTS",
+     "",
+     ""
+    ],
+    [
+     "China",
+     "",
+     ""
+    ],
+    [
+     "Salt",
+     "29,625",
+     "9,456"
+    ],
+    [
+     "United Kingdom",
+     "",
+     ""
+    ],
+    [
+     "Salt c/",
+     "53,778",
+     "22,426"
+    ],
+    [
+     "United States",
+     "",
+     ""
+    ],
+    [
+     "Barley",
+     "7,675",
+     "24,090"
+    ],
+    [
+     "Bran, wheat",
+     "836",
+     "0"
+    ],
+    [
+     "Corn",
+     "39,402",
+     "15,038"
+    ],
+    [
+     "Flour, wheat",
+     "1,263",
+     "2,900"
+    ],
+    [
+     "Sugar",
+     "1,370",
+     "1,720"
+    ],
+    [
+     "Wheat",
+     "69,758",
+     "22,974"
+    ],
+    [
+     "Miscellaneous d/",
+     "14,679",
+     "25,386"
+    ],
+    [
+     "EXPORTS",
+     "",
+     ""
+    ],
+    [
+     "Canada",
+     "",
+     ""
+    ],
+    [
+     "Tea",
+     "0",
+     "389"
+    ],
+    [
+     "United States",
+     "",
+     ""
+    ],
+    [
+     "Tea",
+     "273",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Preliminary.",
+    "c/ From Aden and Egypt.",
+    "d/ Includes canned, dried and packaged meats, vegetables, fruits, soups, crackers, concentrated fruit juices, soup powders, jams and other food products. Approximately 12 metric tons of beans transferred from surplus military stocks were included in the total figure."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched; it put the exports Canada and United States rows in separate tables."
+  },
+  {
+   "page": 90,
+   "pages": [
+    90
+   ],
+   "title": "Textiles and related products",
+   "units": "as given in Unit column",
+   "period": "March 1947 (revised) and April 1947 (preliminary)",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Unit",
+     "March a/",
+     "April b/"
+    ]
+   ],
+   "rows": [
+    [
+     "IMPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Cotton, raw",
+     "thousands of pounds",
+     "26,064",
+     "0"
+    ],
+    [
+     "Hemp fiber",
+     "metric ton",
+     "14",
+     "337"
+    ],
+    [
+     "Sacks, empty",
+     "metric ton",
+     "585",
+     "262"
+    ],
+    [
+     "Twine, sacking",
+     "pound",
+     "13,377",
+     "4,318"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Afghanistan",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Yarn, cotton",
+     "thousands of pounds",
+     "25",
+     "0"
+    ],
+    [
+     "Australia",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Silk, raw",
+     "pound",
+     "0",
+     "95,217"
+    ],
+    [
+     "Yarn, cotton",
+     "thousands of pounds",
+     "1",
+     "0"
+    ],
+    [
+     "Yarn, rayon",
+     "thousands of pounds",
+     "300",
+     "0"
+    ],
+    [
+     "Burma",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Yarn, cotton",
+     "thousands of pounds",
+     "1,100",
+     "0"
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Yarn, rayon",
+     "thousands of pounds",
+     "0",
+     "500"
+    ],
+    [
+     "Egypt",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fabric, cotton",
+     "thousands of linear yards",
+     "0",
+     "3,252"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Yarn, cotton",
+     "thousands of pounds",
+     "1,000",
+     "0"
+    ],
+    [
+     "Yarn, rayon",
+     "thousands of pounds",
+     "335",
+     "105"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Cotton, raw",
+     "thousands of pounds",
+     "2,862",
+     "1,379"
+    ],
+    [
+     "Fabric, silk",
+     "thousands of linear yards",
+     "2",
+     "0"
+    ],
+    [
+     "Fabric, woolen",
+     "thousands of linear yards",
+     "44",
+     "42"
+    ],
+    [
+     "Wool, felt",
+     "pound",
+     "274",
+     "0"
+    ],
+    [
+     "Yarn, worsted",
+     "thousands of pounds",
+     "0",
+     "300"
+    ],
+    [
+     "Yarn, spun silk",
+     "case",
+     "0",
+     "1"
+    ],
+    [
+     "Malaya",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fabric, cotton",
+     "thousands of linear yards",
+     "0",
+     "6,043"
+    ],
+    [
+     "Netherlands East Indies",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fabric, cotton",
+     "thousands of linear yards",
+     "20,252",
+     "0"
+    ],
+    [
+     "North Borneo",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fabric, cotton",
+     "thousands of linear yards",
+     "0",
+     "392"
+    ],
+    [
+     "Philippines",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fabric, cotton",
+     "thousands of linear yards",
+     "0",
+     "1,748"
+    ],
+    [
+     "Fabric, rayon",
+     "thousands of linear yards",
+     "0",
+     "705"
+    ],
+    [
+     "Sweden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fabric, cotton",
+     "thousands of linear yards",
+     "0",
+     "3,990"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Leather goods",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Bags",
+     "each",
+     "600",
+     "0"
+    ],
+    [
+     "  Belts",
+     "dozen",
+     "120",
+     "0"
+    ],
+    [
+     "  Portfolios",
+     "each",
+     "3,700",
+     "0"
+    ],
+    [
+     "Silk, raw",
+     "pound",
+     "4,087",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Preliminary."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched with no digit differences found.",
+   "notes": "Spans the page 89 imports (China, United Kingdom) and the page 90 continuation (United States imports, exports). Blank cells are group-heading rows."
+  },
+  {
+   "page": 91,
+   "pages": [
+    91
+   ],
+   "title": "Consumer goods",
+   "units": "as given in Unit column",
+   "period": "March 1947 (revised) and April 1947 (preliminary)",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Unit",
+     "March a/",
+     "April b/"
+    ]
+   ],
+   "rows": [
+    [
+     "IMPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Books",
+     "box",
+     "1",
+     "2"
+    ],
+    [
+     "Needles, sewing",
+     "each",
+     "424",
+     "165"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bicycles",
+     "set",
+     "0",
+     "2,000"
+    ],
+    [
+     "Machines, sewing",
+     "set",
+     "0",
+     "500"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bicycles",
+     "set",
+     "300",
+     "0"
+    ],
+    [
+     "Glass tumblers",
+     "dozen",
+     "5,000",
+     "0"
+    ],
+    [
+     "Pencils",
+     "gross",
+     "9,000",
+     "0"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bulbs, electric light",
+     "each",
+     "360",
+     "0"
+    ],
+    [
+     "Instruments, band",
+     "each",
+     "0",
+     "60"
+    ],
+    [
+     "Lamps, miners'",
+     "each",
+     "5,000",
+     "0"
+    ],
+    [
+     "Recording discs",
+     "each",
+     "0",
+     "450"
+    ],
+    [
+     "Records, phonograph",
+     "each",
+     "7,520",
+     "0"
+    ],
+    [
+     "Typewriters",
+     "each",
+     "0",
+     "20"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bicycles",
+     "set",
+     "300",
+     "0"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bulbs, electric light, miniature",
+     "each",
+     "1,305,000",
+     "0"
+    ],
+    [
+     "Earthenware c/",
+     "piece",
+     "22,278",
+     "0"
+    ],
+    [
+     "",
+     "set",
+     "273",
+     "0"
+    ],
+    [
+     "",
+     "pair",
+     "32,525",
+     "0"
+    ],
+    [
+     "Harmonicas",
+     "dozen",
+     "4,000",
+     "0"
+    ],
+    [
+     "Porcelain ware",
+     "piece",
+     "112,429",
+     "0"
+    ],
+    [
+     "Slide rules",
+     "each",
+     "10,000",
+     "0"
+    ],
+    [
+     "Slide-rule instruction books",
+     "each",
+     "7,500",
+     "0"
+    ],
+    [
+     "Sockets for Christmas lamps",
+     "each",
+     "950,000",
+     "0"
+    ],
+    [
+     "Squeakers for stuffed toys",
+     "dozen",
+     "10,800",
+     "0"
+    ],
+    [
+     "Toys, celluloid",
+     "dozen",
+     "2,400",
+     "0"
+    ],
+    [
+     "Tubes, confetti",
+     "each",
+     "50,000",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Preliminary.",
+    "c/ Includes a wide variety of earthenware articles, not reportable in a single unit of measurement."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it read 'Harmonics' for Harmonicas."
+  },
+  {
+   "page": 91,
+   "pages": [
+    91,
+    92
+   ],
+   "title": "Machinery and equipment",
+   "units": "as given in Unit column",
+   "period": "March 1947 (revised) and April 1947 (preliminary)",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Unit",
+     "March a/",
+     "April b/"
+    ]
+   ],
+   "rows": [
+    [
+     "IMPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Equipment for pest control c/",
+     "metric ton",
+     "14",
+     "1"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Communications equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Rectifiers",
+     "each",
+     "0",
+     "203"
+    ],
+    [
+     "  Rectifiers",
+     "set",
+     "0",
+     "266"
+    ],
+    [
+     "  Tubes, vacuum",
+     "each",
+     "0",
+     "11,028"
+    ],
+    [
+     "Railway equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Locomotives, electric",
+     "each",
+     "0",
+     "10"
+    ],
+    [
+     "  Parts, turbine",
+     "set",
+     "0",
+     "2"
+    ],
+    [
+     "  Shaft packings, turbine",
+     "set",
+     "0",
+     "1"
+    ],
+    [
+     "  Steam tenders",
+     "set",
+     "5",
+     "0"
+    ],
+    [
+     "French Indo-China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Communications equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Tubes, vacuum",
+     "each",
+     "86",
+     "0"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Communications equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Cable, lead-covered",
+     "meter",
+     "1,000",
+     "0"
+    ],
+    [
+     "  Subscriber-set parts",
+     "each",
+     "8,476",
+     "0"
+    ],
+    [
+     "  Switch-system parts",
+     "each",
+     "1,050",
+     "0"
+    ],
+    [
+     "  Telephone cords",
+     "each",
+     "7,150",
+     "0"
+    ],
+    [
+     "  Transmitter parts",
+     "each",
+     "200",
+     "0"
+    ],
+    [
+     "  Tungsten filaments",
+     "piece",
+     "224,000",
+     "0"
+    ],
+    [
+     "  Wire, carbon steel",
+     "pound",
+     "0",
+     "614"
+    ],
+    [
+     "  Wire, garnet",
+     "kilogram",
+     "0",
+     "1,000"
+    ],
+    [
+     "Leather",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Belting",
+     "yard",
+     "17,972",
+     "16,966"
+    ],
+    [
+     "  Draft aprons",
+     "square feet",
+     "13,658",
+     "0"
+    ],
+    [
+     "  Leather pickers",
+     "each",
+     "9,000",
+     "2,000"
+    ],
+    [
+     "Medical equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Screens, X-ray",
+     "set",
+     "100",
+     "0"
+    ],
+    [
+     "Railway equipment",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Locomotives, electric",
+     "set",
+     "1",
+     "0"
+    ],
+    [
+     "  Locomotives, steam",
+     "set",
+     "2",
+     "0"
+    ],
+    [
+     "  Tubes, boiler",
+     "metric ton",
+     "65",
+     "0"
+    ],
+    [
+     "Rolls, rice-hulling",
+     "each",
+     "0",
+     "380"
+    ],
+    [
+     "Textile machinery parts",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Bobbins, jute",
+     "each",
+     "8,400",
+     "0"
+    ],
+    [
+     "  Cans, fiber",
+     "each",
+     "0",
+     "3,700"
+    ],
+    [
+     "  Card clothing",
+     "set",
+     "258",
+     "12"
+    ],
+    [
+     "  Flyers",
+     "each",
+     "0",
+     "2,600"
+    ],
+    [
+     "  Healds, wire",
+     "piece",
+     "4,680,000",
+     "0"
+    ],
+    [
+     "  Heddles",
+     "each",
+     "300,000",
+     "0"
+    ],
+    [
+     "  Needles, latch",
+     "gross",
+     "7,260",
+     "1,500"
+    ],
+    [
+     "Textile machinery parts (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Reeds",
+     "each",
+     "3,200",
+     "2,100"
+    ],
+    [
+     "  Shuttles",
+     "each",
+     "2,600",
+     "7,100"
+    ],
+    [
+     "  Sinkers",
+     "gross",
+     "1,000",
+     "0"
+    ],
+    [
+     "  Scissors, bent",
+     "each",
+     "0",
+     "12,000"
+    ],
+    [
+     "  Scissors, straight",
+     "each",
+     "0",
+     "6,000"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Preliminary.",
+    "c/ Includes delousing apparatus, dusters, sprayers, rattraps and other equipment."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it read 'Meddles' for Heddles and the page-92 continuation was not in the supplied OCR.",
+   "notes": "Continues on PDF page 92 (Korea, textile machinery parts continued); the printed heading 'Korea (continued)' was folded into the Korea group. Footnotes a/ to c/ are printed on page 92."
+  }
+ ]
+}

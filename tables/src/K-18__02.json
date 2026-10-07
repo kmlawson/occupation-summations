@@ -1,0 +1,22 @@
+{"tables": [
+{"page": 38, "pages": [38], "title": "February coal supply", "units": "metric tons", "period": "February (1947)", "source_note": "",
+ "header": [["", "Required", "Supplied", "Percentage"]],
+ "rows": [["Bituminous", "75,000", "41,589", "55.45"], ["Anthracite", "80,000", "25,910", ""], ["Lignite", "4,000", "2,020", "50.50"], ["Pitch", "3,000", "1,479", "49.30"], ["Total", "162,000", "70,998", "43.83"]],
+ "footnotes": [], "unreadable": ["row 'Anthracite', column 'Percentage': second digit smudged (reads 3?.39)"],
+ "totals_check": "Required: 75,000+80,000+4,000+3,000 = 162,000, printed 162,000, agrees. Supplied: 41,589+25,910+2,020+1,479 = 70,998, printed 70,998, agrees. Percentage total: 70,998/162,000 = 43.83, agrees with printed.", "warnings": [], "ocr_check": "OCR matched; it read the smudged Anthracite percentage as 32.39, which I left blank because the digit is not legible in the image."},
+{"page": 46, "pages": [46], "title": "Textile industry production, December 1946", "units": "as stated in the Unit column", "period": "December 1946", "source_note": "",
+ "header": [["Product", "Unit", "Quantity"]],
+ "rows": [["Silk cloth", "yard", "94,165"], ["Mixed silk cloth", "yard", "25,717"], ["Cotton cloth", "yard", "432,277"], ["Clothing", "suit", "21,769"], ["Underwear", "piece", "19,847"], ["Socks", "pair", "10,520"], ["Refined cotton", "pound", "554,716"], ["Silk thread", "pound", "597,528"], ["Cotton thread", "pound", "182,950"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched. Column headings in the header row are supplied by me; the original prints none."},
+{"page": 47, "pages": [47], "title": "Industrial employment statistics, December", "units": "factories and employees (counts)", "period": "December (1946)", "source_note": "",
+ "header": [["Number of Employees", "Operating", "Idle", "Total"]],
+ "rows": [["5 - 50", "", "", ""], ["  Factories", "547", "147", "694"], ["  Employees", "9,498", "1,518", "11,016"], ["51 - 100", "", "", ""], ["  Factories", "73", "6", "79"], ["  Employees", "5,190", "402", "5,592"], ["101 - 150", "", "", ""], ["  Factories", "29", "3", "32"], ["  Employees", "3,690", "406", "4,096"], ["151 - 200", "", "", ""], ["  Factories", "12", "2", "14"], ["  Employees", "2,140", "314", "2,454"], ["201 - 250", "", "", ""], ["  Factories", "12", "1", "13"], ["  Employees", "2,648", "243", "2,891"], ["251 - over", "", "", ""], ["  Factories", "27", "4", "31"], ["  Employees", "17,897", "3,380", "21,277"], ["Total", "", "", ""], ["  Factories", "700", "163", "863"], ["  Employees", "41,063", "6,263", "47,326"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Row check Operating+Idle=Total agrees in all twelve size-class rows. Factories: operating 547+73+29+12+12+27=700, idle 147+6+3+2+1+4=163, total 694+79+32+14+13+31=863, all agree with printed. Employees: operating 9,498+5,190+3,690+2,140+2,648+17,897=41,063, idle 1,518+402+406+314+243+3,380=6,263, total 11,016+5,592+4,096+2,454+2,891+21,277=47,326, all agree. Blank cells on the size-class and Total label rows are blank in the original.", "warnings": [], "ocr_check": "OCR matched in every figure."},
+{"page": 48, "pages": [48], "title": "Industrial employment statistics by industry, December", "units": "factories and employees (counts)", "period": "December (1946)", "source_note": "",
+ "header": [["Industry", "Factories", "Factories", "Employees", "Employees"], ["", "Operating", "Idle", "Operating", "Idle"]],
+ "rows": [["Food", "135", "102", "6,490", "4,477"], ["Textile", "115", "42", "14,245", "1,370"], ["Chemical", "175", "11", "9,295", "200"], ["Machinery and electric", "239", "5", "10,513", "193"], ["Lumber", "36", "3", "520", "23"], ["Total", "700", "163", "41,063", "6,263"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Factories operating 135+115+175+239+36=700; idle 102+42+11+5+3=163; employees operating 6,490+14,245+9,295+10,513+520=41,063; idle 4,477+1,370+200+193+23=6,263. All agree with printed totals (and with the page 47 totals).", "warnings": [], "ocr_check": "OCR matched in every figure."}
+]}

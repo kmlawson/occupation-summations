@@ -1,0 +1,13 @@
+{"tables": [
+{"page": 144, "pages": [144], "title": "War damage to cultural sites", "units": "number of sites", "period": "during the war, by historical period (552-1947)", "source_note": "",
+ "header": [["Period", "Destroyed", "Damaged"]],
+ "rows": [["Asuka, 552-646", "0", "0"], ["Hakuho, 646-710", "0", "0"], ["Nara, 710-794", "0", "0"], ["Heian, 794-1185", "1", "0"], ["Kamakura, 1185-1333", "2", "0"], ["Muromachi, 1333-1568", "1", "2"], ["Momoyama, 1568-1615", "12", "3"], ["Edo, 1615-1867", "41", "8"], ["Post-Restoration, 1867-1947", "1", "2"], ["Total", "58", "15"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Destroyed: sum of 9 periods = 0+0+0+1+2+1+12+41+1 = 58; printed 58; agree. Damaged: 0+0+0+0+0+2+3+8+2 = 15; printed 15; agree.",
+ "warnings": [], "ocr_check": "OCR matched except Asuka period (read 553-546 for 552-646)."},
+{"page": 147, "pages": [147], "title": "Magazines published", "units": "number of magazines", "period": "September 1945 to December 1946", "source_note": "",
+ "header": [["", "Number Issued", "Known to Have Been Issued Since September 1945"]],
+ "rows": [["September 1945", "500", "0"], ["December 1945", "800", "900"], ["March 1946", "1,000", "1,816"], ["May 1946", "1,380", "2,217"], ["December 1946", "2,000", "3,300"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched."}
+]}

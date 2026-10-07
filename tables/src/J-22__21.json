@@ -1,0 +1,25 @@
+{"tables": [
+{"page": 141, "pages": [141], "title": "Deaf and blind students, July", "units": "students", "period": "July 1947", "source_note": "SOURCE: Ministry of Education.",
+ "header": [["Category", "Government and Public", "Private", "Total"]],
+ "rows": [["Deaf", "6,207", "763", "6,970"], ["Blind", "3,247", "940", "4,187"], ["Total", "9,454", "1,703", "11,157"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Rows: 6,207+763=6,970 and 3,247+940=4,187, agree. Columns: Government 6,207+3,247=9,454; Private 763+940=1,703; Total 6,970+4,187=11,157; all agree with printed totals.",
+ "warnings": [], "ocr_check": "OCR matched the printed figures exactly."},
+{"page": 144, "pages": [144], "title": "Inspection of national treasures (shrines and temples)", "units": "number of objects/structures; percent", "period": "July 1947 (page date)", "source_note": "",
+ "header": [["Region", "Objects", "Objects", "Objects", "Structures", "Structures", "Structures"], ["Region", "Total Number", "Number Inspected", "Percent Inspected", "Total Number", "Number Inspected", "Percent Inspected"]],
+ "rows": [
+ ["Hokkaido", "0", "0", "-", "1", "1", "100"],
+ ["Tohoku", "101", "3", "3", "56", "8", "14"],
+ ["Kanto", "232", "45", "19", "147", "37", "25"],
+ ["Tokyo-Kanagawa", "816", "83", "10", "168", "123", "73"],
+ ["Tokai-Hokuriku", "353", "68", "19", "168", "50", "30"],
+ ["Kinki", "3,004", "738", "25", "895", "218", "24"],
+ ["Chugoku", "232", "68", "29", "113", "38", "34"],
+ ["Shikoku", "177", "0", "0", "72", "0", "0"],
+ ["Kyushu", "158", "61", "39", "70", "7", "10"],
+ ["Okinawa", "1", "0", "0", "23", "0", "0"],
+ ["Total", "5,074", "1,066", "21", "1,713", "482", "28"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Objects total number: sum of regions 5,074 = printed 5,074, agree. Objects inspected: sum 1,066 = printed 1,066, agree. Structures total number: sum 1,713 = printed 1,713, agree. Structures inspected: sum 482 = printed 482, agree. Total percentages 1,066/5,074=21% and 482/1,713=28% agree.",
+ "warnings": [], "ocr_check": "OCR matched except the region name, which the image prints as Tokai-Hokuriku (OCR read Tokai-Nokuriku)."}
+]}

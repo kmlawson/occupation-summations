@@ -1,0 +1,20 @@
+{"tables": [
+ {"page": 142, "pages": [142, 143], "title": "Attendance at educational films in Japan, March",
+  "units": "persons (attendance)", "period": "March 1947", "source_note": "",
+  "header": [["Prefecture", "Attendance"]],
+  "rows": [
+   ["Aichi", "31,690"], ["Akita", "11,388"], ["Aomori", "40,053"], ["Chiba", "25,998"], ["Ehime", "17,588"], ["Fukui", "13,111"],
+   ["Gifu", "17,005"], ["Gumma", "19,040"], ["Hiroshima", "37,790"], ["Hokkaido", "11,448"], ["Hyogo", "8,978"], ["Ibaraki", "28,096"],
+   ["Ishikawa", "688"], ["Iwate", "19,470"], ["Kanagawa", "23,020"], ["Kumamoto", "4,381"], ["Kyoto", "47,924"], ["Miyagi", "17,313"],
+   ["Subtotal", "374,981"],
+   ["Carried forward", "374,981"],
+   ["Miyazaki", "1,700"], ["Nagano", "37,277"], ["Niigata", "22,665"], ["Saga", "28,277"], ["Saitama", "2,333"], ["Shizuoka", "1,100"],
+   ["Tokyo", "60,994"], ["Toyama", "10,955"], ["Wakayama", "3,800"], ["Yamagata", "25,997"], ["Yamaguchi", "2,020"], ["Yamanashi", "9,108"],
+   ["Total", "581,207"]
+  ],
+  "footnotes": [],
+  "unreadable": [],
+  "totals_check": "Page 142 (Aichi to Miyagi) printed subtotal 374,981; my sum of the 18 rows as transcribed is 374,981 (agrees, with Kyoto read as 47,924; had Kyoto been 47,934 the sum would be 374,991). Page 143 (Miyazaki to Yamanashi) sums to 206,226; 374,981 + 206,226 = 581,207, agrees with printed total 581,207.",
+  "warnings": ["Kyoto digit in the tens place is hard to read at scan resolution (924 vs 934 vs 994); 47,924 chosen as best reading and it reconciles with the printed subtotal. Other low-contrast digits (Chiba 25,998; Ibaraki 28,096; Kanagawa 23,020; Saga 28,277; Yamanashi 9,108) were checked by the subtotal/total sums, which agree."],
+  "ocr_check": "OCR had many digit errors (Chiba 35,998, Fukui 12,111, Hiroshima 27,790, Ibaraki 35,096, Kanagawa 20,000, Nagano 37,377, Toyama 10,985, Yamanashi 2,102, Kyoto 47,994) and misread the total as 531,207; I read the image and the sums reconcile with my readings. Blank spacer lines between groups of rows are not rows."}
+]}

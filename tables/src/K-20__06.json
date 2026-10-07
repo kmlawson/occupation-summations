@@ -1,0 +1,21 @@
+{"tables": [
+  {"page": 92, "pages": [92], "title": "Ownership of radio sets", "units": "radio sets", "period": "31 August 1946 and 1 May 1947", "source_note": "",
+   "header": [["Province", "31 August 1946", "1 May 1947"]],
+   "rows": [
+     ["Kyonggi-do", "119,904", "119,782"],
+     ["Seoul City", "88,801", "85,493"],
+     ["Kyongsang-namdo", "17,752", "14,672"],
+     ["Kyongsang-pukto", "13,814", "13,056"],
+     ["Cholla-pukto", "11,269", "11,133"],
+     ["Cholla-namdo", "11,425 a/", "10,749"],
+     ["Chungchong-namdo", "8,398", "8,758"],
+     ["Kangwon-do", "5,663", "6,089"],
+     ["Chungchong-pukto", "3,418", "3,275"],
+     ["Cheju-do", "a/", "353"],
+     ["Total", "280,444", "273,360"]
+   ],
+   "footnotes": ["a/ Cheju-do included in figure for Cholla-namdo."], "unreadable": [],
+   "totals_check": "31 August 1946: sum of the nine printed provincial figures = 280,444; printed total 280,444; agree (Cheju-do shows a/, no figure). 1 May 1947: sum of ten provincial figures = 273,360; printed total 273,360; agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image on every figure; the first column header was blank in the original and is labelled 'Province' here."}
+]}

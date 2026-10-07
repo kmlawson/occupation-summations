@@ -1,0 +1,22 @@
+{"tables": [
+{"page": 33, "pages": [33], "title": "Criminal offenses reported, February", "units": "offenses", "period": "February (1947)", "source_note": "Ministry of Home Affairs.",
+ "header": [["Offense", "Number"]],
+ "rows": [["Murder","122"],["Rape","65"],["Wounding","691"],["Robbery","564"],["Arson","1,019"],["Larceny","76,074"],["Fraud","6,313"],["Embezzlement","3,156"],["Stolen goods","2,306"],["Counterfeiting","172"],["Gambling","3,797"],["Others","3,433"],["Total","97,712"],["Other than Criminal Code","31,728"],["Grand total","129,440"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Twelve offense rows sum to 97,712, matching the printed Total. 97,712 + 31,728 = 129,440, matching the printed Grand total. All agree.", "warnings": [], "ocr_check": "OCR matched exactly."},
+{"page": 34, "pages": [34], "title": "Number of persons arrested, February", "units": "persons", "period": "February (1947)", "source_note": "Ministry of Home Affairs.",
+ "header": [["Offenses","Japanese","Korean","Formosan","Chinese","Other","Total"]],
+ "rows": [["Murder","267","15","0","0","0","282"],["Rape","64","6","0","0","0","70"],["Wounding","1,058","64","0","0","0","1,122"],["Robbery","998","133","10","0","0","1,141"],["Arson","1,144","5","1","2","0","1,152"],["Larceny","21,305","796","6","4","2","22,113"],["Fraud","2,556","71","1","2","0","2,630"],["Embezzlement","1,274","11","0","0","0","1,285"],["Stolen goods","1,470","104","3","0","0","1,577"],["Counterfeiting","107","15","1","0","0","123"],["Gambling","12,860","370","1","0","0","13,231"],["Other","3,654","154","3","0","0","3,811"],["Other than Criminal Code","34,258","1,893","13","2","4","36,170"],["Total","81,015","3,637","39","10","6","84,707"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Each row's five nationality columns sum to the printed Total for every row. Each column's 13 offense rows sum to the printed Total row (81,015; 3,637; 39; 10; 6; 84,707). All agree.", "warnings": [], "ocr_check": "OCR read the 'Formosan' column header as 'European' and Gambling total as 13,331 (printed 13,231); otherwise matched."},
+{"page": 35, "pages": [35], "title": "Parole and release of prisoners, 1946", "units": "persons", "period": "1946", "source_note": "Ministry of Home Affairs.",
+ "header": [["", "Parole", "Revocation", "Conditional Release"]],
+ "rows": [["January","500","48","24"],["February","1,359","77","45"],["March","1,530","50","47"],["April","1,333","43","26"],["May","1,219","98","20"],["June","1,570","81","49"],["July","2,878","33","46"],["August","6,522","37","38"],["September","3,417","91","51"],["October","1,617","107","19"],["November","1,352","115","25"],["December","4,820","114","21"],["Total","28,117","894","411"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Monthly figures sum to 28,117 (Parole), 894 (Revocation), 411 (Conditional Release), matching all printed totals.", "warnings": [], "ocr_check": "OCR matched except December parole (read 4,520; printed 4,820)."},
+{"page": 36, "pages": [36], "title": "Atrocity investigations, Japan", "units": "cases", "period": "25 March - 24 April 1947", "source_note": "",
+ "header": [["", "Cases on Hand 25 Mar", "Cases Received 25 Mar-24 Apr", "Cases Completed 25 Mar-24 Apr", "Cases on Hand 24 Apr"]],
+ "rows": [["POW camp conditions","12","0","0","12"],["POW camp atrocities","124","4","3","125"],["B-29 flyers","569","120","13","676"],["POW ship","52","0","1","51"],["Kempei-tai (Military Police)","30","0","0","30"],["Miscellaneous","771","122","38","855"],["Total","1,558","246","55","1,749"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Columns sum to 1,558; 246; 55; 1,749, matching printed totals. Each row's on-hand + received - completed also equals the 24 Apr figure.", "warnings": [], "ocr_check": "OCR matched except Miscellaneous cases on hand 24 Apr (read 866; printed 855)."}
+]}

@@ -1,0 +1,1265 @@
+{
+ "tables": [
+  {
+   "page": 118,
+   "pages": [
+    118
+   ],
+   "title": "British property",
+   "units": "yen",
+   "period": "",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Custody Value a/",
+     "Property Sold",
+     "Property Sold",
+     "Property Retained b/"
+    ],
+    [
+     "",
+     "Custody Value a/",
+     "Custody Value",
+     "Selling Price",
+     "Property Retained b/"
+    ]
+   ],
+   "rows": [
+    [
+     "Land",
+     "20,487,032.56",
+     "6,662,960.16",
+     "4,974,594.04",
+     "12,604,275.07"
+    ],
+    [
+     "Buildings",
+     "12,283,529.83",
+     "5,924,491.25",
+     "6,208,747.08",
+     "5,947,628.05"
+    ],
+    [
+     "Movables",
+     "10,632,659.83",
+     "4,462,839.20",
+     "4,922,076.95",
+     "5,696,931.82"
+    ],
+    [
+     "Securities c/",
+     "51,670,013.34",
+     "26,504,074.05",
+     "42,734,049.39",
+     "25,242,049.89"
+    ],
+    [
+     "Other assets",
+     "17,905,336.04",
+     "0",
+     "0",
+     "15,915,127.51"
+    ],
+    [
+     "Cash balance",
+     "34,078,479.58",
+     "0",
+     "0",
+     "92,425,653.60"
+    ],
+    [
+     "Total gross assets",
+     "147,057,051.18",
+     "43,554,364.66",
+     "58,839,467.46",
+     "157,831,665.94"
+    ]
+   ],
+   "footnotes": [
+    "a/ Values assigned by Japanese custodians at time of acquisition.",
+    "b/ Still being administered by Japanese custodians under SCAP direction.",
+    "c/ Four additional groups of securities acquired and still retained were valued at £ 7,022, $ 30,425, 8,500 guilders and 8,500 tael."
+   ],
+   "unreadable": [],
+   "totals_check": "Columns summed over the six rows: Custody Value 147,057,051.18 printed, sum 147,057,051.18 (agree); Sold Custody Value 43,554,364.66 printed, sum 43,554,364.66 (agree); Selling Price 58,839,467.46 printed, sum 58,839,467.46 (agree); Retained 157,831,665.94 printed, sum 157,831,665.94 (agree). Cash balance custody value 34,078,479.58 read from the scan (agrees with the next table's opening cash balance).",
+   "warnings": [
+    "Print is small and some digits are borderline (Land sold custody value, Buildings custody value, Cash balance); chosen readings are the ones that make the printed totals add up and differ from the OCR in several cells."
+   ],
+   "ocr_check": "OCR misread several digits (Land sold 6,552,950.18, Buildings 12,243,529.83 and 5,934,491.25, Securities retained 25,342,049.89, Cash 34,078,479.56 and others) and read 'Novables' for Movables."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Cash balance at beginning and end of custody",
+   "units": "yen",
+   "period": "",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Cash balance beginning custody",
+     "34,078,479.58"
+    ],
+    [
+     "Proceeds from property sales",
+     "58,839,467.46"
+    ],
+    [
+     "Income (rents, etc.)",
+     "26,490,731.21"
+    ],
+    [
+     "Total",
+     "119,408,678.25"
+    ],
+    [
+     "Expenses (administration, taxes)",
+     "12,347,088.42"
+    ],
+    [
+     "",
+     "107,061,589.83"
+    ],
+    [
+     "Reduction of liabilities",
+     "14,635,936.23"
+    ],
+    [
+     "Cash balance at end of custody",
+     "92,425,653.60"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "34,078,479.58 + 58,839,467.46 + 26,490,731.21 = 119,408,678.25 (agrees). 119,408,678.25 - 12,347,088.42 = 107,061,589.83 (agrees). 107,061,589.83 - 14,635,936.23 = 92,425,653.60 (agrees with printed end balance).",
+   "warnings": [],
+   "ocr_check": "OCR matched except the end balance, which it read as 92,426,653.60."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Patents and copyrights: American patent accounts",
+   "units": "yen",
+   "period": "26 December 1946",
+   "source_note": "Bank of Japan.",
+   "header": [
+    [
+     "Item",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Deposits credited 7 December 1941",
+     "1,681,197.01"
+    ],
+    [
+     "Later deposits",
+     "1,811,626.22"
+    ],
+    [
+     "On deposit 26 December 1946",
+     "3,492,823.23"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "1,681,197.01 + 1,811,626.22 = 3,492,823.23 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR read Later deposits as 1,811,526.22; otherwise matched."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Patents and copyrights: American copyright accounts",
+   "units": "yen",
+   "period": "26 December 1946",
+   "source_note": "Bank of Japan.",
+   "header": [
+    [
+     "Item",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Deposits credited 7 December 1941",
+     "165,110.86"
+    ],
+    [
+     "Later deposits",
+     "11,689.86"
+    ],
+    [
+     "On deposit 26 December 1946",
+     "176,800.72"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "165,110.86 + 11,689.86 = 176,800.72 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Patents and copyrights: British patent accounts",
+   "units": "yen",
+   "period": "26 December 1946",
+   "source_note": "Bank of Japan.",
+   "header": [
+    [
+     "Item",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Deposits credited 7 December 1941",
+     "1,420,554.57"
+    ],
+    [
+     "Later deposits",
+     "32,356.13"
+    ],
+    [
+     "On deposit 26 December 1946",
+     "1,452,910.70"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "1,420,554.57 + 32,356.13 = 1,452,910.70 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Patents and copyrights: British copyright accounts",
+   "units": "yen",
+   "period": "26 December 1946",
+   "source_note": "Bank of Japan.",
+   "header": [
+    [
+     "Item",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Deposits credited 7 December 1941",
+     "56,829.47"
+    ],
+    [
+     "Later deposits",
+     "1,462.72"
+    ],
+    [
+     "On deposit 26 December 1946",
+     "58,292.19"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "56,829.47 + 1,462.72 = 58,292.19 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Amounts deposited by Japanese publishing houses to the credit of Allied nationals, by nationality of author",
+   "units": "yen",
+   "period": "",
+   "source_note": "Ministry of Justice, Deposit Bureau.",
+   "header": [
+    [
+     "Nationality of Author",
+     "Deposit"
+    ]
+   ],
+   "rows": [
+    [
+     "American",
+     "¥ 1,322.00"
+    ],
+    [
+     "British",
+     "1,634.00"
+    ],
+    [
+     "Chinese",
+     "130.00"
+    ],
+    [
+     "Danish",
+     "130.00"
+    ],
+    [
+     "Dutch",
+     "4,620.00"
+    ],
+    [
+     "French",
+     "69,751.06"
+    ],
+    [
+     "Irish",
+     "80.00"
+    ],
+    [
+     "Polish",
+     "70.00"
+    ],
+    [
+     "Russian",
+     "320.00"
+    ],
+    [
+     "Unknown",
+     "92.00"
+    ],
+    [
+     "Total",
+     "¥ 78,149.06"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Sum of ten rows = 78,149.06; printed 78,149.06 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Royalty payments into blocked account of Telefunken G.m.b.H. in the Teikoku Bank",
+   "units": "yen",
+   "period": "15 November 1946 to 24 January 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Date",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "15 November 1946",
+     "¥ 68,260.65"
+    ],
+    [
+     "24 January 1947",
+     "71,558.79"
+    ],
+    [
+     "Total",
+     "¥ 139,819.44"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "68,260.65 + 71,558.79 = 139,819.44 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119
+   ],
+   "title": "Value of property of persons arrested as suspected war criminals",
+   "units": "yen",
+   "period": "25 March",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Previously Reported",
+     "Reported in March",
+     "Supplemental Reports",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Cash on hand, deposits and savings",
+     "14,817,038",
+     "309,251",
+     "134,137",
+     "15,260,426"
+    ],
+    [
+     "Land and buildings",
+     "17,636,807",
+     "264,592",
+     "118,692",
+     "18,020,091"
+    ],
+    [
+     "Art, personal furniture and fixtures",
+     "4,285,317",
+     "34,140",
+     "0",
+     "4,319,457"
+    ],
+    [
+     "Insurance and investments",
+     "43,667,464",
+     "350,532",
+     "60,951",
+     "44,078,947"
+    ],
+    [
+     "Total",
+     "80,406,626",
+     "958,515",
+     "313,780",
+     "81,678,921"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "All four columns summed over four rows and all four rows summed across: every printed total agrees (80,406,626; 958,515; 313,780; 81,678,921).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 120,
+   "pages": [
+    120
+   ],
+   "title": "Statement of accounts of dissolved organizations",
+   "units": "yen",
+   "period": "25 March",
+   "source_note": "Ministry of Home Affairs.",
+   "header": [
+    [
+     "",
+     "On Hand at Time of Dissolution",
+     "On Hand at Time of Dissolution",
+     "On Hand at Time of Dissolution",
+     "Expenses Immediately Prior to Dissolution"
+    ],
+    [
+     "",
+     "Movable Assets a/",
+     "Cash Assets",
+     "Securities",
+     "Expenses Immediately Prior to Dissolution"
+    ]
+   ],
+   "rows": [
+    [
+     "Essa Shiso Taisaku Kenkyu Kai",
+     "238,034.71",
+     "26,599.98",
+     "2,000.00",
+     "14,737.02"
+    ],
+    [
+     "Tokyo Rodo Jiji Rengo Kai",
+     "71,448.50",
+     "217,335.20",
+     "91,600.00",
+     "572,335.20"
+    ],
+    [
+     "Sangyo Hokoku Kai",
+     "1,988,509.30",
+     "1,286,859.64",
+     "14,264.72",
+     "19,968,631.36"
+    ],
+    [
+     "Shogyo Hokoku Kai",
+     "4,050.00",
+     "71,488.94",
+     "0",
+     "1,202,297.91"
+    ],
+    [
+     "Musashi Jiutaku Kyokai, Nara-shino Shibu b/",
+     "0",
+     "65,425.20",
+     "0",
+     "20,622.86"
+    ],
+    [
+     "Nihon Fukuso Kyokai, Nara-shino Shu-tchojo c/",
+     "0",
+     "26,830.08",
+     "0",
+     "58,562.80"
+    ],
+    [
+     "Total",
+     "2,302,042.51",
+     "1,694,539.04",
+     "107,864.72",
+     "21,837,187.15"
+    ]
+   ],
+   "footnotes": [
+    "a/ This item previously called \"Value of Property.\"",
+    "b/ Reports of branches of Musashi Housing Association were reported on page 232, Summation No. 17.",
+    "c/ Reports of branches of Nihon Fukuso Kyokai were reported on page 232, Summation No. 17."
+   ],
+   "unreadable": [],
+   "totals_check": "All four columns summed over six rows agree with printed totals (2,302,042.51; 1,694,539.04; 107,864.72; 21,837,187.15), using the readings shown.",
+   "warnings": [],
+   "ocr_check": "OCR misread several digits (Esma for Essa, Sangyo 1,968,509.30, cash total 1,694,529.04, Shogyo expenses 1,202,397.91, total 21,827,187.15, Nihon cash 26,820.08, and others)."
+  },
+  {
+   "page": 120,
+   "pages": [
+    120
+   ],
+   "title": "Dissolved organizations",
+   "units": "yen",
+   "period": "25 March",
+   "source_note": "Ministry of Home Affairs.",
+   "header": [
+    [
+     "",
+     "On Hand at Time of Dissolution",
+     "On Hand at Time of Dissolution",
+     "On Hand at Time of Dissolution",
+     "Expenses Immediately Prior to Dissolution"
+    ],
+    [
+     "",
+     "Movable Assets a/",
+     "Cash Assets",
+     "Securities",
+     "Expenses Immediately Prior to Dissolution"
+    ]
+   ],
+   "rows": [
+    [
+     "February total",
+     "35,026,930.53",
+     "23,943,645.72",
+     "8,904,409.74",
+     "189,509,481.94"
+    ],
+    [
+     "March Additions",
+     "2,302,042.51",
+     "1,694,539.04",
+     "107,864.72",
+     "21,837,187.15"
+    ],
+    [
+     "Total",
+     "37,328,973.04",
+     "25,638,184.76",
+     "9,012,274.46",
+     "211,346,669.09"
+    ]
+   ],
+   "footnotes": [
+    "a/ This item previously called \"Value of Property.\""
+   ],
+   "unreadable": [],
+   "totals_check": "February total + March additions per column: 37,328,973.04; 25,638,184.76; 9,012,274.46; 211,346,669.09 - all agree with printed totals.",
+   "warnings": [],
+   "ocr_check": "OCR matched except March additions cash (1,694,529.04) and expenses (21,827,187.15), which it misread."
+  },
+  {
+   "page": 120,
+   "pages": [
+    120
+   ],
+   "title": "Precious metals in SCAP custody",
+   "units": "fine grams; value in U.S. dollars",
+   "period": "25 March",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Fine Grams a/",
+     "Value in U. S. Dollars",
+     "Value in U. S. Dollars"
+    ],
+    [
+     "",
+     "Fine Grams a/",
+     "Per Gram",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Gold b/",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  On hand 25 February",
+     "182,879,155",
+     "1.12529",
+     "205,792,084"
+    ],
+    [
+     "  Taken into custody",
+     "0",
+     "",
+     "0"
+    ],
+    [
+     "  Released",
+     "3,289",
+     "",
+     "3,701"
+    ],
+    [
+     "  Balance",
+     "182,875,866",
+     "",
+     "205,788,383"
+    ],
+    [
+     "Silver",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  On hand 25 February",
+     "2,047,718,297",
+     ".02282",
+     "46,728,931"
+    ],
+    [
+     "  Taken into custody",
+     "324,855",
+     "",
+     "7,413"
+    ],
+    [
+     "  Released",
+     "364,678",
+     "",
+     "8,321"
+    ],
+    [
+     "  Balance",
+     "2,047,678,474",
+     "",
+     "46,728,023"
+    ],
+    [
+     "Platinum",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  On hand 25 February",
+     "4,481,963",
+     "1.12529",
+     "5,043,508"
+    ],
+    [
+     "  Taken into custody",
+     "10,665",
+     "",
+     "12,001"
+    ],
+    [
+     "  Released",
+     "0",
+     "",
+     "0"
+    ],
+    [
+     "  Balance",
+     "4,492,628",
+     "",
+     "5,055,509"
+    ],
+    [
+     "Total value",
+     "",
+     "",
+     "257,571,915"
+    ]
+   ],
+   "footnotes": [
+    "a/ Fine weight of approximately 11 percent of metals is estimated.",
+    "b/ Includes approximately 73,000,000 grams earmarked for Indo-China, Siam, Italy and China by the Japanese Government."
+   ],
+   "unreadable": [],
+   "totals_check": "Each balance = on hand + taken - released, in grams and dollars: all agree. Total value 205,788,383 + 46,728,023 + 5,055,509 = 257,571,915 (agrees). Blank cells are blank in the original.",
+   "warnings": [],
+   "ocr_check": "OCR matched except Silver taken into custody (read 334,855)."
+  },
+  {
+   "page": 120,
+   "pages": [
+    120
+   ],
+   "title": "Precious metals held by Japanese",
+   "units": "fine grams",
+   "period": "",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Gold",
+     "Silver",
+     "Platinum"
+    ]
+   ],
+   "rows": [
+    [
+     "Government offices and local governments a/",
+     "2,268,181.3",
+     "67,344,524.5",
+     "409,955.5"
+    ],
+    [
+     "Financial institutions and juridical persons b/",
+     "96,610,522.8",
+     "124,707,421.2",
+     "682,626.7"
+    ],
+    [
+     "Private persons and others c/",
+     "962,678.1",
+     "1,094,876.9",
+     "27,134.6"
+    ],
+    [
+     "Total",
+     "99,841,382.2",
+     "193,146,822.6",
+     "1,119,716.8"
+    ]
+   ],
+   "footnotes": [
+    "a/ 10,830 gold coins of various denominations and 13,870 silver coins held by this group.",
+    "b/ 702,960 gold coins of various denominations and 22,011 silver coins in custody of this group.",
+    "c/ 2,258 gold coins and 10,058 silver coins of various denominations held by these persons."
+   ],
+   "unreadable": [],
+   "totals_check": "Gold, silver and platinum columns summed over three rows: all agree with printed totals.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 121,
+   "pages": [
+    121
+   ],
+   "title": "Allocations of precious metals a/",
+   "units": "grams",
+   "period": "first quarter of 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Metal",
+     "Grams"
+    ]
+   ],
+   "rows": [
+    [
+     "Gold",
+     "401,218"
+    ],
+    [
+     "Silver",
+     "12,593,085"
+    ],
+    [
+     "Platinum b/",
+     "41,908"
+    ]
+   ],
+   "footnotes": [
+    "a/ All the gold and silver and 1,413 grams of the platinum allocated will be released from stocks in the possession of the Japanese Government. The rest of the platinum is to be released from amounts impounded in the EIGHTH Army vaults of the Bank of Japan.",
+    "b/ Platinum includes other metals of the platinum group."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 121,
+   "pages": [
+    121
+   ],
+   "title": "Custody account for SCAP (yen)",
+   "units": "yen",
+   "period": "26 February to 25 March",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Balance 26 February",
+     "125,146,213.36"
+    ],
+    [
+     "Collections",
+     ""
+    ],
+    [
+     "  British copyright royalties",
+     "4,103.00"
+    ],
+    [
+     "  Japanese dissolved organizations",
+     "16,903,320.08"
+    ],
+    [
+     "  Back wages of Korean coal miners",
+     "77,020.89"
+    ],
+    [
+     "  German repatriates a/",
+     "246,099.11"
+    ],
+    [
+     "  Total",
+     "17,230,543.08"
+    ],
+    [
+     "Withdrawals",
+     ""
+    ],
+    [
+     "  To German repatriates",
+     "750.00"
+    ],
+    [
+     "Net addition to 26 February balance",
+     "17,299,793.08"
+    ],
+    [
+     "Balance 25 March",
+     "142,376,006.44"
+    ]
+   ],
+   "footnotes": [
+    "a/ Funds received from disposal of German properties as well as funds impounded from blocked bank accounts of repatriates."
+   ],
+   "unreadable": [],
+   "totals_check": "Collections 4,103.00 + 16,903,320.08 + 77,020.89 + 246,099.11 = 17,230,543.08 (agrees). Total less withdrawals 750.00 = 17,229,793.08, but printed net addition reads 17,299,793.08 (disagrees by 70,000). 125,146,213.36 + 17,229,793.08 = 142,376,006.44, which agrees with the printed closing balance.",
+   "warnings": [
+    "Printed net addition (17,299,793.08) does not equal collections less withdrawals (17,229,793.08); possible printing error or misread digit. Withdrawal read as 750.00."
+   ],
+   "ocr_check": "OCR read withdrawal as 780.00; otherwise matched."
+  },
+  {
+   "page": 121,
+   "pages": [
+    121
+   ],
+   "title": "SCAP dollar custody account",
+   "units": "dollars",
+   "period": "26 February to 25 March",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Amount"
+    ]
+   ],
+   "rows": [
+    [
+     "Balance 26 February",
+     "159,410.86"
+    ],
+    [
+     "Collections",
+     ""
+    ],
+    [
+     "  Army Exchange Central Purchasing Office",
+     "11,512.20"
+    ],
+    [
+     "Balance 25 March",
+     "170,923.06"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "159,410.86 + 11,512.20 = 170,923.06 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 121,
+   "pages": [
+    121,
+    122
+   ],
+   "title": "Foreign currencies and exchange instruments surrendered",
+   "units": "",
+   "period": "through 31 January",
+   "source_note": "",
+   "header": [
+    [
+     "Currency",
+     "Currencies",
+     "Exchange Instruments"
+    ]
+   ],
+   "rows": [
+    [
+     "Bahts (Siamese)",
+     "18,747.50",
+     "30,170.00"
+    ],
+    [
+     "Bolivianos (Bolivian)",
+     "942.00",
+     "0"
+    ],
+    [
+     "Dollars",
+     "",
+     ""
+    ],
+    [
+     "  American",
+     "243,379.00",
+     "124,206.21"
+    ],
+    [
+     "  British North Borneo",
+     "1.50",
+     "0"
+    ],
+    [
+     "  Canadian",
+     "6,823.25",
+     "1,654.12"
+    ],
+    [
+     "  Chinese",
+     "676,409.00",
+     "308,177.03"
+    ],
+    [
+     "  Chinese Kwangchin",
+     "20,973.00",
+     "0"
+    ],
+    [
+     "  Chinese, local",
+     "6,600.00",
+     "0"
+    ],
+    [
+     "  Hongkong",
+     "285.00",
+     "0"
+    ],
+    [
+     "  Sarawak",
+     "7,975.40",
+     "0"
+    ],
+    [
+     "  Straits Settlement",
+     "13,228.25",
+     "15,872,583.11"
+    ],
+    [
+     "Escudos",
+     "",
+     ""
+    ],
+    [
+     "  Portuguese",
+     "60.00",
+     "0"
+    ],
+    [
+     "  Portuguese East African",
+     "1,076.00",
+     "0"
+    ],
+    [
+     "France",
+     "",
+     ""
+    ],
+    [
+     "  Belgian",
+     "10,025.00",
+     "0"
+    ],
+    [
+     "  French",
+     "4,125.50",
+     "0"
+    ],
+    [
+     "  Swiss",
+     "41,755.00",
+     "0"
+    ],
+    [
+     "Gulden",
+     "",
+     ""
+    ],
+    [
+     "  Dutch",
+     "2.50",
+     "0"
+    ],
+    [
+     "  Dutch East Indies",
+     "604,569.50",
+     "6,751,502.84"
+    ],
+    [
+     "Kronen",
+     "",
+     ""
+    ],
+    [
+     "  Austrian",
+     "1,100.00",
+     "0"
+    ],
+    [
+     "  Hungarian",
+     "100.00",
+     "0"
+    ],
+    [
+     "Kronor (Swedish)",
+     "15.00",
+     "0"
+    ],
+    [
+     "Lire (Italian)",
+     "177,890.00",
+     "20,000.00"
+    ],
+    [
+     "Lirasi (Turkish)",
+     "20.00",
+     "0"
+    ],
+    [
+     "Markkaas (Finnish)",
+     "165.00",
+     "0"
+    ],
+    [
+     "Marks (German Reichsbank)",
+     "255,773,569.00",
+     "0"
+    ],
+    [
+     "Milreis (Brazilian)",
+     "9,161.00",
+     "20,150.00"
+    ],
+    [
+     "Pesos",
+     "",
+     ""
+    ],
+    [
+     "  Argentine",
+     "32,235.00",
+     "0"
+    ],
+    [
+     "  Chilean",
+     "1,270.00",
+     "0"
+    ],
+    [
+     "  Mexican",
+     "4,070.00",
+     "0"
+    ],
+    [
+     "  Philippine",
+     "37,893.00",
+     "48,749.63"
+    ],
+    [
+     "  Uruguayan",
+     "3.00",
+     "0"
+    ],
+    [
+     "Piastres (French Indo-China)",
+     "273,993.95",
+     "3,089.60"
+    ],
+    [
+     "Pounds",
+     "",
+     ""
+    ],
+    [
+     "  Australian",
+     "3,134-10-00",
+     "20-00-00"
+    ],
+    [
+     "  British East African",
+     "0-05-00",
+     "0"
+    ],
+    [
+     "  Egyptian",
+     "4.000",
+     "6.527"
+    ],
+    [
+     "  Irish Free State",
+     "1-10-00",
+     "0"
+    ],
+    [
+     "  New Zealand",
+     "65-10-00",
+     "2-01-05"
+    ],
+    [
+     "  Syrian",
+     "241.00",
+     "0"
+    ],
+    [
+     "  Union of South Africa",
+     "3-00-00",
+     "82-10-09"
+    ],
+    [
+     "Pounds sterling (British)",
+     "345-10-00",
+     "34,203-10-00"
+    ],
+    [
+     "Riais (Iranian)",
+     "37,465.00",
+     "0"
+    ],
+    [
+     "Rubles (U. S. S. R.)",
+     "1,621,979.50",
+     "0"
+    ],
+    [
+     "Rupees",
+     "",
+     ""
+    ],
+    [
+     "  Burmese",
+     "155.00",
+     "20,000.00"
+    ],
+    [
+     "  Ceylon",
+     "422.00",
+     "0"
+    ],
+    [
+     "  Indian",
+     "5,921.00",
+     "8,607-5-10"
+    ],
+    [
+     "Soles (Peruvian)",
+     "3,541.00",
+     "0"
+    ],
+    [
+     "Sucres (Ecuadorian)",
+     "2,265.00",
+     "0"
+    ],
+    [
+     "Yen",
+     "",
+     ""
+    ],
+    [
+     "  Bank of Chosen",
+     "13,889,195.30",
+     "0"
+    ],
+    [
+     "  Bank of Taiwan",
+     "2,273,785.00",
+     "0"
+    ],
+    [
+     "  Bank of Dung Bai (North Manchuria)",
+     "4,357.00",
+     "0"
+    ],
+    [
+     "  U. S. S. R. Military Notes, North Korea",
+     "7,392.00",
+     "0"
+    ],
+    [
+     "Notes issued since Occupation: Yen",
+     "",
+     ""
+    ],
+    [
+     "  Bank of Chosen",
+     "600.00",
+     "0"
+    ],
+    [
+     "  Bank of Taiwan",
+     "1,465.00",
+     "0"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed. Blank cells are group-heading rows, blank in the original. Table continues from page 121 onto page 122.",
+   "warnings": [
+    "Small print: Canadian currencies (6,823.25; OCR read 6,503.25) and Chinese, local (6,600.00) were borderline readings."
+   ],
+   "ocr_check": "OCR covered page 121 only and matched except Canadian currencies (6,503.25) and Chinese local; it called the Finnish currency 'Markkane' and Bahts 'Rahte'."
+  }
+ ]
+}
