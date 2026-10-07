@@ -121,6 +121,8 @@ table.data{border-collapse:collapse;font:13.5px/1.4 system-ui,sans-serif;min-wid
 table.data th,table.data td{border:1px solid var(--line);padding:4px 8px;vertical-align:top;text-align:left}
 table.data th{background:var(--chip);font-weight:600}
 table.data td.num{text-align:right;font-variant-numeric:tabular-nums;white-space:nowrap}
+table.data thead tr:last-child th{cursor:pointer;user-select:none}
+table.data th[data-sort]::after{content:" ▲";font-size:10px;color:var(--accent)}table.data th[data-sort=desc]::after{content:" ▼"}
 table.data td.blank{background:color-mix(in srgb,var(--hl) 25%,transparent)}
 .warnbox{margin:10px 0;padding:8px 12px;border-radius:8px;background:var(--chip);border-left:4px solid #c0392b;font:13.5px/1.45 system-ui,sans-serif}
 .tbrow{display:flex;gap:10px;align-items:baseline;border-top:1px solid var(--line);padding:7px 0;font-size:14px}
@@ -330,7 +332,7 @@ function tableHTML(x, t) {
   const cell = (c, tag) => { const v = String(c ?? ''); return `<${tag}${tag === 'td' ? ` class="${v === '' ? 'blank' : isNum(v) ? 'num' : ''}"` : ''}>${esc(v)}</${tag}>`; };
   return `<div class="tblock" id="t-${t.id}"><h3>${esc(t.t)} ${flagged(t) ? '<span class="flag">check</span>' : ''}</h3>
    <div class="meta">PDF page${t.pp.length > 1 ? 's ' + t.pp.join(', ') : ' ' + t.p} · <a href="${IAP(x, t.p)}" target="_blank" rel="noopener">page image on archive.org</a>${t.u ? ' · Units: ' + esc(t.u) : ''}${t.pe ? ' · Period: ' + esc(t.pe) : ''} · <a href="#" data-csv="${t.id}">CSV</a></div>
-   <div class="tbwrap"><table class="data"><thead>${t.h.map(r => `<tr>${r.map(c => cell(c, 'th')).join('')}</tr>`).join('')}</thead><tbody>${t.rows.map(r => `<tr>${r.map(c => cell(c, 'td')).join('')}</tr>`).join('')}</tbody></table></div>
+   <div class="tbwrap"><table class="data"><thead>${t.h.map(r => `<tr>${r.map(c => cell(c, 'th')).join('')}</tr>`).join('')}</thead><tbody>${t.rows.map((r, i) => `<tr data-i="${i}">${r.map(c => cell(c, 'td')).join('')}</tr>`).join('')}</tbody></table></div>
    ${t.fn.length ? `<div class="meta">${t.fn.map(esc).join('<br>')}</div>` : ''}${t.src ? `<div class="meta">Source: ${esc(t.src)}</div>` : ''}
    <div class="meta tnotes">${[t.tot && '<b>Totals:</b> ' + esc(t.tot), t.unr.length && '<b>Unreadable cells</b> (left blank, shaded): ' + t.unr.map(esc).join('; '), t.w.length && '<b>Warnings:</b> ' + t.w.map(esc).join('; '), t.oc && '<b>OCR comparison:</b> ' + esc(t.oc)].filter(Boolean).join('<br>')}</div></div>`;
 }
@@ -404,6 +406,20 @@ function route() {
   else if (h === 'about') about();
   else { cover(); scrollTo(0, 0); }
 }
+// click a column header: ascending, then descending, then back to the printed order
+const sortKey = v => { const n = v.replace(/[,\s$¥%]/g, '').replace(/^\((.*)\)$/, '-$1'); return v === '' || /^[-—–.]+$/.test(v) ? null : /^-?\d*\.?\d+$/.test(n) ? +n : v.toLowerCase(); };
+document.addEventListener('click', e => {
+  const th = e.target.closest('table.data thead tr:last-child th'); if (!th) return;
+  const tb = th.closest('table'), col = [...th.parentNode.children].indexOf(th), body = tb.tBodies[0];
+  const st = { '': 'asc', asc: 'desc', desc: '' }[th.dataset.sort || ''];
+  tb.querySelectorAll('th[data-sort]').forEach(h => delete h.dataset.sort); if (st) th.dataset.sort = st;
+  const rows = [...body.rows], key = r => sortKey((r.cells[col]?.textContent || '').trim());
+  rows.sort((a, b) => { if (!st) return a.dataset.i - b.dataset.i;
+    const x = key(a), y = key(b); if (x === null || y === null) return (x === null) - (y === null) || a.dataset.i - b.dataset.i;
+    const c = typeof x === typeof y ? (x < y ? -1 : x > y ? 1 : 0) : typeof x === 'number' ? -1 : 1;
+    return (st === 'asc' ? c : -c) || a.dataset.i - b.dataset.i; });
+  rows.forEach(r => body.appendChild(r));
+});
 addEventListener('hashchange', route); route();
 </script>
 </body>
