@@ -308,7 +308,7 @@ const T = (window.TINDEX || []).map(([id, r, p, f, t]) => ({id, r, p, f, t})), T
 const TFULL = {};
 async function loadTables(r) { if (!TFULL[r]) TFULL[r] = fetch('tables/r/' + encodeURIComponent(r) + '.json').then(x => x.json()).then(a => Object.fromEntries(a.map(t => [t.id, t]))); return TFULL[r]; }
 const isNum = v => /^[\s$¥₩(]*[-+−]?[\d,]*\.?\d+[%)]*\s*$/.test(v) || /^[-—–]+$/.test(v.trim());
-const flagged = t => t.f !== undefined ? t.f : (t.w.length || t.unr.length);
+const flagged = t => !!t.f;  // set at build time: unreadable cells or totals that do not add up
 function csv(t) {
   const q = v => /[",\n]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
   return [...t.h, ...t.rows].map(r => r.map(c => q(String(c ?? ''))).join(',')).join('\n');
