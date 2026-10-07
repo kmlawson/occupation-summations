@@ -109,6 +109,7 @@ ul.hl{margin:4px 0 0;padding-left:20px}ul.hl li{margin:2px 0}
 .theme{flex:none;min-height:34px;padding:4px 10px}
 /* tables */
 .tpill{display:inline-block;margin-left:4px;padding:0 7px;border-radius:999px;font:700 10.5px/1.75 system-ui,sans-serif;letter-spacing:.06em;text-transform:uppercase;text-decoration:none;white-space:nowrap;vertical-align:2px;background:#fbe7c0;color:#7a4a00;border:1px solid #e9c77d}
+.minitoc a.tpill{flex:none;align-self:center}
 a.tpill:hover{background:#7a4a00;color:#fff}
 @media (prefers-color-scheme:dark){:root:not([data-theme=light]) .tpill{background:#4a3410;color:#ffd98a;border-color:#7a5a20}}
 :root[data-theme=dark] .tpill{background:#4a3410;color:#ffd98a;border-color:#7a5a20}
@@ -382,7 +383,7 @@ function about() {
   <ul><li>Page images are on the <a href="https://archive.org/search?query=subject%3A%22non-military-summation%22+OR+subject%3A%22usamgik-monthly%22">Internet Archive</a>; every page reference here links there. Page numbers are PDF page numbers, not the reports' printed page numbers.</li>
   <li>Text: Mistral OCR (mistral-ocr-4-1) of every page. OCR has errors, especially in tables; check the page image.</li>
   <li>Summaries, highlights, keywords and tables of contents were written by language models (Gemini and Claude, via Antigravity) from the OCR text, and are marked <span class="llm">by LLM</span>.</li>
-  <li>Statistical tables: the tables in every 1945–1947 report (except second copies) were transcribed by Claude Sonnet reading the page images and checked against the OCR. Printed totals were re-added; disagreements and unreadable cells are flagged, never silently corrected. They appear on section pages, marked with a <span class="tpill static">Tables</span> pill in each report's contents; there is also <a href="#tables">a list of all tables</a>, or download <a href="tables.json" download>tables.json</a>.</li>
+  <li>Statistical tables: the tables in every 1945–1948 report (except second copies) were transcribed by Claude Sonnet reading the page images and checked against the OCR. Printed totals were re-added; disagreements and unreadable cells are flagged, never silently corrected. They appear on section pages, marked with a <span class="tpill static">Tables</span> pill in each report's contents; there is also <a href="#tables">a list of all tables</a>, or download <a href="tables.json" download>tables.json</a>.</li>
   <li>Full-text search uses <a href="https://pagefind.app/">Pagefind</a>; it runs in your browser with no server.</li></ul>
   <div class="label">Search tips</div>
   <ul><li><b>Full text:</b> all words must be on the same page. Add <code>series:korea</code>, <code>year:1947</code> or <code>in:K-30</code> to narrow it.</li>
