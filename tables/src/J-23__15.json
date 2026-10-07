@@ -1,0 +1,1227 @@
+{
+ "tables": [
+  {
+   "page": 113,
+   "pages": [
+    113
+   ],
+   "title": "Regular and special wages of laborers, December 1946 - June 1947: Manufacturing",
+   "units": "yen",
+   "period": "December 1946 - June 1947",
+   "source_note": "SOURCE: Cabinet Bureau of Statistics, Monthly Wage Survey.",
+   "header": [
+    [
+     "Month",
+     "Men",
+     "Men",
+     "Men",
+     "Men",
+     "Women",
+     "Women",
+     "Women",
+     "Women"
+    ],
+    [
+     "Month",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Dec 1946",
+     "854",
+     "307",
+     "45",
+     "1,206",
+     "371",
+     "153",
+     "74",
+     "596"
+    ],
+    [
+     "Jan 1947",
+     "877",
+     "157",
+     "39",
+     "1,073",
+     "352",
+     "61",
+     "48",
+     "461"
+    ],
+    [
+     "Feb 1947",
+     "1,006",
+     "86",
+     "37",
+     "1,129",
+     "437",
+     "30",
+     "56",
+     "523"
+    ],
+    [
+     "Mar 1947",
+     "1,088",
+     "64",
+     "43",
+     "1,195",
+     "476",
+     "28",
+     "58",
+     "562"
+    ],
+    [
+     "Apr 1947",
+     "1,279",
+     "63",
+     "46",
+     "1,388",
+     "520",
+     "47",
+     "64",
+     "631"
+    ],
+    [
+     "May 1947",
+     "1,487",
+     "77",
+     "46",
+     "1,610",
+     "606",
+     "27",
+     "68",
+     "701"
+    ],
+    [
+     "Jun 1947",
+     "1,664",
+     "143",
+     "49",
+     "1,856",
+     "712",
+     "70",
+     "81",
+     "863"
+    ]
+   ],
+   "footnotes": [
+    "a/ Bureau of Statistics average wage figures are slightly lower than average wages claimed by specific key industries due to the limited survey sample spread over a wide range of industries.",
+    "b/ Formerly called \"average money wages.\" \"Regular wages\" include all cash money payments as calculated prior to tax and social insurance deductions and consist of base pay, production and work-time premiums, family or dependency allowances and cost-of-living allowances.",
+    "c/ \"Special wages\" were not included in wage figures for period before December 1946. \"Irregular bonuses\" include bonuses of two months or longer and temporary or single cost-of-living allowances paid entirely in cash. \"Reported payments in kind\" include such payments in kind as provision of meals or housing; grants of commodities or sale of commodities to workers at or below cost."
+   ],
+   "unreadable": [],
+   "totals_check": "Summed regular wages + irregular bonuses + reported payments in kind against printed Total for every row, men and women. All 14 agree except women Dec 1946: 371+153+74=598, printed total appears as 596.",
+   "warnings": [
+    "Women Dec 1946 total: printed figure read as 596 but components sum to 598; legibility of the scan is poor so either component or total may be misread."
+   ],
+   "ocr_check": "OCR text missed this table's content (it read a different, garbled table); transcribed from an enlarged crop of the image."
+  },
+  {
+   "page": 113,
+   "pages": [
+    113
+   ],
+   "title": "Regular and special wages of laborers, December 1946 - June 1947: Coal mining",
+   "units": "yen",
+   "period": "December 1946 - June 1947",
+   "source_note": "SOURCE: Cabinet Bureau of Statistics, Monthly Wage Survey.",
+   "header": [
+    [
+     "Month",
+     "Underground men",
+     "Underground men",
+     "Underground men",
+     "Underground men",
+     "Surface men",
+     "Surface men",
+     "Surface men",
+     "Surface men",
+     "Surface women",
+     "Surface women",
+     "Surface women",
+     "Surface women"
+    ],
+    [
+     "Month",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Dec 1946",
+     "1,076",
+     "331",
+     "109",
+     "1,516",
+     "863",
+     "338",
+     "98",
+     "1,299",
+     "461",
+     "250",
+     "69",
+     "780"
+    ],
+    [
+     "Jan 1947",
+     "1,177",
+     "118",
+     "124",
+     "1,419",
+     "948",
+     "101",
+     "124",
+     "1,173",
+     "534",
+     "68",
+     "83",
+     "685"
+    ],
+    [
+     "Feb 1947",
+     "1,253",
+     "65",
+     "113",
+     "1,431",
+     "995",
+     "47",
+     "108",
+     "1,150",
+     "",
+     "27",
+     "74",
+     "696"
+    ],
+    [
+     "Mar 1947",
+     "1,368",
+     "53",
+     "128",
+     "1,549",
+     "1,081",
+     "43",
+     "115",
+     "1,239",
+     "620",
+     "31",
+     "81",
+     "732"
+    ],
+    [
+     "Apr 1947",
+     "1,492",
+     "347",
+     "133",
+     "1,972",
+     "1,157",
+     "279",
+     "126",
+     "1,562",
+     "668",
+     "165",
+     "88",
+     "921"
+    ],
+    [
+     "May 1947",
+     "1,614",
+     "496",
+     "135",
+     "2,245",
+     "1,230",
+     "393",
+     "122",
+     "1,745",
+     "702",
+     "243",
+     "85",
+     "1,030"
+    ],
+    [
+     "Jun 1947",
+     "2,025",
+     "817",
+     "164",
+     "3,006",
+     "1,475",
+     "559",
+     "142",
+     "2,176",
+     "848",
+     "330",
+     "94",
+     "1,272"
+    ]
+   ],
+   "footnotes": [
+    "a/ Bureau of Statistics average wage figures are slightly lower than average wages claimed by specific key industries due to the limited survey sample spread over a wide range of industries.",
+    "b/ Formerly called \"average money wages.\" \"Regular wages\" include all cash money payments as calculated prior to tax and social insurance deductions and consist of base pay, production and work-time premiums, family or dependency allowances and cost-of-living allowances.",
+    "c/ \"Special wages\" were not included in wage figures for period before December 1946. \"Irregular bonuses\" include bonuses of two months or longer and temporary or single cost-of-living allowances paid entirely in cash. \"Reported payments in kind\" include such payments in kind as provision of meals or housing; grants of commodities or sale of commodities to workers at or below cost."
+   ],
+   "unreadable": [
+    "Coal mining, surface women, Feb 1947, Regular wages: digits illegible in scan (components imply 595 but not transcribed)"
+   ],
+   "totals_check": "Summed the three components against printed Total for all 21 row/group combinations; all agree except surface women Feb 1947 which could not be checked (regular wages illegible; 27+74 against total 696).",
+   "warnings": [],
+   "ocr_check": "OCR text missed this table's content (it read a different, garbled table); transcribed from an enlarged crop of the image."
+  },
+  {
+   "page": 113,
+   "pages": [
+    113
+   ],
+   "title": "Regular and special wages of laborers, December 1946 - June 1947: Metal mining",
+   "units": "yen",
+   "period": "December 1946 - June 1947",
+   "source_note": "SOURCE: Cabinet Bureau of Statistics, Monthly Wage Survey.",
+   "header": [
+    [
+     "Month",
+     "Underground men",
+     "Underground men",
+     "Underground men",
+     "Underground men",
+     "Surface men",
+     "Surface men",
+     "Surface men",
+     "Surface men",
+     "Surface women",
+     "Surface women",
+     "Surface women",
+     "Surface women"
+    ],
+    [
+     "Month",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total",
+     "Regular wages b/",
+     "Irregular bonuses, etc.",
+     "Reported payments in kind",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Dec 1946",
+     "857",
+     "167",
+     "52",
+     "1,076",
+     "691",
+     "210",
+     "55",
+     "956",
+     "332",
+     "127",
+     "42",
+     "501"
+    ],
+    [
+     "Jan 1947",
+     "896",
+     "133",
+     "44",
+     "1,073",
+     "778",
+     "128",
+     "59",
+     "965",
+     "384",
+     "70",
+     "43",
+     "497"
+    ],
+    [
+     "Feb 1947",
+     "981",
+     "51",
+     "47",
+     "1,079",
+     "815",
+     "40",
+     "47",
+     "902",
+     "404",
+     "27",
+     "35",
+     "466"
+    ],
+    [
+     "Mar 1947",
+     "1,069",
+     "45",
+     "59",
+     "1,173",
+     "875",
+     "39",
+     "54",
+     "968",
+     "433",
+     "30",
+     "42",
+     "505"
+    ],
+    [
+     "Apr 1947",
+     "1,309",
+     "51",
+     "50",
+     "1,410",
+     "1,029",
+     "25",
+     "54",
+     "1,108",
+     "530",
+     "22",
+     "43",
+     "595"
+    ],
+    [
+     "May 1947",
+     "1,384",
+     "81",
+     "46",
+     "1,511",
+     "1,142",
+     "29",
+     "49",
+     "1,220",
+     "598",
+     "25",
+     "37",
+     "660"
+    ],
+    [
+     "Jun 1947",
+     "1,570",
+     "152",
+     "53",
+     "1,775",
+     "1,332",
+     "143",
+     "57",
+     "1,532",
+     "696",
+     "74",
+     "45",
+     "815"
+    ]
+   ],
+   "footnotes": [
+    "a/ Bureau of Statistics average wage figures are slightly lower than average wages claimed by specific key industries due to the limited survey sample spread over a wide range of industries.",
+    "b/ Formerly called \"average money wages.\" \"Regular wages\" include all cash money payments as calculated prior to tax and social insurance deductions and consist of base pay, production and work-time premiums, family or dependency allowances and cost-of-living allowances.",
+    "c/ \"Special wages\" were not included in wage figures for period before December 1946. \"Irregular bonuses\" include bonuses of two months or longer and temporary or single cost-of-living allowances paid entirely in cash. \"Reported payments in kind\" include such payments in kind as provision of meals or housing; grants of commodities or sale of commodities to workers at or below cost."
+   ],
+   "unreadable": [],
+   "totals_check": "Summed the three components against printed Total for all 21 row/group combinations; all agree.",
+   "warnings": [],
+   "ocr_check": "OCR text missed this table's content (it read a different, garbled table); transcribed from an enlarged crop of the image."
+  },
+  {
+   "page": 114,
+   "pages": [
+    114
+   ],
+   "title": "Economic Stabilization Board appropriations for the second quarter public works program, 31 July 1947",
+   "units": "yen",
+   "period": "31 July 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Agency",
+     "Appropriation"
+    ]
+   ],
+   "rows": [
+    [
+     "Ministry of Home Affairs",
+     "1,450,200,000"
+    ],
+    [
+     "Ministry of Agriculture and Forestry",
+     "1,027,006,000"
+    ],
+    [
+     "Reconstruction Board",
+     "505,542,000"
+    ],
+    [
+     "Ministry of Transportation",
+     "156,126,000"
+    ],
+    [
+     "Ministry of Welfare",
+     "108,329,000"
+    ],
+    [
+     "Ministry of Education",
+     "106,370,000"
+    ],
+    [
+     "Ministry of Justice",
+     "76,278,000"
+    ],
+    [
+     "Ministry of Commerce and Industry",
+     "6,800,000"
+    ],
+    [
+     "Economic Stabilization Board",
+     "5,000,000"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Printed total in text (paragraph 63) 3,441,651,000; sum of the nine rows 3,441,651,000; agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 116,
+   "pages": [
+    116
+   ],
+   "title": "Food imports and exports",
+   "units": "metric tons (except where noted: kilograms, units)",
+   "period": "1 January-30 June and July 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Commodity",
+     "1 January-30 June",
+     "July"
+    ]
+   ],
+   "rows": [
+    [
+     "IMPORTS",
+     "",
+     ""
+    ],
+    [
+     "China",
+     "",
+     ""
+    ],
+    [
+     "  Miso",
+     "378",
+     "0"
+    ],
+    [
+     "  Salt",
+     "126,489",
+     "31,790"
+    ],
+    [
+     "  Wheat bran",
+     "2,278",
+     "276"
+    ],
+    [
+     "Hongkong",
+     "",
+     ""
+    ],
+    [
+     "  Beans (kilograms)",
+     "0",
+     "168,908"
+    ],
+    [
+     "  Peas (kilograms)",
+     "345,808",
+     "156"
+    ],
+    [
+     "  Salt",
+     "955",
+     "0"
+    ],
+    [
+     "  Sugar",
+     "771",
+     "0"
+    ],
+    [
+     "  Miscellaneous a/",
+     "0",
+     "1,040"
+    ],
+    [
+     "Korea",
+     "",
+     ""
+    ],
+    [
+     "  Laver",
+     "211",
+     "0"
+    ],
+    [
+     "Philippines",
+     "",
+     ""
+    ],
+    [
+     "  Copra",
+     "0",
+     "4,660"
+    ],
+    [
+     "United Kingdom",
+     "",
+     ""
+    ],
+    [
+     "  Flour, Indian grain",
+     "4",
+     "0"
+    ],
+    [
+     "  Food, canned",
+     "83",
+     "0"
+    ],
+    [
+     "  Salt b/",
+     "230,818",
+     "61,382"
+    ],
+    [
+     "United States",
+     "",
+     ""
+    ],
+    [
+     "  Barley",
+     "62,069",
+     "37,653"
+    ],
+    [
+     "  Corn",
+     "142,831",
+     "145,492"
+    ],
+    [
+     "  Flour",
+     "50,247",
+     "30,026 c/"
+    ],
+    [
+     "  Rations, C-type (units) d/",
+     "408",
+     "23,936 e/"
+    ],
+    [
+     "  Salt, bulk",
+     "9,162",
+     "0"
+    ],
+    [
+     "  Seed potatoes, white",
+     "996",
+     "0"
+    ],
+    [
+     "  Sugar",
+     "8,343",
+     "4,544"
+    ],
+    [
+     "  Wheat",
+     "210,555",
+     "49,327"
+    ],
+    [
+     "  Miscellaneous a/",
+     "111,649",
+     "20,574 f/"
+    ],
+    [
+     "EXPORTS",
+     "",
+     ""
+    ],
+    [
+     "Canada",
+     "",
+     ""
+    ],
+    [
+     "  Oranges, bitter",
+     "108",
+     "0"
+    ],
+    [
+     "  Tea",
+     "40",
+     "0"
+    ],
+    [
+     "Hongkong",
+     "",
+     ""
+    ],
+    [
+     "  Mushrooms, dried",
+     "100",
+     "0"
+    ],
+    [
+     "  Scallops, ligament",
+     "110",
+     "0"
+    ],
+    [
+     "  Shark fins, dried",
+     "12",
+     "0"
+    ],
+    [
+     "Korea",
+     "",
+     ""
+    ],
+    [
+     "  Salt, bulk",
+     "3,300",
+     "0"
+    ],
+    [
+     "  Seeds, vegetable",
+     "21",
+     "0"
+    ],
+    [
+     "Malaya",
+     "",
+     ""
+    ],
+    [
+     "  Mushrooms, dried",
+     "0",
+     "5"
+    ],
+    [
+     "Singapore",
+     "",
+     ""
+    ],
+    [
+     "  Abalone, dried",
+     "0",
+     "23"
+    ],
+    [
+     "  Cuttlefish, dried",
+     "0",
+     "32"
+    ],
+    [
+     "  Compoy, dried",
+     "0",
+     "18"
+    ],
+    [
+     "  Mushrooms, dried",
+     "0",
+     "28"
+    ],
+    [
+     "United Kingdom",
+     "",
+     ""
+    ],
+    [
+     "  Oranges, canned",
+     "0",
+     "748"
+    ],
+    [
+     "United States",
+     "",
+     ""
+    ],
+    [
+     "  Mushrooms, dried",
+     "0",
+     "7"
+    ],
+    [
+     "  Tea",
+     "916",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes canned, dried and packed meats, vegetables, fruits, soups, crackers, concentrated fruit juice, soup powder, jam and other food products.",
+    "b/ Includes imports from Aden and Egypt and diversions from military stock.",
+    "c/ Includes four metric tons of flour diverted from United States military stocks.",
+    "d/ Revised.",
+    "e/ Includes 23,936 units of C-type rations diverted from United States military stocks.",
+    "f/ Includes two metric tons of miscellaneous foods diverted from United States military stocks."
+   ],
+   "unreadable": [],
+   "totals_check": "No totals printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched; country headings are blank-valued rows in the original. Table spans printed pages 220-221."
+  },
+  {
+   "page": 117,
+   "pages": [
+    117
+   ],
+   "title": "Textiles and related products",
+   "units": "as stated in Unit column",
+   "period": "1 January-30 June and July 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Commodity",
+     "Unit",
+     "1 January-30 June",
+     "July"
+    ]
+   ],
+   "rows": [
+    [
+     "IMPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Australia",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Wool, greasy",
+     "metric ton",
+     "1,103",
+     "0"
+    ],
+    [
+     "Philippines",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Hemp, Davao",
+     "pound",
+     "0",
+     "443,582"
+    ],
+    [
+     "Singapore",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Tapioca a/",
+     "metric ton",
+     "0",
+     "74"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Jackets",
+     "each",
+     "500",
+     "0"
+    ],
+    [
+     "  Overcoats",
+     "each",
+     "88",
+     "0"
+    ],
+    [
+     "  Skins, sheep",
+     "each",
+     "1,055",
+     "287"
+    ],
+    [
+     "  Trousers, serge",
+     "pair",
+     "378",
+     "0"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Caps",
+     "each",
+     "0",
+     "128,011"
+    ],
+    [
+     "  Cloth, asbestos",
+     "pound",
+     "0",
+     "10,221"
+    ],
+    [
+     "  Coats",
+     "each",
+     "0",
+     "69,359"
+    ],
+    [
+     "  Comforters, cotton",
+     "pound",
+     "11,648",
+     "65,175"
+    ],
+    [
+     "  Cotton, raw",
+     "pound",
+     "93,287,000",
+     "6,973,000"
+    ],
+    [
+     "  Covers",
+     "each",
+     "0",
+     "120"
+    ],
+    [
+     "  Drawers",
+     "each",
+     "0",
+     "100,744"
+    ],
+    [
+     "  Hats",
+     "each",
+     "0",
+     "903"
+    ],
+    [
+     "  Hemp fiber",
+     "metric ton",
+     "899",
+     "0"
+    ],
+    [
+     "  Jackets",
+     "each",
+     "0",
+     "128,708"
+    ],
+    [
+     "  Ponchos",
+     "each",
+     "0",
+     "1,168"
+    ],
+    [
+     "  Sacks, empty",
+     "metric ton",
+     "1,856",
+     "606"
+    ],
+    [
+     "  Shirts",
+     "each",
+     "0",
+     "64,107"
+    ],
+    [
+     "  Socks, wool",
+     "pair",
+     "787,500",
+     "0"
+    ],
+    [
+     "  Suits",
+     "each",
+     "0",
+     "7,692"
+    ],
+    [
+     "  Sweaters",
+     "each",
+     "0",
+     "4,802"
+    ],
+    [
+     "  Trousers",
+     "pair",
+     "100,000",
+     "76,617"
+    ],
+    [
+     "  Twine, sacking",
+     "pound",
+     "36,942",
+     "9,876"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Aden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "5,682,000",
+     "1,020,000"
+    ],
+    [
+     "Afghanistan",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Yarn, cotton",
+     "pound",
+     "24,800",
+     "0"
+    ],
+    [
+     "Arabia",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "0",
+     "999,000"
+    ],
+    [
+     "Argentina",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "1,001,000",
+     "0"
+    ],
+    [
+     "Australia",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "0",
+     "5,743,000"
+    ],
+    [
+     "  Silk, raw",
+     "pound",
+     "196,999",
+     "26,852"
+    ],
+    [
+     "  Yarn, cotton",
+     "pound",
+     "1,200",
+     "0"
+    ],
+    [
+     "  Yarn, rayon",
+     "pound",
+     "301,000",
+     "0"
+    ],
+    [
+     "Belgian Congo",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "105,000",
+     "374,000"
+    ],
+    [
+     "British North Borneo",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "392,000",
+     "0"
+    ],
+    [
+     "Burma",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Yarn, cotton",
+     "pound",
+     "5,000,000",
+     "0"
+    ],
+    [
+     "Ceylon",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "251,000",
+     "0"
+    ],
+    [
+     "  Yarn, cotton",
+     "pound",
+     "1,000,000",
+     "0"
+    ],
+    [
+     "  Miscellaneous manufactured and products b/",
+     "dozen",
+     "0",
+     "1,139"
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, wool",
+     "linear yard",
+     "0",
+     "339,000"
+    ],
+    [
+     "  Felt, wool",
+     "pound",
+     "4,015",
+     "0"
+    ],
+    [
+     "  Yarn, rayon",
+     "pound",
+     "618,000",
+     "1,236,000"
+    ],
+    [
+     "Cyrenaica",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "150,000",
+     "0"
+    ],
+    [
+     "Egypt",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "9,020,000",
+     "1,210,000"
+    ],
+    [
+     "Eritrea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "1,250,000",
+     "0"
+    ],
+    [
+     "Gambia",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Fabric, cotton",
+     "linear yard",
+     "60,000",
+     "120,000"
+    ]
+   ],
+   "footnotes": [
+    "a/ and b/ are referenced in the table but their text is not printed on these pages (not on page 117)."
+   ],
+   "unreadable": [],
+   "totals_check": "No totals printed.",
+   "warnings": [
+    "Exports list is cut off at Gambia on printed page 223 and continues on the following page, not transcribed here."
+   ],
+   "ocr_check": "OCR matched except Australia silk raw July (OCR 28,852, image reads 26,852), 'Ocremaica' for Cyrenaica, and 'Eritrea'/'Confortors' spellings."
+  }
+ ]
+}

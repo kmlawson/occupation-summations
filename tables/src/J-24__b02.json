@@ -1,0 +1,1307 @@
+{
+ "tables": [
+  {
+   "page": 61,
+   "pages": [
+    61
+   ],
+   "title": "Heavy electrical equipment production (printed page 110)",
+   "units": "pieces (assumed; see footnote a/ on printed page 111)",
+   "period": "July and August 1947",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Rectifiers",
+     "",
+     ""
+    ],
+    [
+     "  Steel tank",
+     "1",
+     "2"
+    ],
+    [
+     "  Mercury vapor",
+     "53",
+     "42"
+    ],
+    [
+     "  Selenium and other",
+     "1,029",
+     "1,190"
+    ],
+    [
+     "Power condensers",
+     "3,923",
+     "1,746"
+    ],
+    [
+     "Furnaces",
+     "",
+     ""
+    ],
+    [
+     "  Arc",
+     "2",
+     "3"
+    ],
+    [
+     "  Low-frequency induction",
+     "10",
+     "8"
+    ],
+    [
+     "  High-frequency induction",
+     "0",
+     "3"
+    ],
+    [
+     "  Resistance",
+     "61",
+     "140"
+    ],
+    [
+     "  Other",
+     "0",
+     "1"
+    ],
+    [
+     "Welding apparatus",
+     "",
+     ""
+    ],
+    [
+     "  AC arc",
+     "105",
+     "54"
+    ],
+    [
+     "  DC arc",
+     "2",
+     "0"
+    ],
+    [
+     "  Resistance",
+     "18",
+     "59"
+    ],
+    [
+     "Control apparatus",
+     "",
+     ""
+    ],
+    [
+     "  Hand control",
+     "",
+     ""
+    ],
+    [
+     "    Starters",
+     "720",
+     "327"
+    ],
+    [
+     "    Controllers",
+     "281",
+     "222"
+    ],
+    [
+     "    Other",
+     "203",
+     "310"
+    ],
+    [
+     "  Remote control",
+     "",
+     ""
+    ],
+    [
+     "    Contactors",
+     "571",
+     "1,700"
+    ],
+    [
+     "    Contactor panels",
+     "65",
+     "64"
+    ],
+    [
+     "    Resistors",
+     "154",
+     "333"
+    ],
+    [
+     "    Lifting devices",
+     "105",
+     "507"
+    ],
+    [
+     "    Other",
+     "440",
+     "140"
+    ],
+    [
+     "Switchboard apparatus",
+     "",
+     ""
+    ],
+    [
+     "  For standard motors",
+     "3,826",
+     "3,827"
+    ],
+    [
+     "  3,300 volts and under",
+     "1,820",
+     "3,076"
+    ],
+    [
+     "  Over 3,300 volts",
+     "944",
+     "1,048"
+    ],
+    [
+     "Meters",
+     "",
+     ""
+    ],
+    [
+     "  Watt-hour",
+     "36,635",
+     "31,209"
+    ],
+    [
+     "  Pyrometers",
+     "507",
+     "907"
+    ],
+    [
+     "  Other",
+     "51,892",
+     "47,407"
+    ],
+    [
+     "Railway equipment",
+     "",
+     ""
+    ],
+    [
+     "  Main motors",
+     "231",
+     "238"
+    ],
+    [
+     "  M-G sets",
+     "36",
+     "37"
+    ],
+    [
+     "  Blower motors",
+     "8",
+     "0"
+    ],
+    [
+     "  Locomotives",
+     "",
+     ""
+    ],
+    [
+     "    Railway",
+     "6",
+     "5"
+    ],
+    [
+     "    Mining and industrial",
+     "3",
+     "4"
+    ],
+    [
+     "    Battery",
+     "8",
+     "17"
+    ],
+    [
+     "  Control apparatus",
+     "42",
+     "33"
+    ],
+    [
+     "  Battery-operated vehicles",
+     "48",
+     "33"
+    ],
+    [
+     "Railway signal equipment",
+     "",
+     ""
+    ],
+    [
+     "  Signal mechanism",
+     "60",
+     ""
+    ],
+    [
+     "  Electric levers",
+     "71",
+     "21"
+    ],
+    [
+     "  Interlocking relays",
+     "1",
+     "0"
+    ],
+    [
+     "  Switch machines",
+     "31",
+     "0"
+    ],
+    [
+     "  Electric locks",
+     "95",
+     "2"
+    ],
+    [
+     "  Circuit controllers",
+     "65",
+     "55"
+    ],
+    [
+     "  Line transformers",
+     "236",
+     "37"
+    ],
+    [
+     "  Signal transformers",
+     "256",
+     "307"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [
+    "row 'Signal mechanism', column 'August': printed digits 85 or 86, ambiguous in scan (OCR read 85)"
+   ],
+   "totals_check": "No total printed.",
+   "warnings": [
+    "Group-heading rows have blank value cells in the original; rows after 'Switchboard apparatus' etc. are as printed."
+   ],
+   "ocr_check": "OCR matched except it dropped the blank group-heading cells' hierarchy; Signal mechanism August ambiguous (OCR 85)."
+  },
+  {
+   "page": 61,
+   "pages": [
+    61
+   ],
+   "title": "Heavy electrical equipment production, continued (printed page 111)",
+   "units": "pieces unless otherwise indicated",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Railway signal equipment (continued)",
+     "",
+     ""
+    ],
+    [
+     "  Rectifiers",
+     "504",
+     "26"
+    ],
+    [
+     "  Approach indicators",
+     "86",
+     "10"
+    ],
+    [
+     "  Signal relays",
+     "838",
+     "1,342"
+    ],
+    [
+     "Insulation material",
+     "",
+     ""
+    ],
+    [
+     "  Mica (kilograms)",
+     "",
+     ""
+    ],
+    [
+     "    Moulding plate",
+     "7,917",
+     "9,752"
+    ],
+    [
+     "    Commutator segment",
+     "4,488",
+     "3,783"
+    ],
+    [
+     "    Heat-resisting plate",
+     "153",
+     "486"
+    ],
+    [
+     "    Flexible plate",
+     "1,552",
+     "1,492"
+    ],
+    [
+     "    Paper",
+     "13,618",
+     "13,614"
+    ],
+    [
+     "    Paper (rolls)",
+     "4,447",
+     "4,070"
+    ],
+    [
+     "  Varnished cloth (square meters)",
+     "85,500",
+     "101,849"
+    ],
+    [
+     "  Varnished tubes (meters)",
+     "799,770",
+     "596,790"
+    ],
+    [
+     "  Varnished tape (rolls)",
+     "9,096",
+     "14,500"
+    ],
+    [
+     "  Black tape (rolls)",
+     "262,870",
+     "160,930"
+    ],
+    [
+     "  Rubber tape (rolls)",
+     "22,586",
+     "31,019"
+    ],
+    [
+     "Illuminating equipment",
+     "",
+     ""
+    ],
+    [
+     "  Fixtures",
+     "475,852",
+     "393,499"
+    ],
+    [
+     "  Light bulbs",
+     "",
+     ""
+    ],
+    [
+     "    General use b/",
+     "7,322,660",
+     "6,851,890"
+    ],
+    [
+     "    Special c/",
+     "330,195",
+     "472,714"
+    ],
+    [
+     "    Flashlight d/",
+     "1,255,887",
+     "1,186,560"
+    ],
+    [
+     "Wire and cable",
+     "",
+     ""
+    ],
+    [
+     "  Bare copper (metric tons)",
+     "1,320",
+     "730"
+    ],
+    [
+     "  Rubber insulated (kilometers)",
+     "22,307",
+     "17,577"
+    ],
+    [
+     "  Weatherproofed (kilometers)",
+     "15,855",
+     "18,661"
+    ],
+    [
+     "  Cotton and silk covered (metric tons)",
+     "741",
+     "713"
+    ],
+    [
+     "  Enameled (metric tons)",
+     "187",
+     "146"
+    ],
+    [
+     "  Power cable (kilometers)",
+     "221",
+     "224"
+    ],
+    [
+     "  Other (kilometers)",
+     "1,570",
+     "1,583"
+    ]
+   ],
+   "footnotes": [
+    "a/ All production stated in pieces unless otherwise indicated.",
+    "b/ Includes bulbs of 15 to 300 candle power.",
+    "c/ Includes bulbs over 300 candle power and special applications for railroads, etc.",
+    "d/ Motor vehicle, flashlight and Christmas tree lamps."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [
+    "Footnote marker a/ is printed in the report but not attached to a row on these pages."
+   ],
+   "ocr_check": "OCR matched except Black tape August (read 160,920 vs 160,930) and Weatherproofed August (read 18,061 vs 18,661); some digits are faint."
+  },
+  {
+   "page": 63,
+   "pages": [
+    63,
+    64
+   ],
+   "title": "Agricultural implement production",
+   "units": "pieces (assumed)",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Japan Agricultural Implement Industry Cooperative Union.",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Baling press",
+     "1",
+     "100"
+    ],
+    [
+     "Barley cleaner",
+     "591",
+     "662"
+    ],
+    [
+     "Barley roller",
+     "710",
+     "2,274"
+    ],
+    [
+     "Cultivating hoe",
+     "3,413",
+     "1,911"
+    ],
+    [
+     "Ensilage cutter",
+     "191",
+     "407"
+    ],
+    [
+     "Farm cart",
+     "447",
+     "2,020"
+    ],
+    [
+     "Farm fan",
+     "808",
+     "1,400"
+    ],
+    [
+     "Flour-milling machine",
+     "2,132",
+     "1,079"
+    ],
+    [
+     "Fork",
+     "31,824",
+     "25,788"
+    ],
+    [
+     "Grain dryer",
+     "24",
+     "36"
+    ],
+    [
+     "Grain fan",
+     "0",
+     "2,086"
+    ],
+    [
+     "Grain screen",
+     "100",
+     "525"
+    ],
+    [
+     "Harrow",
+     "4,564",
+     "2,837"
+    ],
+    [
+     "Hoe",
+     "75,064",
+     "78,167"
+    ],
+    [
+     "Incubator",
+     "3",
+     "1"
+    ],
+    [
+     "Milk bucket",
+     "100",
+     "100"
+    ],
+    [
+     "Milk can",
+     "60",
+     "2,080"
+    ],
+    [
+     "Plow",
+     "21,136",
+     "21,941"
+    ],
+    [
+     "Potato cutter",
+     "70",
+     "0"
+    ],
+    [
+     "Power cultivator",
+     "10",
+     "324"
+    ],
+    [
+     "Pruning shears",
+     "3,050",
+     "2,750"
+    ],
+    [
+     "Radish grater",
+     "800",
+     "700"
+    ],
+    [
+     "Rice huller",
+     "2,859",
+     "3,112"
+    ],
+    [
+     "Rice polisher",
+     "2,152",
+     "2,762"
+    ],
+    [
+     "Ridge scoop",
+     "1,445",
+     "1,229"
+    ],
+    [
+     "Scattering scoop",
+     "3,980",
+     "9,880"
+    ],
+    [
+     "Sickle",
+     "664,811",
+     "201,707"
+    ],
+    [
+     "Simple weeder",
+     "1,938",
+     "467"
+    ],
+    [
+     "Sowing machine",
+     "0",
+     "50"
+    ],
+    [
+     "Sprayer",
+     "8,183",
+     "6,476"
+    ],
+    [
+     "Straw cutter",
+     "2,060",
+     "9,177"
+    ],
+    [
+     "Straw cutter with feeder",
+     "9,176",
+     "5,328"
+    ],
+    [
+     "Straw-mat machine",
+     "1,031",
+     "1,842"
+    ],
+    [
+     "Straw-rope maker",
+     "7,915",
+     "9,260"
+    ],
+    [
+     "Straw-softening machine",
+     "803",
+     "503"
+    ],
+    [
+     "Stump puller",
+     "50",
+     "45"
+    ],
+    [
+     "Tea-leaf finisher",
+     "54",
+     "35"
+    ],
+    [
+     "Tea-leaf shears",
+     "1,808",
+     "1,728"
+    ],
+    [
+     "Thresher",
+     "12,317",
+     "14,327"
+    ],
+    [
+     "Tobacco dryer",
+     "21",
+     "55"
+    ],
+    [
+     "Vermicelli machine",
+     "1,376",
+     "2,643"
+    ],
+    [
+     "Vertical pump",
+     "210",
+     "62"
+    ],
+    [
+     "Weeder",
+     "19,169",
+     "10,316"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [
+    "Table runs from printed page 115 onto printed page 116 (PDF page 64) without a repeated header on the continuation, which has its own July/August header."
+   ],
+   "ocr_check": "OCR misread several rows (e.g. Baling press name, Fork 21,824 vs 31,824, Grain fan 2,036 vs 2,086, Milk can 2,050 vs 2,080, Straw-softening machine August 803 vs 503, Sowing machine label); transcription follows the image."
+  },
+  {
+   "page": 64,
+   "pages": [
+    64
+   ],
+   "title": "Business machine production",
+   "units": "pieces (assumed)",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Nippon Office Appliance Association.",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Japanese typewriters",
+     "443",
+     "354"
+    ],
+    [
+     "Communication typewriters",
+     "52",
+     "3"
+    ],
+    [
+     "Calculating machines",
+     "86",
+     "89"
+    ],
+    [
+     "Mimeographs",
+     "3,947",
+     "4,197"
+    ],
+    [
+     "Files for mimeographs",
+     "14,780",
+     "5,022"
+    ],
+    [
+     "Blueprinting machines",
+     "13",
+     "17"
+    ],
+    [
+     "Cash registers",
+     "31",
+     "22"
+    ],
+    [
+     "Time recorders",
+     "28",
+     "48"
+    ],
+    [
+     "Japanese typewriter type",
+     "7,050,296",
+     "4,966,170"
+    ],
+    [
+     "Numbering devices",
+     "600",
+     "800"
+    ],
+    [
+     "Paper binders",
+     "250",
+     "300"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 65,
+   "pages": [
+    65
+   ],
+   "title": "Production of aluminum utensils",
+   "units": "metric tons",
+   "period": "July and August 1947",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Cast household utensils",
+     "1,329",
+     "1,162"
+    ],
+    [
+     "Other cast products",
+     "814",
+     "840"
+    ],
+    [
+     "Total",
+     "2,143",
+     "2,002"
+    ],
+    [
+     "Forged household utensils",
+     "208",
+     "375"
+    ],
+    [
+     "Other forged products",
+     "460",
+     "186"
+    ],
+    [
+     "Total",
+     "668",
+     "561"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Cast: July 1,329+814=2,143, August 1,162+840=2,002; both agree with printed totals. Forged: July 208+460=668, August 375+186=561; both agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 67,
+   "pages": [
+    67
+   ],
+   "title": "Raw cotton in mills",
+   "units": "thousands of pounds",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Federation of Japanese Textile Associations.",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Receipts",
+     "20,646",
+     "16,262"
+    ],
+    [
+     "Consumption",
+     "29,679",
+     "21,068"
+    ],
+    [
+     "Month-end Stock",
+     "44,885",
+     "40,079"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Not a sum table; stock check August: 44,885+16,262-21,068=40,079, agrees with printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 68,
+   "pages": [
+    68
+   ],
+   "title": "Waste yarns",
+   "units": "thousands of pounds",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Federation of Japanese Textile Associations.",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Production",
+     "235",
+     "354"
+    ],
+    [
+     "Month-end stocks",
+     "",
+     ""
+    ],
+    [
+     "  Spinners and weaving affiliates",
+     "477",
+     "610"
+    ],
+    [
+     "  Weavers",
+     "34",
+     "22"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read August production 384 for 354."
+  },
+  {
+   "page": 68,
+   "pages": [
+    68
+   ],
+   "title": "Yarn stocks",
+   "units": "thousands of pounds",
+   "period": "31 July and 31 August 1947",
+   "source_note": "SOURCE: Federation of Japanese Textile Associations.",
+   "header": [
+    [
+     "",
+     "31 July",
+     "31 August"
+    ]
+   ],
+   "rows": [
+    [
+     "Pure cotton",
+     "",
+     ""
+    ],
+    [
+     "  Spinners and weaving affiliates",
+     "50,792",
+     "53,127"
+    ],
+    [
+     "  Independent cotton weavers",
+     "18,341",
+     "16,015"
+    ],
+    [
+     "  Other manufacturers",
+     "7,130",
+     "6,583"
+    ],
+    [
+     "  In dealers' hands",
+     "0",
+     "472"
+    ],
+    [
+     "  Total",
+     "76,263",
+     "76,197"
+    ],
+    [
+     "Mixed yarn a/",
+     "",
+     ""
+    ],
+    [
+     "  Spinners and weaving affiliates",
+     "21",
+     "23"
+    ],
+    [
+     "  Weavers",
+     "316",
+     "267"
+    ],
+    [
+     "  Other manufacturers",
+     "346",
+     "311"
+    ],
+    [
+     "  In dealers' hands",
+     "1",
+     "4"
+    ],
+    [
+     "  Total",
+     "684",
+     "605"
+    ],
+    [
+     "Grand total",
+     "76,947",
+     "76,802"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes mixtures with rayon staple and other fibers."
+   ],
+   "unreadable": [],
+   "totals_check": "Pure cotton July 76,263 and August 76,197 agree with sums; mixed July 684 and August 605 agree; grand total 76,947 (76,263+684) and 76,802 (76,197+605) agree.",
+   "warnings": [],
+   "ocr_check": "OCR read pure cotton July total as 76,363; image shows 76,263 (which sums correctly)."
+  },
+  {
+   "page": 68,
+   "pages": [
+    68
+   ],
+   "title": "Cloth stocks",
+   "units": "thousands of square yards",
+   "period": "31 July and 31 August 1947",
+   "source_note": "SOURCE: Federation of Japanese Textile Associations and Japan Cloth Company.",
+   "header": [
+    [
+     "",
+     "31 July",
+     "31 August"
+    ]
+   ],
+   "rows": [
+    [
+     "Weavers a/",
+     "58,807",
+     "54,697"
+    ],
+    [
+     "Independent weavers",
+     "71,008",
+     "72,194"
+    ],
+    [
+     "Distributing agency",
+     "",
+     ""
+    ],
+    [
+     "  Receipts",
+     "2,342",
+     "2,536"
+    ],
+    [
+     "  Disposition",
+     "4,406",
+     "3,640"
+    ],
+    [
+     "  Month-end stocks",
+     "7,479",
+     "6,375"
+    ]
+   ],
+   "footnotes": [
+    "a/ Weaving subsidiaries of spinning companies."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 68,
+   "pages": [
+    68
+   ],
+   "title": "Cotton machinery",
+   "units": "spindles and looms; hours in millions",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Federation of Japanese Textile Associations.",
+   "header": [
+    [
+     "",
+     "Spindles",
+     "Spindles",
+     "Looms",
+     "Looms"
+    ],
+    [
+     "",
+     "July",
+     "August",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Installed",
+     "2,859,724",
+     "2,883,232",
+     "141,478",
+     "142,056"
+    ],
+    [
+     "Operable",
+     "2,745,066",
+     "2,767,302",
+     "124,509",
+     "127,035"
+    ],
+    [
+     "Operating a/",
+     "1,908,211",
+     "1,478,441",
+     "77,285",
+     "75,016"
+    ],
+    [
+     "Hours operated b/",
+     "763",
+     "591",
+     "21",
+     "19"
+    ]
+   ],
+   "footnotes": [
+    "a/ Spinning companies, two-shift basis. Independent weavers, approximately 10 hours.",
+    "b/ Millions of hours."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Installed spindles August as 2,853,232 (image 2,883,232) and header 'Loans' for Looms."
+  },
+  {
+   "page": 69,
+   "pages": [
+    69
+   ],
+   "title": "Raw silk production",
+   "units": "bales",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Ministry of Agriculture and Forestry, Raw Silk Bureau.",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Commercial filatures",
+     "",
+     ""
+    ],
+    [
+     "  13/15 denier",
+     "4,816",
+     "4,930"
+    ],
+    [
+     "  20/22 denier",
+     "4,376",
+     "3,715"
+    ],
+    [
+     "  Other deniers",
+     "89",
+     "80"
+    ],
+    [
+     "  Total",
+     "9,281",
+     "8,725"
+    ],
+    [
+     "Testing stations",
+     "121",
+     "114"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "July 4,816+4,376+89=9,281; August 4,930+3,715+80=8,725; both agree with printed totals.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 69,
+   "pages": [
+    69
+   ],
+   "title": "Reeling mills and basins",
+   "units": "mills and basins",
+   "period": "31 July and 31 August 1947",
+   "source_note": "SOURCE: Ministry of Agriculture and Forestry, Raw Silk Bureau.",
+   "header": [
+    [
+     "",
+     "Mills",
+     "Mills",
+     "Basins",
+     "Basins"
+    ],
+    [
+     "",
+     "31 July",
+     "31 August",
+     "31 July",
+     "31 August"
+    ]
+   ],
+   "rows": [
+    [
+     "Licensed",
+     "293",
+     "297",
+     "46,520",
+     "47,049"
+    ],
+    [
+     "Operable",
+     "279",
+     "280",
+     "42,279",
+     "42,573"
+    ],
+    [
+     "Operating",
+     "268",
+     "272",
+     "36,927",
+     "37,424"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Licensed July mills as 393; image shows 293."
+  },
+  {
+   "page": 69,
+   "pages": [
+    69
+   ],
+   "title": "Cocoon stock",
+   "units": "thousands of pounds, fresh weight",
+   "period": "July and August 1947",
+   "source_note": "SOURCE: Ministry of Agriculture and Forestry, Raw Silk Bureau.",
+   "header": [
+    [
+     "",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Mill receipts",
+     "21,800",
+     "8,651"
+    ],
+    [
+     "Mill stocks (new crop)",
+     "44,625",
+     "50,521"
+    ],
+    [
+     "Mill stocks (old crop)",
+     "52,531",
+     "45,560"
+    ],
+    [
+     "Other stocks b/",
+     "9,609",
+     "9,502"
+    ]
+   ],
+   "footnotes": [
+    "a/ Fresh weight.",
+    "b/ Excluding farmers' holdings for home use."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Mill stocks (new crop) July as 44,635; image shows 44,625."
+  }
+ ]
+}

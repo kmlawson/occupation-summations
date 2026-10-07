@@ -1,0 +1,2508 @@
+{
+ "tables": [
+  {
+   "page": 130,
+   "pages": [
+    130
+   ],
+   "title": "[Imports and exports by country and commodity, printed page 248 (United States imports continued; exports Burma to Korea)]",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "IMPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "United States (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Pest control supplies",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Insecticide, liquid",
+     "gallon",
+     "239,425 a/",
+     "0"
+    ],
+    [
+     "  Insecticide, powder",
+     "metric ton",
+     "485 a/",
+     "0"
+    ],
+    [
+     "  Larvicide",
+     "metric ton",
+     "722 a/",
+     "0"
+    ],
+    [
+     "Potash",
+     "metric ton",
+     "62,181",
+     "0"
+    ],
+    [
+     "Rongalite",
+     "metric ton",
+     "5",
+     "0"
+    ],
+    [
+     "Salt",
+     "metric ton",
+     "9,165",
+     "18 c/"
+    ],
+    [
+     "Soap",
+     "pound",
+     "1,192",
+     "0"
+    ],
+    [
+     "Sodium bicarbonate",
+     "metric ton",
+     "11",
+     "0"
+    ],
+    [
+     "Sodium hydrosulfite",
+     "metric ton",
+     "166",
+     "0"
+    ],
+    [
+     "Superphosphate",
+     "metric ton",
+     "2,685",
+     "0"
+    ],
+    [
+     "Waterproofing liquid",
+     "metric ton",
+     "5",
+     "0"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Burma",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dyestuffs",
+     "metric ton",
+     "6",
+     "0"
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dyestuffs",
+     "metric ton",
+     "432",
+     "0"
+    ],
+    [
+     "Dynamite",
+     "metric ton",
+     "2",
+     "0"
+    ],
+    [
+     "Pigments",
+     "metric ton",
+     "232",
+     "35"
+    ],
+    [
+     "Sulfur",
+     "metric ton",
+     "1,993",
+     "0"
+    ],
+    [
+     "French Indo-China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Matches, safety",
+     "case",
+     "1,500 a/",
+     "0"
+    ],
+    [
+     "Greece",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Vaccine",
+     "ampoule",
+     "100",
+     "0"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Agar-agar",
+     "pound",
+     "40,000",
+     "0"
+    ],
+    [
+     "Citric acid",
+     "kilogram",
+     "2,500",
+     "0"
+    ],
+    [
+     "Dyestuffs",
+     "kilogram",
+     "936",
+     "0"
+    ],
+    [
+     "Hair dyes",
+     "dozen bottles",
+     "2,500",
+     "0"
+    ],
+    [
+     "Manganese dioxide",
+     "kilogram",
+     "125,000",
+     "0"
+    ],
+    [
+     "Wax, vegetable",
+     "pound",
+     "131,936",
+     "0"
+    ],
+    [
+     "Zinc oxide",
+     "metric ton",
+     "30",
+     "0"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Alcohol, methyl",
+     "kilogram",
+     "750",
+     "0"
+    ],
+    [
+     "Aluminum sulfate",
+     "metric ton",
+     "58",
+     "0"
+    ],
+    [
+     "Ammonia",
+     "metric ton",
+     "5",
+     "0"
+    ],
+    [
+     "Ammonium bichromate",
+     "kilogram",
+     "300",
+     "0"
+    ],
+    [
+     "Ammonium nitrate",
+     "kilogram",
+     "150",
+     "0"
+    ],
+    [
+     "Ammonium phosphate",
+     "kilogram",
+     "150",
+     "0"
+    ],
+    [
+     "Ammonium sulfate",
+     "kilogram",
+     "2,050",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ and c/ footnote texts are printed on a neighbouring page (a/ Revised; c/ Diverted from military stocks, per page 131 notes)."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it read 'Peet control supplies' for 'Pest control supplies', 'Mangalite' for 'Rongalite', and merged export headings into the table; digits matched."
+  },
+  {
+   "page": 130,
+   "pages": [
+    130
+   ],
+   "title": "[Exports by country and commodity (Korea continued to United States), printed page 249]",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "EXPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "Korea (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Argon gas",
+     "cubic meter",
+     "6",
+     "0"
+    ],
+    [
+     "Citric acid",
+     "kilogram",
+     "1,000",
+     "0"
+    ],
+    [
+     "Coal-tar pitch",
+     "metric ton",
+     "993",
+     "0"
+    ],
+    [
+     "Dyestuffs",
+     "metric ton",
+     "5",
+     "0"
+    ],
+    [
+     "Dynamite",
+     "metric ton",
+     "50",
+     "0"
+    ],
+    [
+     "Ethylene glycol",
+     "metric ton",
+     "14",
+     "0"
+    ],
+    [
+     "Magnesium carbonate",
+     "metric ton",
+     "20",
+     "0"
+    ],
+    [
+     "Matches, safety",
+     "case",
+     "450",
+     "0"
+    ],
+    [
+     "Naphthalene",
+     "metric ton",
+     "6",
+     "0"
+    ],
+    [
+     "Oil, drier",
+     "kilogram",
+     "1,300",
+     "0"
+    ],
+    [
+     "Oil, laquatint",
+     "kilogram",
+     "2,560",
+     "0"
+    ],
+    [
+     "Peptone",
+     "kilogram",
+     "206",
+     "0"
+    ],
+    [
+     "Phenol",
+     "kilogram",
+     "200",
+     "0"
+    ],
+    [
+     "Powder, developing",
+     "gross package",
+     "70,224",
+     "0"
+    ],
+    [
+     "Salt",
+     "metric ton",
+     "3,300",
+     "0"
+    ],
+    [
+     "Sodium thiosulfate",
+     "kilogram",
+     "250",
+     "0"
+    ],
+    [
+     "Sulfuric acid",
+     "gallon",
+     "3,000",
+     "0"
+    ],
+    [
+     "Superphosphate",
+     "metric ton",
+     "76,723 a/",
+     "6,692"
+    ],
+    [
+     "Toluol",
+     "kilogram",
+     "1,020",
+     "0"
+    ],
+    [
+     "Netherlands East Indies",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Pigment, lithopone",
+     "metric ton",
+     "0",
+     "10"
+    ],
+    [
+     "Zinc oxide",
+     "metric ton",
+     "0",
+     "70"
+    ],
+    [
+     "Ryukyu Islands",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ammonium sulfate",
+     "metric ton",
+     "2,850",
+     "454"
+    ],
+    [
+     "Drugs",
+     "case",
+     "0",
+     "2"
+    ],
+    [
+     "Insecticide",
+     "pound",
+     "25,000",
+     "0"
+    ],
+    [
+     "Larvicide",
+     "pound",
+     "25,000",
+     "0"
+    ],
+    [
+     "Oil, chaulmoogra",
+     "kilogram",
+     "50",
+     "0"
+    ],
+    [
+     "Superphosphate",
+     "metric ton",
+     "6,862",
+     "864"
+    ],
+    [
+     "Vaccine",
+     "vial",
+     "120",
+     "0"
+    ],
+    [
+     "Singapore",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ginseng",
+     "pound",
+     "5,280",
+     "0"
+    ],
+    [
+     "Matches, safety",
+     "match ton",
+     "500",
+     "0"
+    ],
+    [
+     "Menthol crystal",
+     "pound",
+     "1,500",
+     "0"
+    ],
+    [
+     "Sweden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Camphor slab",
+     "kilogram",
+     "1,000",
+     "0"
+    ],
+    [
+     "Menthol crystal",
+     "pound",
+     "2,160",
+     "0"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Agar-agar",
+     "pound",
+     "200,000",
+     "0"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Agar-agar",
+     "pound",
+     "167,500",
+     "0"
+    ],
+    [
+     "Camphor oil",
+     "pound",
+     "45,000",
+     "0"
+    ],
+    [
+     "Camphor powder",
+     "kilogram",
+     "8,000",
+     "0"
+    ],
+    [
+     "Camphor tablets",
+     "kilogram",
+     "7,000",
+     "0"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR differed on Superphosphate (Korea) 1 Jan-31 Oct, read 76,753 where I read 76,723; otherwise matched except 'Haukyu' for Ryukyu."
+  },
+  {
+   "page": 131,
+   "pages": [
+    131
+   ],
+   "title": "[Exports, United States (continued), printed page 250 top]",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "EXPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "United States (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Oil, fish liver",
+     "kilogram",
+     "98,545",
+     "0"
+    ],
+    [
+     "Safrole",
+     "pound",
+     "22,500",
+     "0"
+    ],
+    [
+     "Wax, vegetable",
+     "pound",
+     "267,900",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Includes salt from Egypt, Eritrea and Turks Island, West Indies.",
+    "c/ Diverted from military stocks."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 131,
+   "pages": [
+    131
+   ],
+   "title": "Metals and minerals: imports",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "IMPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "Canada",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Mica",
+     "metric ton",
+     "18",
+     "0"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Clay",
+     "metric ton",
+     "6,408",
+     "763"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Copper, electrolytic",
+     "metric ton",
+     "194",
+     "0"
+    ],
+    [
+     "Graphite, amorphous",
+     "metric ton",
+     "4,763",
+     "1,167"
+    ],
+    [
+     "Graphite, crystalline",
+     "metric ton",
+     "1,849",
+     "69"
+    ],
+    [
+     "Iron, pig",
+     "metric ton",
+     "7,569",
+     "0"
+    ],
+    [
+     "Kaolin",
+     "metric ton",
+     "0",
+     "96"
+    ],
+    [
+     "Lead, concentrate",
+     "metric ton",
+     "291",
+     "220"
+    ],
+    [
+     "Magnesia clinker",
+     "metric ton",
+     "5,105",
+     "0"
+    ],
+    [
+     "Mica",
+     "metric ton",
+     "31",
+     "0"
+    ],
+    [
+     "Talc",
+     "metric ton",
+     "754",
+     "0"
+    ],
+    [
+     "Tungsten, concentrate",
+     "metric ton",
+     "5",
+     "0"
+    ],
+    [
+     "Zinc, concentrate",
+     "metric ton",
+     "0",
+     "152"
+    ],
+    [
+     "Ryukyu Islands",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Phosphate rock",
+     "metric ton",
+     "7,250",
+     "0"
+    ],
+    [
+     "Singapore",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ilmenite ore",
+     "metric ton",
+     "1,463",
+     "0"
+    ],
+    [
+     "Iron, pig",
+     "metric ton",
+     "0",
+     "183"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Aluminum, scrap a/",
+     "metric ton",
+     "33 b/",
+     "18"
+    ],
+    [
+     "Cobalt oxide",
+     "metric ton",
+     "10",
+     "0"
+    ],
+    [
+     "Iron, scrap a/",
+     "metric ton",
+     "104 b/",
+     "26"
+    ],
+    [
+     "Oil, finishing",
+     "metric ton",
+     "534",
+     "222"
+    ]
+   ],
+   "footnotes": [
+    "a/ and b/ footnotes for this table are printed on page 252 (a/ Released from military stocks; b/ Revised)."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except 'Kyukyu' for Ryukyu."
+  },
+  {
+   "page": 131,
+   "pages": [
+    131
+   ],
+   "title": "Metals and minerals: imports and exports (continued), printed page 251",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "IMPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "United States (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Petroleum products c/",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Gasoline, 62 octane",
+     "barrel",
+     "50,025",
+     "-"
+    ],
+    [
+     "  Gasoline, 80 octane",
+     "gallon",
+     "290",
+     "-"
+    ],
+    [
+     "  Grease",
+     "metric ton",
+     "68",
+     "-"
+    ],
+    [
+     "  Indralatum",
+     "pound",
+     "3,200",
+     "-"
+    ],
+    [
+     "  Kerosene",
+     "barrel",
+     "61,960",
+     "-"
+    ],
+    [
+     "  Oil, fuel",
+     "barrel",
+     "1,873,614",
+     "-"
+    ],
+    [
+     "  Oil, lubricating",
+     "gallon",
+     "7,659,006",
+     "-"
+    ],
+    [
+     "  Waste, grease",
+     "pound",
+     "700",
+     "-"
+    ],
+    [
+     "  Waste, oil",
+     "barrel",
+     "3,710",
+     "-"
+    ],
+    [
+     "  Wax, paraffin",
+     "metic ton",
+     "23",
+     "-"
+    ],
+    [
+     "Phosphate rock (Angaur I.)",
+     "metric ton",
+     "141,000",
+     "3,125"
+    ],
+    [
+     "Phosphate rock (U. S.)",
+     "metric ton",
+     "881,289",
+     "16,970"
+    ],
+    [
+     "Rasorite",
+     "metric ton",
+     "3,604 b/",
+     "0"
+    ],
+    [
+     "Strontium nitrate",
+     "metric ton",
+     "12",
+     "0"
+    ],
+    [
+     "Talc",
+     "metric ton",
+     "1,090",
+     "539"
+    ],
+    [
+     "Vanadium ore",
+     "metric ton",
+     "21",
+     "0"
+    ],
+    [
+     "U. S. S. R.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Coal",
+     "metric ton",
+     "8,833",
+     "0"
+    ],
+    [
+     "Graphite",
+     "metric ton",
+     "0",
+     "4,102"
+    ],
+    [
+     "Semicoke",
+     "metric ton",
+     "4,383 b/",
+     "10,347"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Clay",
+     "metric ton",
+     "8",
+     "0"
+    ],
+    [
+     "Coal",
+     "metric ton",
+     "176",
+     "0"
+    ],
+    [
+     "France",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Antimony",
+     "metric ton",
+     "240",
+     "0"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Cement",
+     "metric ton",
+     "1,000",
+     "0"
+    ],
+    [
+     "Coal",
+     "metric ton",
+     "87,809",
+     "9,521"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Clay, refractory",
+     "metric ton",
+     "744",
+     "0"
+    ],
+    [
+     "Coal",
+     "metric ton",
+     "559,927",
+     "55,339"
+    ],
+    [
+     "Iron",
+     "kilogram",
+     "5",
+     "0"
+    ],
+    [
+     "Mercury",
+     "kilogram",
+     "2,313",
+     "0"
+    ],
+    [
+     "Oil, telebene",
+     "kilogram",
+     "240",
+     "0"
+    ],
+    [
+     "Petroleum products",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Grease",
+     "kilogram",
+     "90",
+     "0"
+    ],
+    [
+     "  Oil",
+     "kilogram",
+     "6,080",
+     "0"
+    ],
+    [
+     "  Oil",
+     "liter",
+     "560",
+     "0"
+    ],
+    [
+     "Phosphor bronze",
+     "kilogram",
+     "144",
+     "0"
+    ],
+    [
+     "Steel, strip",
+     "roll",
+     "30",
+     "0"
+    ],
+    [
+     "Zeolite",
+     "kilogram",
+     "7,500",
+     "0"
+    ],
+    [
+     "Zinc",
+     "kilogram",
+     "3",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "b/ and c/ footnotes printed on page 252 (b/ Revised; c/ Receipts through 31 August)."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR differed: Oil, fuel 1 Jan-31 Oct read 1,373,614 (I read 1,873,614); Phosphate rock (Angaur I.) November read 3,135 (I read 3,125); Semicoke read 4,385 (I read 4,383); Korea Oil kilogram read 6,030 (I read 6,080); other cells matched. Printed unit 'metic ton' for Wax, paraffin kept as printed."
+  },
+  {
+   "page": 132,
+   "pages": [
+    132
+   ],
+   "title": "[Exports, Singapore to United States, printed page 252 top]",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "EXPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "Singapore",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Aluminum sulfate",
+     "metric ton",
+     "5",
+     "0"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Coal, bunker",
+     "metric ton",
+     "7,231",
+     "0"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Cobalt metal",
+     "metric ton",
+     "60",
+     "0"
+    ],
+    [
+     "Copper",
+     "metric ton",
+     "200",
+     "0"
+    ],
+    [
+     "Lead",
+     "metric ton",
+     "5,001",
+     "0"
+    ],
+    [
+     "Mercury",
+     "metric ton",
+     "100",
+     "0"
+    ],
+    [
+     "Zinc slab",
+     "metric ton",
+     "11,600",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Released from military stocks.",
+    "b/ Revised.",
+    "c/ Receipts through 31 August."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 132,
+   "pages": [
+    132
+   ],
+   "title": "Wood and paper: imports and exports",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "IMPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "Sweden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Pulp, sulfite",
+     "metric ton",
+     "0",
+     "997"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, scrap",
+     "pound",
+     "200",
+     "0"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Lumber, scrap",
+     "metric ton",
+     "151 a/",
+     "93 b/"
+    ],
+    [
+     "Paper, barrier, waterproof",
+     "metric ton",
+     "1,834",
+     "- c/"
+    ],
+    [
+     "Paper, wrapping",
+     "metric ton",
+     "145",
+     "- c/"
+    ],
+    [
+     "U. S. S. R.",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, kraft",
+     "metric ton",
+     "0",
+     "1,544"
+    ],
+    [
+     "Pulp, sulfite",
+     "metric ton",
+     "0",
+     "2,396"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, cigarette",
+     "metric ton",
+     "256",
+     "4"
+    ],
+    [
+     "Paper, newsprint",
+     "metric ton",
+     "2,883",
+     "0"
+    ],
+    [
+     "Paper, simili",
+     "ream",
+     "0",
+     "837"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised. b/ Diverted from military stocks. c/ Less than 0.5 metric ton. (Footnote texts printed on page 254; the 'a/ b/ c/' list on page 252 itself belongs to the preceding table.)"
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 132,
+   "pages": [
+    132
+   ],
+   "title": "Wood and paper: exports (continued), printed page 253",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "EXPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "China (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Poles, telephone",
+     "each",
+     "5,255",
+     "12,108"
+    ],
+    [
+     "Sleepers, railway",
+     "each",
+     "346,370",
+     "1,000"
+    ],
+    [
+     "Timber, mining",
+     "cubic foot",
+     "6,554,993",
+     "0"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, cigarette",
+     "metric ton",
+     "41",
+     "0"
+    ],
+    [
+     "Paper, photographic",
+     "gross",
+     "300",
+     "0"
+    ],
+    [
+     "Wood shavings for match boxes",
+     "set",
+     "12,000,000",
+     "0"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bamboo",
+     "bundle",
+     "673,534",
+     "0"
+    ],
+    [
+     "Bamboo",
+     "piece",
+     "129,875",
+     "0"
+    ],
+    [
+     "Cardboard",
+     "sheet",
+     "50,000",
+     "0"
+    ],
+    [
+     "Cartons, cigarette",
+     "box",
+     "4,600,000",
+     "0"
+    ],
+    [
+     "Firewood",
+     "metric ton",
+     "2,473",
+     "0"
+    ],
+    [
+     "Lumber",
+     "piece",
+     "5,013",
+     "0"
+    ],
+    [
+     "Paper",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Banknote",
+     "ream",
+     "23,761",
+     "0"
+    ],
+    [
+     "  Cigarette",
+     "metric ton",
+     "34",
+     "0"
+    ],
+    [
+     "  Flooring",
+     "sheet",
+     "735,000",
+     "0"
+    ],
+    [
+     "  Newsprint",
+     "metric ton",
+     "163",
+     "0"
+    ],
+    [
+     "  Postage stamp",
+     "sheet",
+     "776,000",
+     "0"
+    ],
+    [
+     "  Printing",
+     "ream",
+     "500",
+     "0"
+    ],
+    [
+     "  Stencil",
+     "sheet",
+     "10,000",
+     "0"
+    ],
+    [
+     "Poles, telephone",
+     "each",
+     "72,749",
+     "5,360"
+    ],
+    [
+     "Sleepers, railway",
+     "each",
+     "284,768 a/",
+     "0"
+    ],
+    [
+     "Netherlands East Indies",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, cigarette",
+     "metric ton",
+     "107",
+     "0"
+    ],
+    [
+     "Ryukyu Islands",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, blueprint",
+     "pound",
+     "90",
+     "0"
+    ],
+    [
+     "Paper, copying",
+     "ream",
+     "56",
+     "0"
+    ],
+    [
+     "Stationery",
+     "piece",
+     "652",
+     "0"
+    ],
+    [
+     "Sweden",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, Tengujo",
+     "ream",
+     "0",
+     "3,000"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Paper, Tengujo",
+     "ream",
+     "5,500",
+     "0"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bamboo poles",
+     "each",
+     "196,215",
+     "0"
+    ],
+    [
+     "Bamboo rakes",
+     "each",
+     "246,700",
+     "0"
+    ],
+    [
+     "Bamboo stakes",
+     "piece",
+     "0",
+     "1,000,000"
+    ],
+    [
+     "Bamboo table sets",
+     "set",
+     "250",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised (per footnote list on page 254)."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read 'Banboo' for Bamboo, 'Burkina Islands' for Ryukyu Islands and Timber, mining as 6,504,993 (I read 6,554,993); other digits matched."
+  },
+  {
+   "page": 133,
+   "pages": [
+    133
+   ],
+   "title": "[Exports, United States (continued), printed page 254 top]",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "EXPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "United States (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Baskets, picnic, willow",
+     "nest of 3",
+     "576",
+     "0"
+    ],
+    [
+     "Confetti",
+     "tube",
+     "50,000",
+     "0"
+    ],
+    [
+     "Paper, copying",
+     "roll",
+     "1,650",
+     "0"
+    ],
+    [
+     "Paper, Tengujo",
+     "ream",
+     "27,950",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Diverted from military stocks",
+    "c/ Less than 0.5 metric ton."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Paper, Tengujo as 37,950 (I read 27,950); otherwise matched."
+  },
+  {
+   "page": 133,
+   "pages": [
+    133
+   ],
+   "title": "Miscellaneous: imports",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "IMPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "Guam",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Shells",
+     "metric ton",
+     "85",
+     "0"
+    ],
+    [
+     "Netherlands East Indies",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Rubber, crude",
+     "metric ton",
+     "2,132 a/",
+     "1,267"
+    ],
+    [
+     "Ryukyu Islands",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Seedlings, sugar cane",
+     "metric ton",
+     "45",
+     "0"
+    ],
+    [
+     "Shells",
+     "metric ton",
+     "39",
+     "100"
+    ],
+    [
+     "Singapore",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Latex",
+     "metric ton",
+     "207",
+     "52"
+    ],
+    [
+     "Rubber, crude",
+     "metric ton",
+     "9,466",
+     "1,827"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Boots and shoes b/",
+     "pair",
+     "22,967",
+     "8,600"
+    ],
+    [
+     "Cans, 5 gallon",
+     "each",
+     "10,265",
+     "0"
+    ],
+    [
+     "Cigarettes",
+     "each",
+     "2,467,520",
+     "0"
+    ],
+    [
+     "Drums, fuel",
+     "each",
+     "8,601",
+     "0"
+    ],
+    [
+     "Offal, sheep",
+     "metric ton",
+     "12",
+     "7 b/"
+    ],
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Agricultural supplies",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Dairy feed",
+     "metric ton",
+     "5",
+     "0"
+    ],
+    [
+     "  Hay",
+     "metric ton",
+     "8",
+     "0"
+    ],
+    [
+     "  Livestock, bulls",
+     "each",
+     "25",
+     "0"
+    ],
+    [
+     "  Seed potatoes",
+     "metric ton",
+     "996",
+     "0"
+    ],
+    [
+     "  Seeds, vegetable",
+     "metric ton",
+     "1,446 a/",
+     "0"
+    ],
+    [
+     "Cabinets, field range",
+     "each",
+     "8",
+     "0"
+    ],
+    [
+     "Cans, 5 gallon",
+     "each",
+     "736",
+     "0"
+    ],
+    [
+     "Cans, scrap",
+     "each",
+     "0",
+     "19,413 b/"
+    ],
+    [
+     "Caskets, metal",
+     "each",
+     "28",
+     "0"
+    ],
+    [
+     "Chests, mess officers",
+     "each",
+     "64",
+     "0"
+    ],
+    [
+     "Cigarettes",
+     "carton",
+     "227,585",
+     "860,973"
+    ],
+    [
+     "Cigars",
+     "each",
+     "1,472,277",
+     "25,000"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised. b/ Diverted from military stocks (per footnotes on page 256)."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Cans, 5 gallon (US) as 756 (I read 736); 'Rouky' for Ryukyu; other cells matched."
+  },
+  {
+   "page": 133,
+   "pages": [
+    133
+   ],
+   "title": "Miscellaneous: imports and exports (continued), printed page 255",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "IMPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "United States (continued)",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Desks",
+     "each",
+     "1,688",
+     "0"
+    ],
+    [
+     "Drums, fuel",
+     "each",
+     "4,000",
+     "0"
+    ],
+    [
+     "Dubbin, 4-ounce cans",
+     "can",
+     "129,000",
+     "0"
+    ],
+    [
+     "Floats, lifesaving",
+     "each",
+     "486",
+     "0"
+    ],
+    [
+     "Life preservers",
+     "each",
+     "13,172",
+     "0"
+    ],
+    [
+     "Liners, helmet",
+     "each",
+     "4,500",
+     "0"
+    ],
+    [
+     "Mattresses",
+     "each",
+     "5,080",
+     "0"
+    ],
+    [
+     "Pillows",
+     "each",
+     "2,686",
+     "0"
+    ],
+    [
+     "Rafts, lifesaving",
+     "each",
+     "77",
+     "0"
+    ],
+    [
+     "Rubber, scrap",
+     "metric ton",
+     "23",
+     "0"
+    ],
+    [
+     "Sandbags",
+     "metric ton",
+     "209",
+     "0"
+    ],
+    [
+     "Shoes and boots b/",
+     "pair",
+     "53,526 a/",
+     "100,717"
+    ],
+    [
+     "Tanks, 750 gallon",
+     "each",
+     "4",
+     "0"
+    ],
+    [
+     "Tent walls",
+     "each",
+     "500",
+     "0"
+    ],
+    [
+     "Tires, scrap",
+     "metric ton",
+     "720",
+     "104 b/"
+    ],
+    [
+     "Tires and tubes, scrap",
+     "each",
+     "825",
+     "0"
+    ],
+    [
+     "Tobacco",
+     "dozen packages",
+     "168,629",
+     "263,948"
+    ],
+    [
+     "Tubes, scrap",
+     "metric ton",
+     "119",
+     "28 b/"
+    ],
+    [
+     "Miscellaneous scrap",
+     "metric ton",
+     "1,120 a/",
+     "0"
+    ],
+    [
+     "EXPORTS",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Canada",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Leaf, metal",
+     "sheet",
+     "175,000",
+     "0"
+    ],
+    [
+     "Seeds, yew",
+     "pound",
+     "150",
+     "0"
+    ],
+    [
+     "China",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Seeds, flax",
+     "kilogram",
+     "3,900",
+     "0"
+    ],
+    [
+     "Egypt",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tobacco, leaf",
+     "metric ton",
+     "20",
+     "0"
+    ],
+    [
+     "Hongkong",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sponges, loofah",
+     "piece",
+     "10,000",
+     "0"
+    ],
+    [
+     "Korea",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Horses, riding",
+     "head",
+     "50",
+     "0"
+    ],
+    [
+     "Ink, printing",
+     "kilogram",
+     "14,250",
+     "0"
+    ],
+    [
+     "Oil, printing",
+     "kilogram",
+     "6,080",
+     "0"
+    ],
+    [
+     "Seeds, vegetable",
+     "metric ton",
+     "71",
+     "0"
+    ],
+    [
+     "Ryukyu Islands",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Chicks, baby",
+     "each",
+     "20,000",
+     "0"
+    ],
+    [
+     "Greenhouses",
+     "set",
+     "2",
+     "0"
+    ],
+    [
+     "Seeds, vegetable",
+     "metric ton",
+     "0",
+     "24"
+    ],
+    [
+     "United Kingdom",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Seeds, larch",
+     "pound",
+     "1,000",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised. b/ Diverted from military stocks (per footnotes on page 256)."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Sandbags as 'Seedbags'; other cells matched."
+  },
+  {
+   "page": 134,
+   "pages": [
+    134
+   ],
+   "title": "[Miscellaneous exports, United States, printed page 256]",
+   "units": "as given in Unit column",
+   "period": "1 January-31 October 1947 and November 1947",
+   "source_note": "",
+   "header": [
+    [
+     "EXPORTS",
+     "Unit",
+     "1 January-31 October",
+     "November"
+    ]
+   ],
+   "rows": [
+    [
+     "United States",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Bulbs",
+     "piece",
+     "0",
+     "97,290"
+    ],
+    [
+     "Hat bodies",
+     "dozen",
+     "2",
+     "1,000"
+    ],
+    [
+     "Leaf, metal",
+     "sheet",
+     "650,000",
+     "0"
+    ],
+    [
+     "Magazines",
+     "each",
+     "0",
+     "15,990"
+    ],
+    [
+     "Seed oysters, broken",
+     "metric ton",
+     "1,355",
+     "0"
+    ],
+    [
+     "Seed oysters, unbroken",
+     "metric ton",
+     "1,425",
+     "0"
+    ],
+    [
+     "Seeds, vegetable",
+     "pound",
+     "0",
+     "4,180"
+    ],
+    [
+     "Seeds, yew",
+     "pound",
+     "325",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Diverted from military stocks."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 138,
+   "pages": [
+    138
+   ],
+   "title": "Distribution of textiles to wholesalers, October",
+   "units": "as stated per row",
+   "period": "October 1947",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "Item",
+     "Quantity"
+    ]
+   ],
+   "rows": [
+    [
+     "Hard and bast fiber products",
+     "14,580 square yards"
+    ],
+    [
+     "Adults' foreign-style clothing",
+     "31,927 pieces"
+    ],
+    [
+     "School uniforms",
+     "12,580"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except 'best' for 'bast'."
+  },
+  {
+   "page": 138,
+   "pages": [
+    138
+   ],
+   "title": "Textile wholesale price changes, October",
+   "units": "yen",
+   "period": "October (previous prices dated as shown; revised price for Long felt November 1947)",
+   "source_note": "Price Board.",
+   "header": [
+    [
+     "Commodity",
+     "Unit",
+     "Average 1934-1936 Price",
+     "Old Price",
+     "Dates of Previous Price",
+     "Revised Price"
+    ]
+   ],
+   "rows": [
+    [
+     "Silk homespun suiting",
+     "30\" x 1 yd",
+     "7.50",
+     "69.50",
+     "Mar 46",
+     "303.40"
+    ],
+    [
+     "Cloth for tabi soles",
+     "22.5\" x 24 yd",
+     "9.24",
+     "178.11",
+     "Oct 46",
+     "612.77"
+    ],
+    [
+     "Cotton yarn for sewing thread",
+     "1 doz",
+     "1.21",
+     "12.72",
+     "Jun 46",
+     "70.00"
+    ],
+    [
+     "Sewing thread",
+     "60/6 200 yd",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Cotton",
+     "0.66 oz",
+     ".06",
+     ".77",
+     "Jun 46",
+     "4.10"
+    ],
+    [
+     "  Silk",
+     "0.13 oz",
+     ".125",
+     "1.76",
+     "Jun 46",
+     "9.13"
+    ],
+    [
+     "Garabo cotton yarn, No. 5 single a/",
+     "10 kan b/",
+     "36.05",
+     "560.00",
+     "May 46",
+     "2,053.00"
+    ],
+    [
+     "Long felt",
+     "1 sq m x 1 mm",
+     "2.00",
+     "17.33",
+     "Jun 47",
+     "68.76 c/"
+    ]
+   ],
+   "footnotes": [
+    "a/ For Garabo homespun, used for work clothes.",
+    "b/ 1 kan equals 8.27 pounds.",
+    "c/ November 1947."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except '1 sq m x 1 mn' for '1 mm'. Blank cells on the 'Sewing thread' heading row are blank in the original."
+  },
+  {
+   "page": 138,
+   "pages": [
+    138
+   ],
+   "title": "Rent index, August 1946 - March 1947=100",
+   "units": "index, August 1946-March 1947=100",
+   "period": "August 1946 - October 1947",
+   "source_note": "Bureau of Statistics.",
+   "header": [
+    [
+     "1946",
+     "All Urban",
+     "Tokyo",
+     "Osaka"
+    ]
+   ],
+   "rows": [
+    [
+     "August",
+     "89.7",
+     "96.4",
+     "99.4"
+    ],
+    [
+     "September",
+     "95.0",
+     "96.4",
+     "99.4"
+    ],
+    [
+     "October",
+     "97.2",
+     "98.3",
+     "99.4"
+    ],
+    [
+     "November",
+     "97.2",
+     "98.3",
+     "99.5"
+    ],
+    [
+     "December",
+     "103.0",
+     "98.3",
+     "99.4"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     ""
+    ],
+    [
+     "January",
+     "104.1",
+     "101.2",
+     "99.4"
+    ],
+    [
+     "February",
+     "106.0",
+     "104.1",
+     "100.9"
+    ],
+    [
+     "March",
+     "107.8",
+     "106.9",
+     "102.5"
+    ],
+    [
+     "April",
+     "109.7",
+     "109.9",
+     "104.1"
+    ],
+    [
+     "May",
+     "111.8",
+     "111.7",
+     "107.0"
+    ],
+    [
+     "June",
+     "114.0",
+     "113.5",
+     "110.0"
+    ],
+    [
+     "July",
+     "110.1",
+     "115.4",
+     "112.9"
+    ],
+    [
+     "August",
+     "117.7",
+     "118.2",
+     "115.4"
+    ],
+    [
+     "September a/",
+     "141.6",
+     "144.4",
+     "134.4"
+    ],
+    [
+     "October",
+     "160.1",
+     "165.3",
+     "147.3"
+    ]
+   ],
+   "footnotes": [
+    "a/ On 1 September rents were set at two and one-half times those of 1938"
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched. Row '1947' is a sub-heading with blank cells; blank in the original. The first column header '1946' is the printed header."
+  },
+  {
+   "page": 139,
+   "pages": [
+    139
+   ],
+   "title": "Miscellaneous consumers' goods price changes",
+   "units": "yen",
+   "period": "Dates of new prices 24 Nov, 3 Dec, 8 Dec 1947",
+   "source_note": "Price Board.",
+   "header": [
+    [
+     "Item",
+     "Base Period (1934-36) Price",
+     "Previous Price",
+     "Date of New Price",
+     "Revised Price"
+    ]
+   ],
+   "rows": [
+    [
+     "\"Jimmie\" motorcycle a/",
+     "(new product)",
+     "",
+     "24 Nov",
+     "31,481.00"
+    ],
+    [
+     "European-style umbrellas b/",
+     "7.50",
+     "108.10",
+     "3 Dec",
+     "563.90"
+    ],
+    [
+     "Storage batteries, type AR 5-6",
+     "17.00",
+     "920.00",
+     "8 Dec",
+     "1,012.00"
+    ]
+   ],
+   "footnotes": [
+    "a/ Two cycles, one cylinder, 3.1 horsepower.",
+    "b/ No. 1 pure silk, 68 centimeters, 8 ribs."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched. The Previous Price cell for the motorcycle is blank in the original ('(new product)' spans the base and previous price columns)."
+  }
+ ]
+}

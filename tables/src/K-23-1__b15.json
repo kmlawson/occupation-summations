@@ -1,0 +1,10 @@
+{"tables": [
+  {"page": 215, "pages": [214, 215], "title": "Missionaries in South Korea, 30 August",
+   "units": "number of missionaries", "period": "30 August (1947)", "source_note": "Office of Foreign Affairs.",
+   "header": [["Denomination", "Number"]],
+   "rows": [["Presbyterian (U. S. A.)", "39"], ["Methodist", "29"], ["Seventh-day Adventist", "11"], ["Roman Catholic (Maryknoll)", "7"], ["United Church of Canada", "5"], ["Salvation Army", "5"], ["Church of England", "4"], ["Presbyterian (Australia)", "3"], ["Irish Catholic", "2"], ["Oriental Missionary Society", "1"], ["Orthodox Presbyterian", "1"], ["Church of Christ", "1"], ["Catholic Mission (Australia)", "1"], ["Total", "109"]],
+   "footnotes": [], "unreadable": [],
+   "totals_check": "Sum of 13 denominations: 39+29+11+7+5+5+4+3+2+1+1+1+1 = 109; printed total 109; agree.",
+   "warnings": [],
+   "ocr_check": "OCR on page 215 matched for its rows; the first five rows and the title are on page 214 (printed p. 209), which I read from the image."}
+]}

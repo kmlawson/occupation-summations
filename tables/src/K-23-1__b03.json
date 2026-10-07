@@ -1,0 +1,1433 @@
+{
+ "tables": [
+  {
+   "page": 35,
+   "pages": [
+    35
+   ],
+   "title": "[Planting and maturing dates of crops in South Korea, spring and fall crops, northern (N) and southern (S) provinces]",
+   "units": "dates (day and month)",
+   "period": "",
+   "source_note": "SOURCE: Department of Agriculture.",
+   "header": [
+    [
+     "Crop",
+     "Region a/",
+     "Spring",
+     "Spring",
+     "Spring",
+     "Spring",
+     "Fall",
+     "Fall",
+     "Fall",
+     "Fall"
+    ],
+    [
+     "Crop",
+     "Region a/",
+     "Planting",
+     "Planting",
+     "Maturing",
+     "Maturing",
+     "Planting",
+     "Planting",
+     "Maturing",
+     "Maturing"
+    ],
+    [
+     "Crop",
+     "Region a/",
+     "From",
+     "To",
+     "From",
+     "To",
+     "From",
+     "To",
+     "From",
+     "To"
+    ]
+   ],
+   "rows": [
+    [
+     "Red bean",
+     "N",
+     "10 Jun",
+     "20 Jun",
+     "",
+     "30 Sep",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 May",
+     "30 Jun",
+     "",
+     "10 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Soybean",
+     "N",
+     "10 May",
+     "20 May",
+     "10 Oct",
+     "20 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 May",
+     "10 Jun",
+     "10 Oct",
+     "20 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Other bean",
+     "N",
+     "10 May",
+     "20 May",
+     "",
+     "Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 May",
+     "10 Jun",
+     "",
+     "Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Buck-wheat",
+     "N",
+     "10 Jun",
+     "30 Jun",
+     "10 Oct",
+     "20 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 Jul",
+     "30 Jul",
+     "10 Oct",
+     "30 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Corn",
+     "N",
+     "10 May",
+     "20 May",
+     "",
+     "10 Sep",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "10 May",
+     "10 Jun",
+     "",
+     "20 Aug",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Millet",
+     "N",
+     "20 May",
+     "30 May",
+     "",
+     "10 Sep",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "10 May",
+     "30 May",
+     "",
+     "10 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Great millet",
+     "N",
+     "30 Apr",
+     "10 May",
+     "",
+     "20 Sep",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "10 May",
+     "20 May",
+     "",
+     "10 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Italian millet",
+     "N",
+     "20 Apr",
+     "10 May",
+     "",
+     "20 Sep",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "10 May",
+     "10 Jun",
+     "",
+     "10 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sawa millet",
+     "N",
+     "20 May",
+     "30 May",
+     "",
+     "30 Aug",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "10 May",
+     "30 May",
+     "",
+     "30 Sep",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Oats",
+     "N",
+     "10 May",
+     "30 May",
+     "30 Jul",
+     "10 Aug",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "",
+     "",
+     "",
+     "",
+     "10 Aug",
+     "30 Aug",
+     "30 Jun",
+     "10 Jul"
+    ],
+    [
+     "Peanut",
+     "N",
+     "30 May",
+     "",
+     "",
+     "30 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "10 May",
+     "30 May",
+     "",
+     "20 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Peas",
+     "N",
+     "10 Mar",
+     "10 Apr",
+     "",
+     "Aug",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "10 Mar",
+     "10 Apr",
+     "",
+     "Aug",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Irish potato",
+     "N",
+     "30 Mar",
+     "10 Apr",
+     "",
+     "10 Jul",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 Mar",
+     "30 Mar",
+     "Jun",
+     "Jul",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sweet potato",
+     "N",
+     "30 May",
+     "30 Jun",
+     "",
+     "20 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 May",
+     "20 Jun",
+     "",
+     "10 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Rye",
+     "N",
+     "20 Mar",
+     "30 Apr",
+     "",
+     "Jun",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "",
+     "",
+     "",
+     "",
+     "20 Sep",
+     "20 Oct",
+     "",
+     "Jul"
+    ],
+    [
+     "Wheat",
+     "N",
+     "30 Apr",
+     "10 May",
+     "",
+     "Jun",
+     "20 Sep",
+     "30 Sep",
+     "",
+     "May"
+    ],
+    [
+     "",
+     "S",
+     "",
+     "",
+     "",
+     "",
+     "1 Oct",
+     "30 Oct",
+     "",
+     "Jun"
+    ],
+    [
+     "Rice seed-bed",
+     "N",
+     "15 Apr",
+     "30 Apr",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 Apr",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 Apr",
+     "5 May",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Rice trans-plant",
+     "N",
+     "30 May",
+     "30 Jun",
+     "",
+     "30 Sep",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "5 Jun",
+     "5 Jul",
+     "",
+     "15 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Rice up-land",
+     "N",
+     "30 Mar",
+     "10 Apr",
+     "20 Sep",
+     "10 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "",
+     "S",
+     "20 Mar",
+     "10 Apr",
+     "",
+     "20 Oct",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Barley",
+     "N",
+     "21 Mar",
+     "30 Mar",
+     "25 Jun",
+     "30 Jun",
+     "15 Oct",
+     "20 Oct",
+     "",
+     "Jun"
+    ],
+    [
+     "",
+     "S",
+     "15 Mar",
+     "20 Mar",
+     "20 Jun",
+     "25 Jun",
+     "15 Oct",
+     "25 Oct",
+     "",
+     "Jun"
+    ],
+    [
+     "Naked barley",
+     "N",
+     "21 Mar",
+     "30 Mar",
+     "25 Jun",
+     "30 Jun",
+     "15 Oct",
+     "20 Oct",
+     "",
+     "Jun"
+    ],
+    [
+     "",
+     "S",
+     "15 Mar",
+     "20 Mar",
+     "20 Jun",
+     "25 Jun",
+     "15 Oct",
+     "25 Oct",
+     "",
+     "Jun"
+    ]
+   ],
+   "footnotes": [
+    "a/ N means the northern provinces of South Korea -- Kangwon-do, Kyonggi-do and parts of those bordering on the south of these two; S means the southern provinces of South Korea."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image; it listed Rice seed-bed S twice, and the page does print two S lines (one with only 20 Apr, one with 20 Apr and 5 May), both kept. Blank cells are blank in the original; Region 'a/' footnote mark is not printed on the page but the footnote is, so it is attached to the Region column."
+  },
+  {
+   "page": 36,
+   "pages": [
+    36
+   ],
+   "title": "Production of flour in two MG controlled factories in South Korea, January 1946 - July 1947",
+   "units": "metric tons",
+   "period": "January 1946 - July 1947",
+   "source_note": "SOURCE: Department of Commerce, Processed Food Section.",
+   "header": [
+    [
+     "Year and Month",
+     "Amount Produced"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     ""
+    ],
+    [
+     "January",
+     "275.1"
+    ],
+    [
+     "February",
+     "426.6"
+    ],
+    [
+     "March",
+     "577.0"
+    ],
+    [
+     "April",
+     "346.2"
+    ],
+    [
+     "May",
+     "785.8"
+    ],
+    [
+     "June",
+     "2,683.2"
+    ],
+    [
+     "July",
+     "3,017.7"
+    ],
+    [
+     "August",
+     "3,457.7"
+    ],
+    [
+     "September",
+     "2,576.3"
+    ],
+    [
+     "October",
+     "2,648.5"
+    ],
+    [
+     "November",
+     "3,160.1"
+    ],
+    [
+     "December",
+     "2,082.0"
+    ],
+    [
+     "Annual total",
+     "22,036.2"
+    ],
+    [
+     "Monthly average",
+     "1,836.3"
+    ],
+    [
+     "1947",
+     ""
+    ],
+    [
+     "January",
+     "2,170.8"
+    ],
+    [
+     "February",
+     "1,925.3"
+    ],
+    [
+     "March",
+     "2,599.5"
+    ],
+    [
+     "April",
+     "2,424.0"
+    ],
+    [
+     "May",
+     "820.3"
+    ],
+    [
+     "June",
+     "2,381.1"
+    ],
+    [
+     "July",
+     "1,392.2"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Sum of the twelve 1946 months = 22,036.2; printed annual total 22,036.2; agree. Monthly average 22,036.2/12 = 1,836.35; printed 1,836.3; agrees to rounding.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 37,
+   "pages": [
+    37
+   ],
+   "title": "Production of noodles in six factories in South Korea, January 1946 - July 1947",
+   "units": "metric tons",
+   "period": "January 1946 - July 1947",
+   "source_note": "SOURCE: Department of Commerce, Processed Food Section.",
+   "header": [
+    [
+     "Year and Month",
+     "Amount Produced"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     ""
+    ],
+    [
+     "January",
+     "0"
+    ],
+    [
+     "February",
+     "0"
+    ],
+    [
+     "March",
+     "0"
+    ],
+    [
+     "April",
+     "126.2"
+    ],
+    [
+     "May",
+     "156.1"
+    ],
+    [
+     "June",
+     "121.5"
+    ],
+    [
+     "July",
+     "187.1"
+    ],
+    [
+     "August",
+     "157.3"
+    ],
+    [
+     "September",
+     "167.1"
+    ],
+    [
+     "October",
+     "397.0"
+    ],
+    [
+     "November",
+     "120.6"
+    ],
+    [
+     "December",
+     "51.1 a/"
+    ],
+    [
+     "Annual total",
+     "1,484.4"
+    ],
+    [
+     "Monthly average",
+     "123.7"
+    ],
+    [
+     "1947",
+     ""
+    ],
+    [
+     "January",
+     "206.9"
+    ],
+    [
+     "February",
+     "367.5"
+    ],
+    [
+     "March",
+     "391.2"
+    ],
+    [
+     "April",
+     "511.5"
+    ],
+    [
+     "May",
+     "422.6"
+    ],
+    [
+     "June",
+     "382.3"
+    ],
+    [
+     "July",
+     "226.3"
+    ]
+   ],
+   "footnotes": [
+    "a/ Production drop due to cold weather and shortage of raw materials."
+   ],
+   "unreadable": [],
+   "totals_check": "Sum of the twelve 1946 months = 1,484.0; printed annual total 1,484.4; DISAGREE by 0.4. Monthly average: 1,484.4/12 = 123.7 and 1,484.0/12 = 123.67; printed 123.7 agrees either way.",
+   "warnings": [
+    "1946 annual total printed 1,484.4 but the months sum to 1,484.0 (difference 0.4)."
+   ],
+   "ocr_check": "OCR matched the image. The page also has a bar chart of flour and noodle production with no printed figures; not transcribed."
+  },
+  {
+   "page": 38,
+   "pages": [
+    38
+   ],
+   "title": "Production of soy sauce in South Korea, March - July 1947",
+   "units": "kwan and suk (see footnote a/)",
+   "period": "March - July 1947",
+   "source_note": "SOURCE: Division of the Census.",
+   "header": [
+    [
+     "Month",
+     "Number of Companies Reporting",
+     "Production a/",
+     "Production a/"
+    ],
+    [
+     "Month",
+     "Number of Companies Reporting",
+     "Kwan",
+     "Suk"
+    ]
+   ],
+   "rows": [
+    [
+     "March",
+     "182",
+     "10,394",
+     "37,029"
+    ],
+    [
+     "April",
+     "46",
+     "6,452",
+     "130,616"
+    ],
+    [
+     "May",
+     "43",
+     "16,942",
+     "8,892"
+    ],
+    [
+     "June",
+     "40",
+     "36,858",
+     "4,547"
+    ],
+    [
+     "July b/",
+     "10",
+     "9,232",
+     "8,378"
+    ]
+   ],
+   "footnotes": [
+    "a/ The two units are mutually exclusive, 1 kwan equals 8.269 pounds; 1 suk equals 47.6 gallons.",
+    "b/ Preliminary."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 39,
+   "pages": [
+    39
+   ],
+   "title": "Production of salt in government and private salterns of South Korea, April 1946 - July 1947 a/",
+   "units": "not printed on the table",
+   "period": "April 1946 - July 1947",
+   "source_note": "SOURCE: Department of Finance, Monopoly Bureau.",
+   "header": [
+    [
+     "Year and Month",
+     "Total",
+     "Government Produced Salt",
+     "Privately Produced Salt"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     "",
+     "",
+     ""
+    ],
+    [
+     "April b/",
+     "10,003",
+     "10,003",
+     "0"
+    ],
+    [
+     "May",
+     "20,720",
+     "20,629",
+     "91"
+    ],
+    [
+     "June",
+     "15,081",
+     "14,700",
+     "381"
+    ],
+    [
+     "July",
+     "9,964",
+     "9,888",
+     "76"
+    ],
+    [
+     "August",
+     "13,831",
+     "13,399",
+     "432"
+    ],
+    [
+     "September",
+     "6,693",
+     "6,109",
+     "584"
+    ],
+    [
+     "October",
+     "2,324",
+     "1,389",
+     "935"
+    ],
+    [
+     "November",
+     "1,904",
+     "993",
+     "911"
+    ],
+    [
+     "December",
+     "347",
+     "0",
+     "347"
+    ],
+    [
+     "Total",
+     "80,866",
+     "77,110",
+     "3,756"
+    ],
+    [
+     "Monthly average",
+     "6,739",
+     "6,426",
+     "313"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     ""
+    ],
+    [
+     "January",
+     "212",
+     "0",
+     "212"
+    ],
+    [
+     "February",
+     "72",
+     "0",
+     "72"
+    ],
+    [
+     "March",
+     "250",
+     "0",
+     "250"
+    ],
+    [
+     "April",
+     "6,391",
+     "6,018",
+     "373"
+    ],
+    [
+     "May",
+     "32,207",
+     "32,110",
+     "97"
+    ],
+    [
+     "June",
+     "20,361",
+     "18,413",
+     "1,948"
+    ],
+    [
+     "July",
+     "1,039",
+     "520",
+     "519"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ No production in government salterns between August 1945-March 1946. Data for private salterns during that period not available."
+   ],
+   "unreadable": [],
+   "totals_check": "1946 April-December: Total column sums to 80,867 vs printed 80,866 (DISAGREE by 1); Government column sums to 77,110 vs printed 77,110 (agree); Private column sums to 3,757 vs printed 3,756 (DISAGREE by 1). Each row's Government + Private equals its Total. Monthly averages are the totals divided by 12 (80,866/12 = 6,739; 77,110/12 = 6,426; 3,756/12 = 313), agree.",
+   "warnings": [
+    "1946 Total column: months sum to 80,867, printed 80,866.",
+    "1946 Private column: months sum to 3,757, printed 3,756."
+   ],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 40,
+   "pages": [
+    40
+   ],
+   "title": "Imports of salt by private traders and under Emergency Civilian Supply Program, January 1946 - July 1947",
+   "units": "metric tons",
+   "period": "January 1946 - July 1947",
+   "source_note": "SOURCE: Department of Finance, Monopoly Bureau.",
+   "header": [
+    [
+     "Year and Month",
+     "Total",
+     "Private",
+     "USOCS"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     "",
+     "",
+     ""
+    ],
+    [
+     "January",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "February",
+     "12.4 a/",
+     "12.4",
+     "0"
+    ],
+    [
+     "March",
+     "166.2 a/",
+     "166.2",
+     "0"
+    ],
+    [
+     "April",
+     "0 a/",
+     "0",
+     "0"
+    ],
+    [
+     "May",
+     "3,854.3",
+     "135.9",
+     "3,718.4"
+    ],
+    [
+     "June",
+     "227.5",
+     "227.5",
+     "0"
+    ],
+    [
+     "July",
+     "67.3",
+     "67.3",
+     "0"
+    ],
+    [
+     "August",
+     "177.1",
+     "177.1",
+     "0"
+    ],
+    [
+     "September",
+     "346.1",
+     "346.1",
+     "0"
+    ],
+    [
+     "October",
+     "3,480.3",
+     "74.3",
+     "3,406.0"
+    ],
+    [
+     "November",
+     "52.6",
+     "52.6",
+     "0"
+    ],
+    [
+     "December",
+     "3,503.7",
+     "244.7",
+     "3,259.0"
+    ],
+    [
+     "Total",
+     "11,887.5",
+     "1,504.0",
+     "10,383.5"
+    ],
+    [
+     "Monthly average",
+     "990.6",
+     "125.3",
+     "865.3"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     ""
+    ],
+    [
+     "January",
+     "3,437.8",
+     "51.8",
+     "3,386.0"
+    ],
+    [
+     "February",
+     "30.4",
+     "30.4",
+     "0"
+    ],
+    [
+     "March",
+     "3,289.3",
+     "71.3",
+     "3,218.0"
+    ],
+    [
+     "April",
+     "116.7",
+     "116.7",
+     "0"
+    ],
+    [
+     "May",
+     "11,610.3 a/",
+     "2,317.3",
+     "9,293.0"
+    ],
+    [
+     "June",
+     "219.4",
+     "219.4",
+     "0"
+    ],
+    [
+     "July",
+     "426.7",
+     "426.7",
+     "0"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised."
+   ],
+   "unreadable": [],
+   "totals_check": "1946 months: Total column sums to 11,887.5, printed total 11,887.5 (agree); Private column sums to 1,504.1 vs printed 1,504.0 (DISAGREE by 0.1); USOCS column sums to 10,383.4 vs printed 10,383.5 (DISAGREE by 0.1). Monthly averages 11,887.5/12 = 990.6, 1,504.0/12 = 125.3, 10,383.5/12 = 865.3, agree. Every monthly row's Private + USOCS equals its Total.",
+   "warnings": [
+    "1946 Private column: months sum to 1,504.1, printed 1,504.0.",
+    "1946 USOCS column: months sum to 10,383.4, printed 10,383.5."
+   ],
+   "ocr_check": "OCR read the annual Total as 11,387.5; the typeface makes 3 and 8 similar and I read 11,887.5, which matches the column sum and the monthly average. OCR otherwise matched; the USOCS monthly average 865.3 is faint in the scan but legible."
+  },
+  {
+   "page": 44,
+   "pages": [
+    44,
+    45
+   ],
+   "title": "Controlled prices of selected commodities produced in vested factories a/, 1 August",
+   "units": "won",
+   "period": "1 August (1947)",
+   "source_note": "SOURCE: National Price Administration.",
+   "header": [
+    [
+     "Commodity",
+     "Unit",
+     "Price (won)",
+     "Price (won)"
+    ],
+    [
+     "Commodity",
+     "Unit",
+     "Producer",
+     "Retail"
+    ]
+   ],
+   "rows": [
+    [
+     "Cotton cloth",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Sheeting",
+     "yard",
+     "38-47",
+     "45-56"
+    ],
+    [
+     "  Heavy sheeting",
+     "yard",
+     "36-51",
+     "43-61"
+    ],
+    [
+     "  Calico",
+     "yard",
+     "60-76",
+     "72-91"
+    ],
+    [
+     "  Flannelette",
+     "yard",
+     "68-71",
+     "81-85"
+    ],
+    [
+     "Flax cloth",
+     "yard",
+     "72-73",
+     "90-91"
+    ],
+    [
+     "Cotton and flax mixed cloth",
+     "yard",
+     "64-70",
+     "80-87"
+    ],
+    [
+     "Silk cloth",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Jhamisa",
+     "yard",
+     "108",
+     "130"
+    ],
+    [
+     "  Habutai",
+     "yard",
+     "98",
+     "118"
+    ],
+    [
+     "  Sooksoo",
+     "yard",
+     "116",
+     "139"
+    ],
+    [
+     "Silk mixed cloth",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Kyojik-jhamisa",
+     "yard",
+     "94",
+     "113"
+    ],
+    [
+     "  Kyojik-sooksoo",
+     "yard",
+     "68",
+     "82"
+    ],
+    [
+     "Rayon cloth",
+     "yard",
+     "37-56",
+     "44-67"
+    ],
+    [
+     "Socks, men's b/",
+     "pair",
+     "22-24",
+     "26-29"
+    ],
+    [
+     "Stockings, women's",
+     "pair",
+     "42",
+     "52"
+    ],
+    [
+     "Rubber shoes, men's b/",
+     "pair",
+     "65-145",
+     "80-175"
+    ],
+    [
+     "Rubber shoes, women's b/",
+     "pair",
+     "55-105",
+     "65-125"
+    ],
+    [
+     "Canvas shoes b/",
+     "pair",
+     "70-115",
+     "90-140"
+    ],
+    [
+     "Jikatabi shoes",
+     "pair",
+     "165",
+     "200"
+    ],
+    [
+     "Toilet soap",
+     "bar",
+     "15",
+     "18"
+    ],
+    [
+     "Laundry soap",
+     "bar",
+     "27",
+     "32"
+    ],
+    [
+     "Matches, large",
+     "box",
+     "30",
+     "35"
+    ],
+    [
+     "Matches, small",
+     "box",
+     "3.10",
+     "3.50"
+    ],
+    [
+     "Bulbs, electric, vacuum",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  40 watts and under",
+     "each",
+     "54",
+     "70"
+    ],
+    [
+     "  41 watts to 60 watts",
+     "each",
+     "65",
+     "85"
+    ],
+    [
+     "  61 watts to 100 watts",
+     "each",
+     "88",
+     "115"
+    ],
+    [
+     "Bulbs, electric, gas filled",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  40 watts and under",
+     "each",
+     "69",
+     "90"
+    ],
+    [
+     "  41 watts to 60 watts",
+     "each",
+     "86",
+     "112"
+    ],
+    [
+     "  61 watts to 100 watts",
+     "each",
+     "92",
+     "120"
+    ],
+    [
+     "  Over 100 watts",
+     "per watt",
+     "1.00",
+     "1.30"
+    ]
+   ],
+   "footnotes": [
+    "a/ Formerly Japanese-owned.",
+    "b/ Varies according to size."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the figures but read 'Flamelette' for the printed 'Flannelette'. The table runs on to page 45 (bulbs), transcribed from there; category heading rows have empty cells. 'Jikatabi' spelling normalised (scan reads 'Jiketabi'-like). Year not in the table title; 1947 taken from the report date."
+  }
+ ]
+}

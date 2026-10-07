@@ -1,0 +1,14 @@
+{"tables": [
+{"page": 147, "pages": [147], "title": "Table 3. Status of biologicals, Institute for Veterinary Research, Anyang, 30 August - 26 September 1947", "units": "cubic centimeters", "period": "30 August - 26 September 1947", "source_note": "Department of Public Health and Welfare.",
+"header": [["Product", "New", "Dispensed", "On hand"]],
+"rows": [["Blackleg vaccine","0","0","3,500"],["Blackleg serum","400","0","13,600"],["Anthrax vaccine","0","0","65 040"],["Anthrax serum (equine)","0","0","0"],["Anthrax serum (bovine)","0","0","21,200"],["Fowlpest vaccine","13,500","200","133,800"],["Pullerum antigen","200","0","970"],["Rabies vaccine, canine","1,000","900","1,900"],["Rinderpest vaccine","0","0","500"],["Rinderpest serum","0","1,000,000","92,829"],["Hemorrhagic septicemia vaccine","8,000","15,000","42,700"],["Infectious pneumonia vaccine","18,000","0","42,700"],["Tuberculin (bovine)","0","0","0"],["Mallein","0","0","0"]],
+"footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [],
+"notes": "Anthrax vaccine on hand is printed as '65 040' with the comma faint or missing in the scan; transcribed as it appears.",
+"ocr_check": "OCR matched the image on every cell, including '65 040'."},
+{"page": 147, "pages": [147], "title": "Table 4. Status of biologicals, Institute for Veterinary Research, Pusan, 17 August - 16 September 1947", "units": "cubic centimeters", "period": "17 August - 16 September 1947", "source_note": "Department of Public Health and Welfare.",
+"header": [["Product", "New", "Dispensed", "On hand"]],
+"rows": [["Smallpox vaccine","0","0","0"],["Rinderpest serum","0","202,000","15,900"],["Rinderpest vaccine","240,000","662,500","10,500"],["Fowlpest vaccine","0","2,000","51,700"],["Blackleg vaccine","0","0","112,800"],["Anthrax vaccine","0","0","11,730"],["Hemorrhagic septicemia vaccine","0","7,000","67,100"],["Infectious pneumonia","0","0","42,800"],["Tuberculin (bovine)","0","0","30"],["Mallein","1,120","700","1,230"],["Anthrax serum (bovine)","15,000","0","20,500"],["Anthrax serum (equine)","5,500","0","49,500"],["Anthrax precipitin","0","70","920"],["Blackleg serum","0","0","41,700"],["Hemolysin antisheep blood","380","50","1,310"],["Contagious pneumonia of cattle antigen","0","0","3,300"],["Malleous antigen","29,700","800","36,900"],["Mixed serum of third virus and swine influenza","0","1,500","9,900"],["Pullerum antigen","0","0","4,920"],["Malleous emulsion","8,800","0","8,800"]],
+"footnotes": [], "unreadable": [], "totals_check": "No total printed.", "warnings": [],
+"notes": "Multi-line row labels printed over two lines are joined into one label.",
+"ocr_check": "OCR matched the image on every cell."}
+]}

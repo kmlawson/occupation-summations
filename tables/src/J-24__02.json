@@ -1,0 +1,22 @@
+{"tables": [
+{"page": 40, "pages": [40], "title": "Allocation of petroleum products", "units": "barrels (grease in metric tons)", "period": "August and September 1947", "source_note": "Ministry of Agriculture and Forestry.",
+ "header": [["", "August", "September"]],
+ "rows": [["Fuel oil", "140,015", "144,670"], ["Gas oil", "21,002", "21,732"], ["Kerosene", "3,497", "3,583"], ["Gasoline", "698", "717"], ["Lubricating oil", "10,819", "11,171"], ["Grease (metric tons)", "14", "15"]],
+ "footnotes": ["a/ One barrel equals 42 U. S. gallons."], "unreadable": [],
+ "totals_check": "No total printed.", "warnings": [], "ocr_check": "OCR matched except Gas oil September (OCR read 21,752; image reads 21,732)."},
+{"page": 42, "pages": [42], "title": "Coal stockpiles on 31 August", "units": "metric tons", "period": "31 August 1947", "source_note": "Ministry of Commerce and Industry, Coal Board.",
+ "header": [["", "Metric tons"]],
+ "rows": [["Available", ""], ["  In transit", "373,500"], ["  Available under present conditions", "70,300"], ["  Available if additional shipping facilities are provided", "203,100"], ["  Total", "646,900"], ["Unavailable", ""], ["  Low calorific value due to prolonged exposure", "1,400"], ["  Contaminated with surface soil", "1,100"], ["  In inaccessible areas", "20,700"], ["  Total", "23,200"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Available: 373,500 + 70,300 + 203,100 = 646,900; printed 646,900; agree. Unavailable: 1,400 + 1,100 + 20,700 = 23,200; printed 23,200; agree. The section headings 'Available' and 'Unavailable' have blank value cells in the original.", "warnings": [], "ocr_check": "OCR matched the image."},
+{"page": 45, "pages": [45], "title": "Drilling operations", "units": "wells", "period": "August 1947", "source_note": "Imperial Oil Company.",
+ "header": [["", "Exploitation", "Exploration", "Total"]],
+ "rows": [["Completed as oil producers", "2", "1", "3"], ["Completed as gas producers", "1", "0", "1"], ["Abandoned", "3", "2", "5"], ["Standing suspended", "0", "0", "0"], ["Commenced during month", "0", "4", "4"], ["Other wells drilling", "7", "3", "10"], ["Total strings active at end of month", "7", "7", "14"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Row totals (Exploitation + Exploration = Total) checked for all 7 rows: 3, 1, 5, 0, 4, 10, 14; all agree with printed totals. No column total row is printed.", "warnings": [], "ocr_check": "OCR matched the image."},
+{"page": 46, "pages": [46], "title": "Coke allocation and distribution", "units": "metric tons", "period": "August 1947", "source_note": "Ministry of Commerce and Industry, Coal Board.",
+ "header": [["", "Allocation", "Distribution"]],
+ "rows": [["Consumed by producers", "61,660", "57,340"], ["Chemical industry (including fertilizer)", "61,640", "57,438"], ["Metal industry", "17,398", "15,743"], ["Industrial machinery", "13,936", "12,804"], ["Rolling-stock manufacturing", "5,961", "5,722"], ["Electrical machinery", "4,326", "4,025"], ["Ceramics industry (including cement)", "2,516", "2,293"], ["Shipbuilding", "2,375", "2,349"], ["Repair of coal mine machinery", "700", "529"], ["Others", "2,358", "2,179"], ["Reserves", "775", "1,108"], ["Total", "173,645", "161,530"]],
+ "footnotes": [], "unreadable": [],
+ "totals_check": "Allocation: sum of 11 rows = 173,645; printed 173,645; agree. Distribution: sum of 11 rows = 161,530; printed 161,530; agree.", "warnings": [], "ocr_check": "OCR matched the image."}
+]}

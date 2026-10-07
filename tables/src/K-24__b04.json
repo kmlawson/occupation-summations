@@ -1,0 +1,1293 @@
+{
+ "tables": [
+  {
+   "units": "thousands of metric tons",
+   "period": "June - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Anthracite and lignite columns summed. All agree except rounding: anthracite production Aug parts sum 20.9 vs printed 21.0; anthracite shipped Aug parts sum 25.3 vs printed 25.4. Grand totals agree with printed subtotals (e.g. production Aug 21.0+2.5=23.5; shipped Aug 25.4+5.8=31.2). Quotas 25+15+4+1+3=48, 2+1=3, 48+3=51 agree. Anthracite moved Aug sum 37.62 vs 37.6 agrees.",
+   "warnings": [
+    "Rounding differences of 0.1 in anthracite Aug production and Aug shipped totals."
+   ],
+   "ocr_check": "OCR matched the image.",
+   "page": 52,
+   "title": "Table 3. Quotas, production, coal moved and leading coal mines of South Korea",
+   "header": [
+    [
+     "Name of mine",
+     "Monthly quotas",
+     "Production",
+     "Production",
+     "Production",
+     "Moved to shipping point",
+     "Moved to shipping point",
+     "Moved to shipping point",
+     "Shipped",
+     "Shipped",
+     "Shipped"
+    ],
+    [
+     "Name of mine",
+     "Monthly quotas",
+     "Jun",
+     "Jul",
+     "Aug",
+     "Jun",
+     "Jul",
+     "Aug",
+     "Jun",
+     "Jul",
+     "Aug"
+    ]
+   ],
+   "rows": [
+    [
+     "Anthracite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Samchuk",
+     "25",
+     "17.1",
+     "18.5",
+     "13.3",
+     "44.6",
+     "27.8",
+     "23.5",
+     "52.0",
+     "21.4",
+     "11.5"
+    ],
+    [
+     "Hwasun",
+     "15",
+     "13.4",
+     "6.6",
+     "4.8",
+     "4.6",
+     "6.3",
+     "9.5",
+     "9.0",
+     "8.2",
+     "10.2"
+    ],
+    [
+     "Eunsung",
+     "4",
+     "3.7",
+     "2.1",
+     "0.2",
+     "4.7",
+     "2.6",
+     "1.7",
+     "4.2",
+     "3.8",
+     "1.6"
+    ],
+    [
+     "Munkyung",
+     "1",
+     "0.6",
+     "0.4",
+     "0.6",
+     "1.0",
+     "0.0",
+     ".02",
+     "1.0",
+     "0.6",
+     "0.1"
+    ],
+    [
+     "Tamyong",
+     "3",
+     "2.3",
+     "2.5",
+     "2.0",
+     "0.3",
+     "0.5",
+     "2.9",
+     "0.5",
+     "0.4",
+     "1.9"
+    ],
+    [
+     "Total",
+     "48",
+     "37.1",
+     "30.1",
+     "21.0",
+     "55.2",
+     "37.2",
+     "37.6",
+     "66.7",
+     "34.4",
+     "25.4"
+    ],
+    [
+     "Lignite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Ulsan",
+     "2",
+     "1.8",
+     "2.0",
+     "2.0",
+     "2.4",
+     "1.9",
+     "2.1",
+     "1.8",
+     "2.0",
+     "2.9"
+    ],
+    [
+     "Yongil-Kilwon",
+     "1",
+     "0.8",
+     "1.0",
+     "0.5",
+     "0.9",
+     "0.4",
+     "2.9",
+     "0.1",
+     "0.4",
+     "2.9"
+    ],
+    [
+     "Total",
+     "3",
+     "2.6",
+     "3.0",
+     "2.5",
+     "3.3",
+     "2.3",
+     "5.0",
+     "1.9",
+     "2.4",
+     "5.8"
+    ],
+    [
+     "Grand total",
+     "51",
+     "39.7",
+     "33.1",
+     "23.5",
+     "58.5",
+     "39.5",
+     "42.6",
+     "68.6",
+     "36.8",
+     "31.2"
+    ]
+   ],
+   "notes": "Section label rows (Anthracite, Lignite) have blank figure cells in the original.",
+   "pages": [
+    52
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "October 1945 - September 1947",
+   "source_note": "Korea Coal Distributing Company, Department of Commerce.",
+   "footnotes": [
+    "a/ 1 - 28 September.",
+    "b/ For Korea Coal Distributing Company stockpile, not electric generating.",
+    "c/ Department of Commerce."
+   ],
+   "unreadable": [],
+   "totals_check": "No total row printed. Received from Japan is not a printed sum of the allocation columns and does not equal it in several months (e.g. Dec 1945 allocations sum 47,142 vs received 44,013; Sep 1947 allocations sum 60,000 vs 70,297); not treated as a disagreement.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 53,
+   "title": "Table 4. Bituminous coal shipments and allocations",
+   "header": [
+    [
+     "Period",
+     "Received from Japan",
+     "Allocations",
+     "Allocations",
+     "Allocations",
+     "Allocations",
+     "Allocations"
+    ],
+    [
+     "Period",
+     "Received from Japan",
+     "Transportation",
+     "Gas and coke plants",
+     "Electric generating",
+     "Army",
+     "Industrial"
+    ]
+   ],
+   "rows": [
+    [
+     "1945",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Oct",
+     "23,783",
+     "23,783",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Nov",
+     "32,409",
+     "32,409",
+     "0",
+     "0",
+     "0",
+     "0"
+    ],
+    [
+     "Dec",
+     "44,013",
+     "37,853",
+     "1,360",
+     "0",
+     "513",
+     "7,416"
+    ],
+    [
+     "1946",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "23,040",
+     "18,150",
+     "428",
+     "0",
+     "2,325",
+     "2,134"
+    ],
+    [
+     "Feb",
+     "61,512",
+     "57,840",
+     "3,623",
+     "0",
+     "3,047",
+     "742"
+    ],
+    [
+     "Mar",
+     "73,338",
+     "70,078",
+     "3,247",
+     "0",
+     "855",
+     "649"
+    ],
+    [
+     "Apr",
+     "82,007",
+     "79,390",
+     "2,262",
+     "0",
+     "1,417",
+     "3,060"
+    ],
+    [
+     "May",
+     "62,743",
+     "61,396",
+     "1,538",
+     "0",
+     "301",
+     "2,290"
+    ],
+    [
+     "Jun",
+     "53,568",
+     "47,537",
+     "3,182",
+     "0",
+     "53",
+     "1,224"
+    ],
+    [
+     "Jul",
+     "22,903",
+     "21,609",
+     "1,820",
+     "0",
+     "13",
+     "1,015"
+    ],
+    [
+     "Aug",
+     "66,856",
+     "62,756",
+     "1,768",
+     "0",
+     "15",
+     "562"
+    ],
+    [
+     "Sep",
+     "43,173",
+     "29,924",
+     "3,648",
+     "0",
+     "22",
+     "2,687"
+    ],
+    [
+     "Oct",
+     "46,431",
+     "30,421",
+     "5,126",
+     "0",
+     "939",
+     "1,955"
+    ],
+    [
+     "Nov",
+     "38,834",
+     "14,992",
+     "2,931",
+     "0",
+     "9,971",
+     "4,920"
+    ],
+    [
+     "Dec",
+     "38,366",
+     "22,605",
+     "6,756",
+     "1,651",
+     "1,443",
+     "3,407"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "33,462",
+     "22,284",
+     "6,808",
+     "3,249",
+     "4,743",
+     "5,979"
+    ],
+    [
+     "Feb",
+     "40,090",
+     "38,576",
+     "1,818",
+     "NA",
+     "5,234",
+     "2,628"
+    ],
+    [
+     "Mar",
+     "67,502",
+     "51,092",
+     "1,671",
+     "NA",
+     "5,107",
+     "4,813"
+    ],
+    [
+     "Apr",
+     "57,315",
+     "48,100",
+     "4,000",
+     "0",
+     "4,000",
+     "5,200"
+    ],
+    [
+     "May",
+     "66,618",
+     "59,710",
+     "504",
+     "0",
+     "2,332",
+     "4,368"
+    ],
+    [
+     "Jun",
+     "52,437",
+     "45,166",
+     "539",
+     "0",
+     "1,553",
+     "2,551"
+    ],
+    [
+     "Jul",
+     "54,953",
+     "47,409",
+     "1,635",
+     "0",
+     "3,161",
+     "2,858"
+    ],
+    [
+     "Aug",
+     "59,917",
+     "38,000",
+     "0",
+     "0",
+     "17,000",
+     "5,000"
+    ],
+    [
+     "Sep a/",
+     "70,297",
+     "40,000",
+     "0",
+     "5,000b/",
+     "10,000",
+     "5,000c/"
+    ]
+   ],
+   "notes": "Year rows (1945, 1946, 1947) have blank figure cells in the original.",
+   "pages": [
+    53
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining and Korea Coal Distributing Company, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 53,
+   "title": "Table 5. Estimated coal requirements and amount supplied",
+   "header": [
+    [
+     "Type of coal",
+     "Monthly minimum requirements",
+     "Amount supplied",
+     "Amount supplied",
+     "Amount supplied",
+     "Amount supplied"
+    ],
+    [
+     "Type of coal",
+     "Monthly minimum requirements",
+     "May",
+     "June",
+     "July",
+     "August"
+    ]
+   ],
+   "rows": [
+    [
+     "Anthracite",
+     "95,000",
+     "44,623",
+     "56,503",
+     "48,588",
+     "41,472"
+    ],
+    [
+     "Bituminous",
+     "115,000",
+     "66,914",
+     "49,809",
+     "47,713",
+     "59,917"
+    ],
+    [
+     "Lignite",
+     "4,000",
+     "1,626",
+     "2,914",
+     "2,432",
+     "2,564"
+    ],
+    [
+     "Pitch",
+     "3,000",
+     "0",
+     "932",
+     "1,257",
+     "502"
+    ]
+   ],
+   "pages": [
+    53
+   ]
+  },
+  {
+   "units": "kilograms",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 55,
+   "title": "Table 7. Gold production, South Korea",
+   "header": [
+    [
+     "Period",
+     "Kilograms"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "4.925"
+    ],
+    [
+     "Jun",
+     "3.350"
+    ],
+    [
+     "Jul",
+     "0.802"
+    ],
+    [
+     "Aug",
+     "17.587"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with a blank cell.",
+   "pages": [
+    55
+   ]
+  },
+  {
+   "units": "kilograms",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 55,
+   "title": "Table 8. Silver production, South Korea",
+   "header": [
+    [
+     "Period",
+     "Kilograms"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "166.154"
+    ],
+    [
+     "Jun",
+     "3.021"
+    ],
+    [
+     "Jul",
+     "12.177"
+    ],
+    [
+     "Aug",
+     "205.345"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with a blank cell.",
+   "pages": [
+    55
+   ]
+  },
+  {
+   "units": "",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [
+    "a/ Grade, mixed."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [
+    "Aug concentrate figure read as 360 from the image; OCR read 300."
+   ],
+   "ocr_check": "OCR matched except Aug concentrate (OCR read 300; image appears to read 360).",
+   "page": 55,
+   "title": "Table 9. Copper production, South Korea",
+   "header": [
+    [
+     "Period",
+     "Concentrate a/",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     "",
+     ""
+    ],
+    [
+     "May",
+     "100",
+     "7.0"
+    ],
+    [
+     "Jun",
+     "NA",
+     "16.3"
+    ],
+    [
+     "Jul",
+     "NA",
+     "19.9"
+    ],
+    [
+     "Aug",
+     "360",
+     "20.4"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with blank cells. Units of the Concentrate column are not printed.",
+   "pages": [
+    55
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 56,
+   "title": "Table 10. Copper production, electrolytic process, South Korea",
+   "header": [
+    [
+     "Period",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "48.0"
+    ],
+    [
+     "Jun",
+     "29.0"
+    ],
+    [
+     "Jul",
+     "21.9"
+    ],
+    [
+     "Aug",
+     "22.1"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with a blank cell.",
+   "pages": [
+    56
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 56,
+   "title": "Table 11. Tungsten production, South Korea",
+   "header": [
+    [
+     "Period",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "49.7"
+    ],
+    [
+     "Jun",
+     "59.2"
+    ],
+    [
+     "Jul",
+     "63.2"
+    ],
+    [
+     "Aug",
+     "44.4"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with a blank cell.",
+   "pages": [
+    56
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 57,
+   "title": "Table 12. Graphite crystalline production, South Korea",
+   "header": [
+    [
+     "Period",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "39.5"
+    ],
+    [
+     "Jun",
+     "53.8"
+    ],
+    [
+     "Jul",
+     "NA"
+    ],
+    [
+     "Aug",
+     "53.0"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with a blank cell.",
+   "pages": [
+    57
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 57,
+   "title": "Table 13. Lead production, South Korea",
+   "header": [
+    [
+     "Period",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "NA"
+    ],
+    [
+     "Jun",
+     "48.4"
+    ],
+    [
+     "Jul",
+     "34.6"
+    ],
+    [
+     "Aug",
+     "37.0"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with a blank cell.",
+   "pages": [
+    57
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "May - August 1947",
+   "source_note": "Bureau of Mining, Department of Commerce.",
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 57,
+   "title": "Table 14. Zinc production, South Korea",
+   "header": [
+    [
+     "Period",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "1947",
+     ""
+    ],
+    [
+     "May",
+     "NA"
+    ],
+    [
+     "Jun",
+     "12.3"
+    ],
+    [
+     "Jul",
+     "16.9"
+    ],
+    [
+     "Aug",
+     "18.0"
+    ]
+   ],
+   "notes": "The 1947 row is a year label with a blank cell.",
+   "pages": [
+    57
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "January 1946 - August 1947",
+   "source_note": "Processed Food Section, Department of Commerce.",
+   "footnotes": [
+    "a/ Covers production in two Government-controlled factories."
+   ],
+   "unreadable": [],
+   "totals_check": "1946 columns summed: flour 22,036 printed, sum 22,036, agree; noodles 1,484 printed, sum 1,484, agree. Monthly averages 22,036/12=1,836 and 1,484/12=124 agree. No 1947 totals printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 59,
+   "title": "Table 1. Production of flour and noodles in South Korea",
+   "header": [
+    [
+     "Period",
+     "Flour a/",
+     "Flour a/",
+     "Noodles",
+     "Noodles"
+    ],
+    [
+     "Period",
+     "1946",
+     "1947",
+     "1946",
+     "1947"
+    ]
+   ],
+   "rows": [
+    [
+     "Jan",
+     "275",
+     "2,171",
+     "0",
+     "207"
+    ],
+    [
+     "Feb",
+     "427",
+     "1,925",
+     "0",
+     "368"
+    ],
+    [
+     "Mar",
+     "577",
+     "2,598",
+     "0",
+     "391"
+    ],
+    [
+     "Apr",
+     "346",
+     "2,424",
+     "126",
+     "512"
+    ],
+    [
+     "May",
+     "786",
+     "820",
+     "156",
+     "423"
+    ],
+    [
+     "Jun",
+     "2,683",
+     "2,381",
+     "122",
+     "382"
+    ],
+    [
+     "Jul",
+     "3,018",
+     "1,392",
+     "187",
+     "226"
+    ],
+    [
+     "Aug",
+     "3,458",
+     "236",
+     "157",
+     "221"
+    ],
+    [
+     "Sep",
+     "2,576",
+     "",
+     "167",
+     ""
+    ],
+    [
+     "Oct",
+     "2,648",
+     "",
+     "397",
+     ""
+    ],
+    [
+     "Nov",
+     "3,160",
+     "",
+     "121",
+     ""
+    ],
+    [
+     "Dec",
+     "2,082",
+     "",
+     "51",
+     ""
+    ],
+    [
+     "Total",
+     "22,036",
+     "",
+     "1,484",
+     ""
+    ],
+    [
+     "Mo. average",
+     "1,836",
+     "",
+     "124",
+     ""
+    ]
+   ],
+   "notes": "Blank cells (Sep-Dec 1947, 1947 totals and averages) are blank in the original.",
+   "pages": [
+    59
+   ]
+  },
+  {
+   "units": "thousands",
+   "period": "January 1946 - August 1947",
+   "source_note": "Bureau of Textiles, Department of Commerce.",
+   "footnotes": [
+    "a/ Represents production from 7 plants.",
+    "b/ Represents production from 11 plants."
+   ],
+   "unreadable": [],
+   "totals_check": "1946 columns summed: yarn printed 3,965, sum 3,965, agree; cloth printed 20,697, sum 20,697, agree. Averages 3,965/12=330 and 20,697/12=1,725 (1,724.75) agree. No 1947 totals printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 59,
+   "title": "Table 2. Production of cotton yarn and cotton cloth in major plants of South Korea",
+   "header": [
+    [
+     "Period",
+     "Cotton yarn a/ kg",
+     "Cotton yarn a/ kg",
+     "Cotton cloth b/ meters",
+     "Cotton cloth b/ meters"
+    ],
+    [
+     "Period",
+     "1946",
+     "1947",
+     "1946",
+     "1947"
+    ]
+   ],
+   "rows": [
+    [
+     "Jan",
+     "70",
+     "464",
+     "357",
+     "2,476"
+    ],
+    [
+     "Feb",
+     "87",
+     "463",
+     "504",
+     "2,215"
+    ],
+    [
+     "Mar",
+     "156",
+     "492",
+     "787",
+     "2,549"
+    ],
+    [
+     "Apr",
+     "234",
+     "534",
+     "1,242",
+     "2,700"
+    ],
+    [
+     "May",
+     "279",
+     "636",
+     "1,535",
+     "2,884"
+    ],
+    [
+     "Jun",
+     "295",
+     "605",
+     "1,681",
+     "3,028"
+    ],
+    [
+     "Jul",
+     "344",
+     "502",
+     "1,986",
+     "2,833"
+    ],
+    [
+     "Aug",
+     "403",
+     "433",
+     "2,259",
+     "2,532"
+    ],
+    [
+     "Sep",
+     "477",
+     "",
+     "2,521",
+     ""
+    ],
+    [
+     "Oct",
+     "551",
+     "",
+     "2,737",
+     ""
+    ],
+    [
+     "Nov",
+     "632",
+     "",
+     "2,966",
+     ""
+    ],
+    [
+     "Dec",
+     "437",
+     "",
+     "2,122",
+     ""
+    ],
+    [
+     "Total",
+     "3,965",
+     "",
+     "20,697",
+     ""
+    ],
+    [
+     "Mo. average",
+     "330",
+     "",
+     "1,725",
+     ""
+    ]
+   ],
+   "notes": "Blank cells (Sep-Dec 1947, 1947 totals and averages) are blank in the original. First digit of yarn total is smudged but reads 3,965 and agrees with the sum.",
+   "pages": [
+    59
+   ]
+  },
+  {
+   "units": "metric tons",
+   "period": "January 1946 - August 1947",
+   "source_note": "Chemical Section, Department of Commerce.",
+   "footnotes": [
+    "a/ Data are for 14 mills now operating. All plants are vested."
+   ],
+   "unreadable": [],
+   "totals_check": "1946 column summed: printed 3,884.5, sum 3,884.5, agree. Average 3,884.5/12=323.7 agrees. No 1947 total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image.",
+   "page": 60,
+   "title": "Table 3. Production of machine-made paper in South Korea",
+   "header": [
+    [
+     "Period",
+     "Amount produced a/",
+     "Amount produced a/"
+    ],
+    [
+     "Period",
+     "1946",
+     "1947"
+    ]
+   ],
+   "rows": [
+    [
+     "Jan",
+     "118.5",
+     "196.2"
+    ],
+    [
+     "Feb",
+     "159.5",
+     "128.3"
+    ],
+    [
+     "Mar",
+     "228.0",
+     "199.0"
+    ],
+    [
+     "Apr",
+     "250.8",
+     "230.5"
+    ],
+    [
+     "May",
+     "378.5",
+     "345.2"
+    ],
+    [
+     "Jun",
+     "369.4",
+     "321.4"
+    ],
+    [
+     "Jul",
+     "383.4",
+     "362.3"
+    ],
+    [
+     "Aug",
+     "403.8",
+     "312.8"
+    ],
+    [
+     "Sep",
+     "486.2",
+     ""
+    ],
+    [
+     "Oct",
+     "481.1",
+     ""
+    ],
+    [
+     "Nov",
+     "380.0",
+     ""
+    ],
+    [
+     "Dec",
+     "245.3",
+     ""
+    ],
+    [
+     "Total",
+     "3,884.5",
+     ""
+    ],
+    [
+     "Mo. average",
+     "323.7",
+     ""
+    ]
+   ],
+   "notes": "Blank cells (Sep-Dec 1947, 1947 total and average) are blank in the original.",
+   "pages": [
+    60
+   ]
+  }
+ ]
+}

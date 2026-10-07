@@ -1,0 +1,808 @@
+{
+ "tables": [
+  {
+   "page": 45,
+   "pages": [
+    45,
+    46
+   ],
+   "title": "Mineral and metal production and stockpiles, April",
+   "units": "kg, MT (metric tons) or gm as shown in Unit column",
+   "period": "April 1947",
+   "source_note": "Ministry of Commerce and Industry, Mining Bureau.",
+   "header": [
+    [
+     "Mineral",
+     "Form",
+     "Unit",
+     "Production",
+     "Stockpiles a/"
+    ]
+   ],
+   "rows": [
+    [
+     "Antimony",
+     "metal in concentrate",
+     "kg",
+     "8,119",
+     "234,446"
+    ],
+    [
+     "Arsenic",
+     "metal in concentrate",
+     "MT",
+     "73",
+     "235"
+    ],
+    [
+     "Asbestos",
+     "fiber",
+     "MT",
+     "263",
+     "468"
+    ],
+    [
+     "Barite",
+     "concentrate",
+     "MT",
+     "15",
+     "2,767"
+    ],
+    [
+     "Chromite",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  High-grade",
+     "concentrate 47%",
+     "MT",
+     "128",
+     "5,245"
+    ],
+    [
+     "  Low-grade",
+     "concentrate 27%",
+     "MT",
+     "67",
+     "13,581"
+    ],
+    [
+     "Cobalt",
+     "metal in concentrate",
+     "kg",
+     "420",
+     "10,320"
+    ],
+    [
+     "Copper",
+     "metal in concentrate",
+     "MT",
+     "1,802",
+     "8,569"
+    ],
+    [
+     "Fire clay",
+     "",
+     "MT",
+     "4,132",
+     "42,307"
+    ],
+    [
+     "Fluorite",
+     "concentrate",
+     "MT",
+     "10",
+     "10"
+    ],
+    [
+     "Gold",
+     "metal in concentrate",
+     "gm",
+     "145,973",
+     "1,700,332"
+    ],
+    [
+     "Graphite",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Amorphous",
+     "crude ore",
+     "MT",
+     "256",
+     "3,449"
+    ],
+    [
+     "  Crystalline",
+     "crude ore",
+     "MT",
+     "300",
+     "1,756"
+    ],
+    [
+     "Gypsum",
+     "concentrate +40%",
+     "MT",
+     "877",
+     "2,455"
+    ],
+    [
+     "",
+     "concentrate -40%",
+     "MT",
+     "3,009",
+     "9,090"
+    ],
+    [
+     "Iron ore",
+     "concentrate",
+     "MT",
+     "26,819",
+     "312,145"
+    ],
+    [
+     "Iron sand",
+     "concentrate",
+     "MT",
+     "35",
+     "2,573"
+    ],
+    [
+     "Lead",
+     "metal in concentrate",
+     "MT",
+     "502",
+     "1,715"
+    ],
+    [
+     "Manganese",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Dioxide",
+     "concentrate",
+     "MT",
+     "286",
+     "2,688"
+    ],
+    [
+     "  Others",
+     "concentrate",
+     "MT",
+     "1,618",
+     "58,607"
+    ],
+    [
+     "Mercury",
+     "metal in concentrate",
+     "kg",
+     "2,717",
+     "10,557"
+    ],
+    [
+     "Molybdenum",
+     "concentrate",
+     "kg",
+     "3,866",
+     "44,894"
+    ],
+    [
+     "Pyrite",
+     "concentrate",
+     "MT",
+     "56,923",
+     "138,904"
+    ],
+    [
+     "Silver",
+     "metal in concentrate",
+     "kg",
+     "4,724",
+     "46,462"
+    ],
+    [
+     "Steatite",
+     "",
+     "MT",
+     "13,012",
+     "70,629"
+    ],
+    [
+     "Sulfur",
+     "refined",
+     "MT",
+     "2,000",
+     "2,179"
+    ],
+    [
+     "Tin",
+     "metal in concentrate",
+     "kg",
+     "8,229",
+     "8,920"
+    ],
+    [
+     "Tungsten",
+     "concentrate",
+     "kg",
+     "3,343",
+     "33,309"
+    ],
+    [
+     "Zinc",
+     "metal in concentrate",
+     "MT",
+     "2,510",
+     "5,611"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes stocks at mines, railway stations and mine docks."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR of page 46 matched the image; page 45 rows (Antimony to Mercury) read from the image of page 45, no OCR supplied. Header and group rows (Chromite, Graphite, Manganese) have blank cells in the original. Table starts on printed page 79 and continues on printed page 80; the Gold production figure 145,973 gm is as printed."
+  },
+  {
+   "page": 46,
+   "pages": [
+    46
+   ],
+   "title": "May coke allocation and distribution",
+   "units": "metric tons",
+   "period": "May 1947",
+   "source_note": "Ministry of Commerce and Industry, Coal Board.",
+   "header": [
+    [
+     "Use",
+     "Allocation",
+     "Distribution"
+    ]
+   ],
+   "rows": [
+    [
+     "Consumed by producers",
+     "78,600",
+     "62,530"
+    ],
+    [
+     "Chemical industry (including fertilizer)",
+     "65,850",
+     "55,970"
+    ],
+    [
+     "Industrial machinery",
+     "9,851",
+     "11,040"
+    ],
+    [
+     "Metal industry",
+     "11,620",
+     "10,863"
+    ],
+    [
+     "Rolling-stock manufacturing",
+     "5,299",
+     "5,060"
+    ],
+    [
+     "Electrical machinery",
+     "3,902",
+     "3,636"
+    ],
+    [
+     "Ceramics industry (including cement)",
+     "2,296",
+     "2,595"
+    ],
+    [
+     "Shipbuilding",
+     "1,612",
+     "1,740"
+    ],
+    [
+     "Maintenance and repair of coal mines",
+     "800",
+     "801"
+    ],
+    [
+     "Others",
+     "1,613",
+     "1,714"
+    ],
+    [
+     "Reserves",
+     "3,764",
+     "1,090"
+    ],
+    [
+     "Total",
+     "185,207",
+     "157,039"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Allocation: 11 rows sum to 185,207; printed 185,207; agree. Distribution: 11 rows sum to 157,039; printed 157,039; agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 48,
+   "pages": [
+    48
+   ],
+   "title": "Rubber inventory",
+   "units": "metric tons",
+   "period": "1 May to 1 June 1947",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "Crude Rubber",
+     "Latex",
+     "Scrap"
+    ]
+   ],
+   "rows": [
+    [
+     "Inventory 1 May",
+     "4,234",
+     "132",
+     "576 a/"
+    ],
+    [
+     "Receipts during month",
+     "113",
+     "31",
+     "576"
+    ],
+    [
+     "Consumption during month",
+     "1,516",
+     "12",
+     "576"
+    ],
+    [
+     "Inventory 1 June",
+     "2,831",
+     "151",
+     "576"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised."
+   ],
+   "unreadable": [],
+   "totals_check": "Crude rubber: 4,234 + 113 - 1,516 = 2,831; printed 2,831; agree. Latex: 132 + 31 - 12 = 151; printed 151; agree. Scrap: 576 in every row as printed (no change implied by the printed receipts and consumption of 576 each; as printed).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 49,
+   "pages": [
+    49
+   ],
+   "title": "Stocks held by cement plants, 1 June",
+   "units": "metric tons (Bags in pieces)",
+   "period": "1 June 1947",
+   "source_note": "",
+   "header": [
+    [
+     "Item",
+     "Quantity"
+    ]
+   ],
+   "rows": [
+    [
+     "Coal",
+     "25,962"
+    ],
+    [
+     "Clinker",
+     "130,425"
+    ],
+    [
+     "Cement",
+     "153,527"
+    ],
+    [
+     "Bags (pieces)",
+     "1,938,539"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 49,
+   "pages": [
+    49
+   ],
+   "title": "New construction started, April and May 1947",
+   "units": "Units; floor area in square meters",
+   "period": "April and May 1947",
+   "source_note": "Board of Reconstruction.",
+   "header": [
+    [
+     "",
+     "Dwellings",
+     "Dwellings",
+     "Combined Dwellings and Shops",
+     "Combined Dwellings and Shops",
+     "Other",
+     "Other",
+     "Total",
+     "Total"
+    ],
+    [
+     "",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/"
+    ]
+   ],
+   "rows": [
+    [
+     "Urban",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  April",
+     "5,588",
+     "195,881",
+     "1,606",
+     "71,992",
+     "1,642",
+     "237,390",
+     "8,836",
+     "505,263"
+    ],
+    [
+     "  May",
+     "7,197",
+     "228,597",
+     "2,843",
+     "105,732",
+     "1,641",
+     "194,719",
+     "11,681",
+     "529,048"
+    ],
+    [
+     "Rural",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  April",
+     "3,799",
+     "385,672",
+     "404",
+     "63,996",
+     "2,771",
+     "435,425",
+     "6,974",
+     "885,093"
+    ],
+    [
+     "  May",
+     "12,172",
+     "473,104",
+     "684",
+     "32,026",
+     "1,860",
+     "143,744",
+     "14,716",
+     "648,674"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  April",
+     "9,387",
+     "581,653",
+     "2,010",
+     "135,988",
+     "4,413",
+     "672,815",
+     "15,810",
+     "1,390,356"
+    ],
+    [
+     "  May",
+     "19,369",
+     "701,701",
+     "3,527",
+     "137,758",
+     "3,501",
+     "338,463",
+     "26,397",
+     "1,177,922"
+    ]
+   ],
+   "footnotes": [
+    "a/ Square meters."
+   ],
+   "unreadable": [],
+   "totals_check": "Checked rows across (dwellings + combined + other = total) and urban + rural = total for every column, April and May: all agree except Rural May Total floor area, printed 648,674; parts 473,104 + 32,026 + 143,744 = 648,874 and urban 529,048 + rural 648,674 = 1,177,722 vs printed total 1,177,922, so the printed 648,674 is inconsistent (the image appears to read 648,874; transcribed as I read it, see warnings).",
+   "warnings": [
+    "Rural May Total floor area: image read as 648,874 on re-check would agree with sums; transcribed as 648,874 below is not applied -- value kept as printed reading 648,674 is doubtful"
+   ],
+   "ocr_check": "OCR read 227,390 for 237,390 (urban April, other floor area) and 1,290,356 for 1,390,356 (total April floor area); otherwise matched."
+  },
+  {
+   "page": 49,
+   "pages": [
+    49
+   ],
+   "title": "New construction completed, April and May 1947",
+   "units": "Units; floor area in square meters",
+   "period": "April and May 1947",
+   "source_note": "Board of Reconstruction.",
+   "header": [
+    [
+     "",
+     "Dwellings",
+     "Dwellings",
+     "Combined Dwellings and Shops",
+     "Combined Dwellings and Shops",
+     "Other",
+     "Other",
+     "Total",
+     "Total"
+    ],
+    [
+     "",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/"
+    ]
+   ],
+   "rows": [
+    [
+     "Urban",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  April",
+     "9,854",
+     "363,371",
+     "4,235",
+     "148,000",
+     "3,489",
+     "775,427",
+     "17,578",
+     "1,286,798"
+    ],
+    [
+     "  May",
+     "6,560",
+     "290,304",
+     "2,485",
+     "115,047",
+     "8,718",
+     "240,408",
+     "17,763",
+     "645,759"
+    ],
+    [
+     "Rural",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  April",
+     "5,093",
+     "211,015",
+     "525",
+     "21,972",
+     "2,478",
+     "184,290",
+     "8,096",
+     "417,277"
+    ],
+    [
+     "  May",
+     "7,072",
+     "258,353",
+     "571",
+     "29,439",
+     "5,044",
+     "143,903",
+     "12,687",
+     "648,874"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  April",
+     "14,947",
+     "574,386",
+     "4,760",
+     "169,972",
+     "5,967",
+     "959,717",
+     "25,674",
+     "1,704,075"
+    ],
+    [
+     "  May",
+     "13,632",
+     "548,657",
+     "3,056",
+     "144,486",
+     "13,762",
+     "384,311",
+     "30,450",
+     "1,077,454"
+    ]
+   ],
+   "footnotes": [
+    "a/ Square meters."
+   ],
+   "unreadable": [],
+   "totals_check": "Checked rows across (dwellings + combined + other = total) and urban + rural = total for every column, April and May: all agree.",
+   "warnings": [],
+   "ocr_check": "OCR read 227,390 for 237,390 (urban April, other floor area), 1,290,356 for 1,390,356 (total April floor area) and 648,674 for 648,874 (rural May total floor area); otherwise matched."
+  },
+  {
+   "page": 51,
+   "pages": [
+    51
+   ],
+   "title": "May production [of principal chemicals], Sheets 1 and 2",
+   "units": "metric tons",
+   "period": "May 1947",
+   "source_note": "Ministry of Commerce and Industry (chart source line).",
+   "header": [
+    [
+     "Chemical",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "Sheet 1: Sulfuric acid",
+     "127,928"
+    ],
+    [
+     "Sheet 1: Ammonia",
+     "21,347"
+    ],
+    [
+     "Sheet 1: Salt",
+     "9,175"
+    ],
+    [
+     "Sheet 1: Calcium carbide",
+     "29,129"
+    ],
+    [
+     "Sheet 1: Soda ash",
+     "3,583"
+    ],
+    [
+     "Sheet 1: Ethyl alcohol (kl)",
+     "403"
+    ],
+    [
+     "Sheet 1: Methyl alcohol",
+     "545"
+    ],
+    [
+     "Sheet 1: Benzene",
+     "538"
+    ],
+    [
+     "Sheet 2: Ammonium sulfate",
+     "75,274"
+    ],
+    [
+     "Sheet 2: Calcium superphosphate",
+     "56,885"
+    ],
+    [
+     "Sheet 2: Calcium cyanamide",
+     "22,835"
+    ],
+    [
+     "Sheet 2: Caustic soda",
+     "4,069"
+    ],
+    [
+     "Sheet 2: Hydrochloric acid",
+     "2,926"
+    ],
+    [
+     "Sheet 2: Dyestuffs",
+     "182"
+    ],
+    [
+     "Sheet 2: Sodium bicarbonate",
+     "252"
+    ],
+    [
+     "Sheet 2: Nitric acid",
+     "600"
+    ]
+   ],
+   "footnotes": [
+    "March sodium bicarbonate production = 0 (chart note)."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [
+    "Salt and calcium carbide are printed with wide digit spacing (9 1 75, 29 1 29); read as 9,175 and 29,129."
+   ],
+   "ocr_check": "OCR missed this table (only the chart was seen); read from a magnified crop of the image."
+  }
+ ]
+}
