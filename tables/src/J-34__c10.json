@@ -1,0 +1,1081 @@
+{
+ "tables": [
+  {
+   "page": 113,
+   "pages": [
+    113,
+    114
+   ],
+   "title": "Labor unions and membership a/",
+   "units": "unions; members",
+   "period": "31 May [1948]",
+   "source_note": "SOURCE: Ministry of Labor.",
+   "header": [
+    [
+     "",
+     "Unions",
+     "Membership",
+     "Membership",
+     "Membership"
+    ],
+    [
+     "",
+     "",
+     "Men",
+     "Women",
+     "Total b/"
+    ]
+   ],
+   "rows": [
+    [
+     "Agriculture",
+     "140",
+     "6,644",
+     "1,487",
+     "8,131"
+    ],
+    [
+     "Forestry",
+     "483",
+     "53,769",
+     "5,800",
+     "59,569"
+    ],
+    [
+     "Fishing",
+     "158",
+     "24,927",
+     "2,020",
+     "26,947"
+    ],
+    [
+     "Mining",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Coal",
+     "959",
+     "414,032",
+     "64,687",
+     "478,719"
+    ],
+    [
+     "  Other",
+     "313",
+     "60,346",
+     "11,195",
+     "71,541"
+    ],
+    [
+     "    Total",
+     "1,272",
+     "474,378",
+     "75,882",
+     "550,260"
+    ],
+    [
+     "Construction",
+     "1,482",
+     "394,768",
+     "20,252",
+     "415,020"
+    ],
+    [
+     "Manufacturing",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Metal",
+     "1,333",
+     "237,488",
+     "39,242",
+     "276,730"
+    ],
+    [
+     "  Machinery",
+     "3,762",
+     "618,087",
+     "124,238",
+     "742,325"
+    ],
+    [
+     "  Chemicals",
+     "2,019",
+     "268,819",
+     "97,933",
+     "366,752"
+    ],
+    [
+     "  Ceramics",
+     "538",
+     "56,707",
+     "20,181",
+     "76,888"
+    ],
+    [
+     "  Textiles",
+     "1,284",
+     "100,879",
+     "266,710",
+     "367,589"
+    ],
+    [
+     "  Lumber and woodworking",
+     "1,859",
+     "101,623",
+     "25,504",
+     "127,127"
+    ],
+    [
+     "  Foodstuffs",
+     "942",
+     "64,623",
+     "29,967",
+     "94,590"
+    ],
+    [
+     "  Printing and bookbinding",
+     "349",
+     "27,435",
+     "12,338",
+     "39,773"
+    ],
+    [
+     "  Other",
+     "383",
+     "21,893",
+     "13,831",
+     "35,724"
+    ],
+    [
+     "  Repair services",
+     "285",
+     "44,447",
+     "3,482",
+     "47,929"
+    ],
+    [
+     "    Total",
+     "12,754",
+     "1,542,001",
+     "633,426",
+     "2,175,427"
+    ],
+    [
+     "Gas, electricity and water supply",
+     "648",
+     "120,729",
+     "13,141",
+     "134,309"
+    ],
+    [
+     "Commerce",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Wholesale trades",
+     "202",
+     "19,826",
+     "5,651",
+     "25,477"
+    ],
+    [
+     "  Retail trades",
+     "320",
+     "30,853",
+     "17,480",
+     "48,333"
+    ],
+    [
+     "  Other",
+     "388",
+     "74,878",
+     "15,359",
+     "90,237"
+    ],
+    [
+     "    Total",
+     "910",
+     "125,557",
+     "38,490",
+     "164,047"
+    ],
+    [
+     "Finance",
+     "664",
+     "105,435",
+     "77,725",
+     "183,160"
+    ],
+    [
+     "Transportation and communications",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Land transportation",
+     "2,723",
+     "789,837",
+     "73,926",
+     "959,694"
+    ],
+    [
+     "  Seamen",
+     "40",
+     "102,756",
+     "-",
+     "102,756"
+    ],
+    [
+     "  Longshoremen",
+     "260",
+     "40,047",
+     "5,039",
+     "45,086"
+    ],
+    [
+     "  Communications",
+     "1,511",
+     "239,820",
+     "117,122",
+     "376,407"
+    ],
+    [
+     "    Total",
+     "4,534",
+     "1,172,460",
+     "196,087",
+     "1,483,943"
+    ],
+    [
+     "Service professions",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Amusement and recreation",
+     "165",
+     "9,206",
+     "7,010",
+     "16,216"
+    ],
+    [
+     "  Advertising and publicity",
+     "9",
+     "3,505",
+     "939",
+     "4,444"
+    ],
+    [
+     "  Other",
+     "154",
+     "13,116",
+     "7,173",
+     "20,289"
+    ],
+    [
+     "    Total",
+     "328",
+     "25,827",
+     "15,122",
+     "40,949"
+    ],
+    [
+     "Liberal professions",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Education",
+     "1,508",
+     "296,367",
+     "180,968",
+     "479,882"
+    ],
+    [
+     "  Other",
+     "1,378",
+     "61,346",
+     "47,211",
+     "108,567"
+    ],
+    [
+     "    Total",
+     "2,886",
+     "357,713",
+     "228,179",
+     "588,449"
+    ],
+    [
+     "Government and public organizations",
+     "5,235",
+     "460,646",
+     "134,011",
+     "594,734"
+    ],
+    [
+     "Not elsewhere classified",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Occupation Force workers",
+     "291",
+     "98,336",
+     "18,457",
+     "116,793"
+    ],
+    [
+     "  Other",
+     "130",
+     "76,483",
+     "11,001",
+     "87,484"
+    ],
+    [
+     "    Total",
+     "421",
+     "174,819",
+     "29,458",
+     "204,277"
+    ],
+    [
+     "Grand total",
+     "31,915",
+     "5,039,673",
+     "1,471,080",
+     "6,629,222"
+    ]
+   ],
+   "footnotes": [
+    "a/ Unions reported registered exclusive of unions reported discontinued.",
+    "b/ Totals include following figures for which no sex breakdown was available; gas, electricity and water supply 439; transportation and communication 115,396 (land transportation 95,931, communications 19,465); liberal professions 2,557 (education 2,547, other 10); government and public organizations 77; total 118,469."
+   ],
+   "unreadable": [],
+   "totals_check": "All printed subtotals (Mining, Manufacturing, Commerce, Transportation and communications, Service professions, Liberal professions, Not elsewhere classified) agree with the sum of their parts in all four columns. Grand total: sum of the printed industry totals gives unions 31,915, men 5,039,673, women 1,471,080, total 6,629,222, all agreeing with the printed grand total. Rows with no sex breakdown (gas 439; land transportation 95,931; communications 19,465; education 2,547; other liberal 10; government 77) account for Men+Women falling short of Total in those rows; they reconcile with footnote b/ (total 118,469 = 439+115,396+2,557+77).",
+   "warnings": [],
+   "ocr_check": "Page 113 not in OCR file supplied; page 114 OCR matched except misreads of 479,862 for 479,882, 1,374 for 1,378, 47,911 for 47,211, 5,335 for 5,235, 78,483 for 76,483, 204,377 for 204,277 and 18,457/others. Table begins on page 113 (read from image); page 114 rows continue the same table. Blank cells (section headings) are blank in the original."
+  },
+  {
+   "page": 115,
+   "pages": [
+    115
+   ],
+   "title": "Labor disputes and man-days idle",
+   "units": "number of disputes; workers involved; man-days",
+   "period": "May [1948]; beginning in May, carried over from April",
+   "source_note": "SOURCE: Ministry of Labor.",
+   "header": [
+    [
+     "",
+     "Beginning in May",
+     "Beginning in May",
+     "Carried Over from April",
+     "Carried Over from April",
+     "Total",
+     "Total"
+    ],
+    [
+     "",
+     "Number",
+     "Workers Involved",
+     "Number",
+     "Workers Involved",
+     "Number",
+     "Workers Involved"
+    ]
+   ],
+   "rows": [
+    [
+     "Accompanied by act of dispute",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Strikes",
+     "35",
+     "189,033",
+     "6",
+     "1,209",
+     "41",
+     "190,242"
+    ],
+    [
+     "  Lockouts",
+     "4",
+     "122",
+     "3",
+     "214",
+     "7",
+     "336"
+    ],
+    [
+     "  Slowdowns",
+     "9",
+     "96,716",
+     "5",
+     "1,611",
+     "14",
+     "98,327"
+    ],
+    [
+     "  Production control",
+     "3",
+     "146",
+     "15",
+     "1,911",
+     "18",
+     "2,057"
+    ],
+    [
+     "    Total",
+     "51",
+     "286,017",
+     "29",
+     "4,945",
+     "80",
+     "290,962"
+    ],
+    [
+     "Not accompanied by act of dispute a/",
+     "39",
+     "12,432",
+     "43",
+     "58,739",
+     "82",
+     "71,171"
+    ],
+    [
+     "    Grand total",
+     "90",
+     "298,449",
+     "72",
+     "63,684",
+     "162",
+     "362,133"
+    ],
+    [
+     "Man-days idle owing to strikes and lockouts b/",
+     "-",
+     "-",
+     "-",
+     "-",
+     "291,647",
+     "190,578"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes disputes where negotiations broke down and a third party intervened to assist in adjustment.",
+    "b/ Assumes a six-day work-week."
+   ],
+   "unreadable": [],
+   "totals_check": "Accompanied total: number 35+4+9+3=51, 6+3+5+15=29, 41+7+14+18=80; workers 189,033+122+96,716+146=286,017, 1,209+214+1,611+1,911=4,945, 190,242+336+98,327+2,057=290,962; all agree. Grand total: 51+39=90, 29+43=72, 80+82=162; 286,017+12,432=298,449, 4,945+58,739=63,684, 290,962+71,171=362,133; all agree. Across columns: 51+29=80, 90+72=162, 286,017+4,945=290,962, 298,449+63,684=362,133 agree. The man-days row shows 291,647 under Total Number and 190,578 under Total Workers Involved as printed; not checkable.",
+   "warnings": [],
+   "ocr_check": "OCR matched except Production control total (read 2,087 for 2,057), Not accompanied carried-over workers (58,729 for 58,739) and total number (52 for 82)."
+  },
+  {
+   "page": 115,
+   "pages": [
+    115
+   ],
+   "title": "Labor disputes by industry",
+   "units": "number of disputes; workers involved",
+   "period": "May [1948]",
+   "source_note": "SOURCE: Ministry of Labor.",
+   "header": [
+    [
+     "",
+     "Accompanied by Act of Dispute",
+     "Accompanied by Act of Dispute",
+     "Not Accompanied by Act of Dispute",
+     "Not Accompanied by Act of Dispute",
+     "Total",
+     "Total"
+    ],
+    [
+     "",
+     "Number",
+     "Workers Involved",
+     "Number",
+     "Workers Involved",
+     "Number",
+     "Workers Involved"
+    ]
+   ],
+   "rows": [
+    [
+     "Manufacturing",
+     "58",
+     "28,635",
+     "51",
+     "50,198",
+     "109",
+     "78,833"
+    ],
+    [
+     "Mining",
+     "10",
+     "38,160",
+     "9",
+     "6,802",
+     "19",
+     "44,962"
+    ],
+    [
+     "Transportation and communications",
+     "5",
+     "222,305",
+     "3",
+     "1,256",
+     "8",
+     "223,561"
+    ],
+    [
+     "Education and liberal professions",
+     "3",
+     "1,508",
+     "4",
+     "1,537",
+     "7",
+     "3,045"
+    ],
+    [
+     "Others a/",
+     "4",
+     "354",
+     "15",
+     "11,378",
+     "19",
+     "11,732"
+    ],
+    [
+     "Total",
+     "80",
+     "290,962",
+     "82",
+     "71,171",
+     "162",
+     "362,133"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes agriculture, marine products, commerce and others."
+   ],
+   "unreadable": [],
+   "totals_check": "All six columns summed over the five industry rows agree with the printed Total row: 80, 290,962, 82, 71,171, 162, 362,133. Rows also add across (e.g. 58+51=109; 28,635+50,198=78,833).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 116,
+   "pages": [
+    116,
+    117
+   ],
+   "title": "Publications on labor",
+   "units": "copies",
+   "period": "July [1948]",
+   "source_note": "",
+   "header": [
+    [
+     "Title",
+     "Author or Issuing Organization",
+     "Copies"
+    ]
+   ],
+   "rows": [
+    [
+     "Government",
+     "",
+     ""
+    ],
+    [
+     "\"The Struggle for Trade-union Democracy\"",
+     "Ministry of Communications",
+     "20,000"
+    ],
+    [
+     "\"Democratic Trade-unionism\"",
+     "Ministry of Communications",
+     "20,000"
+    ],
+    [
+     "\"Principles of Collective Bargaining\"",
+     "Ministry of Communications",
+     "20,000"
+    ],
+    [
+     "\"The Structure and Management of Your Local Union\"",
+     "Ministry of Communications",
+     "20,000"
+    ],
+    [
+     "\"Top Union Organization and Structure\"",
+     "Ministry of Communications",
+     "20,000"
+    ],
+    [
+     "\"Building Industrial Democracy Through Sound Labor Contracts\"",
+     "Ministry of Communications",
+     "20,000"
+    ],
+    [
+     "\"Employment Conditions in Foreign Countries\"",
+     "Ministry of Labor",
+     "3,000"
+    ],
+    [
+     "\"Monthly and Real Weekly Earnings During Defense, War, and Reconversion Periods in U. S.; Price-Wage Policy of the Soviet Union\"",
+     "Ministry of Labor",
+     "3,000"
+    ],
+    [
+     "\"Labor Participation in Industrial Management in European Countries; Labor Legislation Enacted in U. S. in 1947\"",
+     "Ministry of Labor",
+     "3,000"
+    ],
+    [
+     "\"Contract Provisions Relating to Discharge, Dismissal and Retirement of Workers\"",
+     "Ministry of Labor",
+     "5,000"
+    ],
+    [
+     "\"Collective Bargaining and Grievance Machinery and Six Other Lectures on Labor Problems\"",
+     "Ministry of Labor",
+     "2,000"
+    ],
+    [
+     "\"Job Analysis; Tobacco and Cigar Manufacturing Industries\"",
+     "Ministry of Labor",
+     "1,000"
+    ],
+    [
+     "\"Job Analysis; Electric Tube Manufacturing Industry\"",
+     "Ministry of Labor",
+     "1,000"
+    ],
+    [
+     "\"Discharge, Dismissal and Retirement Clauses in Contracts\"",
+     "Ministry of Labor",
+     "3,000"
+    ],
+    [
+     "\"Employment Security Administration Business\"",
+     "Osaka Prefectural Labor Administration Section",
+     "1,000"
+    ],
+    [
+     "\"Collection of Laws on Vocational Guidance\"",
+     "Osaka Prefectural Labor Administration Section",
+     "1,000"
+    ],
+    [
+     "\"The Working Rules of Johnson and Johnson, an American Company\"",
+     "Osaka Prefectural Labor Administration Section",
+     "3,000"
+    ],
+    [
+     "\"Proper Labor Agreement\"",
+     "Osaka Prefectural Labor Administration Section",
+     "3,000"
+    ],
+    [
+     "\"Enforcement Ordinance of the Trade Union Act\"",
+     "Osaka Prefectural Labor Administration Section",
+     "5,000"
+    ],
+    [
+     "\"Labor Standards Law\"",
+     "Osaka Prefectural Labor Administration Section",
+     "20,000"
+    ],
+    [
+     "\"Enforcement Ordinance of the Labor Relations Adjustment Act\"",
+     "Osaka Prefectural Labor Administration Section",
+     "3,000"
+    ],
+    [
+     "\"On the Labor Agreement\"",
+     "Osaka Prefectural Labor Administration Section",
+     "5,000"
+    ],
+    [
+     "\"Trade-union Meeting\"",
+     "Osaka Prefectural Labor Administration Section",
+     "1,000"
+    ],
+    [
+     "\"Spirit of the Seamen's Law\"",
+     "Ministry of Transportation",
+     "3,000"
+    ],
+    [
+     "\"Organization and Management of Free Trade-unions\"",
+     "Aichi Prefectural Labor Administration Section",
+     "1,000"
+    ],
+    [
+     "\"Labor Education in Your Local Union\"",
+     "Yamagata Prefectural Labor Administration Section",
+     "2,000"
+    ],
+    [
+     "\"20 Posters on Trade-union Practices\"",
+     "Yamagata Prefectural Labor Administration Section",
+     "1,000"
+    ],
+    [
+     "\"Operations and Structure of the Labor Relations Committee\"",
+     "Hyogo Prefectural Labor Relations Committee",
+     "1,000"
+    ],
+    [
+     "\"International Bill of Human Rights\"",
+     "Chiba Prefectural Labor Administration Section",
+     "5,000"
+    ],
+    [
+     "\"Grievance Machinery and the Shop Steward System\"",
+     "Ishikawa Prefectural Labor Administration Section",
+     "3,000"
+    ],
+    [
+     "\"Radio Questions and Answers; No. 2\"",
+     "Central Labor College",
+     "10,000"
+    ],
+    [
+     "\"Research Survey of the Postwar Japanese Textile Industry\"",
+     "Central Labor College",
+     "3,000"
+    ],
+    [
+     "\"Investigation of Status of Unfair and Unjust Labor Activities as Handled by Local Labor Relations Committees\"",
+     "Central Labor Relations Committee",
+     "3,000"
+    ],
+    [
+     "\"Practical Aspects of the Closed Shop and Its Applied Examples\"",
+     "Central Labor Relations Committee",
+     "3,000"
+    ],
+    [
+     "\"Proceedings of the Second National Labor Relations Committee Liaison Conferences\"",
+     "Central Labor Relations Committee",
+     "3,000"
+    ],
+    [
+     "Unions",
+     "",
+     ""
+    ],
+    [
+     "\"Government Railway Workers' Union Labor Handbook\"",
+     "Government Railway Workers Union",
+     "15,000"
+    ],
+    [
+     "\"The New Wage Agreement and Grievance Machinery\"",
+     "All-Japan Federation of Coal Miners' Unions",
+     "-"
+    ],
+    [
+     "\"Agenda of the Third National Convention; Report of the Third National Convention\"",
+     "Japan Miner's Union affiliated with General Federation of Japanese Trade Unions",
+     "-"
+    ],
+    [
+     "\"Organization and Structure of Trade-union Movement\"",
+     "General Federation of Japanese Trade Unions",
+     "-"
+    ],
+    [
+     "Employers",
+     "",
+     ""
+    ],
+    [
+     "\"On Unlawful Aspects of Production Control\"",
+     "Kanto Employers' Association",
+     "5,000"
+    ],
+    [
+     "\"The Truth About the Toho Case\"",
+     "Japan Federation of Employers' Associations",
+     "3,000"
+    ],
+    [
+     "Private",
+     "",
+     ""
+    ],
+    [
+     "\"GHQ's Guiding Principles for Trade-unions\"",
+     "Itagaki Publishing Company",
+     "6,000"
+    ],
+    [
+     "\"The Reality of Trade-unionism\"",
+     "Matsuta Hosoya",
+     "10,000"
+    ],
+    [
+     "\"Labor-Management Dispute Concerning Improvement of Labor Laws\"",
+     "Hagizawa Kimihiko; National Congress of Industrial Unions' Democratization League",
+     "5,000"
+    ],
+    [
+     "\"Taft Hartley Law; Will It Destroy Labor?\"",
+     "J. MacSwizard",
+     "-"
+    ],
+    [
+     "\"Collective Bargaining in American Labor-Management Relations\"",
+     "Kiyotaka Yoneda",
+     "3,000"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it read 'Labor!' for 'Labor?' in the Taft Hartley title. Words hyphenated across line ends in the original were rejoined (e.g. Manage-ment, affili-ated). Blank cells in section-heading rows are blank in the original; '-' in Copies is a printed dash. Section headings 'Government (continued)' repeated on continuation pages are omitted."
+  },
+  {
+   "page": 118,
+   "pages": [
+    118
+   ],
+   "title": "Average monthly payments a/",
+   "units": "yen",
+   "period": "May [1948]",
+   "source_note": "SOURCE: Bureau of Statistics.",
+   "header": [
+    [
+     "Industry",
+     "Average All Wages b/",
+     "Men c/",
+     "Women c/"
+    ]
+   ],
+   "rows": [
+    [
+     "Manufacturing",
+     "3,667",
+     "4,311",
+     "2,047"
+    ],
+    [
+     "  Metallurgy",
+     "4,530",
+     "4,760",
+     "2,505"
+    ],
+    [
+     "  Machines and tools",
+     "3,925",
+     "4,187",
+     "2,273"
+    ],
+    [
+     "  Chemicals",
+     "3,662",
+     "4,293",
+     "2,016"
+    ],
+    [
+     "  Ceramics",
+     "3,828",
+     "4,358",
+     "2,073"
+    ],
+    [
+     "  Textiles",
+     "2,438",
+     "4,732",
+     "1,901"
+    ],
+    [
+     "  Lumber and woodworking",
+     "2,774",
+     "3,029",
+     "1,561"
+    ],
+    [
+     "  Foodstuffs",
+     "3,661",
+     "4,304",
+     "1,983"
+    ],
+    [
+     "  Printing and bookbinding",
+     "4,397",
+     "5,209",
+     "2,753"
+    ],
+    [
+     "  Other",
+     "2,736",
+     "3,227",
+     "1,858"
+    ],
+    [
+     "Gas, electricity and water supply",
+     "5,108",
+     "5,322",
+     "2,691"
+    ],
+    [
+     "Coal mining",
+     "5,290",
+     "5,693",
+     "2,360"
+    ],
+    [
+     "Metal mining",
+     "3,193",
+     "3,456",
+     "1,554"
+    ],
+    [
+     "Transportation",
+     "4,979",
+     "5,230",
+     "3,430"
+    ],
+    [
+     "Commerce",
+     "4,136",
+     "5,670",
+     "2,407"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes all cash money payments which consist of base pay, production bonuses, overtime, differentials, piece rates, family and dependency allowances, all cost-of-living allowances and all periodic or special bonuses paid during the month.",
+    "b/ Includes staff and labor, men and women.",
+    "c/ Includes staff and labor."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed (averages; not additive).",
+   "warnings": [
+    "Scan is faint: Metallurgy all-wages 4,530 and women 2,505, Textiles all-wages 2,438 read from the image; plausibility not independently checkable."
+   ],
+   "ocr_check": "OCR differed on Metallurgy (read 4,830 and 3,505 where I read 4,530 and 2,505); otherwise matched."
+  },
+  {
+   "page": 119,
+   "pages": [
+    119,
+    120
+   ],
+   "title": "[Public works budget, fiscal year 1948-49, by project]",
+   "units": "yen",
+   "period": "fiscal year 1948-49",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Yen"
+    ]
+   ],
+   "rows": [
+    [
+     "River improvement (flood control and irrigation",
+     "10,415,079,000"
+    ],
+    [
+     "Agriculture (land reclamation drainage, settlers' housing, etc.)",
+     "10,144,569,000"
+    ],
+    [
+     "School construction and rehabilitation",
+     "5,765,230,000"
+    ],
+    [
+     "Ports (improvement of commercial harbors, piers, breakwaters, unloading facilities, etc.)",
+     "3,198,132,000"
+    ],
+    [
+     "Housing construction",
+     "3,095,850,000"
+    ],
+    [
+     "Roads",
+     "1,955,058,000"
+    ],
+    [
+     "Forestry (access roads, reforestation, afforestation, etc.)",
+     "1,916,322,000"
+    ],
+    [
+     "City planning (reconstruction of war-damaged cities)",
+     "1,378,696,000"
+    ],
+    [
+     "Reserve (to be used in case of disaster or applied to the program as a whole in the event of future cost increases)",
+     "1,373,294,000"
+    ],
+    [
+     "Government office construction",
+     "1,158,172,000"
+    ],
+    [
+     "Court and prison construction",
+     "866,483,000"
+    ],
+    [
+     "Employment programs (unemployment counter-measures and industrial cooperatives)",
+     "592,464,000"
+    ],
+    [
+     "Fishery (fishing harbor improvement, warehousing and unloading facilities, etc.)",
+     "565,551,000"
+    ],
+    [
+     "Erosion control, rivers",
+     "530,733,000"
+    ],
+    [
+     "Administrative expenses",
+     "458,579,000"
+    ],
+    [
+     "Welfare facilities construction",
+     "89,114,000"
+    ],
+    [
+     "Industrial construction (water supply in Joban coal mine area)",
+     "13,674,000"
+    ]
+   ],
+   "footnotes": [
+    "Text: annual public works budget passed by the Diet totaled ¥ 43,517,000,000; funds appropriated and expended in the interim budgets for April, May and June are included in the figures."
+   ],
+   "unreadable": [],
+   "totals_check": "Sum of the 17 printed items is 43,517,000,000 (page 119 items 39,242,230,000 + page 120 items 4,274,770,000), agreeing with the total of ¥ 43,517,000,000 stated in paragraph 51 (no total row printed in the table). Note the first item 'River improvement (flood control and irrigation' lacks a closing parenthesis as printed.",
+   "warnings": [],
+   "ocr_check": "OCR misread the paragraph total as 42,517,000,000 and School construction as 5,765,330,000 and Erosion control as 530,732,000; image figures sum correctly to the stated 43,517,000,000."
+  }
+ ]
+}

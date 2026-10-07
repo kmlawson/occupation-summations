@@ -1,0 +1,815 @@
+{
+ "tables": [
+  {
+   "page": 41,
+   "pages": [
+    41
+   ],
+   "title": "Atrocity investigations",
+   "units": "cases",
+   "period": "24 May - 24 June 1948",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Cases on Hand 24 May",
+     "Cases Received 24 May - 24 June",
+     "Cases Completed 24 May - 24 June",
+     "Cases on Hand 24 June"
+    ]
+   ],
+   "rows": [
+    [
+     "POW camp conditions",
+     "3",
+     "0",
+     "0",
+     "3"
+    ],
+    [
+     "POW atrocities",
+     "73",
+     "0",
+     "8",
+     "65"
+    ],
+    [
+     "Flyers",
+     "251",
+     "0",
+     "14",
+     "237"
+    ],
+    [
+     "POW ships",
+     "8",
+     "0",
+     "0",
+     "8"
+    ],
+    [
+     "Kempei-tai (Military Police)",
+     "22",
+     "0",
+     "2",
+     "20"
+    ],
+    [
+     "Miscellaneous",
+     "540",
+     "0",
+     "77",
+     "463"
+    ],
+    [
+     "Total",
+     "897",
+     "0",
+     "101",
+     "796 a/"
+    ]
+   ],
+   "footnotes": [
+    "a/ Represents cases still under active investigation which may or may not result in prosecution of an undisclosed number of war criminals."
+   ],
+   "unreadable": [],
+   "totals_check": "Summed the six rows per column: on hand 24 May 3+73+251+8+22+540=897 (printed 897, agrees); received 0 (agrees); completed 0+8+14+0+2+77=101 (printed 101, agrees); on hand 24 June 3+65+237+8+20+463=796 (printed 796, agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched (it read 'Keopei-tai' for Kempei-tai)."
+  },
+  {
+   "page": 42,
+   "pages": [
+    42
+   ],
+   "title": "[Court system, 30 June 1948: number of courts]",
+   "units": "number of courts",
+   "period": "30 June 1948",
+   "source_note": "SOURCE: Supreme Court. GHQ SCAP (printed on the map, Number 7)",
+   "header": [
+    [
+     "Court",
+     "Number"
+    ]
+   ],
+   "rows": [
+    [
+     "Supreme Court",
+     "1"
+    ],
+    [
+     "High Court",
+     "8"
+    ],
+    [
+     "Branch of High Court",
+     "3"
+    ],
+    [
+     "District Court",
+     "49"
+    ],
+    [
+     "Branch of District Court",
+     "227"
+    ],
+    [
+     "Summary Court",
+     "559"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR missed the table (inset on a map)."
+  },
+  {
+   "page": 42,
+   "pages": [
+    42
+   ],
+   "title": "[Class \"B\" and \"C\" war crimes trials, 1 October 1945 - 2 June 1948: summary inset]",
+   "units": "cases / persons",
+   "period": "1 October 1945 - 2 June 1948",
+   "source_note": "GHQ SCAP, Japan Jun 48, Number 8. Chart footnote: excludes trial of Class \"A\" war criminal suspects before the International Military Tribunal for the Far East; sentences as given by commissions before review; in three instances the same person was tried in two separate cases.",
+   "header": [
+    [
+     "Item",
+     "Total",
+     "Manila Trials",
+     "Japan Trials"
+    ]
+   ],
+   "rows": [
+    [
+     "Number of cases tried",
+     "351",
+     "89",
+     "262"
+    ],
+    [
+     "Number of persons tried",
+     "876",
+     "203",
+     "673"
+    ],
+    [
+     "Number of persons receiving death sentence",
+     "174",
+     "79",
+     "95"
+    ],
+    [
+     "Number of persons receiving prison sentences",
+     "635",
+     "107",
+     "528"
+    ],
+    [
+     "Number of persons acquitted and nol-prossed",
+     "67",
+     "17",
+     "50"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Manila + Japan per row: 89+262=351, 203+673=876, 79+95=174, 107+528=635, 17+50=67, all agree with printed totals. Death + prison + acquitted: 174+635+67=876, agrees with persons tried. The bar chart itself has no printed figures and is not transcribed.",
+   "warnings": [],
+   "ocr_check": "OCR missed the table (inset within a chart)."
+  },
+  {
+   "page": 42,
+   "pages": [
+    42,
+    43
+   ],
+   "title": "Trial of war atrocity cases",
+   "units": "",
+   "period": "21 May to 20 June 1948 (dates as printed per case)",
+   "source_note": "",
+   "header": [
+    [
+     "Name",
+     "Capacity",
+     "Rank",
+     "Date",
+     "Results of Trials"
+    ]
+   ],
+   "rows": [
+    [
+     "KOMATSU Tsurugi",
+     "Overseer",
+     "Civ",
+     "20 May 48- 26 May 48",
+     "25 years"
+    ],
+    [
+     "SUZUKI Masao",
+     "Foreman",
+     "Civ",
+     "",
+     "13 years"
+    ],
+    [
+     "SUZUKI Ken",
+     "Foreman",
+     "Civ",
+     "",
+     "4 years"
+    ],
+    [
+     "SASAKI Jukichi",
+     "Foreman",
+     "Civ",
+     "21 May 48- 1 Jun 48",
+     "5 years"
+    ],
+    [
+     "ISHIGAKI Kakuji",
+     "Foreman",
+     "Civ",
+     "",
+     "Acquitted"
+    ],
+    [
+     "INAKI Makoto",
+     "Camp Commander",
+     "Lt",
+     "19 Apr 48- 2 Jun 48",
+     "7 years"
+    ],
+    [
+     "MIKAWA Masaru",
+     "Adm NCO",
+     "Sgt",
+     "19 Apr 48- 2 Jun 48",
+     "5 years"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched except spellings (it read 'Manao' for Masao, 'Mazaru' for Masaru, 'Tsurugi/Komatsu' order); dates are blank in the original for rows sharing the preceding trial's dates. Table continues on page 43 (header repeated there as 'Result of Trials')."
+  },
+  {
+   "page": 45,
+   "pages": [
+    45
+   ],
+   "title": "[Arable land by prefectures, as of 1 August 1947]",
+   "units": "land area in hectares; land use in percent of prefectural land area",
+   "period": "as of 1 August 1947",
+   "source_note": "SOURCE: Ministry of Agriculture and Forestry. GHQ SCAP, Japan Jun 48, Number 10",
+   "header": [
+    [
+     "Prefecture",
+     "Land area (hectares)",
+     "Land use (in percent of prefectural land area): Irrigated rice-land",
+     "Land use (in percent of prefectural land area): Other arable land",
+     "Land use (in percent of prefectural land area): Non-arable land"
+    ]
+   ],
+   "rows": [
+    [
+     "JAPAN, TOTAL",
+     "36,848,047",
+     "7.67",
+     "5.82",
+     "86.51"
+    ],
+    [
+     "AICHI",
+     "508,433",
+     "16.45",
+     "9.61",
+     "73.94"
+    ],
+    [
+     "AKITA",
+     "1,166,394",
+     "8.46",
+     "1.71",
+     "89.83"
+    ],
+    [
+     "AOMORI",
+     "963,092",
+     "6.60",
+     "5.49",
+     "87.91"
+    ],
+    [
+     "CHIBA",
+     "506,209",
+     "19.25",
+     "14.54",
+     "66.21"
+    ],
+    [
+     "EHIME",
+     "566,742",
+     "7.00",
+     "5.62",
+     "87.38"
+    ],
+    [
+     "FUKUI",
+     "426,448",
+     "",
+     "1.46",
+     "88.00"
+    ],
+    [
+     "FUKUOKA",
+     "694,354",
+     "19.54",
+     "3.99",
+     "76.47"
+    ],
+    [
+     "FUKUSHIMA",
+     "1,378,198",
+     "6.98",
+     "5.30",
+     "87.72"
+    ],
+    [
+     "GIFU",
+     "1,049,473",
+     "5.67",
+     "2.50",
+     "91.83"
+    ],
+    [
+     "GUMMA",
+     "633,587",
+     "5.26",
+     "11.15",
+     "83.59"
+    ],
+    [
+     "HIROSHIMA",
+     "843,858",
+     "7.98",
+     "2.98",
+     "89.04"
+    ],
+    [
+     "HOKKAIDO",
+     "7,846,127",
+     "1.94",
+     "7.46",
+     "90.60"
+    ],
+    [
+     "HYOGO",
+     "832,337",
+     "10.98",
+     "1.51",
+     "87.51"
+    ],
+    [
+     "IBARAKI",
+     "609,114",
+     "14.70",
+     "17.89",
+     "67.41"
+    ],
+    [
+     "ISHIKAWA",
+     "419,242",
+     "11.69",
+     "2.60",
+     "85.71"
+    ],
+    [
+     "IWATE",
+     "1,523,531",
+     "4.05",
+     "4.10",
+     "91.85"
+    ],
+    [
+     "KAGAWA",
+     "185,696",
+     "19.53",
+     "5.62",
+     "74.85"
+    ],
+    [
+     "KAGOSHIMA",
+     "782,477",
+     "6.42",
+     "10.43",
+     "83.15"
+    ],
+    [
+     "KANAGAWA",
+     "236,243",
+     "7.16",
+     "14.89",
+     "77.95"
+    ],
+    [
+     "KOCHI",
+     "710,385",
+     "4.33",
+     "2.48",
+     "93.19"
+    ],
+    [
+     "KUMAMOTO",
+     "743,341",
+     "9.44",
+     "7.02",
+     "83.54"
+    ],
+    [
+     "KYOTO",
+     "462,129",
+     "7.85",
+     "2.34",
+     "89.81"
+    ],
+    [
+     "MIE",
+     "576,528",
+     "11.26",
+     "4.18",
+     "84.56"
+    ],
+    [
+     "MIYAGI",
+     "727,336",
+     "13.59",
+     "5.17",
+     "81.24"
+    ],
+    [
+     "MIYAZAKI",
+     "773,885",
+     "5.54",
+     "4.66",
+     "89.80"
+    ],
+    [
+     "NAGANO",
+     "1,362,618",
+     "5.30",
+     "6.08",
+     "88.62"
+    ],
+    [
+     "NAGASAKI",
+     "407,598",
+     "7.21",
+     "10.32",
+     "82.47"
+    ],
+    [
+     "NARA",
+     "369,352",
+     "7.44",
+     "2.07",
+     "90.49"
+    ],
+    [
+     "NIIGATA",
+     "1,257,805",
+     "13.84",
+     "3.56",
+     "82.60"
+    ],
+    [
+     "OITA",
+     "633,387",
+     "7.92",
+     "3.90",
+     "88.18"
+    ],
+    [
+     "OKAYAMA",
+     "704,647",
+     "11.41",
+     "3.72",
+     "84.87"
+    ],
+    [
+     "OSAKA",
+     "181,363",
+     "",
+     "3.92",
+     "77.31"
+    ],
+    [
+     "SAGA",
+     "246,903",
+     "20.26",
+     "4.44",
+     "75.30"
+    ],
+    [
+     "SAITAMA",
+     "380,268",
+     "16.79",
+     "21.02",
+     "62.19"
+    ],
+    [
+     "SHIGA",
+     "405,093",
+     "14.89",
+     "1.54",
+     "83.57"
+    ],
+    [
+     "SHIMANE",
+     "662,546",
+     "7.10",
+     "2.27",
+     "90.63"
+    ],
+    [
+     "SHIZUOKA",
+     "776,990",
+     "6.86",
+     "7.13",
+     "86.01"
+    ],
+    [
+     "TOCHIGI",
+     "643,659",
+     "11.04",
+     "8.95",
+     "80.01"
+    ],
+    [
+     "TOKUSHIMA",
+     "414,322",
+     "6.53",
+     "4.46",
+     "89.01"
+    ],
+    [
+     "TOKYO",
+     "",
+     "3.48",
+     "12.84",
+     "83.68"
+    ],
+    [
+     "TOTTORI",
+     "348,948",
+     "8.71",
+     "3.16",
+     "88.13"
+    ],
+    [
+     "TOYAMA",
+     "425,742",
+     "17.34",
+     "1.42",
+     "81.24"
+    ],
+    [
+     "WAKAYAMA",
+     "471,859",
+     "5.70",
+     "2.75",
+     "91.55"
+    ],
+    [
+     "YAMAGATA",
+     "932,566",
+     "10.21",
+     "3.39",
+     "86.40"
+    ],
+    [
+     "YAMAGUCHI",
+     "608,449",
+     "10.59",
+     "2.32",
+     "87.09"
+    ],
+    [
+     "YAMANASHI",
+     "446,587",
+     "3.74",
+     "6.51",
+     "89.75"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [
+    "row 'FUKUI', column 'Irrigated rice-land': print too small/blurred to read reliably (row does not sum to 100 with the figure seen)",
+    "row 'OSAKA', column 'Irrigated rice-land': print too small/blurred to read reliably (row does not sum to 100 with the figure seen)",
+    "row 'TOKYO', column 'Land area': illegible (text on page 76 gives 204,186 hectares)"
+   ],
+   "totals_check": "For every row with all three percentages readable I added irrigated + other arable + non-arable; each sums to 100.00 (including JAPAN, TOTAL: 7.67+5.82+86.51=100.00). FUKUI and OSAKA could not be checked because one cell is blank. Land areas were not summed (no national figure checkable against the rows).",
+   "warnings": [
+    "Printed on a map page in very small type; digits were read at low resolution. Rows were checked by the percent-sum test above. Blank cells in FUKUI, OSAKA and TOKYO are unreadable, not blank in the original."
+   ],
+   "ocr_check": "OCR was largely garbage (wrong prefecture names and repeated figures); transcribed from the image only."
+  },
+  {
+   "page": 50,
+   "pages": [
+    50
+   ],
+   "title": "Livestock slaughter",
+   "units": "carcass weight, metric tons",
+   "period": "March and April 1948",
+   "source_note": "SOURCE: Ministry of Agriculture and Forestry.",
+   "header": [
+    [
+     "",
+     "March",
+     "April"
+    ]
+   ],
+   "rows": [
+    [
+     "Cattle",
+     "3,530",
+     "2,463"
+    ],
+    [
+     "Swine",
+     "877",
+     "854"
+    ],
+    [
+     "Horses",
+     "980",
+     "741"
+    ],
+    [
+     "Sheep and goats",
+     "8",
+     "6"
+    ],
+    [
+     "Total",
+     "5,395",
+     "4,064"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "March 3,530+877+980+8=5,395 (printed 5,395, agrees); April 2,463+854+741+6=4,064 (printed 4,064, agrees).",
+   "warnings": [],
+   "ocr_check": "OCR read cattle as 3,520 and 2,462 instead of 3,530 and 2,463; otherwise matched."
+  },
+  {
+   "page": 52,
+   "pages": [
+    52
+   ],
+   "title": "Allocation of petroleum products",
+   "units": "kiloliters (grease in metric tons)",
+   "period": "May and June 1948",
+   "source_note": "SOURCE: Ministry of Agriculture and Forestry, Bureau of Fisheries.",
+   "header": [
+    [
+     "",
+     "Regular",
+     "Regular",
+     "Additional",
+     "Additional",
+     "Total",
+     "Total"
+    ],
+    [
+     "",
+     "May",
+     "June",
+     "May",
+     "June",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "Diesel oil",
+     "24,500",
+     "24,500",
+     "2,000",
+     "4,000",
+     "26,500",
+     "28,500"
+    ],
+    [
+     "Gas oil",
+     "3,867",
+     "3,867",
+     "0",
+     "0",
+     "3,867",
+     "3,867"
+    ],
+    [
+     "Lubricating oil",
+     "2,000",
+     "2,000",
+     "120",
+     "240",
+     "2,120",
+     "2,240"
+    ],
+    [
+     "Kerosene",
+     "786",
+     "786",
+     "36",
+     "72",
+     "822",
+     "858"
+    ],
+    [
+     "Gasoline",
+     "118",
+     "118",
+     "0",
+     "0",
+     "118",
+     "118"
+    ],
+    [
+     "Grease (metric tons)",
+     "15",
+     "15",
+     "1.2",
+     "2.4",
+     "16.2",
+     "17.4"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Regular + Additional = Total for each row and month: diesel 24,500+2,000=26,500 and 24,500+4,000=28,500; gas oil 3,867; lubricating oil 2,120 and 2,240; kerosene 786+36=822 and 786+72=858; gasoline 118; grease 16.2 and 17.4. All agree with printed totals.",
+   "warnings": [],
+   "ocr_check": "OCR misread units as 'Milliliters', gas oil as 2,867 (regular May) and 3,867 total..., kerosene as 766 for 786, and total gas oil May as 2,867; image used for all."
+  },
+  {
+   "page": 53,
+   "pages": [
+    53
+   ],
+   "title": "Intercoastal whaling production",
+   "units": "metric tons",
+   "period": "29 February - 9 May 1948",
+   "source_note": "SOURCE: Ministry of Agriculture and Forestry, Bureau of Fisheries.",
+   "header": [
+    [
+     "Product",
+     "Metric tons"
+    ]
+   ],
+   "rows": [
+    [
+     "Meat",
+     "731.66"
+    ],
+    [
+     "Blubber for food",
+     "418.46"
+    ],
+    [
+     "Bonemeal",
+     "29.65"
+    ],
+    [
+     "Sperm oil",
+     "30.50"
+    ],
+    [
+     "Blubber for leather",
+     "2.08"
+    ],
+    [
+     "Whale oil",
+     "11.71"
+    ],
+    [
+     "Other",
+     "238.48"
+    ],
+    [
+     "Total",
+     "1,462.54"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "731.66+418.46+29.65+30.50+2.08+11.71+238.48=1,462.54; printed 1,462.54, agrees. Some digits (blubber for food, other) are faint but the sum confirms them.",
+   "warnings": [],
+   "ocr_check": "OCR misread several figures (701.56, 618.46, 30.80, 236.45) and labels; the image was used."
+  }
+ ]
+}

@@ -1,0 +1,1013 @@
+{
+ "tables": [
+  {
+   "page": 103,
+   "pages": [
+    103,
+    104
+   ],
+   "title": "Registered radio stations",
+   "units": "number of stations",
+   "period": "28 June",
+   "source_note": "Ministry of Communications.",
+   "header": [
+    [
+     "Station type",
+     "Number"
+    ]
+   ],
+   "rows": [
+    [
+     "Broadcast stations",
+     ""
+    ],
+    [
+     "  Standard Broadcast",
+     ""
+    ],
+    [
+     "    Central",
+     "16"
+    ],
+    [
+     "    Local",
+     "46"
+    ],
+    [
+     "    Local (rebroadcast only)",
+     "44"
+    ],
+    [
+     "  International broadcast",
+     "4"
+    ],
+    [
+     "  Program relay",
+     "6"
+    ],
+    [
+     "  Utility",
+     "28"
+    ],
+    [
+     "  VHF link",
+     "30"
+    ],
+    [
+     "  Armed Forces Radio Service",
+     "6"
+    ],
+    [
+     "  Armed Forces Radio Service relay",
+     "3"
+    ],
+    [
+     "  Total",
+     "183"
+    ],
+    [
+     "Other fixed radio stations",
+     ""
+    ],
+    [
+     "  Aeronautical",
+     "14"
+    ],
+    [
+     "  Coastal",
+     ""
+    ],
+    [
+     "    Active",
+     "16"
+    ],
+    [
+     "    Emergency",
+     "4"
+    ],
+    [
+     "  Domestic",
+     ""
+    ],
+    [
+     "    High frequency",
+     "117"
+    ],
+    [
+     "    Very high frequency",
+     "39"
+    ],
+    [
+     "  Demobilization",
+     "12"
+    ],
+    [
+     "  Fishery",
+     "50"
+    ],
+    [
+     "  International",
+     "7"
+    ],
+    [
+     "  Lighthouse",
+     "25"
+    ],
+    [
+     "  Meteorological",
+     "32"
+    ],
+    [
+     "  Police",
+     "69"
+    ],
+    [
+     "  Private",
+     "7"
+    ],
+    [
+     "  Railroad",
+     "47"
+    ],
+    [
+     "  Subtotal",
+     "439"
+    ],
+    [
+     "Carried forward",
+     "439"
+    ],
+    [
+     "Other fixed radio stations (continued)",
+     ""
+    ],
+    [
+     "  Special",
+     ""
+    ],
+    [
+     "    Radio wave monitoring",
+     "15"
+    ],
+    [
+     "    Radio wave investigating",
+     "24"
+    ],
+    [
+     "    Marine broadcast",
+     "2"
+    ],
+    [
+     "    Standard frequency",
+     "1"
+    ],
+    [
+     "    Seismic research",
+     "2"
+    ],
+    [
+     "  Temporary",
+     ""
+    ],
+    [
+     "    Experimental",
+     "14"
+    ],
+    [
+     "    Domestic VHF",
+     "2"
+    ],
+    [
+     "  Total",
+     "499"
+    ],
+    [
+     "Ship",
+     "2,542"
+    ],
+    [
+     "Grand total",
+     "3,224"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Standard broadcast 16+46+44+4=110; with program relay, utility, VHF link, AFRS and AFRS relay (6+28+30+6+3=73) = 183, printed 183, agree. Other fixed (14+16+4+117+39+12+50+7+25+32+69+7+47) = 439, printed subtotal 439, agree. 439+15+24+2+1+2+14+2 = 499, printed 499, agree. 499+2,542+183 = 3,224, printed grand total 3,224, agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it read 'Heterological' for 'Meteorological' (row printed Meteorological, 32)."
+  },
+  {
+   "page": 106,
+   "pages": [
+    106
+   ],
+   "title": "Restoration of ledgers and records",
+   "units": "thousands of accounts",
+   "period": "as of 31 May (restored in May)",
+   "source_note": "Ministry of Communications.",
+   "header": [
+    [
+     "",
+     "Lost or Destroyed During War",
+     "Restored in May",
+     "Total Restored 31 May",
+     "Percent Restored 31 May"
+    ]
+   ],
+   "rows": [
+    [
+     "Ordinary savings",
+     "42,710",
+     "86",
+     "25,372",
+     "59"
+    ],
+    [
+     "Special savings",
+     "9,040",
+     "83",
+     "3,455",
+     "38"
+    ],
+    [
+     "Postal transfer",
+     "214",
+     "- a/",
+     "97",
+     "45"
+    ],
+    [
+     "Bond custody",
+     "2,126",
+     "7",
+     "1,429 b/",
+     "67"
+    ],
+    [
+     "Bond cards",
+     "146,780",
+     "65",
+     "140,474",
+     "96"
+    ]
+   ],
+   "footnotes": [
+    "a/ Less than 500.",
+    "b/ Revised."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed. Percent column not recomputed (restored/lost: 25,372/42,710 = 59%, 3,455/9,040 = 38%, 97/214 = 45%, 1,429/2,126 = 67%, 140,474/146,780 = 96%; all agree).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 108,
+   "pages": [
+    108
+   ],
+   "title": "Wire communications equipment production",
+   "units": "units; last row thousands of yen",
+   "period": "May and June 1948",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "Telephone sets",
+     "26,237",
+     "26,412"
+    ],
+    [
+     "Manual switchboards",
+     "547",
+     "614"
+    ],
+    [
+     "Automatic switch units",
+     "5,106",
+     "5,563"
+    ],
+    [
+     "Carrier systems",
+     "88",
+     "100"
+    ],
+    [
+     "Repeater systems",
+     "15",
+     "12"
+    ],
+    [
+     "Wire communications parts (thousands of yen)",
+     "49,895",
+     "52,788"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 109,
+   "pages": [
+    109
+   ],
+   "title": "Radio receiver and transmitter production",
+   "units": "sets",
+   "period": "May and June 1948",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "Receivers",
+     "",
+     ""
+    ],
+    [
+     "  Standard broadcast",
+     "",
+     ""
+    ],
+    [
+     "    Regenerative sets",
+     "30,498",
+     "29,266"
+    ],
+    [
+     "    Superheterodyne sets",
+     "36,664",
+     "36,666"
+    ],
+    [
+     "  Other sets a/",
+     "6,820",
+     "6,763"
+    ],
+    [
+     "  Total",
+     "73,982",
+     "72,695"
+    ],
+    [
+     "Transmitters",
+     "156",
+     "165"
+    ]
+   ],
+   "footnotes": [
+    "a/ Includes all-wave sets, radio-phonograph combinations and communications receivers."
+   ],
+   "unreadable": [],
+   "totals_check": "May: 30,498+36,664+6,820 = 73,982, printed 73,982, agree. June: 29,266+36,666+6,763 = 72,695, printed 72,695, agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched except June Other sets (OCR 6,762, image 6,763)."
+  },
+  {
+   "page": 109,
+   "pages": [
+    109
+   ],
+   "title": "Vacuum tube production",
+   "units": "tubes",
+   "period": "May and June 1948",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "Receiver tubes",
+     "938,216",
+     "1,046,788"
+    ],
+    [
+     "Repeater tubes",
+     "18,236",
+     "20,392"
+    ],
+    [
+     "Transmitter tubes",
+     "6,388",
+     "4,861"
+    ],
+    [
+     "Other tubes",
+     "25,665",
+     "29,990"
+    ],
+    [
+     "Total",
+     "988,505",
+     "1,102,031"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "May: 938,216+18,236+6,388+25,665 = 988,505, printed 988,505, agree. June: 1,046,788+20,392+4,861+29,990 = 1,102,031, printed 1,102,031, agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 109,
+   "pages": [
+    109
+   ],
+   "title": "Receiver tube distribution",
+   "units": "tubes (Distribution); percent (Percent)",
+   "period": "May and June 1948",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "Distribution",
+     "Distribution",
+     "Percent",
+     "Percent"
+    ],
+    [
+     "",
+     "May",
+     "June",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "New radio equipment",
+     "350,000",
+     "350,000",
+     "37.3",
+     "33.4"
+    ],
+    [
+     "Replacements",
+     "538,216",
+     "642,288",
+     "57.4",
+     "61.4"
+    ],
+    [
+     "Operations",
+     "50,000",
+     "50,000",
+     "5.3",
+     "4.8"
+    ],
+    [
+     "Export",
+     "0",
+     "4,500",
+     "0.0",
+     "0.4"
+    ],
+    [
+     "Total",
+     "938,216",
+     "1,046,788",
+     "100.0",
+     "100.0"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Distribution May 350,000+538,216+50,000+0 = 938,216, agree; June 350,000+642,288+50,000+4,500 = 1,046,788, agree. Percent May 37.3+57.4+5.3+0.0 = 100.0, agree; June 33.4+61.4+4.8+0.4 = 100.0, agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 109,
+   "pages": [
+    109
+   ],
+   "title": "Radio parts production",
+   "units": "thousands (last row thousands of yen)",
+   "period": "May and June 1948",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "May",
+     "June"
+    ]
+   ],
+   "rows": [
+    [
+     "Condensers",
+     "2,153",
+     "2,642"
+    ],
+    [
+     "Resistors",
+     "1,850",
+     "2,015"
+    ],
+    [
+     "Transformers",
+     "197",
+     "182"
+    ],
+    [
+     "Speakers",
+     "140",
+     "135"
+    ],
+    [
+     "Other radio parts (thousands of yen)",
+     "26,687",
+     "33,708"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 110,
+   "pages": [
+    110
+   ],
+   "title": "Ministry of Communications personnel",
+   "units": "persons",
+   "period": "30 April and 31 May 1948",
+   "source_note": "Ministry of Communications.",
+   "header": [
+    [
+     "",
+     "Men",
+     "Men",
+     "Women",
+     "Women"
+    ],
+    [
+     "",
+     "30 April",
+     "31 May",
+     "30 April",
+     "31 May"
+    ]
+   ],
+   "rows": [
+    [
+     "Administrative",
+     "19,156",
+     "20,431",
+     "5,423",
+     "5,616"
+    ],
+    [
+     "Postal system",
+     "96,850",
+     "95,396",
+     "17,260",
+     "16,169"
+    ],
+    [
+     "Postal savings",
+     "35,863",
+     "36,404",
+     "32,429",
+     "31,143"
+    ],
+    [
+     "Postal life insurance",
+     "39,590",
+     "40,145",
+     "16,038",
+     "17,254"
+    ],
+    [
+     "Telephone",
+     "51,472",
+     "49,506",
+     "55,064",
+     "56,099"
+    ],
+    [
+     "Telegraph",
+     "48,453",
+     "50,345",
+     "7,786",
+     "8,281"
+    ],
+    [
+     "Radio",
+     "7,213",
+     "7,152",
+     "682",
+     "675"
+    ],
+    [
+     "Total",
+     "298,597",
+     "299,279",
+     "134,682",
+     "135,237"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Men 30 April: sum 298,597, printed 298,597, agree. Men 31 May: sum 299,379, printed 299,279, DISAGREE by 100. Women 30 April: sum 134,682, agree. Women 31 May: sum 135,237, agree.",
+   "warnings": [
+    "Men 31 May column: printed total 299,279 but the seven rows sum to 299,379 (difference 100); source not corrected."
+   ],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 113,
+   "pages": [
+    113,
+    114
+   ],
+   "title": "Labor unions and membership a/",
+   "units": "unions; persons",
+   "period": "31 May 1948",
+   "source_note": "Ministry of Labor.",
+   "header": [
+    [
+     "",
+     "Unions",
+     "Membership",
+     "Membership",
+     "Membership"
+    ],
+    [
+     "",
+     "",
+     "Men",
+     "Women",
+     "Total b/"
+    ]
+   ],
+   "rows": [
+    [
+     "Agriculture",
+     "140",
+     "6,644",
+     "1,487",
+     "8,131"
+    ],
+    [
+     "Forestry",
+     "483",
+     "53,769",
+     "5,800",
+     "59,569"
+    ],
+    [
+     "Fishing",
+     "158",
+     "24,927",
+     "2,020",
+     "26,947"
+    ],
+    [
+     "Mining",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Coal",
+     "959",
+     "414,032",
+     "64,687",
+     "478,719"
+    ],
+    [
+     "  Other",
+     "313",
+     "60,346",
+     "11,195",
+     "71,541"
+    ],
+    [
+     "  Total",
+     "1,272",
+     "474,378",
+     "75,882",
+     "550,260"
+    ],
+    [
+     "Construction",
+     "1,482",
+     "394,768",
+     "20,252",
+     "415,020"
+    ],
+    [
+     "Manufacturing",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Metal",
+     "1,333",
+     "237,488",
+     "39,242",
+     "276,730"
+    ],
+    [
+     "  Machinery",
+     "3,762",
+     "618,087",
+     "124,238",
+     "742,325"
+    ],
+    [
+     "  Chemicals",
+     "2,019",
+     "268,819",
+     "97,933",
+     "366,752"
+    ],
+    [
+     "  Ceramics",
+     "538",
+     "56,707",
+     "20,181",
+     "76,888"
+    ],
+    [
+     "  Textiles",
+     "1,284",
+     "100,879",
+     "266,710",
+     "367,589"
+    ],
+    [
+     "  Lumber and woodworking",
+     "1,859",
+     "101,623",
+     "25,504",
+     "127,127"
+    ],
+    [
+     "  Foodstuffs",
+     "942",
+     "64,623",
+     "29,967",
+     "94,590"
+    ],
+    [
+     "  Printing and bookbinding",
+     "349",
+     "27,435",
+     "12,338",
+     "39,773"
+    ],
+    [
+     "  Other",
+     "383",
+     "21,893",
+     "13,831",
+     "35,724"
+    ],
+    [
+     "  Repair services",
+     "285",
+     "44,447",
+     "3,482",
+     "47,929"
+    ],
+    [
+     "  Total",
+     "12,754",
+     "1,542,001",
+     "633,426",
+     "2,175,427"
+    ],
+    [
+     "Gas, electricity and water supply",
+     "648",
+     "120,729",
+     "13,141",
+     "134,309"
+    ],
+    [
+     "Commerce",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Wholesale trades",
+     "202",
+     "19,826",
+     "5,651",
+     "25,477"
+    ],
+    [
+     "  Retail trades",
+     "320",
+     "30,853",
+     "17,480",
+     "48,333"
+    ],
+    [
+     "  Other",
+     "388",
+     "74,878",
+     "15,359",
+     "90,237"
+    ],
+    [
+     "  Total",
+     "910",
+     "125,557",
+     "38,490",
+     "164,047"
+    ],
+    [
+     "Finance",
+     "664",
+     "105,435",
+     "77,725",
+     "183,160"
+    ],
+    [
+     "Transportation and communications",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Land transportation",
+     "2,723",
+     "789,837",
+     "73,926",
+     "959,694"
+    ],
+    [
+     "  Seamen",
+     "40",
+     "102,756",
+     "-",
+     "102,756"
+    ],
+    [
+     "  Longshoremen",
+     "260",
+     "40,047",
+     "5,039",
+     "45,086"
+    ],
+    [
+     "  Communications",
+     "1,511",
+     "239,820",
+     "117,122",
+     "376,407"
+    ],
+    [
+     "  Total",
+     "4,534",
+     "1,172,460",
+     "196,087",
+     "1,483,943"
+    ],
+    [
+     "Service professions",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Amusement and recreation",
+     "165",
+     "9,206",
+     "7,010",
+     "16,216"
+    ],
+    [
+     "  Advertising and publicity",
+     "9",
+     "3,505",
+     "939",
+     "4,444"
+    ],
+    [
+     "  Other",
+     "154",
+     "13,116",
+     "7,173",
+     "20,289"
+    ],
+    [
+     "  Total",
+     "328",
+     "25,837",
+     "15,122",
+     "40,949"
+    ],
+    [
+     "Liberal professions",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Education",
+     "1,508",
+     "296,367",
+     "180,968",
+     "479,882"
+    ],
+    [
+     "  Other",
+     "1,378",
+     "61,346",
+     "47,211",
+     "108,567"
+    ],
+    [
+     "  Total",
+     "2,886",
+     "357,713",
+     "228,179",
+     "588,449"
+    ],
+    [
+     "Government and public organizations",
+     "5,235",
+     "460,646",
+     "134,011",
+     "594,734"
+    ],
+    [
+     "Not elsewhere classified",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Occupation Force workers",
+     "291",
+     "98,336",
+     "18,457",
+     "116,793"
+    ],
+    [
+     "  Other",
+     "130",
+     "75,483",
+     "11,001",
+     "87,484"
+    ],
+    [
+     "  Total",
+     "421",
+     "174,819",
+     "29,458",
+     "204,277"
+    ],
+    [
+     "Grand total",
+     "31,915",
+     "5,039,673",
+     "1,471,080",
+     "6,629,222"
+    ]
+   ],
+   "footnotes": [
+    "a/ Unions reported registered exclusive of unions reported discontinued.",
+    "b/ Totals include following figures for which no sex breakdown was available; gas, electricity and water supply 439; transportation and communications 115,396 (land transportation 95,931, communications 19,465); liberal professions 2,557 (education 2,547, other 10); government and public organizations 77; total 118,469."
+   ],
+   "unreadable": [
+    "Several digits are small and low-contrast in the scan; values for mining Other (313, 11,195), Repair services (285; 3,482; 47,929), Commerce Other (388), Land transportation men (789,837) and Communications total (376,407) were read from the image and confirmed by row and column arithmetic."
+   ],
+   "totals_check": "Each subtotal agrees with its parts (Mining, Manufacturing, Commerce, Transportation and communications, Service professions, Liberal professions, Not elsewhere classified) in Unions, Men and Women columns; row totals (Men+Women+no-sex) agree for every row. Unions grand total: sum of group totals 31,915, printed 31,915, agree. Women grand total: sum 1,471,080, agree. Total column: sum 6,629,222, agree. Men grand total: sum of group Men figures = 5,039,683, printed 5,039,673, DISAGREE by 10. Men+Women+no-sex (5,039,673+1,471,080+118,469) = 6,629,222, printed total agrees.",
+   "warnings": [
+    "Men column grand total printed 5,039,673 but the group figures sum to 5,039,683 (difference 10); source not corrected."
+   ],
+   "ocr_check": "OCR misread several cells (Other mining 312 vs 313 and 11,192 vs 11,195; Repair services 265 vs 285 and 47,229 vs 47,929; Commerce Other 328 vs 388; Communications total 276,407 vs 376,407) and missed the page 114 continuation; image page 114 read for the rest."
+  }
+ ]
+}

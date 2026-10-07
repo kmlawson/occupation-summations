@@ -1,0 +1,817 @@
+{
+ "tables": [
+  {
+   "page": 55,
+   "pages": [
+    55
+   ],
+   "title": "Coal stockpiles",
+   "units": "metric tons (as printed, no unit line)",
+   "period": "31 May",
+   "source_note": "Ministry of Commerce and Industry, Coal Board.",
+   "header": [
+    [
+     "",
+     "Hokkaido",
+     "Eastern Honshu",
+     "Western Honshu",
+     "Kyushu",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Available for current shipment",
+     "45,000",
+     "50,000",
+     "14,000",
+     "50,000",
+     "159,000"
+    ],
+    [
+     "In transit",
+     "146,800",
+     "32,600",
+     "49,500",
+     "252,100",
+     "481,000"
+    ],
+    [
+     "Total",
+     "191,800",
+     "82,600",
+     "63,500",
+     "302,100",
+     "640,000"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Summed each column (available + in transit) and each row. Columns: 191,800; 82,600; 63,500; 302,100; 640,000 all agree with printed totals. Rows: 159,000 and 481,000 agree; 191,800+82,600+63,500+302,100 = 640,000 agrees.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 57,
+   "pages": [
+    57
+   ],
+   "title": "Drilling operations",
+   "units": "wells",
+   "period": "May",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "Exploitation",
+     "Exploration"
+    ]
+   ],
+   "rows": [
+    [
+     "Completed as oil producers",
+     "0",
+     "0"
+    ],
+    [
+     "Completed as gas producers",
+     "1",
+     "0"
+    ],
+    [
+     "Abandoned",
+     "1",
+     "2"
+    ],
+    [
+     "Standing suspended",
+     "0",
+     "2"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched.",
+   "notes": "Table continues on page 58 (three further rows, transcribed as a separate table)."
+  },
+  {
+   "page": 58,
+   "pages": [
+    58
+   ],
+   "title": "[Drilling operations, continued: wells commenced and strings active]",
+   "units": "wells",
+   "period": "end of May",
+   "source_note": "Imperial Oil Company.",
+   "header": [
+    [
+     "",
+     "Exploitation",
+     "Exploration"
+    ]
+   ],
+   "rows": [
+    [
+     "Commenced during month",
+     "1",
+     "2"
+    ],
+    [
+     "Other wells drilling",
+     "6",
+     "10"
+    ],
+    [
+     "Total strings active at end of month",
+     "7",
+     "12"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Exploitation 1+6 = 7 agrees; Exploration 2+10 = 12 agrees.",
+   "warnings": [],
+   "ocr_check": "OCR matched except it printed the second header as 'Exploitation' twice (image reads Exploration).",
+   "notes": "Continuation of the drilling operations table on page 57."
+  },
+  {
+   "page": 58,
+   "pages": [
+    58
+   ],
+   "title": "Mine production",
+   "units": "mostly metric tons (MT); crude oil in KL",
+   "period": "monthly averages 1930-34, peak year since 1930, 1947; monthly March 48 and April 48",
+   "source_note": "Prior to 1946, Ministry of Commerce and Industry, control associations, individual mine operators; 1946 and subsequently Ministry of Commerce and Industry, Limestone Mining Association.",
+   "header": [
+    [
+     "Commodity",
+     "Form",
+     "Unit",
+     "Monthly averages 1930-1934",
+     "Monthly averages peak year since 1930 (year)",
+     "Monthly averages peak year since 1930 (figure)",
+     "Monthly averages 1947",
+     "Monthly MAR 48",
+     "Monthly APR 48"
+    ]
+   ],
+   "rows": [
+    [
+     "ANTIMONY",
+     "METAL IN CONCENTRATE",
+     "MT",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ARSENIC",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ASBESTOS",
+     "FIBER",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "BARITE",
+     "CONCENTRATE ABT 90% BaSO4",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CHROMITE",
+     "CONCENTRATE ABT 50% Cr2O3",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CHROMITE",
+     "CONCENTRATE ABT 30% Cr2O3",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "COAL",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "COBALT",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "COPPER",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "FIRE CLAY",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "FLUORITE",
+     "CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "GOLD",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "GRAPHITE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "GYPSUM",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "IRON",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "LEAD",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "LIGNITE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "LIMESTONE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "MANGANESE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "MERCURY",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "MOLYBDENUM",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "CRUDE OIL",
+     "",
+     "KL",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "PYRITE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "PYROPHYLLITE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SILVER",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "SULFUR",
+     "REFINED",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "TIN",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "TUNGSTEN",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "ZINC",
+     "METAL IN CONCENTRATE",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [
+    "All numeric cells (6 columns x 29 rows): print is far too small and faint at this image resolution to read digits reliably; left blank rather than guessed. Form and unit labels for many commodities also left blank where illegible.",
+    "Sub-rows (graphite crystalline/amorphous, gypsum +40%/-40% SO3, iron ore/sand, manganese battery/metallurgical grade) are collapsed to one row each."
+   ],
+   "totals_check": "Not checkable; no figures transcribed.",
+   "warnings": [
+    "Table is essentially untranscribed: only commodity names recorded. Re-read from a higher-resolution scan."
+   ],
+   "ocr_check": "OCR of this table is garbled (invented years 1955-60, repeated 1,000s) and was not used.",
+   "notes": "Printed on page 103 of the report (right-hand half of pdf page 58). Printed footnote codes and NA/R markers not captured."
+  },
+  {
+   "page": 61,
+   "pages": [
+    61
+   ],
+   "title": "Iron and steel production",
+   "units": "metric tons",
+   "period": "April and May",
+   "source_note": "",
+   "header": [
+    [
+     "",
+     "April a/",
+     "May"
+    ]
+   ],
+   "rows": [
+    [
+     "Pig iron",
+     "",
+     ""
+    ],
+    [
+     "  For steel",
+     "35,297",
+     "36,336"
+    ],
+    [
+     "  For casting",
+     "21,287",
+     "18,184"
+    ],
+    [
+     "  Total",
+     "56,584",
+     "54,520"
+    ],
+    [
+     "Steel ingots and steel for castings",
+     "",
+     ""
+    ],
+    [
+     "  Open hearth",
+     "72,998",
+     "73,728"
+    ],
+    [
+     "  Electric furnace",
+     "48,840",
+     "42,652"
+    ],
+    [
+     "  Total",
+     "121,838",
+     "116,380"
+    ],
+    [
+     "Steel castings",
+     "8,515",
+     "7,907"
+    ],
+    [
+     "Steel forgings",
+     "3,880",
+     "3,138"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised (footnote text printed on the next page)."
+   ],
+   "unreadable": [],
+   "totals_check": "Pig iron: 35,297+21,287=56,584 agrees; 36,336+18,184=54,520 agrees. Steel ingots: 72,998+48,840=121,838 agrees; 73,728+42,652=116,380 agrees.",
+   "warnings": [],
+   "ocr_check": "OCR misread Electric furnace as 48,540 (image 48,840) and 42,552 (image 42,652); otherwise matched."
+  },
+  {
+   "page": 62,
+   "pages": [
+    62
+   ],
+   "title": "[Rolled steel products]",
+   "units": "metric tons (as in the preceding table)",
+   "period": "April and May",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "April a/",
+     "May"
+    ]
+   ],
+   "rows": [
+    [
+     "Rolled steel products",
+     "",
+     ""
+    ],
+    [
+     "  Rails",
+     "5,900",
+     "4,956"
+    ],
+    [
+     "  Sheets (below 3-mm)",
+     "10,891",
+     "14,255"
+    ],
+    [
+     "  Tin plate",
+     "424",
+     "936"
+    ],
+    [
+     "  Pipe",
+     "7,648",
+     "9,043"
+    ],
+    [
+     "  Other",
+     "49,015",
+     "51,082"
+    ],
+    [
+     "  Total",
+     "73,878",
+     "80,272"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised."
+   ],
+   "unreadable": [],
+   "totals_check": "April: 5,900+10,891+424+7,648+49,015 = 73,878 agrees. May: 4,956+14,255+936+9,043+51,082 = 80,272 agrees.",
+   "warnings": [
+    "May Sheets read as 14,255; the tens digit is slightly blurred, but the column sum supports it."
+   ],
+   "ocr_check": "OCR read 'Rolls' for Rails and 14,265 for Sheets May (image appears to read 14,255, which makes the total add up).",
+   "notes": "Continues the table on page 61 (no printed title)."
+  },
+  {
+   "page": 62,
+   "pages": [
+    62
+   ],
+   "title": "Production of iron and steel secondary products",
+   "units": "metric tons",
+   "period": "April and May",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "April",
+     "May"
+    ]
+   ],
+   "rows": [
+    [
+     "Bolts and nuts",
+     "6,418",
+     "5,645"
+    ],
+    [
+     "Wire nails",
+     "3,109",
+     "2,081"
+    ],
+    [
+     "Special nails",
+     "444",
+     "192"
+    ],
+    [
+     "Wire",
+     "1,500",
+     "1,055"
+    ],
+    [
+     "Hard steel wire",
+     "402",
+     "702"
+    ],
+    [
+     "Galvanized sheet",
+     "3,840",
+     "3,513"
+    ],
+    [
+     "Wire rope",
+     "1,271",
+     "1,287"
+    ],
+    [
+     "Screws and rivets",
+     "668",
+     "380"
+    ],
+    [
+     "Cast iron pipe",
+     "2,898",
+     "2,600"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR read Hard steel wire April as 403 (image reads 402); otherwise matched."
+  },
+  {
+   "page": 63,
+   "pages": [
+    63
+   ],
+   "title": "Rubber inventory",
+   "units": "metric tons",
+   "period": "1 April to 1 May",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "Crude Rubber",
+     "Latex",
+     "Scrap"
+    ]
+   ],
+   "rows": [
+    [
+     "Inventory, 1 April",
+     "3,784.00",
+     "220.00",
+     "4,448.3"
+    ],
+    [
+     "April consumption",
+     "1,930.30",
+     "17.07",
+     "1,158.3"
+    ],
+    [
+     "April receipts",
+     "1,758.68",
+     "0",
+     "465.2"
+    ],
+    [
+     "Inventory, 1 May",
+     "3,612.38",
+     "202.93",
+     "3,755.2"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Opening - consumption + receipts: crude 3,784.00-1,930.30+1,758.68 = 3,612.38 agrees; latex 220.00-17.07+0 = 202.93 agrees; scrap 4,448.3-1,158.3+465.2 = 3,755.2 agrees.",
+   "warnings": [],
+   "ocr_check": "OCR read scrap receipts as 465.8 (image 465.2); otherwise matched."
+  },
+  {
+   "page": 63,
+   "pages": [
+    63
+   ],
+   "title": "Refined petroleum production",
+   "units": "kiloliters",
+   "period": "April and May",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "April",
+     "May"
+    ]
+   ],
+   "rows": [
+    [
+     "Lubricating oil",
+     "3,252",
+     "3,320"
+    ],
+    [
+     "Fuel oil",
+     "2,449",
+     "2,811"
+    ],
+    [
+     "Diesel oil",
+     "1,990",
+     "2,263"
+    ],
+    [
+     "Gasoline",
+     "1,168",
+     "2,538"
+    ],
+    [
+     "Kerosene",
+     "2,228",
+     "3,156"
+    ],
+    [
+     "Gas oil",
+     "1,183",
+     "1,131"
+    ],
+    [
+     "Others",
+     "2,032",
+     "1,715"
+    ],
+    [
+     "Total",
+     "14,302",
+     "16,934"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "April: sum of 7 rows = 14,302 agrees. May: sum = 16,934 agrees.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  }
+ ]
+}

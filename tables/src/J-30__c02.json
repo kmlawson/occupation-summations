@@ -1,0 +1,964 @@
+{
+ "tables": [
+  {
+   "page": 53,
+   "pages": [
+    53
+   ],
+   "title": "Livestock slaughter",
+   "units": "head",
+   "period": "December",
+   "source_note": "",
+   "header": [
+    [
+     "Livestock",
+     "December"
+    ]
+   ],
+   "rows": [
+    [
+     "Cattle",
+     "36,633"
+    ],
+    [
+     "Calves",
+     "845"
+    ],
+    [
+     "Swine",
+     "17,899"
+    ],
+    [
+     "Horses",
+     "9,978"
+    ],
+    [
+     "Sheep and goats",
+     "627"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 53,
+   "pages": [
+    53
+   ],
+   "title": "Allocation of petroleum products",
+   "units": "kiloliters (grease in metric tons)",
+   "period": "February and March 1948",
+   "source_note": "Ministry of Agriculture and Forestry, Bureau of Fisheries.",
+   "header": [
+    [
+     "",
+     "February",
+     "March"
+    ]
+   ],
+   "rows": [
+    [
+     "Fuel oil",
+     "23,055",
+     "28,818"
+    ],
+    [
+     "Gas oil",
+     "3,458",
+     "4,332"
+    ],
+    [
+     "Lubricating oil",
+     "1,783",
+     "2,200"
+    ],
+    [
+     "Kerosene",
+     "575",
+     "715"
+    ],
+    [
+     "Gasoline",
+     "115",
+     "158"
+    ],
+    [
+     "Grease (metric tons)",
+     "15",
+     "16"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed. Text says fuel oil gained 25 percent; 23,055 to 28,818 is consistent.",
+   "warnings": [],
+   "ocr_check": "OCR misread fuel oil as 22,055 and 38,818, gas oil March as 4,292, lubricating oil February as 1,782."
+  },
+  {
+   "page": 54,
+   "pages": [
+    54
+   ],
+   "title": "Whaling production",
+   "units": "metric tons",
+   "period": "1-28 February",
+   "source_note": "Ministry of Agriculture and Forestry, Bureau of Fisheries.",
+   "header": [
+    [
+     "Product",
+     "1-28 February"
+    ]
+   ],
+   "rows": [
+    [
+     "Meat",
+     "104.11"
+    ],
+    [
+     "Blubber for food",
+     "86.82"
+    ],
+    [
+     "Sperm oil",
+     "22.04"
+    ],
+    [
+     "Bone meal",
+     "8.15"
+    ],
+    [
+     "Blubber for leather",
+     "1.92"
+    ],
+    [
+     "Other",
+     "46.75"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 59,
+   "pages": [
+    59
+   ],
+   "title": "Coal stockpiles on 29 February",
+   "units": "metric tons",
+   "period": "29 February 1948",
+   "source_note": "Ministry of Commerce and Industry, Coal Board.",
+   "header": [
+    [
+     "",
+     "Hokkaido",
+     "Eastern Honshu",
+     "Western Honshu",
+     "Kyushu",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Available for current shipment",
+     "38,000",
+     "47,900",
+     "12,400",
+     "46,700",
+     "145,000"
+    ],
+    [
+     "In transit",
+     "147,700",
+     "32,000",
+     "43,400",
+     "244,000",
+     "467,100"
+    ],
+    [
+     "Total",
+     "185,700",
+     "79,900",
+     "55,800",
+     "290,700",
+     "612,100"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Rows: 38,000+47,900+12,400+46,700=145,000 (agrees); 147,700+32,000+43,400+244,000=467,100 (agrees). Columns: 185,700, 79,900, 55,800, 290,700 all agree; grand total 612,100 agrees.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 59,
+   "pages": [
+    59
+   ],
+   "title": "Coal mine employees",
+   "units": "persons",
+   "period": "20 March 1948",
+   "source_note": "Ministry of Commerce and Industry, Coal Board.",
+   "header": [
+    [
+     "",
+     "Underground",
+     "Surface",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Employees paid daily wages",
+     "244,302",
+     "219,196",
+     "463,498"
+    ],
+    [
+     "Employees paid monthly wages",
+     "14,932",
+     "32,714",
+     "47,646"
+    ],
+    [
+     "Total",
+     "259,234",
+     "251,910",
+     "511,144"
+    ]
+   ],
+   "footnotes": [
+    "a/ Preliminary."
+   ],
+   "unreadable": [],
+   "totals_check": "All rows and columns sum to printed totals (259,234; 251,910; 463,498; 47,646; 511,144): agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 60,
+   "pages": [
+    60
+   ],
+   "title": "Drilling operations",
+   "units": "wells",
+   "period": "February 1948",
+   "source_note": "Imperial Oil Company.",
+   "header": [
+    [
+     "",
+     "Exploitation",
+     "Exploration",
+     "Total"
+    ]
+   ],
+   "rows": [
+    [
+     "Completed as oil producers",
+     "1",
+     "2",
+     "3"
+    ],
+    [
+     "Completed as gas producers",
+     "1",
+     "0",
+     "1"
+    ],
+    [
+     "Abandoned",
+     "2",
+     "1",
+     "3"
+    ],
+    [
+     "Standing suspended",
+     "0",
+     "1",
+     "1"
+    ],
+    [
+     "Commenced during month",
+     "4",
+     "3",
+     "7"
+    ],
+    [
+     "Other wells drilling",
+     "3",
+     "7",
+     "10"
+    ],
+    [
+     "Total strings active",
+     "7",
+     "10",
+     "17"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Each row Exploitation+Exploration equals printed Total: all agree.",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 60,
+   "pages": [
+    60
+   ],
+   "title": "Mine production",
+   "units": "",
+   "period": "Average monthly 1930-1934 and peak year; 1946; December 1947 and January 1948",
+   "source_note": "Prior to 1946: Ministry of Commerce and Industry, control associations, individual mine operators; 1946 and subsequently: Ministry of Commerce and Industry, Limestone Mining Association.",
+   "header": [
+    [
+     "Commodity",
+     "Form",
+     "Unit",
+     "Average monthly production",
+     "Average monthly production",
+     "Average monthly production",
+     "Monthly production",
+     "Monthly production"
+    ],
+    [
+     "Commodity",
+     "Form",
+     "Unit",
+     "1930-1934",
+     "Peak year since 1930",
+     "1946",
+     "Dec 47",
+     "Jan 48"
+    ]
+   ],
+   "rows": [
+    [
+     "Antimony",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Arsenic",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Asbestos",
+     "Fiber",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Barite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Chromite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Chromite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Coal",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Cobalt",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Copper",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fire clay",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Fluorite",
+     "Concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Gold",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Graphite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Graphite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Gypsum",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Gypsum",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Iron",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Iron",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Lead",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Lignite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Limestone",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Manganese",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Manganese",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Mercury",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Molybdenum",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Crude oil",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Pyrite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Pyrophyllite",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Silver",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Sulfur",
+     "Refined",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tin",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Tungsten",
+     "",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Zinc",
+     "Metal in concentrate",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ]
+   ],
+   "footnotes": [
+    "Printed note refers to numbered footnote marks (calendar year; fiscal year; etc.) that are too small to read."
+   ],
+   "unreadable": [
+    "All numeric cells (columns 1930-1934, Peak year since 1930, 1946, Dec 47, Jan 48) for all 33 rows: figures too small and blurred in the scan to read reliably, left blank (about 165 cells).",
+    "Unit column and many Form entries not read; left blank."
+   ],
+   "totals_check": "No totals printed.",
+   "warnings": [
+    "Table is a small-print panel under a chart; figures not transcribed."
+   ],
+   "ocr_check": "OCR text for this table is garbled and unusable."
+  },
+  {
+   "page": 62,
+   "pages": [
+    62
+   ],
+   "title": "February coke allocation and distribution",
+   "units": "metric tons",
+   "period": "February 1948",
+   "source_note": "Ministry of Commerce and Industry, Coal Board.",
+   "header": [
+    [
+     "",
+     "Allocation",
+     "Distribution"
+    ]
+   ],
+   "rows": [
+    [
+     "Consumed by producers",
+     "86,090",
+     "64,732"
+    ],
+    [
+     "Chemical industry (including fertilizer)",
+     "50,490",
+     "40,222"
+    ],
+    [
+     "Metal industry",
+     "27,760",
+     "22,667"
+    ],
+    [
+     "Industrial machinery",
+     "29,433",
+     "26,193"
+    ],
+    [
+     "Rolling-stock manufacturing",
+     "14,561",
+     "12,240"
+    ],
+    [
+     "Electrical machinery",
+     "6,620",
+     "5,770"
+    ],
+    [
+     "Subtotal",
+     "214,954",
+     "171,824"
+    ],
+    [
+     "Carried forward",
+     "214,954",
+     "171,824"
+    ],
+    [
+     "Ceramic industry",
+     "4,658",
+     "4,185"
+    ],
+    [
+     "Shipbuilding",
+     "2,119",
+     "1,959"
+    ],
+    [
+     "Repair of coal mine machinery",
+     "1,000",
+     "766"
+    ],
+    [
+     "Others",
+     "3,357",
+     "2,976"
+    ],
+    [
+     "Reserves",
+     "6,492",
+     "3,167"
+    ],
+    [
+     "Total",
+     "232,580",
+     "184,877"
+    ]
+   ],
+   "footnotes": [
+    "Table continues across the page break; 'Carried forward' repeats the subtotal."
+   ],
+   "unreadable": [],
+   "totals_check": "Subtotal allocation 86,090+50,490+27,760+29,433+14,561+6,620=214,954 (agrees); distribution 64,732+40,222+22,667+26,193+12,240+5,770=171,824 (agrees). Total allocation 214,954+4,658+2,119+1,000+3,357+6,492=232,580 (agrees); distribution 171,824+4,185+1,959+766+2,976+3,167=184,877 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR read metal industry distribution as 22,687 (printed 22,667, which makes the sum agree)."
+  },
+  {
+   "page": 64,
+   "pages": [
+    64
+   ],
+   "title": "Rubber inventory",
+   "units": "metric tons",
+   "period": "1 February to 1 March 1948",
+   "source_note": "Ministry of Commerce and Industry.",
+   "header": [
+    [
+     "",
+     "Crude Rubber",
+     "Latex",
+     "Scrap"
+    ]
+   ],
+   "rows": [
+    [
+     "Inventory, 1 February",
+     "3,646",
+     "248",
+     "4,140 a/"
+    ],
+    [
+     "Receipts during month",
+     "517 b/",
+     "0",
+     "1,111"
+    ],
+    [
+     "Consumption during month",
+     "1,804",
+     "17",
+     "555"
+    ],
+    [
+     "Inventory, 1 March",
+     "2,359",
+     "231",
+     "4,696"
+    ]
+   ],
+   "footnotes": [
+    "a/ Revised.",
+    "b/ Imported and recovered stocks."
+   ],
+   "unreadable": [],
+   "totals_check": "Crude 3,646+517-1,804=2,359 (agrees); latex 248+0-17=231 (agrees); scrap 4,140+1,111-555=4,696 (agrees).",
+   "warnings": [],
+   "ocr_check": "OCR matched."
+  },
+  {
+   "page": 65,
+   "pages": [
+    65
+   ],
+   "title": "New construction",
+   "units": "units; floor area in square meters",
+   "period": "February 1948",
+   "source_note": "Board of Reconstruction.",
+   "header": [
+    [
+     "",
+     "Urban",
+     "Urban",
+     "Rural",
+     "Rural",
+     "Total",
+     "Total"
+    ],
+    [
+     "",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/",
+     "Units",
+     "Floor Area a/"
+    ]
+   ],
+   "rows": [
+    [
+     "Started",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dwellings",
+     "9,456",
+     "327,135",
+     "18,354",
+     "731,978",
+     "27,810",
+     "1,059,113"
+    ],
+    [
+     "Combined dwellings and shops",
+     "5,415",
+     "215,668",
+     "1,988",
+     "100,076",
+     "7,403",
+     "315,744"
+    ],
+    [
+     "Nonresidential buildings",
+     "3,276",
+     "336,751",
+     "8,684",
+     "377,465",
+     "11,960",
+     "714,216"
+    ],
+    [
+     "Total",
+     "18,147",
+     "879,554",
+     "29,026",
+     "1,209,519",
+     "47,173",
+     "2,089,073"
+    ],
+    [
+     "Completed",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Dwellings",
+     "13,096",
+     "472,737",
+     "14,420",
+     "545,765",
+     "27,516",
+     "1,018,502"
+    ],
+    [
+     "Combined dwellings and shops",
+     "3,883",
+     "159,957",
+     "1,227",
+     "55,499",
+     "5,110",
+     "215,456"
+    ],
+    [
+     "Nonresidential buildings",
+     "2,837",
+     "233,303",
+     "5,530",
+     "373,908",
+     "8,367",
+     "607,211"
+    ],
+    [
+     "Total",
+     "19,816",
+     "865,997",
+     "21,177",
+     "975,172",
+     "40,993",
+     "1,841,169"
+    ]
+   ],
+   "footnotes": [
+    "a/ Square meters."
+   ],
+   "unreadable": [],
+   "totals_check": "All six columns in both Started and Completed sums agree with printed totals; urban+rural equals total column for each row checked (e.g. 9,456+18,354=27,810).",
+   "warnings": [],
+   "ocr_check": "OCR read completed nonresidential urban units as 2,537 (printed 2,837, which makes the sum agree)."
+  }
+ ]
+}
