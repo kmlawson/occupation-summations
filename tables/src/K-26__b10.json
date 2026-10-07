@@ -1,0 +1,1561 @@
+{
+ "tables": [
+  {
+   "page": 102,
+   "pages": [
+    102
+   ],
+   "title": "Average monthly wage paid laborers and clerks in 14 controlled plants in South Korea, September 1947",
+   "units": "won",
+   "period": "September 1947",
+   "source_note": "SOURCE: Department of Labor.",
+   "header": [
+    [
+     "Plant",
+     "Clerks",
+     "Clerks",
+     "Laborers",
+     "Laborers"
+    ],
+    [
+     "Plant",
+     "Base wage",
+     "Total wage a/",
+     "Base wage",
+     "Total wage a/"
+    ]
+   ],
+   "rows": [
+    [
+     "Textile",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Korea Spinning Co.",
+     "3,348",
+     "3,416",
+     "1,951",
+     "2,154"
+    ],
+    [
+     "  Dongyang Bang Jik Co.",
+     "3,431",
+     "5,262",
+     "2,530",
+     "3,105"
+    ],
+    [
+     "  Kyungsung Textile Co.",
+     "4,039",
+     "5,422",
+     "3,328",
+     "3,580"
+    ],
+    [
+     "Manufacturing",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Chosun Tire Co.",
+     "3,162",
+     "5,126",
+     "2,852",
+     "3,885"
+    ],
+    [
+     "  Kirin Beer Mfg. Co.",
+     "3,715",
+     "4,620",
+     "2,240",
+     "3,431"
+    ],
+    [
+     "  Samwang Paper Co.",
+     "2,543",
+     "5,459",
+     "1,601",
+     "3,801"
+    ],
+    [
+     "  Sorim Clothing Co.",
+     "360",
+     "2,523",
+     "b/",
+     "3,291"
+    ],
+    [
+     "Car and Locomotive",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Yongsan Kongzak Co.",
+     "130",
+     "4,046",
+     "115",
+     "5,590"
+    ],
+    [
+     "  Chosun Locomotive Co.",
+     "3,555",
+     "4,994",
+     "2,189",
+     "3,868"
+    ],
+    [
+     "Public Utility",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Seoul Electric Co.",
+     "2,211",
+     "3,881",
+     "2,184",
+     "3,959"
+    ],
+    [
+     "  Chosun Electric Power Co.",
+     "2,711",
+     "3,076",
+     "2,210",
+     "3,606"
+    ],
+    [
+     "  Chosun Dongzi Electric Co.",
+     "5,909",
+     "6,702",
+     "5,356",
+     "6,361"
+    ],
+    [
+     "Lining",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  Samchuk and Koebel Coal Mine",
+     "3,594",
+     "3,957",
+     "2,567",
+     "3,304"
+    ],
+    [
+     "  Kobayashi Tungsten Mining Co.",
+     "3,913",
+     "5,123",
+     "1,474",
+     "2,006"
+    ]
+   ],
+   "footnotes": [
+    "a/ Total wage includes basic wage, overtime, payment in kind and allowances.",
+    "b/ 3/10 of net profit."
+   ],
+   "unreadable": [],
+   "totals_check": "No total printed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image except it rendered 'Coal Mine' as 'Coal Line' and 'Mining' as 'Lining' in headings (the group heading is printed 'Lining')."
+  },
+  {
+   "page": 107,
+   "pages": [
+    107
+   ],
+   "title": "Income and expenditures of the Department of Transportation, South Korea, April 1946-October 1947",
+   "units": "thousands of won",
+   "period": "April 1946-October 1947",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Period",
+     "Government subsidy",
+     "Revenue",
+     "Expenditures"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Apr",
+     "97,696",
+     "31,855",
+     "35,946"
+    ],
+    [
+     "May",
+     "90,248",
+     "80,400",
+     "85,193"
+    ],
+    [
+     "Jun",
+     "0",
+     "70,599",
+     "108,824"
+    ],
+    [
+     "Jul",
+     "127,990",
+     "44,218",
+     "164,107"
+    ],
+    [
+     "Aug",
+     "161,211",
+     "57,668",
+     "128,173"
+    ],
+    [
+     "Sep",
+     "0",
+     "48,049",
+     "87,733"
+    ],
+    [
+     "Oct",
+     "147,904",
+     "69,801",
+     "171,673"
+    ],
+    [
+     "Nov",
+     "0",
+     "107,960",
+     "177,181"
+    ],
+    [
+     "Dec",
+     "98,306",
+     "143,208",
+     "212,431"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "0",
+     "204,319",
+     "201,004"
+    ],
+    [
+     "Feb",
+     "0",
+     "181,982",
+     ""
+    ],
+    [
+     "Mar",
+     "12,500",
+     "345,502",
+     "277,718"
+    ],
+    [
+     "F/y total",
+     "735,855",
+     "1,385,561 (151,870) a/ 1,233,691 b/",
+     "1,797,312"
+    ],
+    [
+     "Apr",
+     "0",
+     "187,146",
+     "42,159 c/"
+    ],
+    [
+     "May",
+     "0",
+     "300,362 c/",
+     "144,222 c/"
+    ],
+    [
+     "Jun",
+     "0",
+     "272,221",
+     "223,473 c/"
+    ],
+    [
+     "Jul",
+     "0",
+     "290,016",
+     "255,434 c/"
+    ],
+    [
+     "Aug",
+     "0",
+     "307,738",
+     "347,947"
+    ],
+    [
+     "Sep",
+     "0",
+     "329,583",
+     "410,965"
+    ],
+    [
+     "Oct",
+     "0",
+     "391,984",
+     "365,766"
+    ]
+   ],
+   "footnotes": [
+    "a/ 151,870,000 won were deducted from the fiscal year total to correct the effects of duplicate accounting (normal accounts and inventory accounts). It is not possible to allocate this adjustment to the monthly data.",
+    "b/ Corrected fiscal year total.",
+    "c/ Adjusted for transactions applicable to previous fiscal year and for cash on hand."
+   ],
+   "unreadable": [
+    "row 'Feb' (1947), column 'Expenditures': middle digits damaged, printed as 147,?23 (OCR read 147,323)"
+   ],
+   "totals_check": "Subsidy Apr 1946-Mar 1947 sums to 735,855: agrees with printed F/y total. Revenue Apr 1946-Mar 1947 sums to 1,385,561: agrees; 1,385,561 - 151,870 = 1,233,691: agrees. Expenditures: the eleven legible months sum to 1,649,983; with the printed F/y total 1,797,312 the Feb figure would be 147,329, so the cell cannot be confirmed (OCR's 147,323 would give 1,797,306).",
+   "warnings": [
+    "Feb 1947 expenditure cell unreadable; total cannot be reconciled with OCR value."
+   ],
+   "ocr_check": "OCR matched except it supplied 147,323 for the damaged Feb 1947 expenditure cell."
+  },
+  {
+   "page": 108,
+   "pages": [
+    108
+   ],
+   "title": "Income and expenditures of railroads in South Korea, April 1946-October 1947",
+   "units": "thousands of won",
+   "period": "April 1946-October 1947",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Period",
+     "Receipts",
+     "Receipts",
+     "Receipts",
+     "Receipts",
+     "Expenditures"
+    ],
+    [
+     "Period",
+     "Total",
+     "Passenger",
+     "Freight",
+     "Other",
+     "Expenditures"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Apr",
+     "31,566",
+     "29,061",
+     "1,064",
+     "1,442",
+     "NA"
+    ],
+    [
+     "May",
+     "80,253",
+     "72,359",
+     "6,552",
+     "1,342",
+     "NA"
+    ],
+    [
+     "Jun",
+     "70,430",
+     "62,939",
+     "6,250",
+     "1,241",
+     "NA"
+    ],
+    [
+     "Jul",
+     "44,473",
+     "39,508",
+     "3,923",
+     "1,042",
+     "NA"
+    ],
+    [
+     "Aug",
+     "57,644",
+     "47,690",
+     "8,121",
+     "1,832",
+     "NA"
+    ],
+    [
+     "Sep",
+     "48,045",
+     "39,907",
+     "6,405",
+     "1,734",
+     "NA"
+    ],
+    [
+     "Oct",
+     "46,123",
+     "38,561",
+     "5,285",
+     "2,277",
+     "NA"
+    ],
+    [
+     "Nov",
+     "88,458",
+     "79,719",
+     "6,256",
+     "2,483",
+     "NA"
+    ],
+    [
+     "Dec",
+     "117,678",
+     "104,900",
+     "8,440",
+     "4,338",
+     "167,392"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "161,719",
+     "151,229",
+     "7,205",
+     "3,285",
+     "167,117"
+    ],
+    [
+     "Feb",
+     "174,441",
+     "161,794",
+     "8,458",
+     "4,189",
+     "119,634"
+    ],
+    [
+     "Mar",
+     "270,911",
+     "248,684",
+     "15,931",
+     "6,295",
+     "220,069"
+    ],
+    [
+     "F/y total",
+     "1,191,741",
+     "1,076,351",
+     "83,890",
+     "31,500",
+     "NA"
+    ],
+    [
+     "Mo. av.",
+     "99,312",
+     "89,696",
+     "6,991",
+     "2,625",
+     "NA"
+    ],
+    [
+     "Apr",
+     "219,448 b/",
+     "203,785 b/",
+     "9,163 b/",
+     "6,500 b/",
+     "278,165"
+    ],
+    [
+     "May",
+     "299,009",
+     "279,548",
+     "11,173",
+     "8,288",
+     "213,738"
+    ],
+    [
+     "Jun",
+     "270,579",
+     "257,329",
+     "8,315",
+     "4,935",
+     "211,734"
+    ],
+    [
+     "Jul",
+     "288,275",
+     "269,347",
+     "12,146",
+     "6,782",
+     "233,809"
+    ],
+    [
+     "Aug",
+     "305,625",
+     "277,042",
+     "22,580",
+     "6,003",
+     "321,197"
+    ],
+    [
+     "Sep",
+     "324,460",
+     "300,612",
+     "17,449",
+     "6,398",
+     "357,340"
+    ],
+    [
+     "Oct",
+     "385,173",
+     "356,644",
+     "21,406",
+     "",
+     "323,823"
+    ]
+   ],
+   "footnotes": [
+    "a/ Due to rounding totals do not represent exact sums of items shown.",
+    "b/ Includes revenue in thousands of won from previous fiscal year as follows: total, 34,620; passenger, 24,563; freight, 6,811; other, 3,246."
+   ],
+   "unreadable": [
+    "row 'Oct' (1947), column 'Other': last digits smudged (7,1?2); OCR read 7,122"
+   ],
+   "totals_check": "Spot checks of passenger+freight+other against total: Dec 1946 104,900+8,440+4,338=117,678 agrees; Jan 1947 agrees (161,719); Feb 1947 agrees (174,441); Mar 1947 sums to 270,910 vs 270,911 (rounding, per note a/); Apr 1947 203,785+9,163+6,500=219,448 agrees; Apr 1946 29,061+1,064+1,442=31,567 vs 31,566 printed (rounding); Oct 1947 total implies Other 7,123. Fiscal-year columns not otherwise re-added.",
+   "warnings": [],
+   "ocr_check": "OCR matched except Apr 1946 total (OCR 31,866; image reads 31,566) and it read Oct 1947 Other as 7,122 where the image is smudged."
+  },
+  {
+   "page": 109,
+   "pages": [
+    109
+   ],
+   "title": "Passenger traffic on railroads in South Korea, April 1946-October 1947",
+   "units": "thousands of persons",
+   "period": "April 1946-October 1947",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Period",
+     "Fiscal years a/",
+     "Fiscal years a/",
+     "Railroad employees"
+    ],
+    [
+     "Period",
+     "1946/47",
+     "1947/48",
+     "Railroad employees"
+    ]
+   ],
+   "rows": [
+    [
+     "Apr",
+     "3,477",
+     "5,144",
+     ""
+    ],
+    [
+     "May",
+     "5,222",
+     "6,453",
+     "1,075"
+    ],
+    [
+     "Jun",
+     "3,345",
+     "5,687",
+     "948"
+    ],
+    [
+     "Jul",
+     "2,789",
+     "5,556",
+     "926"
+    ],
+    [
+     "Aug",
+     "3,733",
+     "6,359",
+     "1,060"
+    ],
+    [
+     "Sep",
+     "3,687",
+     "7,106",
+     "1,008"
+    ],
+    [
+     "Oct",
+     "3,996",
+     "8,517",
+     "1,420"
+    ],
+    [
+     "Nov",
+     "5,590",
+     "",
+     ""
+    ],
+    [
+     "Dec",
+     "4,828",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "3,560",
+     "",
+     ""
+    ],
+    [
+     "Feb",
+     "3,735",
+     "",
+     ""
+    ],
+    [
+     "Mar",
+     "4,957",
+     "",
+     ""
+    ],
+    [
+     "F/y 1946/47",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Mo. average",
+     "4,076",
+     "",
+     ""
+    ]
+   ],
+   "footnotes": [
+    "a/ Figures include railroad employees, but previous to May 1947 no breakdown was available."
+   ],
+   "unreadable": [],
+   "totals_check": "1946/47 months Apr-Mar sum to 48,919; /12 = 4,076.6 vs printed monthly average 4,076 (agrees, truncated). Blank cells are blank in the original.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 110,
+   "pages": [
+    110
+   ],
+   "title": "Loaded freight cars and tonnage moved by railroads, South Korea, April 1946-October 1947",
+   "units": "tonnage in metric tons (m/t); freight cars in number of cars",
+   "period": "April 1946-October 1947",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Period",
+     "Total freight tonnage (m/t)",
+     "Freight cars moved a/",
+     "Freight cars moved a/",
+     "Freight cars moved a/",
+     "Freight cars moved a/",
+     "Freight cars moved a/"
+    ],
+    [
+     "Period",
+     "Total freight tonnage (m/t)",
+     "Total",
+     "U.S. military",
+     "Rail-roads",
+     "Civilian supply program b/",
+     "Korean freight"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Apr",
+     "NA",
+     "4,981",
+     "1,412",
+     "NA",
+     "65",
+     "3,504"
+    ],
+    [
+     "May",
+     "213,344",
+     "11,500",
+     "2,100",
+     "NA",
+     "150",
+     "9,230"
+    ],
+    [
+     "Jun",
+     "213,415",
+     "10,907",
+     "2,018",
+     "NA",
+     "87",
+     "8,802"
+    ],
+    [
+     "Jul",
+     "190,929",
+     "9,147",
+     "2,347",
+     "NA",
+     "106",
+     "6,694"
+    ],
+    [
+     "Aug",
+     "248,461",
+     "14,339",
+     "2,071",
+     "NA",
+     "263",
+     "11,405"
+    ],
+    [
+     "Sep",
+     "152,494",
+     "9,131",
+     "1,623",
+     "NA",
+     "152",
+     "7,366"
+    ],
+    [
+     "Oct",
+     "171,258",
+     "6,116",
+     "1,460",
+     "NA",
+     "211",
+     "4,445"
+    ],
+    [
+     "Nov",
+     "251,190",
+     "10,491",
+     "1,538",
+     "NA",
+     "937",
+     "7,956"
+    ],
+    [
+     "Dec",
+     "291,293",
+     "9,288",
+     "1,544",
+     "NA",
+     "",
+     "6,303"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "347,304",
+     "14,188",
+     "1,991",
+     "NA",
+     "2,710",
+     "9,557"
+    ],
+    [
+     "Feb",
+     "330,625",
+     "13,169",
+     "2,097",
+     "NA",
+     "",
+     "6,300"
+    ],
+    [
+     "Mar",
+     "408,830",
+     "15,706",
+     "",
+     "NA",
+     "",
+     ""
+    ],
+    [
+     "F/y total",
+     "2,819,143 c/",
+     "128,963",
+     "",
+     "NA",
+     "15,140",
+     "90,263"
+    ],
+    [
+     "Mo. av.",
+     "256,286 c/",
+     "10,747",
+     "1,894",
+     "NA",
+     "1,262",
+     ""
+    ],
+    [
+     "Apr",
+     "426,510",
+     "17,514",
+     "",
+     "3,078",
+     "",
+     ""
+    ],
+    [
+     "May",
+     "450,226",
+     "17,571",
+     "3,364",
+     "3,782",
+     "2,257",
+     ""
+    ],
+    [
+     "Jun",
+     "424,180",
+     "17,226",
+     "3,545",
+     "3,364",
+     "3,255",
+     "7,062"
+    ],
+    [
+     "Jul",
+     "378,700",
+     "15,675",
+     "3,155",
+     "2,537",
+     "2,611",
+     "7,372"
+    ],
+    [
+     "Aug",
+     "343,820",
+     "15,174",
+     "3,316",
+     "2,632",
+     "2,339",
+     "6,887"
+    ],
+    [
+     "Sep",
+     "391,151",
+     "15,659",
+     "3,258",
+     "2,822",
+     "2,966",
+     "6,613"
+    ],
+    [
+     "Oct",
+     "465,832",
+     "18,513",
+     "3,344",
+     "3,057",
+     "4,640",
+     "7,472"
+    ]
+   ],
+   "footnotes": [
+    "a/ The 1946 figures are being revised as they reflect fiscal reporting whereas the 1947 figures are on an operational basis.",
+    "b/ Represents movement of freight cars carrying goods for import or export under Civilian Supply Program.",
+    "c/ Total and average of available figures."
+   ],
+   "unreadable": [
+    "row 'Dec' 1946, column 'Civilian supply program': digits damaged (1,2?1; OCR 1,241)",
+    "row 'Feb' 1947, column 'Civilian supply program': digit damaged (4,6?2; OCR 4,692)",
+    "row 'Mar' 1947, columns 'U.S. military', 'Civilian supply', 'Korean freight': damaged digits (OCR 2,529 / 4,476 / 8,701)",
+    "row 'F/y total', column 'U.S. military': damaged digit (22,7?0; OCR 22,720)",
+    "row 'Mo. av.', column 'Korean freight': damaged digit (7,5?2; OCR 7,532)",
+    "row 'Apr' 1947, columns 'U.S. military', 'Civilian supply', 'Korean freight': damaged digits (OCR 3,234 / 3,953 / 7,209)",
+    "row 'May' 1947, column 'Korean freight': damaged digit (8,1?3; OCR 8,183)"
+   ],
+   "totals_check": "Jun-Oct 1947: US military+Railroads+Civilian+Korean agree with Total (e.g. Oct 3,344+3,057+4,640+7,472=18,513). Apr 1947 and May 1947 do not reconcile from legible cells (May 3,364+3,782+2,257 leaves 8,168 for Korean freight). 1946 months do not sum to Total (e.g. Nov 1,538+937+7,956=10,431 vs 10,491; Dec 1946 does not reconcile). Korean freight Apr 1946-Mar 1947 (with OCR's Mar 8,701) sums to 90,263, agreeing with F/y total. Civilian supply Apr 1946-Mar 1947 sums to 15,090 vs printed 15,140 (disagree by 50).",
+   "warnings": [
+    "Civilian supply program F/y total 15,140 differs from sum of months (15,090) by 50.",
+    "1946 monthly freight-car components do not sum to printed totals in several months (e.g. Nov, Dec)."
+   ],
+   "ocr_check": "OCR matched the legible cells; many cells are smudged in the scan and left blank here where the digit could not be read."
+  },
+  {
+   "page": 111,
+   "pages": [
+    111
+   ],
+   "title": "Loaded freight cars moving in and out of three leading terminals of South Korea, May-October 1947",
+   "units": "loaded freight cars",
+   "period": "May-October 1947 (monthly)",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Location of terminal",
+     "May",
+     "June",
+     "July",
+     "August",
+     "September",
+     "October"
+    ]
+   ],
+   "rows": [
+    [
+     "Seoul",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  In",
+     "3,377",
+     "3,705",
+     "3,539",
+     "3,158",
+     "3,735",
+     "4,208"
+    ],
+    [
+     "  Out",
+     "1,356",
+     "1,589",
+     "1,574",
+     "1,468",
+     "1,632",
+     "1,311"
+    ],
+    [
+     "Pusan",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  In",
+     "658",
+     "579",
+     "748",
+     "516",
+     "771",
+     "881"
+    ],
+    [
+     "  Out",
+     "4,697",
+     "4,628",
+     "4,000",
+     "3,585",
+     "4,293",
+     "5,426"
+    ],
+    [
+     "Inchon",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  In",
+     "509",
+     "583",
+     "546",
+     "623",
+     "546",
+     "558"
+    ],
+    [
+     "  Out",
+     "2,518",
+     "2,265",
+     "2,217",
+     "2,201",
+     "2,120",
+     "2,245"
+    ],
+    [
+     "Total",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "  In",
+     "4,544",
+     "4,867",
+     "4,833",
+     "4,297",
+     "5,052",
+     "5,647"
+    ],
+    [
+     "  Out",
+     "8,571",
+     "8,482",
+     "7,791",
+     "7,254",
+     "8,045",
+     "8,982"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Seoul+Pusan+Inchon summed for In and Out in each of the six months: all twelve sums agree with the printed Total rows.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 111,
+   "pages": [
+    111
+   ],
+   "title": "Number of locomotives in South Korea, 10 November 1946-1 November 1947",
+   "units": "locomotives; percent",
+   "period": "10 November 1946-1 November 1947",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Date of census",
+     "Total number",
+     "Operative",
+     "Non-operative",
+     "Non-operative"
+    ],
+    [
+     "Date of census",
+     "Total number",
+     "Operative",
+     "Number",
+     "Percent"
+    ]
+   ],
+   "rows": [
+    [
+     "10 November 1946",
+     "544",
+     "240",
+     "304",
+     "55.9"
+    ],
+    [
+     "10 December 1946",
+     "544",
+     "217",
+     "327",
+     "60.1"
+    ],
+    [
+     "15 March 1947",
+     "544",
+     "182",
+     "362",
+     "66.6"
+    ],
+    [
+     "1 April 1947",
+     "545",
+     "208",
+     "337",
+     "61.8"
+    ],
+    [
+     "15 April 1947",
+     "556",
+     "214",
+     "342",
+     "61.5"
+    ],
+    [
+     "1 May 1947",
+     "571",
+     "224",
+     "347",
+     "60.8"
+    ],
+    [
+     "15 May 1947",
+     "580",
+     "240",
+     "340",
+     "58.6"
+    ],
+    [
+     "18 June 1947",
+     "617",
+     "271",
+     "346",
+     "56.1"
+    ],
+    [
+     "4 July 1947",
+     "617",
+     "272",
+     "345",
+     "55.9"
+    ],
+    [
+     "15 July 1947",
+     "617",
+     "268",
+     "349",
+     "56.6"
+    ],
+    [
+     "1 August 1947",
+     "622",
+     "257",
+     "365",
+     "58.7"
+    ],
+    [
+     "15 August 1947",
+     "625",
+     "266",
+     "359",
+     "57.4"
+    ],
+    [
+     "1 September 1947",
+     "628",
+     "256",
+     "372",
+     "59.2"
+    ],
+    [
+     "15 September 1947",
+     "636",
+     "268",
+     "368",
+     "57.9"
+    ],
+    [
+     "1 October 1947",
+     "637",
+     "286",
+     "351",
+     "55.1"
+    ],
+    [
+     "15 October 1947",
+     "643",
+     "288",
+     "355",
+     "55.2"
+    ],
+    [
+     "1 November 1947",
+     "647",
+     "282",
+     "365",
+     "56.4"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Operative + non-operative number equals total number in all 17 rows. Percent column not recomputed.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 112,
+   "pages": [
+    112
+   ],
+   "title": "Railroad engine days and engine kilometers operatin in South Korea, April 1946-October 1947",
+   "units": "engine days; engine kilometers in thousands",
+   "period": "April 1946-October 1947",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Period",
+     "Engine days",
+     "Engine Kilometers (thousands)",
+     "Engine Kilometers (thousands)",
+     "Engine Kilometers (thousands)",
+     "Engine Kilometers (thousands)",
+     "Engine Kilometers (thousands)"
+    ],
+    [
+     "Period",
+     "Engine days",
+     "Total",
+     "Passenger",
+     "Mixed",
+     "Freight",
+     "Switching"
+    ]
+   ],
+   "rows": [
+    [
+     "1946",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Apr",
+     "4,754",
+     "841",
+     "204",
+     "39",
+     "402",
+     "196"
+    ],
+    [
+     "May",
+     "5,846",
+     "1,067",
+     "257",
+     "110",
+     "463",
+     "237"
+    ],
+    [
+     "Jun",
+     "5,308",
+     "958",
+     "268",
+     "96",
+     "350",
+     "244"
+    ],
+    [
+     "Jul",
+     "4,374",
+     "768",
+     "215",
+     "77",
+     "280",
+     "196"
+    ],
+    [
+     "Aug",
+     "5,767",
+     "1,088",
+     "361",
+     "115",
+     "369",
+     "243"
+    ],
+    [
+     "Sep",
+     "4,444",
+     "816",
+     "278",
+     "78",
+     "280",
+     "180"
+    ],
+    [
+     "Oct",
+     "5,936",
+     "666",
+     "204",
+     "83",
+     "234",
+     "145"
+    ],
+    [
+     "Nov",
+     "5,005",
+     "929",
+     "269",
+     "109",
+     "369",
+     "182"
+    ],
+    [
+     "Dec",
+     "5,302",
+     "1,019",
+     "287",
+     "103",
+     "420",
+     "209"
+    ],
+    [
+     "1947",
+     "",
+     "",
+     "",
+     "",
+     "",
+     ""
+    ],
+    [
+     "Jan",
+     "5,328",
+     "1,027",
+     "250",
+     "96",
+     "479",
+     "202"
+    ],
+    [
+     "Feb",
+     "5,363",
+     "991",
+     "239",
+     "58",
+     "499",
+     "195"
+    ],
+    [
+     "Mar",
+     "6,171",
+     "1,126",
+     "239",
+     "67",
+     "598",
+     "222"
+    ],
+    [
+     "F/y total",
+     "63,598",
+     "11,296",
+     "3,071",
+     "1,031",
+     "4,743",
+     "2,451"
+    ],
+    [
+     "Mo. av.",
+     "5,300",
+     "941",
+     "256",
+     "86",
+     "395",
+     "204"
+    ],
+    [
+     "Apr",
+     "6,224",
+     "1,143",
+     "237",
+     "96",
+     "583",
+     "227"
+    ],
+    [
+     "May",
+     "7,117",
+     "1,275",
+     "307",
+     "109",
+     "626",
+     "233"
+    ],
+    [
+     "Jun",
+     "7,335",
+     "1,286",
+     "309",
+     "100",
+     "649",
+     "228"
+    ],
+    [
+     "Jul",
+     "7,208",
+     "1,283",
+     "314",
+     "106",
+     "627",
+     "236"
+    ],
+    [
+     "Aug",
+     "7,234",
+     "1,284",
+     "320",
+     "105",
+     "614",
+     "245"
+    ],
+    [
+     "Sep",
+     "7,139",
+     "1,290",
+     "309",
+     "98",
+     "648",
+     "235"
+    ],
+    [
+     "Oct",
+     "7,719",
+     "1,430",
+     "328",
+     "104",
+     "752",
+     "246"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Spot checks passenger+mixed+freight+switching vs Total: Apr 1946 841 agrees; Oct 1946 666 agrees; Oct 1947 1,430 agrees. Other rows not re-added. 'operatin' is as printed in the title.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  },
+  {
+   "page": 112,
+   "pages": [
+    112
+   ],
+   "title": "Rolling stock repaired in Seoul and Pusan back shops, September-October 1947 and October 1946",
+   "units": "units repaired",
+   "period": "September-October 1947 and October 1946",
+   "source_note": "SOURCE: Department of Transportation.",
+   "header": [
+    [
+     "Back shop",
+     "Locomotives",
+     "Locomotives",
+     "Locomotives",
+     "Passenger cars",
+     "Passenger cars",
+     "Passenger cars",
+     "Freight cars",
+     "Freight cars",
+     "Freight cars"
+    ],
+    [
+     "Back shop",
+     "1947",
+     "1947",
+     "1946",
+     "1947",
+     "1947",
+     "1946",
+     "1947",
+     "1947",
+     "1946"
+    ],
+    [
+     "Back shop",
+     "Sep",
+     "Oct",
+     "Oct",
+     "Sep",
+     "Oct",
+     "Oct",
+     "Sep",
+     "Oct",
+     "Oct"
+    ]
+   ],
+   "rows": [
+    [
+     "Seoul",
+     "19",
+     "22",
+     "9",
+     "16",
+     "20",
+     "10",
+     "125",
+     "202",
+     "77"
+    ],
+    [
+     "Pusan",
+     "19",
+     "5",
+     "4",
+     "7",
+     "4",
+     "8",
+     "36",
+     "34",
+     "13"
+    ],
+    [
+     "Total",
+     "38",
+     "27",
+     "13",
+     "23",
+     "24",
+     "18",
+     "161",
+     "236",
+     "90"
+    ]
+   ],
+   "footnotes": [],
+   "unreadable": [],
+   "totals_check": "Seoul + Pusan equals Total in all nine columns.",
+   "warnings": [],
+   "ocr_check": "OCR matched the image."
+  }
+ ]
+}
